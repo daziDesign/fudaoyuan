@@ -44,7 +44,7 @@ const els = {
   analysisPanel: document.querySelector("#analysisPanel"),
   matchScore: document.querySelector("#matchScore"),
   userAnswerDiff: document.querySelector("#userAnswerDiff"),
-  missingAnswerDiff: document.querySelector("#missingAnswerDiff"),
+  analysisReferenceAnswer: document.querySelector("#analysisReferenceAnswer"),
   referenceAnswer: document.querySelector("#referenceAnswer"),
   memoryOutline: document.querySelector("#memoryOutline"),
   policyBasis: document.querySelector("#policyBasis"),
@@ -274,7 +274,7 @@ function submitAnswer() {
   const result = compareAnswers(els.answerInput.value, question.reference_answer || "");
   els.matchScore.textContent = `匹配度 ${result.score}%`;
   els.userAnswerDiff.innerHTML = result.userHtml || "<span class=\"muted-text\">尚未输入答案</span>";
-  els.missingAnswerDiff.innerHTML = result.missingHtml || "<span class=\"muted-text\">未发现明显缺漏</span>";
+  els.analysisReferenceAnswer.textContent = question.reference_answer || "暂无参考答案";
   state.analysisVisible = true;
   els.analysisPanel.hidden = false;
 }
@@ -290,8 +290,8 @@ function clearAnalysis() {
   if (els.userAnswerDiff) {
     els.userAnswerDiff.innerHTML = "";
   }
-  if (els.missingAnswerDiff) {
-    els.missingAnswerDiff.innerHTML = "";
+  if (els.analysisReferenceAnswer) {
+    els.analysisReferenceAnswer.textContent = "";
   }
 }
 
@@ -387,7 +387,6 @@ function compareAnswers(userAnswer, referenceAnswer) {
   const userUnits = tokenizeForCompare(userAnswer);
   const referenceUnits = tokenizeForCompare(referenceAnswer);
   const pairs = lcsPairs(userUnits.map((unit) => unit.char), referenceUnits.map((unit) => unit.char));
-  const matchedUser = new Set(pairs.map((pair) => pair[0]));
   const matchedReference = new Set(pairs.map((pair) => pair[1]));
   const score = referenceUnits.length
     ? Math.round((pairs.length / referenceUnits.length) * 100)
@@ -395,8 +394,7 @@ function compareAnswers(userAnswer, referenceAnswer) {
 
   return {
     score,
-    userHtml: renderDiffHtml(userAnswer, userUnits, matchedUser, "extra"),
-    missingHtml: renderDiffHtml(referenceAnswer, referenceUnits, matchedReference, "missing", true),
+    userHtml: renderDiffHtml(referenceAnswer, referenceUnits, matchedReference, "extra"),
   };
 }
 
