@@ -511,8 +511,7 @@ textarea {
   background: var(--soft);
 }
 
-mark.extra,
-mark.missing {
+mark.extra {
   border-radius: 4px;
   padding: 0 2px;
   color: #b42318;
