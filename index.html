@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>辅导员简答题测试</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <noscript>
+      <div style="padding: 24px; font-family: Microsoft YaHei, sans-serif;">
+        当前浏览器没有执行脚本。请运行 start-site.bat 后，通过 http://127.0.0.1:8000/ 打开网站。
+      </div>
+    </noscript>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="左侧导航">
+        <div class="brand">
+          <div class="brand-mark">辅</div>
+          <div>
+            <strong>辅导员题库</strong>
+            <span>主观题训练</span>
+          </div>
+        </div>
+
+        <label class="search-box" for="searchInput">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="题目 / 答案关键词" autocomplete="off" />
+        </label>
+
+        <nav class="nav-block" aria-label="题型模块">
+          <div class="nav-title">模块</div>
+          <button class="module-item active" type="button" data-module="简答题">
+            <span class="module-icon">答</span>
+            <span>简答题</span>
+            <small id="moduleCount">0</small>
+            <span class="module-caret" aria-hidden="true">⌄</span>
+          </button>
+          <div id="questionTree" class="question-tree"></div>
+        </nav>
+
+        <section class="progress-card" aria-label="学习进度">
+          <div class="progress-card-head">
+            <span>当前进度</span>
+            <button id="resetProgressButton" type="button">重置</button>
+          </div>
+          <div class="progress-ring">
+            <strong id="progressPercent">0%</strong>
+            <span>已掌握</span>
+          </div>
+          <div class="progress-stats">
+            <div>
+              <strong id="totalCount">0</strong>
+              <span>总题数</span>
+            </div>
+            <div>
+              <strong id="masteredCount">0</strong>
+              <span>已掌握</span>
+            </div>
+          </div>
+        </section>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div>
+            <div class="breadcrumb">Overview / 简答题</div>
+            <h1>简答题训练</h1>
+          </div>
+          <div class="topbar-actions">
+            <button class="light-button" id="outlineButton" type="button">提纲</button>
+            <button class="light-button" id="randomButton" type="button">随机抽题</button>
+            <button class="dark-button" id="toggleAnswerButton" type="button">查看答案</button>
+          </div>
+        </header>
+
+        <section class="filter-strip" aria-label="标签筛选">
+          <span id="filteredCount">0 道题</span>
+          <div id="tagFilters" class="tag-filters"></div>
+        </section>
+
+        <section class="practice-card" aria-label="答题区">
+          <div class="question-kicker">
+            <span id="questionIndex">第 0 题</span>
+            <span id="questionStatus">未掌握</span>
+          </div>
+
+          <h2 id="questionTitle">正在加载题库...</h2>
+
+          <div id="activeTags" class="active-tags"></div>
+
+          <div class="answer-box">
+            <textarea id="answerInput" placeholder="在这里作答。可以键入答案，也可以点击右下角麦克风语音输入。" spellcheck="false"></textarea>
+            <div class="answer-toolbar">
+              <button id="voiceButton" class="icon-button" type="button" title="语音输入" aria-label="语音输入">
+                <span aria-hidden="true">🎙</span>
+              </button>
+              <button id="clearAnswerButton" class="text-button" type="button">清空</button>
+            </div>
+          </div>
+
+          <div class="practice-actions">
+            <button class="light-button" id="prevButton" type="button">上一题</button>
+            <button class="light-button" id="nextButton" type="button">下一题</button>
+            <button class="dark-button" id="submitAnswerButton" type="button">提交</button>
+            <button class="primary-button" id="masterButton" type="button">标记掌握</button>
+          </div>
+
+          <div id="analysisPanel" class="analysis-panel" hidden>
+            <div class="analysis-head">
+              <h3>答案分析</h3>
+              <span id="matchScore">匹配度 0%</span>
+            </div>
+            <section>
+              <h4>你的答案</h4>
+              <div id="userAnswerDiff" class="diff-text"></div>
+            </section>
+            <section>
+              <h4>缺漏内容</h4>
+              <div id="missingAnswerDiff" class="diff-text"></div>
+            </section>
+          </div>
+
+          <div id="answerPanel" class="answer-panel" hidden>
+            <section>
+              <h3>参考答案</h3>
+              <div id="referenceAnswer" class="rich-text"></div>
+            </section>
+            <section>
+              <h3>政策依据</h3>
+              <ul id="policyBasis"></ul>
+            </section>
+          </div>
+        </section>
+      </main>
+
+      <aside id="outlineDrawer" class="outline-drawer" aria-label="记忆提纲" aria-hidden="true">
+        <div class="drawer-head">
+          <div>
+            <span>Memory Outline</span>
+            <h2>记忆提纲</h2>
+          </div>
+          <button id="closeOutlineButton" type="button" aria-label="关闭提纲">×</button>
+        </div>
+        <ul id="memoryOutline"></ul>
+      </aside>
+    </div>
+
+    <script src="./question-data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
