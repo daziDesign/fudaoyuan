@@ -4,13 +4,14 @@ const state = {
   questions: [],
   modules: [],
   filtered: [],
+  activeModule: "简答题",
   activeIndex: 0,
   selectedTag: ALL,
   search: "",
   showAnswer: false,
   analysisVisible: false,
   outlineOpen: false,
-  questionTreeOpen: true,
+  openModules: new Set(["简答题"]),
   recognizing: false,
   recognition: null,
   speechFinalText: "",
@@ -19,15 +20,20 @@ const state = {
 
 const els = {
   searchInput: document.querySelector("#searchInput"),
-  questionTree: document.querySelector("#questionTree"),
-  moduleCount: document.querySelector("#moduleCount"),
+  moduleNav: document.querySelector("#moduleNav"),
+  breadcrumb: document.querySelector("#breadcrumb"),
+  practiceTitle: document.querySelector("#practiceTitle"),
   tagFilters: document.querySelector("#tagFilters"),
   filteredCount: document.querySelector("#filteredCount"),
   questionIndex: document.querySelector("#questionIndex"),
   questionStatus: document.querySelector("#questionStatus"),
   questionTitle: document.querySelector("#questionTitle"),
+  multiChoiceBadge: document.querySelector("#multiChoiceBadge"),
   activeTags: document.querySelector("#activeTags"),
   answerInput: document.querySelector("#answerInput"),
+  shortAnswerBox: document.querySelector("#shortAnswerBox"),
+  objectiveAnswerBox: document.querySelector("#objectiveAnswerBox"),
+  objectiveInputs: document.querySelector("#objectiveInputs"),
   prevButton: document.querySelector("#prevButton"),
   nextButton: document.querySelector("#nextButton"),
   randomButton: document.querySelector("#randomButton"),
@@ -71,7 +77,6 @@ async function init() {
     state.filtered = questions;
     setupSpeechRecognition();
     bindEvents();
-    renderTagFilters();
     applyFilters();
   } catch (error) {
     els.questionTitle.textContent = "题库加载失败";
@@ -107,14 +112,11 @@ function bindEvents() {
   els.closeOutlineButton.addEventListener("click", () => setOutlineOpen(false));
   els.voiceButton.addEventListener("click", toggleVoiceInput);
 
-  document.querySelector(".module-item")?.addEventListener("click", () => {
-    state.questionTreeOpen = !state.questionTreeOpen;
-    renderQuestionTree();
-  });
 }
 
 function renderTagFilters() {
-  const tags = [ALL, ...new Set(state.questions.flatMap((question) => question.tags || []))];
+  const moduleQuestions = questionsForActiveModule();
+  const tags = [ALL, ...new Set(moduleQuestions.flatMap((question) => question.tags || []))];
   els.tagFilters.innerHTML = tags
     .map((tag) => {
       const active = tag === state.selectedTag ? "active" : "";
@@ -134,13 +136,15 @@ function renderTagFilters() {
 
 function applyFilters() {
   const searchText = state.search.toLowerCase();
-  state.filtered = state.questions.filter((question) => {
+  state.filtered = questionsForActiveModule().filter((question) => {
     const tagMatch = state.selectedTag === ALL || (question.tags || []).includes(state.selectedTag);
     const haystack = [
       question.question,
       question.reference_answer,
       ...(question.memory_outline || []),
       ...(question.policy_basis || []),
+      ...Object.values(question.options || {}),
+      ...(question.blanks || []),
     ]
       .join(" ")
       .toLowerCase();
@@ -153,46 +157,79 @@ function applyFilters() {
 
   state.showAnswer = false;
   clearAnalysis();
-  renderQuestionTree();
+  renderTagFilters();
+  renderModuleNav();
   renderActiveQuestion();
   renderProgress();
 }
 
-function renderQuestionTree() {
-  els.moduleCount.textContent = state.questions.length;
+function renderModuleNav() {
   els.filteredCount.textContent = `${state.filtered.length} 道题`;
-  document.querySelector(".module-item")?.classList.toggle("collapsed", !state.questionTreeOpen);
-
-  if (!state.questionTreeOpen) {
-    els.questionTree.innerHTML = "";
-    els.questionTree.hidden = true;
-    return;
-  }
-
-  els.questionTree.hidden = false;
-
-  if (!state.filtered.length) {
-    els.questionTree.innerHTML = `<div class="empty-state">没有匹配题目</div>`;
-    return;
-  }
-
-  els.questionTree.innerHTML = state.filtered
-    .map((question, index) => {
-      const active = index === state.activeIndex ? "active" : "";
-      const mark = state.mastered.has(question.id) ? " · 已掌握" : "";
-      return `<button class="${active}" type="button" data-index="${index}">${question.id}${mark}<br>${escapeHtml(question.question)}</button>`;
+  const icon = { 简答题: "答", 选择题: "选", 填空题: "填" };
+  els.moduleNav.innerHTML = state.modules
+    .map((module) => {
+      const questions = module.name === state.activeModule ? state.filtered : questionsForModule(module.name);
+      const open = state.openModules.has(module.name);
+      const active = module.name === state.activeModule ? "active" : "";
+      const tree = !open
+        ? ""
+        : `<div class="question-tree" data-tree="${escapeHtml(module.name)}">${
+            questions.length
+              ? questions.map((question, index) => {
+                  const selected = module.name === state.activeModule && index === state.activeIndex ? "active" : "";
+                  const mark = state.mastered.has(question.id) ? " · 已掌握" : "";
+                  return `<button class="${selected}" type="button" data-module="${escapeHtml(module.name)}" data-index="${index}">${question.id}${mark}<br>${escapeHtml(question.question)}</button>`;
+                }).join("")
+              : `<div class="empty-state">没有匹配题目</div>`
+          }</div>`;
+      return `<section class="module-section">
+        <button class="module-item ${active} ${open ? "" : "collapsed"}" type="button" data-module-toggle="${escapeHtml(module.name)}">
+          <span class="module-icon">${icon[module.name] || "题"}</span>
+          <span>${escapeHtml(module.name)}</span>
+          <small>${questionsForModule(module.name).length}</small>
+          <span class="module-caret" aria-hidden="true">⌄</span>
+        </button>
+        ${tree}
+      </section>`;
     })
     .join("");
 
-  els.questionTree.querySelectorAll("button[data-index]").forEach((button) => {
+  els.moduleNav.querySelectorAll("button[data-module-toggle]").forEach((button) => {
     button.addEventListener("click", () => {
+      const module = button.dataset.moduleToggle;
+      if (state.activeModule !== module) {
+        state.activeModule = module;
+        state.activeIndex = 0;
+        state.selectedTag = ALL;
+        state.openModules.add(module);
+        resetQuestionInput();
+        applyFilters();
+        return;
+      }
+      if (state.openModules.has(module)) state.openModules.delete(module);
+      else state.openModules.add(module);
+      renderModuleNav();
+    });
+  });
+
+  els.moduleNav.querySelectorAll("button[data-index]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.activeModule = button.dataset.module;
       state.activeIndex = Number(button.dataset.index);
       state.showAnswer = false;
-      els.answerInput.value = "";
-      renderQuestionTree();
+      resetQuestionInput();
+      renderModuleNav();
       renderActiveQuestion();
     });
   });
+}
+
+function questionsForModule(module) {
+  return state.questions.filter((question) => question.module === module);
+}
+
+function questionsForActiveModule() {
+  return questionsForModule(state.activeModule);
 }
 
 function renderActiveQuestion() {
@@ -201,9 +238,12 @@ function renderActiveQuestion() {
     els.questionIndex.textContent = "第 0 题";
     els.questionStatus.textContent = "无题目";
     els.questionTitle.textContent = "没有可显示的题目";
+    els.multiChoiceBadge.hidden = true;
     els.activeTags.innerHTML = "";
     els.answerPanel.hidden = true;
     els.analysisPanel.hidden = true;
+    els.shortAnswerBox.hidden = true;
+    els.objectiveAnswerBox.hidden = true;
     renderList(els.memoryOutline, []);
     return;
   }
@@ -211,21 +251,33 @@ function renderActiveQuestion() {
   els.questionIndex.textContent = `第 ${state.activeIndex + 1} / ${state.filtered.length} 题`;
   els.questionStatus.textContent = state.mastered.has(question.id) ? "已掌握" : "未掌握";
   els.questionTitle.textContent = question.question;
+  els.multiChoiceBadge.hidden = question.type !== "多选题";
   els.activeTags.innerHTML = (question.tags || [])
     .map((tag) => `<span class="active-tag">${escapeHtml(tag)}</span>`)
     .join("");
 
   els.answerPanel.hidden = !state.showAnswer;
+  const shortAnswer = question.type === "简答题";
+  els.shortAnswerBox.hidden = !shortAnswer;
+  els.objectiveAnswerBox.hidden = shortAnswer;
+  els.outlineButton.hidden = !shortAnswer;
   els.toggleAnswerButton.textContent = state.showAnswer ? "隐藏答案" : "查看答案";
   els.masterButton.textContent = state.mastered.has(question.id) ? "取消掌握" : "标记掌握";
+  els.submitAnswerButton.hidden = question.type === "单选题";
   els.referenceAnswer.textContent = question.reference_answer || "暂无参考答案";
   renderList(els.memoryOutline, question.memory_outline || []);
   renderList(els.policyBasis, question.policy_basis || []);
+  els.breadcrumb.textContent = `Overview / ${state.activeModule}`;
+  els.practiceTitle.textContent = `${state.activeModule}训练`;
+  if (!shortAnswer && els.objectiveInputs.dataset.questionId !== question.id) {
+    renderObjectiveInputs(question);
+  }
 }
 
 function renderProgress() {
-  const total = state.questions.length;
-  const mastered = state.mastered.size;
+  const questions = questionsForActiveModule();
+  const total = questions.length;
+  const mastered = questions.filter((question) => state.mastered.has(question.id)).length;
   const percent = total ? Math.round((mastered / total) * 100) : 0;
   els.totalCount.textContent = total;
   els.masteredCount.textContent = mastered;
@@ -247,8 +299,8 @@ function moveQuestion(step) {
   state.activeIndex = (state.activeIndex + step + state.filtered.length) % state.filtered.length;
   state.showAnswer = false;
   clearAnalysis();
-  els.answerInput.value = "";
-  renderQuestionTree();
+  resetQuestionInput();
+  renderModuleNav();
   renderActiveQuestion();
 }
 
@@ -257,8 +309,8 @@ function pickRandomQuestion() {
   state.activeIndex = Math.floor(Math.random() * state.filtered.length);
   state.showAnswer = false;
   clearAnalysis();
-  els.answerInput.value = "";
-  renderQuestionTree();
+  resetQuestionInput();
+  renderModuleNav();
   renderActiveQuestion();
 }
 
@@ -271,12 +323,112 @@ function submitAnswer() {
   const question = activeQuestion();
   if (!question) return;
 
+  if (question.type !== "简答题") {
+    submitObjectiveAnswer(question);
+    return;
+  }
   const result = compareAnswers(els.answerInput.value, question.reference_answer || "");
   els.matchScore.textContent = `匹配度 ${result.score}%`;
   els.userAnswerDiff.innerHTML = result.userHtml || "<span class=\"muted-text\">尚未输入答案</span>";
   els.analysisReferenceAnswer.textContent = question.reference_answer || "暂无参考答案";
   state.analysisVisible = true;
   els.analysisPanel.hidden = false;
+}
+
+function renderObjectiveInputs(question) {
+  els.objectiveInputs.dataset.questionId = question.id;
+  if (question.module === "选择题") {
+    const inputType = question.type === "多选题" ? "checkbox" : "radio";
+    els.objectiveInputs.innerHTML = `<div class="choice-list">
+      ${Object.entries(question.options || {}).map(([key, value]) => `
+        <label class="choice-option" data-option="${escapeHtml(key)}">
+          <input type="${inputType}" name="choiceAnswer" value="${escapeHtml(key)}" />
+          <strong>${escapeHtml(key)}</strong>
+          <span>${escapeHtml(value)}</span>
+        </label>
+      `).join("")}
+    </div>`;
+    if (question.type === "单选题") {
+      els.objectiveInputs.querySelectorAll("input[type=\"radio\"]").forEach((input) => {
+        input.addEventListener("change", () => submitObjectiveAnswer(question));
+      });
+    }
+    return;
+  }
+
+  const blankCount = (question.blanks || []).length;
+  els.objectiveInputs.innerHTML = `<div class="fill-list">
+    <label class="fill-item">
+      <span>填写答案</span>
+      <input type="text" data-fill-answer autocomplete="off" placeholder="${blankCount > 1 ? "多个答案请按顺序用、或，隔开" : "请输入答案"}" />
+    </label>
+  </div>`;
+}
+
+function submitObjectiveAnswer(question) {
+  let score = 0;
+  let resultHtml = "";
+
+  if (question.module === "选择题") {
+    const selected = [...els.objectiveInputs.querySelectorAll("input:checked")].map((input) => input.value);
+    const correct = question.correct_answers || [];
+    const selectedSet = new Set(selected);
+    const correctSet = new Set(correct);
+    const exact = selected.length === correct.length && selected.every((answer) => correctSet.has(answer));
+    score = exact ? 100 : 0;
+
+    els.objectiveInputs.querySelectorAll(".choice-option").forEach((option) => {
+      const key = option.dataset.option;
+      option.classList.toggle("correct", correctSet.has(key));
+      option.classList.toggle("incorrect", selectedSet.has(key) && !correctSet.has(key));
+    });
+    resultHtml = selected.length
+      ? `你选择了：${selected.map(escapeHtml).join("、")}`
+      : `<span class="muted-text">尚未选择答案</span>`;
+  } else {
+    const answers = question.blanks || [];
+    const input = els.objectiveInputs.querySelector("input[data-fill-answer]");
+    const userAnswers = splitFillAnswer(input?.value || "");
+    let correctCount = 0;
+    const rows = answers.map((expected, index) => {
+      const actual = userAnswers[index] || "";
+      const correct = normalizeObjectiveAnswer(actual) === normalizeObjectiveAnswer(expected);
+      if (correct) correctCount += 1;
+      return `<div class="fill-result ${correct ? "correct-text" : "incorrect-text"}">第 ${index + 1} 空：${escapeHtml(actual || "未作答")}</div>`;
+    });
+    const exact = correctCount === answers.length && userAnswers.length === answers.length;
+    input?.classList.toggle("correct", exact);
+    input?.classList.toggle("incorrect", !exact);
+    score = answers.length ? Math.round((correctCount / answers.length) * 100) : 0;
+    resultHtml = rows.join("");
+  }
+
+  els.matchScore.textContent = `正确率 ${score}%`;
+  els.userAnswerDiff.innerHTML = resultHtml;
+  els.analysisReferenceAnswer.textContent = question.reference_answer || "暂无参考答案";
+  state.analysisVisible = true;
+  els.analysisPanel.hidden = false;
+}
+
+function normalizeObjectiveAnswer(value) {
+  return String(value || "").replace(/[\s，。；、,.;:：]/g, "").toLowerCase();
+}
+
+function splitFillAnswer(value) {
+  return String(value || "")
+    .split(/[、，,；;]/)
+    .map((item) => item.trim())
+    .filter(Boolean);
+}
+
+function resetQuestionInput() {
+  stopVoiceInput();
+  els.answerInput.value = "";
+  state.speechFinalText = "";
+  delete els.answerInput.dataset.base;
+  els.objectiveInputs.innerHTML = "";
+  delete els.objectiveInputs.dataset.questionId;
+  clearAnalysis();
 }
 
 function clearAnalysis() {
@@ -304,7 +456,7 @@ function toggleMastered() {
     state.mastered.add(question.id);
   }
   persistProgress();
-  renderQuestionTree();
+  renderModuleNav();
   renderActiveQuestion();
   renderProgress();
 }
@@ -312,7 +464,7 @@ function toggleMastered() {
 function resetProgress() {
   state.mastered.clear();
   persistProgress();
-  renderQuestionTree();
+  renderModuleNav();
   renderActiveQuestion();
   renderProgress();
 }
