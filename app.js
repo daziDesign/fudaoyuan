@@ -60,6 +60,8 @@ const els = {
   totalCount: document.querySelector("#totalCount"),
   masteredCount: document.querySelector("#masteredCount"),
   masteredFilterButton: document.querySelector("#masteredFilterButton"),
+  unmasteredCount: document.querySelector("#unmasteredCount"),
+  unmasteredFilterButton: document.querySelector("#unmasteredFilterButton"),
   wrongCount: document.querySelector("#wrongCount"),
   wrongFilterButton: document.querySelector("#wrongFilterButton"),
   progressPercent: document.querySelector("#progressPercent"),
@@ -108,6 +110,7 @@ function bindEvents() {
   els.wrongButton.addEventListener("click", toggleWrong);
   els.resetProgressButton.addEventListener("click", resetProgress);
   els.masteredFilterButton.addEventListener("click", toggleMasteredFilter);
+  els.unmasteredFilterButton.addEventListener("click", toggleUnmasteredFilter);
   els.wrongFilterButton.addEventListener("click", toggleWrongFilter);
   els.clearAnswerButton.addEventListener("click", () => {
     stopVoiceInput();
@@ -150,6 +153,7 @@ function applyFilters() {
     const progressMatch =
       state.progressFilter === "all" ||
       (state.progressFilter === "mastered" && state.mastered.has(question.id)) ||
+      (state.progressFilter === "unmastered" && !state.mastered.has(question.id)) ||
       (state.progressFilter === "wrong" && state.wrong.has(question.id));
     const haystack = [
       question.question,
@@ -292,17 +296,22 @@ function renderProgress() {
   const questions = questionsForActiveModule();
   const total = questions.length;
   const mastered = questions.filter((question) => state.mastered.has(question.id)).length;
+  const unmastered = total - mastered;
   const wrong = questions.filter((question) => state.wrong.has(question.id)).length;
   const percent = total ? Math.round((mastered / total) * 100) : 0;
   els.totalCount.textContent = total;
   els.masteredCount.textContent = mastered;
+  els.unmasteredCount.textContent = unmastered;
   els.wrongCount.textContent = wrong;
   els.progressPercent.textContent = `${percent}%`;
   els.masteredFilterButton.classList.toggle("active", state.progressFilter === "mastered");
+  els.unmasteredFilterButton.classList.toggle("active", state.progressFilter === "unmastered");
   els.wrongFilterButton.classList.toggle("active", state.progressFilter === "wrong");
   els.masteredFilterButton.setAttribute("aria-pressed", String(state.progressFilter === "mastered"));
+  els.unmasteredFilterButton.setAttribute("aria-pressed", String(state.progressFilter === "unmastered"));
   els.wrongFilterButton.setAttribute("aria-pressed", String(state.progressFilter === "wrong"));
   els.masteredFilterButton.title = state.progressFilter === "mastered" ? "显示全部题目" : "只显示已掌握题目";
+  els.unmasteredFilterButton.title = state.progressFilter === "unmastered" ? "显示全部题目" : "只显示未掌握题目";
   els.wrongFilterButton.title = state.progressFilter === "wrong" ? "显示全部题目" : "只显示错题本题目";
 }
 
@@ -489,6 +498,10 @@ function toggleMastered() {
     applyFilters();
     return;
   }
+  if (state.progressFilter === "unmastered") {
+    applyFilters();
+    return;
+  }
   renderModuleNav();
   renderActiveQuestion();
   renderProgress();
@@ -522,6 +535,12 @@ function resetProgress() {
 
 function toggleMasteredFilter() {
   state.progressFilter = state.progressFilter === "mastered" ? "all" : "mastered";
+  state.activeIndex = 0;
+  applyFilters();
+}
+
+function toggleUnmasteredFilter() {
+  state.progressFilter = state.progressFilter === "unmastered" ? "all" : "unmastered";
   state.activeIndex = 0;
   applyFilters();
 }
