@@ -1,4 +1,23 @@
 const ALL = "全部";
+const THEME_TAGS = [
+  "党建思政",
+  "教育政策",
+  "教育学原理",
+  "综合知识",
+  "心理健康",
+  "党史国情",
+  "时政热点",
+  "文化科技常识",
+  "法治法规",
+  "学生管理",
+  "马克思主义理论",
+  "团学工作",
+  "辅导员队伍",
+  "安全教育",
+  "就业创业",
+  "网络思政",
+  "资助育人",
+];
 
 const state = {
   questions: [],
@@ -13,6 +32,8 @@ const state = {
   analysisVisible: false,
   outlineOpen: false,
   openModules: new Set(["简答题"]),
+  openMockCategories: new Set(["选择题", "填空/判断题", "简答题", "分析论述题", "写作题"]),
+  openDailyCategories: new Set(["单选题", "多选题", "判断题", "填空题", "主观题"]),
   recognizing: false,
   recognition: null,
   speechFinalText: "",
@@ -56,6 +77,7 @@ const els = {
   analysisReferenceAnswer: document.querySelector("#analysisReferenceAnswer"),
   referenceAnswer: document.querySelector("#referenceAnswer"),
   memoryOutline: document.querySelector("#memoryOutline"),
+  policyBasisSection: document.querySelector("#policyBasisSection"),
   policyBasis: document.querySelector("#policyBasis"),
   totalCount: document.querySelector("#totalCount"),
   masteredCount: document.querySelector("#masteredCount"),
@@ -128,7 +150,14 @@ function bindEvents() {
 
 function renderTagFilters() {
   const moduleQuestions = questionsForActiveModule();
-  const tags = [ALL, ...new Set(moduleQuestions.flatMap((question) => question.tags || []))];
+  const rawTags = [...new Set(moduleQuestions.flatMap((question) => question.tags || []))];
+  const orderedTags = ["模拟题", "每日一练"].includes(state.activeModule)
+    ? [
+        ...THEME_TAGS.filter((tag) => rawTags.includes(tag)),
+        ...rawTags.filter((tag) => !THEME_TAGS.includes(tag)).sort((a, b) => a.localeCompare(b, "zh-CN")),
+      ]
+    : rawTags;
+  const tags = [ALL, ...orderedTags];
   els.tagFilters.innerHTML = tags
     .map((tag) => {
       const active = tag === state.selectedTag ? "active" : "";
@@ -182,7 +211,7 @@ function applyFilters() {
 
 function renderModuleNav() {
   els.filteredCount.textContent = `${state.filtered.length} 道题`;
-  const icon = { 简答题: "答", 选择题: "选", 填空题: "填" };
+  const icon = { 简答题: "答", 选择题: "选", 填空题: "填", 模拟题: "模", 每日一练: "练" };
   els.moduleNav.innerHTML = state.modules
     .map((module) => {
       const questions = module.name === state.activeModule ? state.filtered : questionsForModule(module.name);
@@ -190,15 +219,7 @@ function renderModuleNav() {
       const active = module.name === state.activeModule ? "active" : "";
       const tree = !open
         ? ""
-        : `<div class="question-tree" data-tree="${escapeHtml(module.name)}">${
-            questions.length
-              ? questions.map((question, index) => {
-                  const selected = module.name === state.activeModule && index === state.activeIndex ? "active" : "";
-                  const mark = state.mastered.has(question.id) ? " · 已掌握" : "";
-                  return `<button class="${selected}" type="button" data-module="${escapeHtml(module.name)}" data-index="${index}">${question.id}${mark}<br>${escapeHtml(question.question)}</button>`;
-                }).join("")
-              : `<div class="empty-state">没有匹配题目</div>`
-          }</div>`;
+        : renderQuestionTree(module.name, questions);
       return `<section class="module-section">
         <button class="module-item ${active} ${open ? "" : "collapsed"}" type="button" data-module-toggle="${escapeHtml(module.name)}">
           <span class="module-icon">${icon[module.name] || "题"}</span>
@@ -229,6 +250,26 @@ function renderModuleNav() {
     });
   });
 
+  els.moduleNav.querySelectorAll("button[data-mock-category-toggle]").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      const category = button.dataset.mockCategoryToggle;
+      if (state.openMockCategories.has(category)) state.openMockCategories.delete(category);
+      else state.openMockCategories.add(category);
+      renderModuleNav();
+    });
+  });
+
+  els.moduleNav.querySelectorAll("button[data-daily-category-toggle]").forEach((button) => {
+    button.addEventListener("click", (event) => {
+      event.stopPropagation();
+      const category = button.dataset.dailyCategoryToggle;
+      if (state.openDailyCategories.has(category)) state.openDailyCategories.delete(category);
+      else state.openDailyCategories.add(category);
+      renderModuleNav();
+    });
+  });
+
   els.moduleNav.querySelectorAll("button[data-index]").forEach((button) => {
     button.addEventListener("click", () => {
       state.activeModule = button.dataset.module;
@@ -239,6 +280,77 @@ function renderModuleNav() {
       renderActiveQuestion();
     });
   });
+}
+
+function renderQuestionTree(moduleName, questions) {
+  if (!questions.length) {
+    return `<div class="question-tree" data-tree="${escapeHtml(moduleName)}"><div class="empty-state">没有匹配题目</div></div>`;
+  }
+
+  if (moduleName === "每日一练") {
+    return renderDailyPracticeTree(moduleName, questions);
+  }
+
+  if (moduleName !== "模拟题") {
+    return `<div class="question-tree" data-tree="${escapeHtml(moduleName)}">${
+      questions.map((question, index) => renderQuestionTreeButton(moduleName, question, index)).join("")
+    }</div>`;
+  }
+
+  const categories = ["选择题", "填空/判断题", "简答题", "分析论述题", "写作题"];
+  const groups = categories
+    .map((category) => {
+      const items = questions
+        .map((question, index) => ({ question, index }))
+        .filter((item) => item.question.category === category);
+      if (!items.length) return "";
+      const open = state.openMockCategories.has(category);
+      return `<div class="mock-category">
+        <button class="mock-category-title ${open ? "" : "collapsed"}" type="button" data-mock-category-toggle="${escapeHtml(category)}">
+          <span>${escapeHtml(category)}</span>
+          <small>${items.length}</small>
+          <span class="mock-category-caret" aria-hidden="true">⌄</span>
+        </button>
+        <div class="mock-category-questions" ${open ? "" : "hidden"}>
+          ${items.map((item) => renderQuestionTreeButton(moduleName, item.question, item.index)).join("")}
+        </div>
+      </div>`;
+    })
+    .join("");
+
+  return `<div class="question-tree mock-tree" data-tree="${escapeHtml(moduleName)}">${groups}</div>`;
+}
+
+function renderDailyPracticeTree(moduleName, questions) {
+  const categories = ["单选题", "多选题", "判断题", "填空题", "主观题"];
+  const groups = categories
+    .map((category) => {
+      const items = questions
+        .map((question, index) => ({ question, index }))
+        .filter((item) => item.question.type === category);
+      if (!items.length) return "";
+      const open = state.openDailyCategories.has(category);
+      return `<div class="daily-category">
+        <button class="mock-category-title ${open ? "" : "collapsed"}" type="button" data-daily-category-toggle="${escapeHtml(category)}">
+          <span>${escapeHtml(category)}</span>
+          <small>${items.length}</small>
+          <span class="mock-category-caret" aria-hidden="true">⌄</span>
+        </button>
+        <div class="mock-category-questions" ${open ? "" : "hidden"}>
+          ${items.map((item) => renderQuestionTreeButton(moduleName, item.question, item.index)).join("")}
+        </div>
+      </div>`;
+    })
+    .join("");
+
+  return `<div class="question-tree daily-tree" data-tree="${escapeHtml(moduleName)}">${groups}</div>`;
+}
+
+function renderQuestionTreeButton(moduleName, question, index) {
+  const selected = moduleName === state.activeModule && index === state.activeIndex ? "active" : "";
+  const mark = state.mastered.has(question.id) ? " · 已掌握" : "";
+  const detailType = question.category === "分析论述题" ? `[${(question.tags || [])[1] || "分析论述"}] ` : question.daily_type ? `[${question.daily_type}] ` : "";
+  return `<button class="${selected}" type="button" data-module="${escapeHtml(moduleName)}" data-index="${index}">${question.id}${mark}<br>${escapeHtml(detailType + question.question)}</button>`;
 }
 
 function questionsForModule(module) {
@@ -261,6 +373,7 @@ function renderActiveQuestion() {
     els.analysisPanel.hidden = true;
     els.shortAnswerBox.hidden = true;
     els.objectiveAnswerBox.hidden = true;
+    els.policyBasisSection.hidden = true;
     renderList(els.memoryOutline, []);
     return;
   }
@@ -268,23 +381,27 @@ function renderActiveQuestion() {
   els.questionIndex.textContent = `第 ${state.activeIndex + 1} / ${state.filtered.length} 题`;
   els.questionStatus.textContent = statusText(question);
   els.questionTitle.textContent = question.question;
-  els.multiChoiceBadge.hidden = question.type !== "多选题";
+  const badgeText = question.type === "多选题" ? "多选" : question.type === "判断题" ? "判断" : question.type === "主观题" ? "主观" : "";
+  els.multiChoiceBadge.textContent = badgeText;
+  els.multiChoiceBadge.hidden = !badgeText;
   els.activeTags.innerHTML = (question.tags || [])
     .map((tag) => `<span class="active-tag">${escapeHtml(tag)}</span>`)
     .join("");
 
   els.answerPanel.hidden = !state.showAnswer;
-  const shortAnswer = question.type === "简答题";
+  const shortAnswer = isSubjectiveQuestion(question);
   els.shortAnswerBox.hidden = !shortAnswer;
   els.objectiveAnswerBox.hidden = shortAnswer;
   els.outlineButton.hidden = !shortAnswer;
   els.toggleAnswerButton.textContent = state.showAnswer ? "隐藏答案" : "查看答案";
   els.masterButton.textContent = state.mastered.has(question.id) ? "取消掌握" : "标记掌握";
   els.wrongButton.textContent = state.wrong.has(question.id) ? "移出错题" : "标记错题";
-  els.submitAnswerButton.hidden = question.type === "单选题";
+  els.submitAnswerButton.hidden = question.type === "单选题" || question.type === "判断题";
   els.referenceAnswer.textContent = question.reference_answer || "暂无参考答案";
   renderList(els.memoryOutline, question.memory_outline || []);
-  renderList(els.policyBasis, question.policy_basis || []);
+  const policies = question.policy_basis || [];
+  els.policyBasisSection.hidden = !policies.length;
+  renderList(els.policyBasis, policies);
   els.breadcrumb.textContent = `Overview / ${state.activeModule}`;
   els.practiceTitle.textContent = `${state.activeModule}训练`;
   if (!shortAnswer && els.objectiveInputs.dataset.questionId !== question.id) {
@@ -361,7 +478,7 @@ function submitAnswer() {
   const question = activeQuestion();
   if (!question) return;
 
-  if (question.type !== "简答题") {
+  if (!isSubjectiveQuestion(question)) {
     submitObjectiveAnswer(question);
     return;
   }
@@ -375,7 +492,7 @@ function submitAnswer() {
 
 function renderObjectiveInputs(question) {
   els.objectiveInputs.dataset.questionId = question.id;
-  if (question.module === "选择题") {
+  if (question.options) {
     const inputType = question.type === "多选题" ? "checkbox" : "radio";
     els.objectiveInputs.innerHTML = `<div class="choice-list">
       ${Object.entries(question.options || {}).map(([key, value]) => `
@@ -386,7 +503,7 @@ function renderObjectiveInputs(question) {
         </label>
       `).join("")}
     </div>`;
-    if (question.type === "单选题") {
+    if (question.type === "单选题" || question.type === "判断题") {
       els.objectiveInputs.querySelectorAll("input[type=\"radio\"]").forEach((input) => {
         input.addEventListener("change", () => submitObjectiveAnswer(question));
       });
@@ -403,11 +520,15 @@ function renderObjectiveInputs(question) {
   </div>`;
 }
 
+function isSubjectiveQuestion(question) {
+  return question.type === "简答题" || question.type === "主观题";
+}
+
 function submitObjectiveAnswer(question) {
   let score = 0;
   let resultHtml = "";
 
-  if (question.module === "选择题") {
+  if (question.options) {
     const selected = [...els.objectiveInputs.querySelectorAll("input:checked")].map((input) => input.value);
     const correct = question.correct_answers || [];
     const selectedSet = new Set(selected);

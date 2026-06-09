@@ -186,6 +186,47 @@ textarea:focus {
   line-height: 1.45;
 }
 
+.mock-category,
+.daily-category {
+  margin-bottom: 12px;
+}
+
+.mock-category-title {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  margin: 0 0 6px;
+  padding: 6px 8px;
+  border: 0;
+  border-radius: 8px;
+  background: #eef2ff;
+  color: var(--accent);
+  text-align: left;
+  font-size: 12px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.mock-category-title small {
+  margin-left: auto;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.mock-category-caret {
+  color: var(--muted);
+  transition: transform 160ms ease;
+}
+
+.mock-category-title.collapsed .mock-category-caret {
+  transform: rotate(-90deg);
+}
+
 .progress-card {
   margin-top: auto;
   padding: 14px;
