@@ -8,7 +8,7 @@ const state = {
   activeIndex: 0,
   selectedTag: ALL,
   search: "",
-  showMasteredOnly: false,
+  progressFilter: "all",
   showAnswer: false,
   analysisVisible: false,
   outlineOpen: false,
@@ -17,6 +17,7 @@ const state = {
   recognition: null,
   speechFinalText: "",
   mastered: new Set(JSON.parse(localStorage.getItem("counselor-mastered") || "[]")),
+  wrong: new Set(JSON.parse(localStorage.getItem("counselor-wrong") || "[]")),
 };
 
 const els = {
@@ -41,6 +42,7 @@ const els = {
   toggleAnswerButton: document.querySelector("#toggleAnswerButton"),
   submitAnswerButton: document.querySelector("#submitAnswerButton"),
   masterButton: document.querySelector("#masterButton"),
+  wrongButton: document.querySelector("#wrongButton"),
   resetProgressButton: document.querySelector("#resetProgressButton"),
   clearAnswerButton: document.querySelector("#clearAnswerButton"),
   voiceButton: document.querySelector("#voiceButton"),
@@ -58,6 +60,8 @@ const els = {
   totalCount: document.querySelector("#totalCount"),
   masteredCount: document.querySelector("#masteredCount"),
   masteredFilterButton: document.querySelector("#masteredFilterButton"),
+  wrongCount: document.querySelector("#wrongCount"),
+  wrongFilterButton: document.querySelector("#wrongFilterButton"),
   progressPercent: document.querySelector("#progressPercent"),
 };
 
@@ -101,8 +105,10 @@ function bindEvents() {
   els.toggleAnswerButton.addEventListener("click", toggleAnswer);
   els.submitAnswerButton.addEventListener("click", submitAnswer);
   els.masterButton.addEventListener("click", toggleMastered);
+  els.wrongButton.addEventListener("click", toggleWrong);
   els.resetProgressButton.addEventListener("click", resetProgress);
   els.masteredFilterButton.addEventListener("click", toggleMasteredFilter);
+  els.wrongFilterButton.addEventListener("click", toggleWrongFilter);
   els.clearAnswerButton.addEventListener("click", () => {
     stopVoiceInput();
     els.answerInput.value = "";
@@ -141,7 +147,10 @@ function applyFilters() {
   const searchText = state.search.toLowerCase();
   state.filtered = questionsForActiveModule().filter((question) => {
     const tagMatch = state.selectedTag === ALL || (question.tags || []).includes(state.selectedTag);
-    const masteredMatch = !state.showMasteredOnly || state.mastered.has(question.id);
+    const progressMatch =
+      state.progressFilter === "all" ||
+      (state.progressFilter === "mastered" && state.mastered.has(question.id)) ||
+      (state.progressFilter === "wrong" && state.wrong.has(question.id));
     const haystack = [
       question.question,
       question.reference_answer,
@@ -152,7 +161,7 @@ function applyFilters() {
     ]
       .join(" ")
       .toLowerCase();
-    return masteredMatch && tagMatch && (!searchText || haystack.includes(searchText));
+    return progressMatch && tagMatch && (!searchText || haystack.includes(searchText));
   });
 
   if (state.activeIndex >= state.filtered.length) {
@@ -253,7 +262,7 @@ function renderActiveQuestion() {
   }
 
   els.questionIndex.textContent = `第 ${state.activeIndex + 1} / ${state.filtered.length} 题`;
-  els.questionStatus.textContent = state.mastered.has(question.id) ? "已掌握" : "未掌握";
+  els.questionStatus.textContent = statusText(question);
   els.questionTitle.textContent = question.question;
   els.multiChoiceBadge.hidden = question.type !== "多选题";
   els.activeTags.innerHTML = (question.tags || [])
@@ -267,6 +276,7 @@ function renderActiveQuestion() {
   els.outlineButton.hidden = !shortAnswer;
   els.toggleAnswerButton.textContent = state.showAnswer ? "隐藏答案" : "查看答案";
   els.masterButton.textContent = state.mastered.has(question.id) ? "取消掌握" : "标记掌握";
+  els.wrongButton.textContent = state.wrong.has(question.id) ? "移出错题" : "标记错题";
   els.submitAnswerButton.hidden = question.type === "单选题";
   els.referenceAnswer.textContent = question.reference_answer || "暂无参考答案";
   renderList(els.memoryOutline, question.memory_outline || []);
@@ -282,13 +292,18 @@ function renderProgress() {
   const questions = questionsForActiveModule();
   const total = questions.length;
   const mastered = questions.filter((question) => state.mastered.has(question.id)).length;
+  const wrong = questions.filter((question) => state.wrong.has(question.id)).length;
   const percent = total ? Math.round((mastered / total) * 100) : 0;
   els.totalCount.textContent = total;
   els.masteredCount.textContent = mastered;
+  els.wrongCount.textContent = wrong;
   els.progressPercent.textContent = `${percent}%`;
-  els.masteredFilterButton.classList.toggle("active", state.showMasteredOnly);
-  els.masteredFilterButton.setAttribute("aria-pressed", String(state.showMasteredOnly));
-  els.masteredFilterButton.title = state.showMasteredOnly ? "显示全部题目" : "只显示已掌握题目";
+  els.masteredFilterButton.classList.toggle("active", state.progressFilter === "mastered");
+  els.wrongFilterButton.classList.toggle("active", state.progressFilter === "wrong");
+  els.masteredFilterButton.setAttribute("aria-pressed", String(state.progressFilter === "mastered"));
+  els.wrongFilterButton.setAttribute("aria-pressed", String(state.progressFilter === "wrong"));
+  els.masteredFilterButton.title = state.progressFilter === "mastered" ? "显示全部题目" : "只显示已掌握题目";
+  els.wrongFilterButton.title = state.progressFilter === "wrong" ? "显示全部题目" : "只显示错题本题目";
 }
 
 function renderList(container, items) {
@@ -299,6 +314,13 @@ function renderList(container, items) {
 
 function activeQuestion() {
   return state.filtered[state.activeIndex];
+}
+
+function statusText(question) {
+  const statuses = [];
+  if (state.mastered.has(question.id)) statuses.push("已掌握");
+  if (state.wrong.has(question.id)) statuses.push("错题");
+  return statuses.length ? statuses.join(" / ") : "未掌握";
 }
 
 function moveQuestion(step) {
@@ -463,7 +485,25 @@ function toggleMastered() {
     state.mastered.add(question.id);
   }
   persistProgress();
-  if (state.showMasteredOnly) {
+  if (state.progressFilter === "mastered") {
+    applyFilters();
+    return;
+  }
+  renderModuleNav();
+  renderActiveQuestion();
+  renderProgress();
+}
+
+function toggleWrong() {
+  const question = activeQuestion();
+  if (!question) return;
+  if (state.wrong.has(question.id)) {
+    state.wrong.delete(question.id);
+  } else {
+    state.wrong.add(question.id);
+  }
+  persistProgress();
+  if (state.progressFilter === "wrong") {
     applyFilters();
     return;
   }
@@ -474,13 +514,20 @@ function toggleMastered() {
 
 function resetProgress() {
   state.mastered.clear();
-  state.showMasteredOnly = false;
+  state.wrong.clear();
+  state.progressFilter = "all";
   persistProgress();
   applyFilters();
 }
 
 function toggleMasteredFilter() {
-  state.showMasteredOnly = !state.showMasteredOnly;
+  state.progressFilter = state.progressFilter === "mastered" ? "all" : "mastered";
+  state.activeIndex = 0;
+  applyFilters();
+}
+
+function toggleWrongFilter() {
+  state.progressFilter = state.progressFilter === "wrong" ? "all" : "wrong";
   state.activeIndex = 0;
   applyFilters();
 }
@@ -637,6 +684,7 @@ function renderDiffHtml(rawText, units, matchedSet, className, onlyUnmatched = f
 
 function persistProgress() {
   localStorage.setItem("counselor-mastered", JSON.stringify([...state.mastered]));
+  localStorage.setItem("counselor-wrong", JSON.stringify([...state.wrong]));
 }
 
 function escapeHtml(value) {

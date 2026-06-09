@@ -242,6 +242,10 @@ textarea:focus {
   gap: 8px;
 }
 
+.progress-stats > div {
+  grid-column: 1 / -1;
+}
+
 .progress-stats div,
 .progress-stats button {
   padding: 10px;
@@ -547,7 +551,8 @@ textarea {
 
 .light-button,
 .dark-button,
-.primary-button {
+.primary-button,
+.danger-button {
   min-height: 36px;
   padding: 0 14px;
   border-radius: 12px;
@@ -567,6 +572,12 @@ textarea {
 .primary-button {
   background: var(--accent);
   color: #fff;
+  font-weight: 700;
+}
+
+.danger-button {
+  background: #fff1f0;
+  color: #b42318;
   font-weight: 700;
 }
 
