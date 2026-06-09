@@ -8,6 +8,7 @@ const state = {
   activeIndex: 0,
   selectedTag: ALL,
   search: "",
+  showMasteredOnly: false,
   showAnswer: false,
   analysisVisible: false,
   outlineOpen: false,
@@ -56,6 +57,7 @@ const els = {
   policyBasis: document.querySelector("#policyBasis"),
   totalCount: document.querySelector("#totalCount"),
   masteredCount: document.querySelector("#masteredCount"),
+  masteredFilterButton: document.querySelector("#masteredFilterButton"),
   progressPercent: document.querySelector("#progressPercent"),
 };
 
@@ -100,6 +102,7 @@ function bindEvents() {
   els.submitAnswerButton.addEventListener("click", submitAnswer);
   els.masterButton.addEventListener("click", toggleMastered);
   els.resetProgressButton.addEventListener("click", resetProgress);
+  els.masteredFilterButton.addEventListener("click", toggleMasteredFilter);
   els.clearAnswerButton.addEventListener("click", () => {
     stopVoiceInput();
     els.answerInput.value = "";
@@ -138,6 +141,7 @@ function applyFilters() {
   const searchText = state.search.toLowerCase();
   state.filtered = questionsForActiveModule().filter((question) => {
     const tagMatch = state.selectedTag === ALL || (question.tags || []).includes(state.selectedTag);
+    const masteredMatch = !state.showMasteredOnly || state.mastered.has(question.id);
     const haystack = [
       question.question,
       question.reference_answer,
@@ -148,7 +152,7 @@ function applyFilters() {
     ]
       .join(" ")
       .toLowerCase();
-    return tagMatch && (!searchText || haystack.includes(searchText));
+    return masteredMatch && tagMatch && (!searchText || haystack.includes(searchText));
   });
 
   if (state.activeIndex >= state.filtered.length) {
@@ -282,6 +286,9 @@ function renderProgress() {
   els.totalCount.textContent = total;
   els.masteredCount.textContent = mastered;
   els.progressPercent.textContent = `${percent}%`;
+  els.masteredFilterButton.classList.toggle("active", state.showMasteredOnly);
+  els.masteredFilterButton.setAttribute("aria-pressed", String(state.showMasteredOnly));
+  els.masteredFilterButton.title = state.showMasteredOnly ? "显示全部题目" : "只显示已掌握题目";
 }
 
 function renderList(container, items) {
@@ -456,6 +463,10 @@ function toggleMastered() {
     state.mastered.add(question.id);
   }
   persistProgress();
+  if (state.showMasteredOnly) {
+    applyFilters();
+    return;
+  }
   renderModuleNav();
   renderActiveQuestion();
   renderProgress();
@@ -463,10 +474,15 @@ function toggleMastered() {
 
 function resetProgress() {
   state.mastered.clear();
+  state.showMasteredOnly = false;
   persistProgress();
-  renderModuleNav();
-  renderActiveQuestion();
-  renderProgress();
+  applyFilters();
+}
+
+function toggleMasteredFilter() {
+  state.showMasteredOnly = !state.showMasteredOnly;
+  state.activeIndex = 0;
+  applyFilters();
 }
 
 function setOutlineOpen(open) {
