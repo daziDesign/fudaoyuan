@@ -26473,7 +26473,7 @@ window.__QUESTION_BANK__ = [
   },
   {
     "id": "MOCK-CHOICE-0007",
-    "question": "思维具有的基本特征有思维的间接性和（ ） A 概括性 B 抽象性",
+    "question": "思维具有的基本特征有思维的间接性和（ ）",
     "type": "单选题",
     "module": "模拟题",
     "category": "选择题",
@@ -26487,6 +26487,8 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
+      "A": "概括性",
+      "B": "抽象性",
       "C": "形象性",
       "D": "逻辑性"
     },
@@ -30006,7 +30008,7 @@ window.__QUESTION_BANK__ = [
   },
   {
     "id": "MOCK-CHOICE-0118",
-    "question": "2025 年 4 月 24 日，搭载（ ）载人飞船的长征二号 F 遥二十运载火箭在 酒泉卫星发射中心点火发射，陈冬、陈中瑞、王杰三名航天员顺利进入太空。此 次任务是我国载人航天工程进入空间站应用与发展阶段的（ ）载人飞行任 务。",
+    "question": "2025 年 4 月 24 日，搭载（ ）载人飞船的长征二号",
     "type": "单选题",
     "module": "模拟题",
     "category": "选择题",
@@ -30020,6 +30022,7 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
+      "F": "遥二十运载火箭在 酒泉卫星发射中心点火发射，陈冬、陈中瑞、王杰三名航天员顺利进入太空。此 次任务是我国载人航天工程进入空间站应用与发展阶段的（ ）载人飞行任 务。",
       "A": "神舟十九号 第四次",
       "B": "神舟十九号 第五次",
       "C": "神舟二十号 第四次",
@@ -33059,7 +33062,7 @@ window.__QUESTION_BANK__ = [
   },
   {
     "id": "MOCK-CHOICE-0208",
-    "question": "《中共中央关于进一步全面深化改革 推进中国式现代化的决定》提出，深化 教育综合改革，要加快建设高质量教育体系，统筹推进( )改革。A.育人方式",
+    "question": "《中共中央关于进一步全面深化改革 推进中国式现代化的决定》提出，深化 教育综合改革，要加快建设高质量教育体系，统筹推进( )改革。",
     "type": "多选题",
     "module": "模拟题",
     "category": "选择题",
@@ -33074,6 +33077,7 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
+      "A": "育人方式",
       "B": "办学模式",
       "C": "管理体制",
       "D": "保障机制",
@@ -33884,7 +33888,7 @@ window.__QUESTION_BANK__ = [
   },
   {
     "id": "MOCK-CHOICE-0218",
-    "question": "《普通高等学校学生党建工作标准》指出，学生党建工作建设，要按照（ ） 的要求，选优配强学生党支部书记和支部委员、专兼职组织员。 A 政治强",
+    "question": "《普通高等学校学生党建工作标准》指出，学生党建工作建设，要按照（ ） 的要求，选优配强学生党支部书记和支部委员、专兼职组织员。",
     "type": "多选题",
     "module": "模拟题",
     "category": "选择题",
@@ -33898,6 +33902,7 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
+      "A": "政治强",
       "B": "守信念",
       "C": "重品行",
       "D": "有本领",
@@ -37459,6 +37464,29 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
+    "id": "MOCK-CHOICE-0297",
+    "question": "AD 八项规定包含精简文件简报，要求切实改进文风，没有实质内容、可发可 不发的文件、简报一律不发 ，",
+    "type": "多选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "法治法规"
+    ],
+    "reference_answer": "",
+    "source_file": "110.模拟测试（一百一十）附答案F.pdf",
+    "policy_basis": [
+      "110.模拟测试（一百一十）附答案F.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "正确；严禁公款吃喝是落实八项规定中厉行勤 俭节约的具体体现，但不是八项规定直接表述内容，",
+      "B": "排除；减少交通管制是改 进警卫工作的体现，但不是核心要点的直接表述，",
+      "C": "排除；精简会议活动，严格 控制会议规模与时长是八项规定内容，",
+      "D": "正确。"
+    },
+    "correct_answers": []
+  },
+  {
     "id": "MOCK-FJ-0078",
     "question": "√",
     "type": "判断题",
@@ -37724,7 +37752,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0297",
+    "id": "MOCK-CHOICE-0298",
     "question": "我国现行从法律上对教师职业的规定认为，教师职业是一种（ 模拟题&模拟测试（一百一十一） ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37748,7 +37776,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0298",
+    "id": "MOCK-CHOICE-0299",
     "question": "对教育的等级化、特权化和专制化否定的教育特征是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37771,7 +37799,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0299",
+    "id": "MOCK-CHOICE-0300",
     "question": "学校工作的中心环节是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37794,7 +37822,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0300",
+    "id": "MOCK-CHOICE-0301",
     "question": "“拔苗助长”“陵节而施”是违反了儿童身心发展的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37817,7 +37845,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0301",
+    "id": "MOCK-CHOICE-0302",
     "question": "现行的高校学生资助体系，本专科生国家奖学金奖励标准，每生每年（ ）元。",
     "type": "单选题",
     "module": "模拟题",
@@ -37841,7 +37869,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0302",
+    "id": "MOCK-CHOICE-0303",
     "question": "根据《中华人民共和国宪法》的规定，国务院有权制订和发布（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37864,7 +37892,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0303",
+    "id": "MOCK-CHOICE-0304",
     "question": "根据耶克斯一多德森定律，当学生从事较容易的作业时，教师应使其心理紧张程度控制在 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37888,7 +37916,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0304",
+    "id": "MOCK-CHOICE-0305",
     "question": "取得高等学校教师资格，应当具备（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37912,7 +37940,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0305",
+    "id": "MOCK-CHOICE-0306",
     "question": "提出最近发展区理论的心理学家是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37935,7 +37963,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0306",
+    "id": "MOCK-CHOICE-0307",
     "question": "通过对学生的家庭作业或课堂练习、论文、日记、手工制作的模型、绘画等各种作品进 行考察分析，并形成某种判断和决策的过程称为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37958,7 +37986,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0307",
+    "id": "MOCK-CHOICE-0308",
     "question": "学生学习三角形后，再学习直角三角形，这种学习称为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -37981,7 +38009,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0308",
+    "id": "MOCK-CHOICE-0309",
     "question": "教师职业道德区别于其他职业道德的显著标志是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38004,7 +38032,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0309",
+    "id": "MOCK-CHOICE-0310",
     "question": "教学理论是“在某种意义上的约定俗成的通例，它阐明有关最有效地获得知识与技能的 方法的规则\"这是（ ）的观点。",
     "type": "单选题",
     "module": "模拟题",
@@ -38028,7 +38056,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0310",
+    "id": "MOCK-CHOICE-0311",
     "question": "班集体在育人方面突出价值的实现是通过（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38051,7 +38079,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0311",
+    "id": "MOCK-CHOICE-0312",
     "question": "班级成员在报从班集体的正确决定和承担责任的前提下，参与班级管理的管理方式是属 于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38074,7 +38102,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0312",
+    "id": "MOCK-CHOICE-0313",
     "question": "我国当前教育改革的核心是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38097,7 +38125,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0313",
+    "id": "MOCK-CHOICE-0314",
     "question": "萌萌原来见了陌生人就躲避，上幼儿园一个月后，萌萌的这种行为消失了。根据加涅的 学习结果分类，这里发生的是（ ）学习。",
     "type": "单选题",
     "module": "模拟题",
@@ -38120,7 +38148,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0314",
+    "id": "MOCK-CHOICE-0315",
     "question": "（ ）强调学习的主动性和认知结构的重要性，主张教学的最终目标是促进学生 对学科结构的一般理解。",
     "type": "单选题",
     "module": "模拟题",
@@ -38143,7 +38171,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0315",
+    "id": "MOCK-CHOICE-0316",
     "question": "“通过创设良好的情景，潜移默化的培养学生的品德。”这是一种（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38166,7 +38194,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0316",
+    "id": "MOCK-CHOICE-0317",
     "question": "师生在教育内容的教学上应该是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38190,7 +38218,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0317",
+    "id": "MOCK-CHOICE-0318",
     "question": "一个短期教学目标的实现，会激发教师和学生的强烈的动力和兴趣，这说明了教学目标 具有（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38213,7 +38241,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0318",
+    "id": "MOCK-CHOICE-0319",
     "question": "（ ）内驱力是指一个人想获得自己所附属的长者的赞许和认可，取得应有的赏识的欲 望。",
     "type": "单选题",
     "module": "模拟题",
@@ -38237,7 +38265,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0319",
+    "id": "MOCK-CHOICE-0320",
     "question": "下述所列的迁移说中，被认为是缺乏科学根据的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38260,7 +38288,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0320",
+    "id": "MOCK-CHOICE-0321",
     "question": "提出“培养德、智、体等全面发展的社会主义事业的建设者和接班人”的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38283,7 +38311,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0321",
+    "id": "MOCK-CHOICE-0322",
     "question": "《中华人民共和国教育法》规定，学校及其他教育机构在不影响正常教育教学活动的前 提下，应当积极参加（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38307,7 +38335,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0322",
+    "id": "MOCK-CHOICE-0323",
     "question": "明知校舍或者教育教学设施有危险，而不采取措施，造成人员伤亡或者重大财产损失的， 对直接责任人依法追究（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38331,7 +38359,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0323",
+    "id": "MOCK-CHOICE-0324",
     "question": "2025 年职业教育活动周主题为“（ ）”",
     "type": "单选题",
     "module": "模拟题",
@@ -38354,7 +38382,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0324",
+    "id": "MOCK-CHOICE-0325",
     "question": "2025 年职业教育活动周，河南省的活动主题是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38377,7 +38405,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0325",
+    "id": "MOCK-CHOICE-0326",
     "question": "国务院决定自（ ）年起，开始举办“职业教育活动周”",
     "type": "单选题",
     "module": "模拟题",
@@ -38400,7 +38428,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0326",
+    "id": "MOCK-CHOICE-0327",
     "question": "下列说法错误的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -38425,7 +38453,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0327",
+    "id": "MOCK-CHOICE-0328",
     "question": "教育是人类社会特有的一种自觉的、有目的的促进人的发展的活动，其基本要素是教育 活动的存在形态，构成教育活动的共性。关于教育活动的基本要素，以下说法正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38448,7 +38476,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0328",
+    "id": "MOCK-CHOICE-0329",
     "question": "孔子曰：“宽则得众。居上不宽，为礼不敬，临丧不哀，吾何以观之哉?”说明与人沟通 时要（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38471,7 +38499,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0329",
+    "id": "MOCK-CHOICE-0330",
     "question": "加强师德建设是具有社会意义的重要工程，是贯彻（ ）的现实需要。",
     "type": "单选题",
     "module": "模拟题",
@@ -38494,7 +38522,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0330",
+    "id": "MOCK-CHOICE-0331",
     "question": "在人的个性特征和个性系统中（ ）具有重要作用。",
     "type": "单选题",
     "module": "模拟题",
@@ -38517,7 +38545,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0331",
+    "id": "MOCK-CHOICE-0332",
     "question": "睁眼看着灯光一段时间后，闭上眼睛仍能看到灯光。这种现象属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38540,7 +38568,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0332",
+    "id": "MOCK-CHOICE-0333",
     "question": "（ ）是教师在从事教育劳动过程中应遵守的规章、条例、守则等。",
     "type": "单选题",
     "module": "模拟题",
@@ -38565,7 +38593,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0333",
+    "id": "MOCK-CHOICE-0334",
     "question": "教师通过自我约束、自我监督、更好地培养、坚定了职业道德情感、意志和信念。这属 于哪一种职业道德修养方法?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38588,7 +38616,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0334",
+    "id": "MOCK-CHOICE-0335",
     "question": "在古今教育发展的长河中，教师职业道德的内容越来越丰富，涉及教师职业劳动的各个 方面，充分体现了教师职业道德内容的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38611,7 +38639,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0335",
+    "id": "MOCK-CHOICE-0336",
     "question": "“为人师表”是从教师日常行为的角度提出的人际道德，是教师自我道德的内在要求， 是教师受到社会尊重的总体道德表征，在（ ），要做到“模范遵守社会公德、维护社会正 义、引领社会风尚”。",
     "type": "单选题",
     "module": "模拟题",
@@ -38634,7 +38662,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0336",
+    "id": "MOCK-CHOICE-0337",
     "question": "以下教师的哪一行为违背了“传播优秀文化”这一要求?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38658,7 +38686,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0337",
+    "id": "MOCK-CHOICE-0338",
     "question": "教师有权对学校教育教学、管理工作和教育行政部门的工作提出意见和建议，通过（ ） 或者其他形式，参与学校的民主管理。",
     "type": "单选题",
     "module": "模拟题",
@@ -38682,7 +38710,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0338",
+    "id": "MOCK-CHOICE-0339",
     "question": "下列选项中，最能揭示教育与政治关系的一项是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38705,7 +38733,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0339",
+    "id": "MOCK-CHOICE-0340",
     "question": "素质教育强调在教育中每个人都能得到发展。因此，素质教育不同于应试教育，因为应 试教育搞选拔性、淘汰性，只能照顾到一部分人，甚至是很少一部分人的发展。这说明素质 教育与应试教育的本质区别在于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38728,7 +38756,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0340",
+    "id": "MOCK-CHOICE-0341",
     "question": "教师所使用的教具、教材，必须为教师自己所掌握，成为教师自己的东西，才能向学生 传授。这体现了教师劳动的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38751,7 +38779,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0341",
+    "id": "MOCK-CHOICE-0342",
     "question": "隐性课程的几种主要表现形式中，学校建筑、教室的布置、校园环境等属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38774,7 +38802,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0342",
+    "id": "MOCK-CHOICE-0343",
     "question": "活动课程，又称为“经验课程”“生活课程”，其主导价值在于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38797,7 +38825,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0343",
+    "id": "MOCK-CHOICE-0344",
     "question": "处于这个阶段的学生不仅能运用经验—归纳方式进行逻辑推理，而且能运用假设—演绎 推理的方式来解决问题。“这个阶段”是指（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38820,7 +38848,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0344",
+    "id": "MOCK-CHOICE-0345",
     "question": "当我们刚进入到闹市中时会感到声音嘈杂刺耳，甚至听不清旁边人说话，而过了一会儿 后就不会觉得那么吵了。这种现象是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38843,7 +38871,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0345",
+    "id": "MOCK-CHOICE-0346",
     "question": "“新官上任三把火”“开门红”“下马威”体现的是社会知觉偏差中的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38866,7 +38894,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0346",
+    "id": "MOCK-CHOICE-0347",
     "question": "观察的（ ）是指在观察中善于区分事物细微而重要的品质。",
     "type": "单选题",
     "module": "模拟题",
@@ -38889,7 +38917,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0347",
+    "id": "MOCK-CHOICE-0348",
     "question": "有些演员能够自拉自唱，或者边说话边打板，这指的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38912,7 +38940,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0348",
+    "id": "MOCK-CHOICE-0349",
     "question": "依据《中华人民共和国教师法》，“指导学生的学习和发展，评定学生的品行和学习成绩” 属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38937,7 +38965,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0349",
+    "id": "MOCK-CHOICE-0350",
     "question": "《深化新时代教育评价改革总体方案》提出，教师评价的第一标准是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38962,7 +38990,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0350",
+    "id": "MOCK-CHOICE-0351",
     "question": "夏丏尊说：“爱对于教育，犹如水之于池塘，没有水，便不能成为池塘，没有爱，便不能 称之为教育”。这句话反映的是教师职业的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -38987,7 +39015,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0351",
+    "id": "MOCK-CHOICE-0352",
     "question": "“捧着一颗心来，不带半根草去。”这句教育名言的提出者是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39010,7 +39038,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0352",
+    "id": "MOCK-CHOICE-0353",
     "question": "下列关于不同时期教育发展特征的表述，正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39033,7 +39061,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0353",
+    "id": "MOCK-CHOICE-0354",
     "question": "“一朝被蛇咬，十年怕井绳”这种现象指（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39056,7 +39084,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0354",
+    "id": "MOCK-CHOICE-0355",
     "question": "学生于华平时安静沉稳，喜欢沉思，考虑事情全面，情绪不易外露，善于忍耐，克制自 己。但是反应慢，新环境适应能力差，于华气质类型最可能属于哪种?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39079,7 +39107,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0355",
+    "id": "MOCK-CHOICE-0356",
     "question": "学生既是教育的对象，又是自我教育和发展的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39102,7 +39130,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0356",
+    "id": "MOCK-CHOICE-0357",
     "question": "由于看到鸟的飞翔而发明了飞机，这类创造活动的心理影响机制是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39125,7 +39153,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0357",
+    "id": "MOCK-CHOICE-0358",
     "question": "《中华人民共和国教育法》规定，国务院和地方各级人民政府根据（ ）的原则，领导和 管理教育工作。",
     "type": "多选题",
     "module": "模拟题",
@@ -39149,7 +39177,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0358",
+    "id": "MOCK-CHOICE-0359",
     "question": "张明是一名大学生，他依法享有的权利有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -39517,7 +39545,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0359",
+    "id": "MOCK-CHOICE-0360",
     "question": "下列作品中不属于中国古典悲剧的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39540,7 +39568,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0360",
+    "id": "MOCK-CHOICE-0361",
     "question": "下列有关文学常识表述正确的一项是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39563,7 +39591,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0361",
+    "id": "MOCK-CHOICE-0362",
     "question": "中国历史上出现过许多“盛世”。下列对应关系错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39588,7 +39616,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0362",
+    "id": "MOCK-CHOICE-0363",
     "question": "1942 年延安整风运动的中心任务是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39611,7 +39639,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0363",
+    "id": "MOCK-CHOICE-0364",
     "question": "封建社会在中国历史上持续了两千多年，其第一个鼎盛时期是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39634,7 +39662,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0364",
+    "id": "MOCK-CHOICE-0365",
     "question": "下列选项中的（ ）不是软体动物。",
     "type": "单选题",
     "module": "模拟题",
@@ -39657,7 +39685,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0365",
+    "id": "MOCK-CHOICE-0366",
     "question": "中国古代记载物理学知识，其中包括杠杆原理和浮力理论、声学和光学知识的 著作是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39682,7 +39710,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0366",
+    "id": "MOCK-CHOICE-0367",
     "question": "认为万事万物皆有心，主张知行合一的中国古代思想家是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39707,7 +39735,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0367",
+    "id": "MOCK-CHOICE-0368",
     "question": "下列有关书法艺术的表达，正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39732,7 +39760,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0368",
+    "id": "MOCK-CHOICE-0369",
     "question": "书法史上被称为“天下第一行书”的字帖是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39757,7 +39785,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0369",
+    "id": "MOCK-CHOICE-0370",
     "question": "下列书法家中，“草圣”指的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39782,7 +39810,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0370",
+    "id": "MOCK-CHOICE-0371",
     "question": "书法艺术史是汉字独具魅力的书写艺术，魏初钟繇擅长真书，又与胡昭共同 学习刘德升的行书。魏晋间行书、真书流行，是汉字书法的一种进步。这里说的 真书指的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39807,7 +39835,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0371",
+    "id": "MOCK-CHOICE-0372",
     "question": "提到书法中的草书，人们便会想到“颠张醉素”，请问下列属于颠张的作品的 是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39832,7 +39860,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0372",
+    "id": "MOCK-CHOICE-0373",
     "question": "辛弃疾的“蓦然回首，那人却在灯火阑珊处”描写的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39857,7 +39885,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0373",
+    "id": "MOCK-CHOICE-0374",
     "question": "下列诗句与所描述的节日对应不正确的一项是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39882,7 +39910,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0374",
+    "id": "MOCK-CHOICE-0375",
     "question": "下列选项中对应不正确的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -39907,7 +39935,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0375",
+    "id": "MOCK-CHOICE-0376",
     "question": "“洛阳纸贵”典故涉及的历史人物是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39932,7 +39960,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0376",
+    "id": "MOCK-CHOICE-0377",
     "question": "美国制定的《1787 年宪法》确定了把国家权力划分为三个部分，并分别由国 会、法院和总统行使的原则，这最能体现下列哪位思想家的观点？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -39957,7 +39985,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0377",
+    "id": "MOCK-CHOICE-0378",
     "question": "一战结束后，1919 年协约国在巴黎凡尔赛宫召开会议，签署《凡尔赛和约》。 关于该和约，下列说法错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -39982,7 +40010,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0378",
+    "id": "MOCK-CHOICE-0379",
     "question": "（ ）是法国大革命时期颁布的纲领性文件，阐明了权力分立、法律面前 人人平等、私有财产神圣而不可侵犯等原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -40007,7 +40035,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0379",
+    "id": "MOCK-CHOICE-0380",
     "question": "随着人类社会的不断发展，国际会议已日益成为世界各国进行交往和联系的 一种重要形式。以下著名国际会议按举办时间先后排序正确的是（ ）。 ①德黑兰会议 ②巴黎和会 ③波茨坦会议 ④雅尔塔会议",
     "type": "单选题",
     "module": "模拟题",
@@ -40032,7 +40060,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0380",
+    "id": "MOCK-CHOICE-0381",
     "question": "下列关于世界著名音乐大师的对应有误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40057,7 +40085,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0381",
+    "id": "MOCK-CHOICE-0382",
     "question": "孔子思想的核心是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40082,7 +40110,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0382",
+    "id": "MOCK-CHOICE-0383",
     "question": "《孙子兵法》是中国现存最早的兵书，也是世界上最早的军事著作，其作者 是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40107,7 +40135,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0383",
+    "id": "MOCK-CHOICE-0384",
     "question": "俗话说：正月十五闹元宵。“闹”元宵的习俗包括张灯、观灯、舞龙、舞狮等。 以下诗句和元宵节有关的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40132,7 +40160,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0384",
+    "id": "MOCK-CHOICE-0385",
     "question": "在我国古代，人们把一夜分为五更，即一更、二更、三更、四更、五更，按 更报时。“三更”相当于现在的时间为（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40157,7 +40185,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0385",
+    "id": "MOCK-CHOICE-0386",
     "question": "我国古代子时是现在的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40182,7 +40210,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0386",
+    "id": "MOCK-CHOICE-0387",
     "question": "对下列诗句所描写的节日按一年中的时间先后进行排序，正确的是( )。 ①四时花竞巧，九子粽争新。 ②班姬此夕愁无限，河汉三更看斗牛。 ③酣歌欲尽登高兴，强把黄花插满头。 ④月上柳梢头，人约黄昏后。",
     "type": "单选题",
     "module": "模拟题",
@@ -40207,7 +40235,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0387",
+    "id": "MOCK-CHOICE-0388",
     "question": "民歌是人类文化中最宝贵的组成部分之一，它源于人民的生活，反映人民生 活，也广泛而深入地影响着人民的生活，下列关系对应正确的是( )。 ①《山丹丹开花红艳艳》——陕北民歌 ②《康定情歌》——云南民歌 ③《北京的金山上》——藏族民歌 ④《掀起你的盖头来》——蒙古族民歌",
     "type": "单选题",
     "module": "模拟题",
@@ -40232,7 +40260,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0388",
+    "id": "MOCK-CHOICE-0389",
     "question": "下列文学作品按时间先后顺序排列错误的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -40257,7 +40285,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0389",
+    "id": "MOCK-CHOICE-0390",
     "question": "“八拜之交”是我国古代世交子弟对长辈的礼节，后来又可形容结为异姓兄 弟之人。其中，“八拜之交”中的“刎颈之交”主要是指我国古代的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40282,7 +40310,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0390",
+    "id": "MOCK-CHOICE-0391",
     "question": "下列不属于老舍作品中的人物的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40307,7 +40335,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0391",
+    "id": "MOCK-CHOICE-0392",
     "question": "下列选项中的人物，不为君臣关系的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40332,7 +40360,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0392",
+    "id": "MOCK-CHOICE-0393",
     "question": "我国自古就是一个传统的农耕社会，历书在指导农时上具有重要作用，下列 历书与其年代搭配不正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40357,7 +40385,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0393",
+    "id": "MOCK-CHOICE-0394",
     "question": "中国饮食讲究顺乎自然，食物依时而变，影响这一饮食文化特点的思想学派 是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40383,7 +40411,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0394",
+    "id": "MOCK-CHOICE-0395",
     "question": "三 纲 五常是 中国 儒家伦 理文 化 中的重 要内容 ，以 下不属 于三纲 内容是 （ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40408,7 +40436,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0395",
+    "id": "MOCK-CHOICE-0396",
     "question": "中国古代的选官、用官制度发生了诸多变革，其中，九品中正制属于（ ） 的选官、用官制度。",
     "type": "单选题",
     "module": "模拟题",
@@ -40433,7 +40461,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0396",
+    "id": "MOCK-CHOICE-0397",
     "question": "古人的年龄一般不用数字表示，而是用一种与年龄有关的称谓来代替。 ①束发 ②而立 ③垂髫 ④总角 ⑤期颐 ⑥弱冠 ⑦耄耋 ⑧不惑 ⑨花甲 ⑩豆蔻 下列各项中，按年龄从小到大排列正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40458,7 +40486,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0397",
+    "id": "MOCK-CHOICE-0398",
     "question": "下列诗句与传统节日对应不正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40483,7 +40511,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0398",
+    "id": "MOCK-CHOICE-0399",
     "question": "下列城市在古代曾经作为都城。以下对应关系完全正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40508,7 +40536,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0399",
+    "id": "MOCK-CHOICE-0400",
     "question": "下列少数民族政权及其创建者之间对应关系完全正确的一组是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40533,7 +40561,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0400",
+    "id": "MOCK-CHOICE-0401",
     "question": "“沉鱼落雁，闭月羞花”中的“落雁”指的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40558,7 +40586,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0401",
+    "id": "MOCK-CHOICE-0402",
     "question": "解放战争时期，毛泽东说：“蒋介石两个拳头（指陕北和山东）这么一伸，他 的胸膛露出来了。所以，我们的战略就是要把这两个拳头紧紧拖住，对准他的胸 膛插上一刀。”这里说的“插上一刀”指的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40583,7 +40611,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0402",
+    "id": "MOCK-CHOICE-0403",
     "question": "下列关于思想解放运动的描述，错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40609,7 +40637,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0403",
+    "id": "MOCK-CHOICE-0404",
     "question": "下列有关历史名人叙述错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40632,7 +40660,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0404",
+    "id": "MOCK-CHOICE-0405",
     "question": "“二十四史”不包括（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40657,7 +40685,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0405",
+    "id": "MOCK-CHOICE-0406",
     "question": "中国古代地理学知识萌芽很早，由于军事、农业等方面的要求，注重实地考 察、探讨自然规律逐渐成为地理研究的传统。许多地理学著作开始涌现并领先于 世界，取得了卓越的成就。下列地理学著作按照出现的时间顺序，排序正确的一 项是（ ）。 ①《禹贡地域图》 ②《海国图志》 ③《徐霞客游记》 ④《水经注》",
     "type": "单选题",
     "module": "模拟题",
@@ -40682,7 +40710,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0406",
+    "id": "MOCK-CHOICE-0407",
     "question": "人民英雄纪念碑位于北京天安门广场中心，是我国为纪念中国近现代史上的 革命烈士而修建的纪念碑。人民英雄纪念碑有多块浮雕，记录了我国近现代史上 多个重要的事件。下列历史事件没有出现在其中的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -40865,7 +40893,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-CHOICE-0407",
+    "id": "MOCK-CHOICE-0408",
     "question": "二十大报告指出, 必须坚持( )是第一生产力、( )是第一资源、 ( )是第一动力, 深入实施科教兴国战略、人才强国战略、创新驱动发展 战略, 开辟发展新领域新赛道, 不断塑造发展新动能新优势。",
     "type": "单选题",
     "module": "模拟题",
@@ -40888,7 +40916,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0408",
+    "id": "MOCK-CHOICE-0409",
     "question": "2024 年 7 月 15 日至 18 日，二十届三中全会在北京举行。全会指出，进一步 全面深化改革的总目标是（ ），推进国家治理体系和治理能力现代化。",
     "type": "单选题",
     "module": "模拟题",
@@ -40911,7 +40939,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0409",
+    "id": "MOCK-CHOICE-0410",
     "question": "( ),是党在革命中战胜敌人的三大法宝。",
     "type": "单选题",
     "module": "模拟题",
@@ -40934,7 +40962,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0410",
+    "id": "MOCK-CHOICE-0411",
     "question": "对以作弊、剽窃、抄袭等学术不端行为或者其他不正当手段获得学历证书、学 位证书的，学校应当依法予以( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -40957,7 +40985,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0411",
+    "id": "MOCK-CHOICE-0412",
     "question": "《高校思想政治工作质量提升工程实施纲要》的有效实施要搭建工作平台，下 列哪项不是搭建工作平台的内容（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -40981,7 +41009,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0412",
+    "id": "MOCK-CHOICE-0413",
     "question": "据新华社 2024 年 12 月 25 日报道，“____”作为全国统一心理援助热线电话号 码，近期有望投入运行。到 2025 年 5 月 1 日 0 时前，各地现有心理援助热线将 与其连接，实现一个号码接通心理援助热线。（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -41004,7 +41032,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0413",
+    "id": "MOCK-CHOICE-0414",
     "question": "大学作为一个特殊的群体,衡量大学生心理健康的首要为 ( )",
     "type": "单选题",
     "module": "模拟题",
@@ -41027,7 +41055,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0414",
+    "id": "MOCK-CHOICE-0415",
     "question": "“挑战杯”全国大学生课外学术科技作品竞赛由团中央、中国科协、全国学联 主办，每 ( ）举办一届。",
     "type": "单选题",
     "module": "模拟题",
@@ -41050,7 +41078,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0415",
+    "id": "MOCK-CHOICE-0416",
     "question": "《中华人民共和国学位法》自（ ）起施行。《中华人民共和国学位条例》同时 废止。",
     "type": "单选题",
     "module": "模拟题",
@@ -41073,7 +41101,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0416",
+    "id": "MOCK-CHOICE-0417",
     "question": "《高等学校辅导员职业能力标准（暂行）》中尊重学生独立人格和个人隐私， 保护学生自尊心、 自信心和进取心，促进学生全面发展，努力培养社会主义合 格建设者和可靠接班人是辅导员职业守则的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -41098,7 +41126,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0417",
+    "id": "MOCK-CHOICE-0418",
     "question": "《教育强国建设规划纲要（2024—2035 年）》指出，把学校思想政治教育贯穿 各学科体系、教学体系、教材体系、管理体系，融入（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -41123,7 +41151,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0418",
+    "id": "MOCK-CHOICE-0419",
     "question": "《全面加强和改进新时代学生心理健康工作专项行动计划（2023—2025 年）》 指出，培育学生热爱生活、珍视生命、自尊自信、理性平和、乐观向上的心理品 质和（ ）的意志品质，促进学生思想道德素质、科学文化素质和身心健康素 质协调发展，培养担当民族复兴大任的时代新人。",
     "type": "多选题",
     "module": "模拟题",
@@ -41147,7 +41175,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0419",
+    "id": "MOCK-CHOICE-0420",
     "question": "目前大学生的心理健康干预最主要的形式包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -41170,7 +41198,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0420",
+    "id": "MOCK-CHOICE-0421",
     "question": "大中专学生志愿者暑期“三下乡”活动是以引导学生健康成长成才，推进城乡 两个文明建设为目的，以全国大中专学生为主体，将( )送入农村和城市的 社会实践活动。",
     "type": "多选题",
     "module": "模拟题",
@@ -41194,7 +41222,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0421",
+    "id": "MOCK-CHOICE-0422",
     "question": "志愿者精神是：( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -41218,7 +41246,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0422",
+    "id": "MOCK-CHOICE-0423",
     "question": "青年入团，介绍人应负责地向被介绍人说明团章，向团组织说明被介绍人的 ( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -41242,7 +41270,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0423",
+    "id": "MOCK-CHOICE-0424",
     "question": "学校无责任的，如果有条件,可以根据实际情况，本着（ ）的原则，对受 伤害学生给予适当的帮助。",
     "type": "多选题",
     "module": "模拟题",
@@ -41265,7 +41293,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0424",
+    "id": "MOCK-CHOICE-0425",
     "question": "辅导员应具备的专业知识包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -41288,7 +41316,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0425",
+    "id": "MOCK-CHOICE-0426",
     "question": "下列哪些是《高等学校辅导员职业能力标准（暂行）》职业能力特征( )",
     "type": "多选题",
     "module": "模拟题",
@@ -41312,7 +41340,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0426",
+    "id": "MOCK-CHOICE-0427",
     "question": "根据《普通高等学校学生管理规定》，学生有下列情形之一（ ），学校可予 退学处理。",
     "type": "多选题",
     "module": "模拟题",
@@ -41770,7 +41798,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0427",
+    "id": "MOCK-CHOICE-0428",
     "question": "辅导员在开展思想理论教育和价值引领工作时，要掌握学生思想行为特 模拟测试（一百一十四） 点 及思想政治状况，有针对性地帮助学生处理好（ ）、价值取向、学习生活、择 业交友等方面的具体问题。",
     "type": "单选题",
     "module": "模拟题",
@@ -41796,7 +41824,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0428",
+    "id": "MOCK-CHOICE-0429",
     "question": "复查中发现学生身心状况不适宜在校学习，经学校指定的二级甲等以上医 院诊断，需要在家休养的，可以（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -41821,7 +41849,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0429",
+    "id": "MOCK-CHOICE-0430",
     "question": "习近平总书记在全国宣传思想文化工作会议上作出重要指示，指明了做好 宣传思想文化工作的基本遵循原则，这个原则指的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -41846,7 +41874,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0430",
+    "id": "MOCK-CHOICE-0431",
     "question": "《高等学校学生行为准则》规定：热爱祖国，服务人民，弘扬民族精神， 维护（ ）。不参与违反四项基本原则，影响国家统一和社会稳定的活动。",
     "type": "单选题",
     "module": "模拟题",
@@ -41872,7 +41900,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0431",
+    "id": "MOCK-CHOICE-0432",
     "question": "二十大修订党章充实了党的各级领导干部必须具备的基本条件，增写 （ ）的内容。",
     "type": "单选题",
     "module": "模拟题",
@@ -41899,7 +41927,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0432",
+    "id": "MOCK-CHOICE-0433",
     "question": "以下不属于我党的三大历史任务的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -41925,7 +41953,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0433",
+    "id": "MOCK-CHOICE-0434",
     "question": "2025 年 4 月 16 日出版的第 8 期《求是》杂志发表主席的重要文章《加快 建设文化强国》。文章指出，我们要锚定（ ）建成文化强国的战略目标， 坚持马克思主义这一根本指导思想，不断发展具有强大（ ）的新时代中特 社主义文化。",
     "type": "单选题",
     "module": "模拟题",
@@ -41951,7 +41979,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0434",
+    "id": "MOCK-CHOICE-0435",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，聚焦中国式现代化建 设重大理论和实践问题，以党的（ ）引领哲学社会科学知识创新、理论创新、 方法创新，构建以各学科标识性概念、原创性理论为主干的自主知识体系。",
     "type": "单选题",
     "module": "模拟题",
@@ -41977,7 +42005,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0435",
+    "id": "MOCK-CHOICE-0436",
     "question": "《关于加快构建普通高等学校毕业生高质量就业服务体系的意见》指出， 健全就业实习制度，推动大学生利用寒暑假至少开展（ ）就业实习，强化实 习责任保险保障。",
     "type": "单选题",
     "module": "模拟题",
@@ -42002,7 +42030,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0436",
+    "id": "MOCK-CHOICE-0437",
     "question": "学校应当坚持（ ）原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -42028,7 +42056,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0437",
+    "id": "MOCK-CHOICE-0438",
     "question": "《关于进一步加强高校实践育人工作的若干意见》中规定，每个本科生 在学期间参加社会实践活动的时间累计应不少手（ ）周。",
     "type": "单选题",
     "module": "模拟题",
@@ -42054,7 +42082,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0438",
+    "id": "MOCK-CHOICE-0439",
     "question": "习近平在全国高校思想政治工作会议上强调，教育强则国家强。（ ） 是一个国家发展水平和发展潜力的重要标志。",
     "type": "单选题",
     "module": "模拟题",
@@ -42080,7 +42108,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0439",
+    "id": "MOCK-CHOICE-0440",
     "question": "《普通高等学校辅导员队伍建设规定》明确指出，“辅导员培训应当纳入 高等学校师资队伍和（ ）培训整体规划。”",
     "type": "单选题",
     "module": "模拟题",
@@ -42106,7 +42134,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0440",
+    "id": "MOCK-CHOICE-0441",
     "question": "《关于加快推进教育数字化的意见》指出，强化人工智能安全保障。坚 持（ ）的数字伦理准则，加强对智能教育产品、工具、服务监管，规范人工 智能应用进校园管理。",
     "type": "单选题",
     "module": "模拟题",
@@ -42132,7 +42160,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0441",
+    "id": "MOCK-CHOICE-0442",
     "question": "第 9 期《求是》杂志发表主席的重要文章《激励新时代青年在中国式现 代化建设中挺膺担当》。文章指出，共青团是促进青年健康成长的政治学校， （ ）是共青团的第一属性。",
     "type": "单选题",
     "module": "模拟题",
@@ -42157,7 +42185,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0442",
+    "id": "MOCK-CHOICE-0443",
     "question": "高等教育的任务是培养具有社会责任感、（ ）和实践能力的高级专门 人才，发展科学技术文化，促进社会主义现代化建设。",
     "type": "单选题",
     "module": "模拟题",
@@ -42183,7 +42211,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0443",
+    "id": "MOCK-CHOICE-0444",
     "question": "《关于进一步加强和改进大学生思想政治教育的意见》指出，加强和改 进大学生思想政治教育的重点是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -42208,7 +42236,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0444",
+    "id": "MOCK-CHOICE-0445",
     "question": "党的二十大报告指出，我们真诚呼吁，世界各国弘扬（ ）的全人类共 同价值，促进各国人民相知相亲，共同应对各种全球性挑战。",
     "type": "单选题",
     "module": "模拟题",
@@ -42233,7 +42261,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0445",
+    "id": "MOCK-CHOICE-0446",
     "question": "新时代高校教师职业行为十项准则中，“不得通过课堂、论坛、讲座、信 息网络及其他渠道发表、转发错误观点，或编造散布虚假信息、不良信息。”属 于哪条准则的内容？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -42260,7 +42288,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0446",
+    "id": "MOCK-CHOICE-0447",
     "question": "学生申诉处理委员会对学生提出的申诉进行复查，并在接到书面申诉之 日起（ ）内作出复查结论并告知申诉人。",
     "type": "单选题",
     "module": "模拟题",
@@ -42285,7 +42313,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0447",
+    "id": "MOCK-CHOICE-0448",
     "question": "下列哪些是《高等学校辅导员职业能力标准(暂行)》辅导员的职业能力特 征（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -42315,7 +42343,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0448",
+    "id": "MOCK-CHOICE-0449",
     "question": "高校辅导员在校园危机事件应对方面应该开展哪些工作?（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -42347,7 +42375,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0449",
+    "id": "MOCK-CHOICE-0450",
     "question": "以下属于党的创新理论的是（ ）（自创题目）",
     "type": "多选题",
     "module": "模拟题",
@@ -42376,7 +42404,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0450",
+    "id": "MOCK-CHOICE-0451",
     "question": "实施学生管理，应当尊重和保护学生的合法权利，教育和引导学生承担应 尽的义务与责任，鼓励和支持学生实行（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -42405,8 +42433,8 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0451",
-    "question": "《普通高等学校学生党建工作标准》指出，学生党建工作建设，要按照（ ） 的要求，选优配强学生党支部书记和支部委员、专兼职组织员。 A 政治强",
+    "id": "MOCK-CHOICE-0452",
+    "question": "《普通高等学校学生党建工作标准》指出，学生党建工作建设，要按照（ ） 的要求，选优配强学生党支部书记和支部委员、专兼职组织员。",
     "type": "多选题",
     "module": "模拟题",
     "category": "选择题",
@@ -42420,6 +42448,7 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
+      "A": "政治强",
       "B": "守信念",
       "C": "重品行",
       "D": "有本领",
@@ -42435,7 +42464,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0452",
+    "id": "MOCK-CHOICE-0453",
     "question": "高校宣传思想工作队伍包括（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -42469,7 +42498,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0453",
+    "id": "MOCK-CHOICE-0454",
     "question": "《全面加强和改进新时代学生心理健康工作专项行动计划（2023 —2025 年）》中指出，（ ）“四位一体”的学生心理健康工作体系更加健全，学校、家 庭、社会和相关部门协同联动的学生心理健康工作格局更加完善。",
     "type": "多选题",
     "module": "模拟题",
@@ -42498,7 +42527,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0454",
+    "id": "MOCK-CHOICE-0455",
     "question": "关于高校辅导员岗位，下列说法正确的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -42527,7 +42556,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0455",
+    "id": "MOCK-CHOICE-0456",
     "question": "学生申诉处理委员会应当由（ ）等组成。",
     "type": "多选题",
     "module": "模拟题",
@@ -42558,7 +42587,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0456",
+    "id": "MOCK-CHOICE-0457",
     "question": "高校辅导员队伍是和（ ）同等重要的“第四支队伍”。",
     "type": "多选题",
     "module": "模拟题",
@@ -42942,7 +42971,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0457",
+    "id": "MOCK-CHOICE-0458",
     "question": "高等教育的核心功能是（ 教师岗模拟题&模拟测试（一百一十五） ）",
     "type": "单选题",
     "module": "模拟题",
@@ -42966,7 +42995,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0458",
+    "id": "MOCK-CHOICE-0459",
     "question": "大学生认知发展的主要特点是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -42989,7 +43018,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0459",
+    "id": "MOCK-CHOICE-0460",
     "question": "教学的教育性主要体现在教学过程的哪一条基本规律中?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43012,7 +43041,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0460",
+    "id": "MOCK-CHOICE-0461",
     "question": "教育要尊重学生的兴趣，需要和价值，教学应以学生为中心，持这一观点 的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43035,7 +43064,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0461",
+    "id": "MOCK-CHOICE-0462",
     "question": "在日常生活中由于情绪紧张而遗忘的情况，也是常有的。例如，考试时， 由于情绪过分紧张，致使一些学过的内容，怎么也想不起来。这种遗忘理论属于 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43058,7 +43087,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0462",
+    "id": "MOCK-CHOICE-0463",
     "question": "法医画家根据目击证人的描述画出犯罪嫌疑人的画像，这种心理活动属于 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43081,7 +43110,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0463",
+    "id": "MOCK-CHOICE-0464",
     "question": "学生的情绪一旦激发，往往会在较长时间内影响个体的心理与行为，这说 明学生的情绪情感发展具有（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43104,7 +43133,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0464",
+    "id": "MOCK-CHOICE-0465",
     "question": "临近考试，学生想要出去玩，但是又害怕考不好的心理，属于哪种动机冲 突（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43127,7 +43156,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0465",
+    "id": "MOCK-CHOICE-0466",
     "question": "根据马斯洛的需要层次理论，在青少年初期日渐强烈的需要是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43150,7 +43179,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0466",
+    "id": "MOCK-CHOICE-0467",
     "question": "把社交能力，认知能力作为智力的重要组成部分的智力理论（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43173,7 +43202,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0467",
+    "id": "MOCK-CHOICE-0468",
     "question": "高级神经活动过程具有强，平衡特点的气质类型为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43196,7 +43225,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0468",
+    "id": "MOCK-CHOICE-0469",
     "question": "小芳在期末考试中失利，但她没有气馁，在老师的帮助下分析了失败的 原因，并制定新的努力方向，小芳这种对待挫折的方式属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43219,7 +43248,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0469",
+    "id": "MOCK-CHOICE-0470",
     "question": "“教育无小事，事事都是教育。”这体现了教师职业道德实践活动中（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43242,7 +43271,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0470",
+    "id": "MOCK-CHOICE-0471",
     "question": "知识的急速增长要求人们会学习，（ ）比知识教育更重要，方法教育比 结论教育更重要。",
     "type": "单选题",
     "module": "模拟题",
@@ -43265,7 +43294,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0471",
+    "id": "MOCK-CHOICE-0472",
     "question": "马卡连柯提出“要尽量多地要求一个人，也要尽可能地尊重一个人”反 映了德育的（ ）原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -43288,7 +43317,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0472",
+    "id": "MOCK-CHOICE-0473",
     "question": "王老师很善于教育学生，当学生出现不良行为时，他总是循循善诱，以 理服人，从提高学生认识入手，调动学生的主动性，使他们积极向上，王老师运 用了德育的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43311,7 +43340,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0473",
+    "id": "MOCK-CHOICE-0474",
     "question": "国务院决定自（ ）年起，开始举办“职业教育活动周”。",
     "type": "单选题",
     "module": "模拟题",
@@ -43334,7 +43363,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0474",
+    "id": "MOCK-CHOICE-0475",
     "question": "2025 年职业教育活动周，河南省的活动主题是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -43357,7 +43386,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0475",
+    "id": "MOCK-CHOICE-0476",
     "question": "建设（ ）是培养担当民族复兴大任时代新人、确保党的事业后继有人 的根本要求。",
     "type": "单选题",
     "module": "模拟题",
@@ -43380,7 +43409,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0476",
+    "id": "MOCK-CHOICE-0477",
     "question": "2025 年 5 月 19 日至 20 日，主席在河南考察指出，（ ）是党中央 徙木立信之举，是新时代管党治党的标志性措施。",
     "type": "单选题",
     "module": "模拟题",
@@ -43403,7 +43432,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0477",
+    "id": "MOCK-CHOICE-0478",
     "question": "根据思维任务的性质，内容和解决问题的方法不同，可分为（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -43426,7 +43455,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0478",
+    "id": "MOCK-CHOICE-0479",
     "question": "意志的自觉性是指个体在行动中有明确的目的，能认识行动的社会意义， 并能够主动调和支配自己的行动以服从社会要求的意志品质。与其相反的意志品 质是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -43449,7 +43478,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0479",
+    "id": "MOCK-CHOICE-0480",
     "question": "产生对人的错觉的原因是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -43472,7 +43501,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0480",
+    "id": "MOCK-CHOICE-0481",
     "question": "自我调控系统是人格中的内控系统或自控系统，它包含的子系统有（ ）， 其作用是对人格的各种成分进行调控，保证人格的完整、统一与和谐。",
     "type": "多选题",
     "module": "模拟题",
@@ -43495,7 +43524,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0481",
+    "id": "MOCK-CHOICE-0482",
     "question": "教育的社会属性主要包括( )",
     "type": "多选题",
     "module": "模拟题",
@@ -43518,7 +43547,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0482",
+    "id": "MOCK-CHOICE-0483",
     "question": "遗传在人的发展中( )",
     "type": "多选题",
     "module": "模拟题",
@@ -43541,7 +43570,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0483",
+    "id": "MOCK-CHOICE-0484",
     "question": "心理学家把气质分为多血质，胆汁质，粘液质和抑郁质四种类型。不同气 质类型的人会表现出不同的心理活动和行为方式。对下列几位学生气质类型的判 断，正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -43564,7 +43593,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0484",
+    "id": "MOCK-CHOICE-0485",
     "question": "下列复习方式中属于合理复习的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -43587,7 +43616,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0485",
+    "id": "MOCK-CHOICE-0486",
     "question": "著名认知教育心理学家奥苏伯尔根据学习进行的方式把学习分为( )",
     "type": "多选题",
     "module": "模拟题",
@@ -43611,7 +43640,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0486",
+    "id": "MOCK-CHOICE-0487",
     "question": "社会学习理论的创始人班杜拉认为，除了对直接行为后果的强化外，还 有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -43913,35 +43942,13 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0487",
-    "question": "C 本题考查的是教师的教师职业道德实践活动。教育无小事，事事是教 育，教师日常中的一言一行都是学生行为的榜样，那么教师需要注重教育教学中 的方方面面对学生的教育影响，这更体现在育人，即对学生思想品德方面的影响 上。故这体现了教书与育人的一致性。 选项 A，指工作和学习要相统一，做到终身学习。 选项 B，指教育实践过程中教师需要承担很多责任，教师的劳动也是十分复 杂的。 选项 D，指集体和个人相结合，相互促进共同发展。",
-    "type": "单选题",
-    "module": "模拟题",
-    "category": "选择题",
-    "tags": [
-      "教育学原理"
-    ],
-    "reference_answer": "",
-    "source_file": "115.模拟测试（一百一十五）附答案J.pdf",
-    "policy_basis": [
-      "115.模拟测试（一百一十五）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "A": "",
-      "B": "D 与题干不符，故本题选择 C 选项。"
-    },
-    "correct_answers": []
-  },
-  {
     "id": "MOCK-CHOICE-0488",
-    "question": "A 本题考查的是教学过程的基本规律。题干中强调方法比结论重要反映 了能力发展是掌握知识的重要条件，因此当今学校教育的重点是培养学生能力， 学生掌握知识的速度与质量，依赖于学生所具有的能力水平的高低。因此教学中 教师应启发学生运用自己潜在能力，使学生在掌握知识的过程中发展认识能力。 选项 B，这一思想由苏联教育家马卡连柯提出来的，是指将集体和个人相结 合，在集体中对学生进行教育，通过集体这一手段去影响学生，或通过某个学生 反过来影响集体。 选项 C，指在课堂教学过程中，教师要创设有利于学生学习的和谐融洽的教 学环境，妥善处理好教学过程中情感与认知的关系，充分发挥情感因素的积极作 用，通过情感交流增强学生积极的情感体验，培养和发展学生丰富的情感，激发 他们的求知欲和探索精神，促使他们形成独立健全的个性和人格。 选项 D，指通过教育培养学生正确的价值观念，与题干所描述方法、结论等 内容没有关系。",
-    "type": "单选题",
+    "question": "AB 本题考查的是意志的品质的相反品质。 示性的人，行动缺乏主见，没有信心。容易受别人左右，因而会随便改变自己原 来的决定。独断性的人则盲目自信，拒绝他人的合理意见和劝告，一意孤行，固 执己见。易受暗示性与独断性都是缺乏对事物自觉、正确的认识，分不清是非曲 直，而去遵循盲目的倾向。",
+    "type": "多选题",
     "module": "模拟题",
     "category": "选择题",
     "tags": [
-      "心理健康",
-      "教育学原理"
+      "综合知识"
     ],
     "reference_answer": "",
     "source_file": "115.模拟测试（一百一十五）附答案J.pdf",
@@ -43950,50 +43957,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "B": "",
-      "C": "D 与题意不符，故本题选择 A 选项。"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-CHOICE-0489",
-    "question": "D 本题考查的是尊重学生与严格要求学生相结合的原则。马卡连柯的话 反映了教师应该尽量严格要求学生，又要尽量尊重学生。尊重学生与严格要求相 结合原则符合题意。 选项 A，疏导原则是指进行德育要循循善诱，以理服人，从提高学生认识入 手，调动学生的主动性、使他们积极向上。教师要讲明道理，疏导思想，因势利 导，循循善诱。 选项 B，因材施教原则是指进行德育要从学生的思想认识和品德发展的实际 出发，根据他们的年龄特征和个性差异进行不同的教育，使每个学生的品德都能 得到更好的发展。 选项 C，导向性原则是指进行德育时要有一定的理想性和方向性，以指导学 生向正确的方向发展。 选项 D，尊重学生与严格要求学生相结合的原则既要尊重信任学生，又要对 学生提出严格的要求，把严和爱有机结合起来。",
-    "type": "单选题",
-    "module": "模拟题",
-    "category": "选择题",
-    "tags": [
-      "教育学原理"
-    ],
-    "reference_answer": "",
-    "source_file": "115.模拟测试（一百一十五）附答案J.pdf",
-    "policy_basis": [
-      "115.模拟测试（一百一十五）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "A": "",
-      "B": "C 与题意不符，故本题选择 D 选项。"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-CHOICE-0490",
-    "question": "B 本题考查的是德育原则的知识点。王老师在教育学生的过程中采取循 循善诱，以理服人等行为反映了疏导原则的要求。 选项 A，导向性原则是指进行德育时要有一定的理想性和方向性，以指导学 生向正确的方向发展。 选项 B，疏导原则是指进行德育要循循善诱，以理服人，从提高学生认识入 手，调动学生的主动性，使他们积极向上。符合题意。 选项 C，因材施教原则是指进行德育要从学生的思想认识和品德发展的实际 出发，根据他们的年龄特征和个性差异进行不同的教育，使每个学生的品德都能 得到更好的发展。 选项 D，教育影响的一致性与连贯性原则指德育工作中应主动协调多方面的 教育力量，统一认识和步调，有计划、有系统的发挥教育的整体功能，培养学生 正确的思想品德。",
-    "type": "单选题",
-    "module": "模拟题",
-    "category": "选择题",
-    "tags": [
-      "教育学原理"
-    ],
-    "reference_answer": "",
-    "source_file": "115.模拟测试（一百一十五）附答案J.pdf",
-    "policy_basis": [
-      "115.模拟测试（一百一十五）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "A": "",
-      "C": "D 与题意不符，因此选项 B 为正确答案。"
+      "C": "选项，任性是与意志的自制性相反的品质。任性的人自我约束力差，不能 有效地调节自己的言论和行动，不能控制自己的情绪，行为常常为情绪所支配。",
+      "D": "选项，动摇性是与意志的坚持性相反的品质。指是遇到困难便怀疑预定目 标，放弃对预定目标的追求，半途而废，缺乏坚韧性的软弱意志品质。 故本题答案为 AB。",
+      "A": "选项和",
+      "B": "选项，易受暗示性与独断性是与自觉性相反的意志品质。易受暗"
     },
     "correct_answers": []
   },
@@ -44491,7 +44458,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0491",
+    "id": "MOCK-CHOICE-0489",
     "question": "1953 年，清华大学在时任校长蒋南翔的倡导下，创建了“双肩挑”（ ） 制度。",
     "type": "单选题",
     "module": "模拟题",
@@ -44516,7 +44483,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0492",
+    "id": "MOCK-CHOICE-0490",
     "question": "在教学过程中教师采用画示意图的方式来表达、分析问题，帮助学生理解题目， 这属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -44541,7 +44508,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0493",
+    "id": "MOCK-CHOICE-0491",
     "question": "在一次英语考试中。小果考的很不好，班主任陈老师找她谈话时，小果说\"陈 老师\"我前段时间看到星座书，说我的星座最近几周都会很倒霉，果然这次就考 砸了，另一个学生彤彤这次考试取得很大的进步，她兴高采烈的告诉陈老师“我 前段时间特别努力，这次总算有回报了\"对此下列说法正确的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -44566,7 +44533,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0494",
+    "id": "MOCK-CHOICE-0492",
     "question": "落实专职思想政治工作人员和党务工作人员不低于全校师生人数的（ ）的要 求，确保学生党建工作力量配置，每个院（系）至少配备 1-2 名专职组织员",
     "type": "单选题",
     "module": "模拟题",
@@ -44591,7 +44558,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0495",
+    "id": "MOCK-CHOICE-0493",
     "question": "在高校学生资助体系中，家庭经济困难学生一般可通过以下哪项解决生活费问 题？ （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -44617,7 +44584,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0496",
+    "id": "MOCK-CHOICE-0494",
     "question": "《普通教育学》的作者是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -44642,7 +44609,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0497",
+    "id": "MOCK-CHOICE-0495",
     "question": "1904 年，中国第一个颁布并实施的学制是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -44667,7 +44634,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0498",
+    "id": "MOCK-CHOICE-0496",
     "question": "中国青年志愿者服务日是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -44692,7 +44659,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0499",
+    "id": "MOCK-CHOICE-0497",
     "question": "2025 年全国教育大会精神，高校辅导员开展思想政治教育的核心任务是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -44719,7 +44686,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0500",
+    "id": "MOCK-CHOICE-0498",
     "question": "高校辅导员的主要工作职责不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -44746,7 +44713,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0501",
+    "id": "MOCK-CHOICE-0499",
     "question": "心理健康教育课程在普通高校应设置为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -44773,7 +44740,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0502",
+    "id": "MOCK-CHOICE-0500",
     "question": "中国特色社会主义最本质的特征是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -44797,7 +44764,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0503",
+    "id": "MOCK-CHOICE-0501",
     "question": "教育目的可以发挥下列哪几种作用?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -44822,7 +44789,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0504",
+    "id": "MOCK-CHOICE-0502",
     "question": "确定社会主义教育目的的理论基础是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -44847,7 +44814,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0505",
+    "id": "MOCK-CHOICE-0503",
     "question": "我国全面发展教育的组成部分是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -45100,7 +45067,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0506",
+    "id": "MOCK-CHOICE-0504",
     "question": "为了规范党组讨论和决定党员处分事项，根据（ ），制定《党组讨论和决 定党员处分事项工作程序规定》。",
     "type": "多选题",
     "module": "模拟题",
@@ -45128,7 +45095,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0507",
+    "id": "MOCK-CHOICE-0505",
     "question": "教学内容的表现形式有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -45156,7 +45123,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0508",
+    "id": "MOCK-CHOICE-0506",
     "question": "2025 年 6 月 11 日，教育部发布《2024 年全国教育事业发展统计公报》。根据 公报，下列说法正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -45185,7 +45152,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0509",
+    "id": "MOCK-CHOICE-0507",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，实施劳动习惯养成计划， 提升学生（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -45212,7 +45179,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0510",
+    "id": "MOCK-CHOICE-0508",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，推动思想政治工作和信息 技术深度融合，打造网络思想政治教育特色品牌，加强青少年学生网络（ ） 等教育，塑造有利于青少年健康成长的网络空间和育人生态。",
     "type": "多选题",
     "module": "模拟题",
@@ -45241,7 +45208,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0511",
+    "id": "MOCK-CHOICE-0509",
     "question": "国家助学贷款最长贷款期限：剩余学制加（ ）年、最长不超过（ ）年。学 生毕业后不再继续攻读学位时， 自毕业当年起开始自付利息，在 5 年还本宽限 期内可只需偿还利息，如毕业后剩余贷款期限小于 5 年，按《借款 合同》约定 的还款计划还款。",
     "type": "多选题",
     "module": "模拟题",
@@ -45267,7 +45234,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0512",
+    "id": "MOCK-CHOICE-0510",
     "question": "习近平在河南考察时强调：坚定信心推动（ ）， 奋力谱写中原大地推进中 国式现代化新篇章。",
     "type": "多选题",
     "module": "模拟题",
@@ -45293,7 +45260,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0513",
+    "id": "MOCK-CHOICE-0511",
     "question": "高等学校应当制定辅导员管理岗位聘任办法，根据辅导员的（ ），确定相 应级别的管理岗位等级。",
     "type": "多选题",
     "module": "模拟题",
@@ -45320,7 +45287,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0514",
+    "id": "MOCK-CHOICE-0512",
     "question": "落实立德树人根本任务，必须将（ ）三者融为一体、不可割裂。",
     "type": "多选题",
     "module": "模拟题",
@@ -45347,7 +45314,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0515",
+    "id": "MOCK-CHOICE-0513",
     "question": "教育目的的制定要考虑的客观条件有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -45429,7 +45396,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0516",
+    "id": "MOCK-CHOICE-0514",
     "question": "教育要尊重学生的兴趣，需要和价值，教学应以学生为中心，持这一观点的 模拟测试（一百一十七） 是 ( )",
     "type": "单选题",
     "module": "模拟题",
@@ -45453,7 +45420,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0517",
+    "id": "MOCK-CHOICE-0515",
     "question": "红红看动画片时，妈妈喊她很多遍，她都没有听见。这种现象体现的注意特点 是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -45476,7 +45443,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0518",
+    "id": "MOCK-CHOICE-0516",
     "question": "一个正常儿童的发展总要经历一些共同的基本阶段，但在发展的速度上，发展 的水平上以及发展的优势领域往往是千差万别的，这说明发展具有( )",
     "type": "单选题",
     "module": "模拟题",
@@ -45499,7 +45466,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0519",
+    "id": "MOCK-CHOICE-0517",
     "question": "利用美化的校园环境，优良的校风和班风，美化的家庭环境和良好的家风进行 德育的方法是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -45524,7 +45491,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0520",
+    "id": "MOCK-CHOICE-0518",
     "question": "课堂上，学生们正在聚精会神地听讲，突然教室后排某位学生的书从书桌掉到 地上，发出响声，这时大部分学生都会不约而同地向后转头探究竟。这种注意属 于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -45547,7 +45514,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0521",
+    "id": "MOCK-CHOICE-0519",
     "question": "讲授法是我国课堂常见的教学方法，教师在运用讲授策略，开展教学过程中应 符合的要求不包括( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -46426,7 +46393,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0522",
+    "id": "MOCK-CHOICE-0520",
     "question": "根据思维任务的性质，内容和解决问题的方法不同，可分为( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46449,7 +46416,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0523",
+    "id": "MOCK-CHOICE-0521",
     "question": "意志的自觉性是指个体在行动中有明确的目的，能认识行动的社会意义，并能 够主动调和支配自己的行动以服从社会要求的意志品质。与其相反的意志品质是 ( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46472,7 +46439,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0524",
+    "id": "MOCK-CHOICE-0522",
     "question": "下列关于小学生学习兴趣的特点，表述正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46495,7 +46462,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0525",
+    "id": "MOCK-CHOICE-0523",
     "question": "产生对人的错觉的原因是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46518,7 +46485,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0526",
+    "id": "MOCK-CHOICE-0524",
     "question": "自我调控系统是人格中的内控系统或自控系统，它包含的子系统有( )，其 作用是对人格的各种成分进行调控，保证人格的完整、统一与和谐。",
     "type": "多选题",
     "module": "模拟题",
@@ -46541,7 +46508,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0527",
+    "id": "MOCK-CHOICE-0525",
     "question": "教育的社会属性主要包括( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46564,7 +46531,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0528",
+    "id": "MOCK-CHOICE-0526",
     "question": "遗传在人的发展中( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46587,7 +46554,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0529",
+    "id": "MOCK-CHOICE-0527",
     "question": "心理学家把气质分为多血质，胆汁质，粘液质和抑郁质四种类型。不同气质类 型的人会表现出不同的心理活动和行为方式。对下列几位学生气质类型的判断， 正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46610,7 +46577,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0530",
+    "id": "MOCK-CHOICE-0528",
     "question": "下列复习方式中属于合理复习的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -46633,7 +46600,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0531",
+    "id": "MOCK-CHOICE-0529",
     "question": "著名认知教育心理学家奥苏伯尔根据学习进行的方式把学习分为( )",
     "type": "多选题",
     "module": "模拟题",
@@ -47304,7 +47271,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0532",
+    "id": "MOCK-CHOICE-0530",
     "question": "我国古代教育内容 “六艺” 指的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47328,7 +47295,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0533",
+    "id": "MOCK-CHOICE-0531",
     "question": "学生掌握知识的中心环节是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47351,7 +47318,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0534",
+    "id": "MOCK-CHOICE-0532",
     "question": "最早提出 “教学具有教育性” 这一命题的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47375,7 +47342,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0535",
+    "id": "MOCK-CHOICE-0533",
     "question": "教育能够把潜在的劳动力转化为现实的劳动力，这体现了教育的什么功 能？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -47398,7 +47365,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0536",
+    "id": "MOCK-CHOICE-0534",
     "question": "教师职业道德的核心是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47421,7 +47388,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0537",
+    "id": "MOCK-CHOICE-0535",
     "question": "《教育强国建设规划纲要（2024—2035 年）》指出，到 2027 年的主要目 标不包括：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -47446,7 +47413,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0538",
+    "id": "MOCK-CHOICE-0536",
     "question": "“余音绕梁三日不绝”是对（ ）心理现象的描写。",
     "type": "单选题",
     "module": "模拟题",
@@ -47471,7 +47438,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0539",
+    "id": "MOCK-CHOICE-0537",
     "question": "国务院新闻办 2025 年 6 月 24 日举行新闻发布会宣布，2025 年____上午， 以中共中央、全国人大常委会、国务院、全国政协、中央军委名义，在北京天安 门广场隆重举行纪念中国人民抗日战争暨世界反法西斯战争胜利____周年大会， 包括检阅部队。习近平总书记将发表重要讲话。",
     "type": "单选题",
     "module": "模拟题",
@@ -47496,7 +47463,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0540",
+    "id": "MOCK-CHOICE-0538",
     "question": "一些人对权力、地位的追求，是需求层次理论中的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -47522,7 +47489,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0541",
+    "id": "MOCK-CHOICE-0539",
     "question": "2025 年 5 月 19 日至 20 日，主席在河南考察指出，（ ）是党中央 徙木立信之举，是新时代管党治党的标志性措施。",
     "type": "单选题",
     "module": "模拟题",
@@ -47547,7 +47514,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0542",
+    "id": "MOCK-CHOICE-0540",
     "question": "把高校毕业生就业作为重中之重，统筹抓好教育、培训和就业，以产业 端（ ）和就业端（ ）为指引，全链条优化培养供给、就业指导、求职招聘、 帮扶援助、监测评价等服务。",
     "type": "单选题",
     "module": "模拟题",
@@ -47573,7 +47540,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0543",
+    "id": "MOCK-CHOICE-0541",
     "question": "按照国家有关规定，高校每年应从事业收入中足额提取多少经费用于资 助家庭经济困难学生？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -47600,7 +47567,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0544",
+    "id": "MOCK-CHOICE-0542",
     "question": "2025 年 6 月 10 日，第十五届全国运动会奖牌在广州正式发布，奖牌取 名“（ ）”，设计融合粤港澳大湾区发展脉搏、中华文化底蕴与全运历史传 承。",
     "type": "单选题",
     "module": "模拟题",
@@ -47625,7 +47592,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0545",
+    "id": "MOCK-CHOICE-0543",
     "question": "教师在教学中经常对学生进行鼓励性反馈，以激发学生的学习动机，这 种动机属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47648,7 +47615,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0546",
+    "id": "MOCK-CHOICE-0544",
     "question": "学生在学习过程中出现一段时间的学习成绩和学习效率停滞不前，甚至 学过的知识感觉模糊的现象，称为（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47672,7 +47639,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0547",
+    "id": "MOCK-CHOICE-0545",
     "question": "学习动机中最现实、最活跃的成分是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47695,7 +47662,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0548",
+    "id": "MOCK-CHOICE-0546",
     "question": "我国教育目的的理论基础是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47719,7 +47686,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0549",
+    "id": "MOCK-CHOICE-0547",
     "question": "下列属于第二信号系统的条件反射的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47742,7 +47709,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0550",
+    "id": "MOCK-CHOICE-0548",
     "question": "根据《中华人民共和国教师法》，教师考核的内容不包括（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -47766,7 +47733,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0551",
+    "id": "MOCK-CHOICE-0549",
     "question": "以下属于《中华人民共和国教师法》规定的教师权利的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -47790,7 +47757,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0552",
+    "id": "MOCK-CHOICE-0550",
     "question": "关于教育与社会发展的关系，下列说法正确的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -47814,7 +47781,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0553",
+    "id": "MOCK-CHOICE-0551",
     "question": "以下哪些属于建构主义学习理论的观点？（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -47837,7 +47804,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0554",
+    "id": "MOCK-CHOICE-0552",
     "question": "以下关于教学方法的说法，正确的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -47860,7 +47827,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0555",
+    "id": "MOCK-CHOICE-0553",
     "question": "布鲁纳的认知结构学习理论的主要观点包括（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -47883,7 +47850,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0556",
+    "id": "MOCK-CHOICE-0554",
     "question": "以下哪些属于教育法律责任的构成要件？（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -48255,7 +48222,507 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
+    "id": "MOCK-CHOICE-0555",
+    "question": "She always _______ attention to her appearance before going out.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“pay attention to” 是固定搭配，意为 “注意”，是英语中表达 “关 注某事” 的常用短语，其他选项与 “attention” 搭配不符合习惯，故选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "pays",
+      "B": "takes",
+      "C": "makes",
+      "D": "gives"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0556",
+    "question": "The company decided to _______ an end to the project due to lack of funds.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“put an end to” 为固定短语，意思是 “终止，结束”，专门用于表示 使某事停止，其他选项无法与 “an end to” 构成此搭配，所以选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "do",
+      "B": "put",
+      "C": "make",
+      "D": "take"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
     "id": "MOCK-CHOICE-0557",
+    "question": "He _______ great pride in his children's achievements.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“take pride in” 是固定搭配，意为 “为…… 感到自豪”，强调对某事 产生的自豪情感，其他动词不能与 “pride” 形成该搭配，因此选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "does",
+      "B": "takes",
+      "C": "makes",
+      "D": "gives"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0558",
+    "question": "We need to _______ measures to protect the environment immediately.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“take measures” 是固定短语，意为 “采取措施”，“measures”（措施） 通常与 “take” 搭配使用，其他选项不适用，故选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "do",
+      "B": "take",
+      "C": "make",
+      "D": "get"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0559",
+    "question": "She _______ a mistake in the calculation, which led to the failure of the experiment.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“make a mistake” 是固定搭配，意为 “犯错误”，“mistake”（错误） 常与 “make” 搭配，这是英语中的习惯表达，其他选项不合适，所以选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "did",
+      "B": "made",
+      "C": "took",
+      "D": "got"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0560",
+    "question": "The old man _______ a living by selling vegetables in the market.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“earn a living” 是固定短语，意为 “谋生”，强调通过劳动获得生活 所需，“gains”“wins”“obtains” 虽有 “获得” 之意，但不与 “a living” 搭配，故选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "earns",
+      "B": "gains",
+      "C": "wins",
+      "D": "obtains"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0561",
+    "question": "They _______ an agreement after three hours of hard negotiation.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“make an agreement” 是固定搭配，意为 “达成协议”，“agreement” （协议）常与 “make” 搭配表示达成协议的动作，其他选项不恰当，因此选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "did",
+      "B": "made",
+      "C": "took",
+      "D": "kept"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0562",
+    "question": "The students _______ part in various after-school activities to enrich their life.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“take part in” 是固定短语，意为 “参加”，专门用于描述参与某项活 动，其他动词不能与 “part in” 构成此搭配，所以选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "take",
+      "B": "make",
+      "C": "do",
+      "D": "get"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0563",
+    "question": "He _______ no notice of the warning and continued his wrong behavior.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“pay no notice of” 是固定搭配，意为 “不理会，不注意”，“notice” （注意）常与 “pay” 搭配，其他选项不符合该搭配习惯，故选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "paid",
+      "B": "took",
+      "C": "made",
+      "D": "gave"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0564",
+    "question": "The team _______ efforts to win the championship, but finally failed.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“make efforts” 是固定搭配，意为 “努力”，“efforts”（努力）通常 与 “make” 搭配，表达付出努力的意思，其他选项不适用，因此选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "did",
+      "B": "made",
+      "C": "took",
+      "D": "put"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0565",
+    "question": "She _______ a promise to visit her grandparents every month.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“make a promise” 是固定搭配，意为 “许下承诺”，“promise”（承诺） 常与 “make” 搭配表示做出承诺的动作，其他选项不合适，所以选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "did",
+      "B": "made",
+      "C": "took",
+      "D": "kept"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0566",
+    "question": "We should _______ advantage of every opportunity to learn new things.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“take advantage of” 是固定短语，意为 “利用”，专门用于表示利用 机会等，其他动词不能与 “advantage of” 构成此搭配，故选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "take",
+      "B": "make",
+      "C": "do",
+      "D": "get"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0567",
+    "question": "The bad weather _______ an impact on our travel plans.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D 解析：“have an impact on” 是固定搭配，意为 “对…… 有影响”，“impact” （影响）常与 “have” 搭配，其他选项不与 “impact” 形成该搭配，因此选 D。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "did",
+      "B": "made",
+      "C": "took",
+      "D": "had"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0568",
+    "question": "He _______ a decision to quit his job and start his own business.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“make a decision” 是固定搭配，意为 “做决定”，“decision”（决定） 常与 “make” 搭配表示做出决定的动作，其他选项不恰当，所以选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "did",
+      "B": "made",
+      "C": "took",
+      "D": "got"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0569",
+    "question": "They _______ contact with each other after graduation and haven't met since then.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“lose contact with” 是固定搭配，意为 “与…… 失去联系”，根据语 境 “毕业后没再见面” 可知是失去了联系，其他选项不符合语境和搭配，故选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "lost",
+      "B": "made",
+      "C": "took",
+      "D": "kept"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0570",
+    "question": "With the rapid development of AI, many companies are _______ to adopt new technologies to improve efficiency.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "文化科技常识"
+    ],
+    "reference_answer": "A 解析：“be eager to do sth.” 表示 “渴望做某事”。随着人工智能的快速发 展，许多公司渴望采用新技术来提高效率。“reluctant” 意为 “不情愿的”； “hesitant” 意为 “犹豫的”；“anxious” 虽有 “急切的” 意思，但常带有 焦虑情绪，在此处不合适。所以选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "eager",
+      "B": "reluctant",
+      "C": "hesitant",
+      "D": "anxious"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0571",
+    "question": "In order to fight against climate change, countries around the world are urged to _______ carbon emissions.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“cut down” 有 “削减，减少” 的意思，“cut down carbon emissions” 即 “减少碳排放”，符合为应对气候变化，各国需减少碳排放这一语境。“cut off” 意为 “切断，中断”；“cut out” 意为 “裁剪，停止”；“cut in” 意为 “插 嘴，超车”，均不符合题意，所以选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "cut down",
+      "B": "cut off",
+      "C": "cut out",
+      "D": "cut in"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0572",
+    "question": "The government has _______ a new policy to promote the development of the electric vehicle industry.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "C 解析：“put forward” 表示 “提出”，“put forward a new policy” 即 “提 出一项新政策”。“put out” 意为 “熄灭，出版”；“put off” 意为 “推迟”； “put up” 意为 “张贴，搭建”，根据语境，政府提出新政策来促进电动汽车 行业发展，所以选 C。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "put out",
+      "B": "put off",
+      "C": "put forward",
+      "D": "put up"
+    },
+    "correct_answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0573",
+    "question": "The _______ of online shopping has changed people's consumption habits significantly.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B 解析：“emergence” 意为 “出现，兴起”，“the emergence of online shopping” 即 “网购的兴起”，强调从无到有的出现过程，符合网购兴起改变人们消费习惯 这一表述。“appearance” 强调外观；“presence” 强调存在的状态；“existence” 强调存在的事实，均不如 “emergence” 贴合语境，所以选 B。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "appearance",
+      "B": "emergence",
+      "C": "presence",
+      "D": "existence"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0574",
+    "question": "Many young people are crazy about live - streaming e - commerce, as it provides a new way to _______ products.",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "A 解析：“promote” 有 “推广，促销” 的意思，直播电商为推广产品提供了新 途径，“promote products” 是常见搭配。“progress” 意为 “进步”；“process” 意为 “处理”；“proceed” 意为 “继续进行”，都不符合 “推广产品” 的意 思，所以选 A。",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "promote",
+      "B": "progress",
+      "C": "process",
+      "D": "proceed"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0575",
     "question": "计算机中，负责指挥和协调计算机各部件工作的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48280,7 +48747,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0558",
+    "id": "MOCK-CHOICE-0576",
     "question": "下列属于内存储器的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48305,7 +48772,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0559",
+    "id": "MOCK-CHOICE-0577",
     "question": "操作系统的主要功能不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48330,7 +48797,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0560",
+    "id": "MOCK-CHOICE-0578",
     "question": "在计算机网络中，LAN 指的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48355,7 +48822,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0561",
+    "id": "MOCK-CHOICE-0579",
     "question": "下列不属于操作系统的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48380,7 +48847,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0562",
+    "id": "MOCK-CHOICE-0580",
     "question": "计算机硬件能直接识别和执行的语言是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48405,7 +48872,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0563",
+    "id": "MOCK-CHOICE-0581",
     "question": "二进制数 1010 转换为十进制数是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48430,7 +48897,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0564",
+    "id": "MOCK-CHOICE-0582",
     "question": "下列属于输出设备的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48455,7 +48922,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0565",
+    "id": "MOCK-CHOICE-0583",
     "question": "IPv4 地址由（ ）位二进制数组成",
     "type": "单选题",
     "module": "模拟题",
@@ -48480,7 +48947,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0566",
+    "id": "MOCK-CHOICE-0584",
     "question": "在 Word 中，要将文档中的某段文字设置为加粗，应使用的工具栏按钮是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48505,7 +48972,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0567",
+    "id": "MOCK-CHOICE-0585",
     "question": "计算机病毒具有的特性不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48530,7 +48997,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0568",
+    "id": "MOCK-CHOICE-0586",
     "question": "下列文件格式中，属于图像文件的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48555,7 +49022,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0569",
+    "id": "MOCK-CHOICE-0587",
     "question": "数据库中，数据表的一行称为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48580,7 +49047,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0570",
+    "id": "MOCK-CHOICE-0588",
     "question": "计算机的核心部件是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48605,7 +49072,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0571",
+    "id": "MOCK-CHOICE-0589",
     "question": "下列不属于计算机网络拓扑结构的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48630,7 +49097,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0572",
+    "id": "MOCK-CHOICE-0590",
     "question": "下列不属于我国宪法基本原则的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48655,7 +49122,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0573",
+    "id": "MOCK-CHOICE-0591",
     "question": "下列关于行政复议的说法，错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48680,7 +49147,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0574",
+    "id": "MOCK-CHOICE-0592",
     "question": "下列不属于我国公民基本权利的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48706,7 +49173,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0575",
+    "id": "MOCK-CHOICE-0593",
     "question": "下列关于刑法中刑事责任年龄的说法，错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48731,7 +49198,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0576",
+    "id": "MOCK-CHOICE-0594",
     "question": "下列属于行政强制措施的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48756,7 +49223,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0577",
+    "id": "MOCK-CHOICE-0595",
     "question": "下列关于法的效力层级的说法，正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48781,7 +49248,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0578",
+    "id": "MOCK-CHOICE-0596",
     "question": "下列不属于行政诉讼受案范围的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48806,7 +49273,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0579",
+    "id": "MOCK-CHOICE-0597",
     "question": "2025 年 7 月 6 日，金砖国家海关示范中心在（ ）启用。该中心通过建设 金砖国家“智慧海关”示范中心网、搭建能力建设共享平台等形式，全方位加强 金砖国家海关间的互联协作，为金砖国家间的经贸往来提供有力支持。",
     "type": "单选题",
     "module": "模拟题",
@@ -48831,7 +49298,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0580",
+    "id": "MOCK-CHOICE-0598",
     "question": "中央组织部最新党内统计数据显示，截至 2024 年底，中国共产党党员总数为 （ ）万名，党的基层组织（ ）万个。",
     "type": "单选题",
     "module": "模拟题",
@@ -48856,7 +49323,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0581",
+    "id": "MOCK-CHOICE-0599",
     "question": "下列不属于物权的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48881,7 +49348,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0582",
+    "id": "MOCK-CHOICE-0600",
     "question": "下列关于中国特色社会主义理论体系的说法，错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48906,7 +49373,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0583",
+    "id": "MOCK-CHOICE-0601",
     "question": "下列关于改革开放的说法，错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48931,7 +49398,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0584",
+    "id": "MOCK-CHOICE-0602",
     "question": "第 9 期《求是》杂志发表主席的重要文章《激励新时代青年在中国式现代化 建设中挺膺担当》。文章指出，共青团是促进青年健康成长的政治学校，（ ） 是共青团的第一属性。",
     "type": "单选题",
     "module": "模拟题",
@@ -48957,7 +49424,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0585",
+    "id": "MOCK-CHOICE-0603",
     "question": "下列关于新时代社会主要矛盾的说法，错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -48980,407 +49447,482 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
+    "id": "MOCK-CHOICE-0604",
+    "question": "下列关于我国基本经济制度的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "公有制为主体、多种所有制经济共同发展是我国的基本经济制度",
+      "B": "国有经济是国民经济的主导力量",
+      "C": "非公有制经济是社会主义市场经济的重要组成部分",
+      "D": "公有制经济和非公有制经济在国民经济中的地位是平等的"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0605",
+    "question": "下列关于货币的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "货币的本质是一般等价物",
+      "B": "货币具有价值尺度、流通手段、贮藏手段、支付手段和世界货币五种职能",
+      "C": "纸币是由国家（或某些地区）发行并强制使用的价值符号",
+      "D": "通货膨胀是指货币的发行量少于流通中所需要的货币量"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0606",
+    "question": "下列不属于市场机制的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "价格机制",
+      "B": "供求机制",
+      "C": "竞争机制",
+      "D": "调控机制"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0607",
+    "question": "下列关于财政政策的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "财政政策是国家宏观调控的重要手段之一",
+      "B": "财政政策的主要手段包括税收、国债、政府支出等",
+      "C": "扩张性财政政策是指通过增加财政支出、减少税收来刺激总需求",
+      "D": "紧缩性财政政策适用于经济过热、通货膨胀时期"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0608",
+    "question": "下列关于我国古代历史事件的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "文化科技常识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "商鞅变法发生在战国时期",
+      "B": "安史之乱发生在唐朝",
+      "C": "郑和下西洋发生在明朝",
+      "D": "洋务运动发生在清朝道光年间"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0609",
+    "question": "下列关于我国古代文学常识的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "文化科技常识"
+    ],
+    "reference_answer": "B",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "《诗经》是我国第一部诗歌总集",
+      "B": "李白是唐代伟大的现实主义诗人",
+      "C": "《三国演义》是我国第一部长篇章回体小说",
+      "D": "《红楼梦》是我国古代小说的巅峰之作"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0610",
+    "question": "下列不属于我国四大发明的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "C",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "造纸术",
+      "B": "火药",
+      "C": "地动仪",
+      "D": "指南针"
+    },
+    "correct_answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0611",
+    "question": "下列关于世界历史的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "文化科技常识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "文艺复兴运动起源于意大利",
+      "B": "第一次世界大战爆发于 1914 年",
+      "C": "巴黎公社是世界上第一个无产阶级政权",
+      "D": "十月革命发生在法国"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0612",
+    "question": "下列关于物理常识的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "C",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "声音的传播需要介质",
+      "B": "光在真空中的传播速度约为 3×10⁸米 / 秒",
+      "C": "重力的方向总是垂直向下的",
+      "D": "力的作用是相互的"
+    },
+    "correct_answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0613",
+    "question": "下列关于化学常识的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "氧气是一种无色无味的气体，具有助燃性",
+      "B": "二氧化碳是导致酸雨的主要气体",
+      "C": "水是由氢元素和氧元素组成的",
+      "D": "金属活动性顺序表中，钾的活动性最强"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0614",
+    "question": "下列关于生物常识的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "B",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "细胞是生物体结构和功能的基本单位",
+      "B": "光合作用的场所是线粒体",
+      "C": "DNA 是主要的遗传物质",
+      "D": "人体共有 206 块骨骼"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0615",
+    "question": "下列关于我国国情的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "我国领土面积约 960 万平方千米，居世界第三位",
+      "B": "我国人口分布的地理界线是黑河 — 腾冲一线",
+      "C": "我国共有 56 个民族，汉族人口最多",
+      "D": "我国的内海有渤海和黄海"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0616",
+    "question": "下列关于我国气候的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "我国气候复杂多样",
+      "B": "我国季风气候显著",
+      "C": "秦岭 — 淮河一线是我国亚热带与暖温带的分界线",
+      "D": "我国冬季气温南北差异小，夏季气温南北差异大"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0617",
+    "question": "下列不属于我国陆上邻国的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "C",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "俄罗斯",
+      "B": "印度",
+      "C": "日本",
+      "D": "蒙古"
+    },
+    "correct_answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0618",
+    "question": "下列关于计算机技术的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "计算机病毒具有传染性和破坏性",
+      "B": "二进制是计算机中数据的主要表示形式",
+      "C": "计算机硬件包括 CPU、内存、硬盘、显示器等",
+      "D": "操作系统是计算机最重要的应用软件"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0619",
+    "question": "下列关于公文知识的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "C",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "请示应当一文一事",
+      "B": "函适用于不相隶属机关之间商洽工作、询问和答复问题",
+      "C": "公文的成文日期以印发日期为准",
+      "D": "批复是用于答复下级机关请示事项的公文"
+    },
+    "correct_answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0620",
+    "question": "下列关于 “最近发展区” 的说法，错误的是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "D",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "由维果茨基提出",
+      "B": "指儿童现有发展水平与潜在发展水平之间的差距",
+      "C": "教学应走在发展前面",
+      "D": "强调儿童独立解决问题的能力"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0621",
+    "question": "教师在教学中 “授人以鱼” 不如 “授人以渔”，这体现的教学原则是（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "教育学原理"
+    ],
+    "reference_answer": "B",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "直观性原则",
+      "B": "启发性原则",
+      "C": "巩固性原则",
+      "D": "循序渐进原则"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-0622",
+    "question": "学生因 “亲其师” 而 “信其道”，这主要体现了教师的（ ）对学生的影 响",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "教育学原理"
+    ],
+    "reference_answer": "B",
+    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
+    "policy_basis": [
+      "119.模拟测试（一百一十九）附答案J.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "知识素养",
+      "B": "人格魅力",
+      "C": "教学能力",
+      "D": "道德品质"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
     "id": "MOCK-FJ-0199",
-    "question": "下列关于我国基本经济制度的说法，错误的是（ ） A. 公有制为主体、多种所有制经济共同发展是我国的基本经济制度 B. 国有经济是国民经济的主导力量 C. 非公有制经济是社会主义市场经济的重要组成部分 D. 公有制经济和非公有制经济在国民经济中的地位是平等的",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0200",
-    "question": "下列关于货币的说法，错误的是（ ） A. 货币的本质是一般等价物 B. 货币具有价值尺度、流通手段、贮藏手段、支付手段和世界货币五种职能 C. 纸币是由国家（或某些地区）发行并强制使用的价值符号 D. 通货膨胀是指货币的发行量少于流通中所需要的货币量",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0201",
-    "question": "下列不属于市场机制的是（ ） A. 价格机制 B. 供求机制 C. 竞争机制 D. 调控机制",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0202",
-    "question": "下列关于财政政策的说法，错误的是（ ） A. 财政政策是国家宏观调控的重要手段之一 B. 财政政策的主要手段包括税收、国债、政府支出等 C. 扩张性财政政策是指通过增加财政支出、减少税收来刺激总需求 D. 紧缩性财政政策适用于经济过热、通货膨胀时期",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0203",
-    "question": "下列关于我国古代历史事件的说法，错误的是（ ） A. 商鞅变法发生在战国时期 B. 安史之乱发生在唐朝 C. 郑和下西洋发生在明朝 D. 洋务运动发生在清朝道光年间",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "文化科技常识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0204",
-    "question": "下列关于我国古代文学常识的说法，错误的是（ ） A. 《诗经》是我国第一部诗歌总集 B. 李白是唐代伟大的现实主义诗人 C. 《三国演义》是我国第一部长篇章回体小说 D. 《红楼梦》是我国古代小说的巅峰之作",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "文化科技常识"
-    ],
-    "reference_answer": "B",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0205",
-    "question": "下列不属于我国四大发明的是（ ） A. 造纸术 B. 火药 C. 地动仪 D. 指南针",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "C",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0206",
-    "question": "下列关于世界历史的说法，错误的是（ ） A. 文艺复兴运动起源于意大利 B. 第一次世界大战爆发于 1914 年 C. 巴黎公社是世界上第一个无产阶级政权 D. 十月革命发生在法国",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "文化科技常识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0207",
-    "question": "下列关于物理常识的说法，错误的是（ ） A. 声音的传播需要介质 B. 光在真空中的传播速度约为 3×10⁸米 / 秒 C. 重力的方向总是垂直向下的 D. 力的作用是相互的",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "C",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0208",
-    "question": "下列关于化学常识的说法，错误的是（ ） A. 氧气是一种无色无味的气体，具有助燃性 B. 二氧化碳是导致酸雨的主要气体 C. 水是由氢元素和氧元素组成的 D. 金属活动性顺序表中，钾的活动性最强",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "B",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0209",
-    "question": "下列关于生物常识的说法，错误的是（ ） A. 细胞是生物体结构和功能的基本单位 B. 光合作用的场所是线粒体 C. DNA 是主要的遗传物质 D. 人体共有 206 块骨骼",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "B",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0210",
-    "question": "下列关于我国国情的说法，错误的是（ ） A. 我国领土面积约 960 万平方千米，居世界第三位 B. 我国人口分布的地理界线是黑河 — 腾冲一线 C. 我国共有 56 个民族，汉族人口最多 D. 我国的内海有渤海和黄海",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "文化科技常识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0211",
-    "question": "下列关于我国气候的说法，错误的是（ ） A. 我国气候复杂多样 B. 我国季风气候显著 C. 秦岭 — 淮河一线是我国亚热带与暖温带的分界线 D. 我国冬季气温南北差异小，夏季气温南北差异大",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0212",
-    "question": "下列不属于我国陆上邻国的是（ ） A. 俄罗斯 B. 印度 C. 日本 D. 蒙古",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "C",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0213",
-    "question": "下列关于计算机技术的说法，错误的是（ ） A. 计算机病毒具有传染性和破坏性 B. 二进制是计算机中数据的主要表示形式 C. 计算机硬件包括 CPU、内存、硬盘、显示器等 D. 操作系统是计算机最重要的应用软件",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0214",
-    "question": "下列关于公文知识的说法，错误的是（ ） A. 请示应当一文一事 B. 函适用于不相隶属机关之间商洽工作、询问和答复问题 C. 公文的成文日期以印发日期为准 D. 批复是用于答复下级机关请示事项的公文",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "综合知识"
-    ],
-    "reference_answer": "C",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0215",
-    "question": "下列关于 “最近发展区” 的说法，错误的是（ ） A. 由维果茨基提出 B. 指儿童现有发展水平与潜在发展水平之间的差距 C. 教学应走在发展前面 D. 强调儿童独立解决问题的能力",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "教育学原理"
-    ],
-    "reference_answer": "D",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0216",
-    "question": "教师在教学中 “授人以鱼” 不如 “授人以渔”，这体现的教学原则是（ ） A. 直观性原则 B. 启发性原则 C. 巩固性原则 D. 循序渐进原则",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "教育学原理"
-    ],
-    "reference_answer": "B",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0217",
-    "question": "学生因 “亲其师” 而 “信其道”，这主要体现了教师的（ ）对学生的影 响 A. 知识素养 B. 人格魅力 C. 教学能力 D. 道德品质",
-    "type": "判断题",
-    "module": "模拟题",
-    "category": "填空/判断题",
-    "tags": [
-      "心理健康",
-      "教育学原理"
-    ],
-    "reference_answer": "B",
-    "source_file": "119.模拟测试（一百一十九）附答案J.pdf",
-    "policy_basis": [
-      "119.模拟测试（一百一十九）附答案J.pdf"
-    ],
-    "review_status": "PDF自动导入",
-    "options": {
-      "正确": "正确",
-      "错误": "错误"
-    },
-    "correct_answers": []
-  },
-  {
-    "id": "MOCK-FJ-0218",
     "question": "下列不属于奥苏贝尔有意义学习条件的是（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -49417,7 +49959,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0586",
+    "id": "MOCK-CHOICE-0623",
     "question": "下列属于计算机硬件系统的组成部分的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49445,7 +49987,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0587",
+    "id": "MOCK-CHOICE-0624",
     "question": "下列关于操作系统功能的描述中，正确的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49474,7 +50016,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0588",
+    "id": "MOCK-CHOICE-0625",
     "question": "下列属于计算机网络传输介质的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49502,7 +50044,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0589",
+    "id": "MOCK-CHOICE-0626",
     "question": "下列属于应用软件的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49530,7 +50072,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0590",
+    "id": "MOCK-CHOICE-0627",
     "question": "下列属于计算机病毒主要特性的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49558,7 +50100,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0591",
+    "id": "MOCK-CHOICE-0628",
     "question": "下列关于我国公民基本权利的说法，正确的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49586,7 +50128,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0592",
+    "id": "MOCK-CHOICE-0629",
     "question": "下列关于市场经济的说法，错误的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49612,7 +50154,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0593",
+    "id": "MOCK-CHOICE-0630",
     "question": "习近平在河南考察时强调：坚定信心推动（ ）， 奋力谱写中原大地推进中 国式现代化新篇章。",
     "type": "多选题",
     "module": "模拟题",
@@ -49638,7 +50180,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0594",
+    "id": "MOCK-CHOICE-0631",
     "question": "习近平在河南考察时强调，新时代新征程，河南要认真落实党中央关于中部地 区加快崛起、黄河流域生态保护和高质量发展等战略部署，坚持稳中求进工作总 基调，全面深化改革开放，（ ），以高质量发展和高效能治理奋力谱写中原大 地推进中国式现代化新篇章。",
     "type": "多选题",
     "module": "模拟题",
@@ -49666,7 +50208,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0595",
+    "id": "MOCK-CHOICE-0632",
     "question": "下列关于斯金纳操作性条件作用理论的说法中，正确的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -49746,7 +50288,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0596",
+    "id": "MOCK-CHOICE-0633",
     "question": "中央组织部最新党内统计数据显示，截至 2024 年底，中国共产 辅导员岗模拟测试&模拟题（一百二十） 党 党员总数为（ ）万名，党的基层组织（ ）万个。",
     "type": "单选题",
     "module": "模拟题",
@@ -49772,7 +50314,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0597",
+    "id": "MOCK-CHOICE-0634",
     "question": "中国共产党第一次全国代表大会召开的时间是（ ）​",
     "type": "单选题",
     "module": "模拟题",
@@ -49797,7 +50339,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0598",
+    "id": "MOCK-CHOICE-0635",
     "question": "中国共产主义青年团的团旗象征着（ ）​",
     "type": "单选题",
     "module": "模拟题",
@@ -49822,7 +50364,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0599",
+    "id": "MOCK-CHOICE-0636",
     "question": "党的二十届三中全会指出，进一步全面深化改革的总目标是（ ）， 推进国家治理体系和治理能力现代化。",
     "type": "单选题",
     "module": "模拟题",
@@ -49847,7 +50389,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0600",
+    "id": "MOCK-CHOICE-0637",
     "question": "党的二十届三中全会提出，要完善推进高质量共建“一带一路”机 制，共建 “一带一路” 的重点是（ ）。​",
     "type": "单选题",
     "module": "模拟题",
@@ -49872,7 +50414,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0601",
+    "id": "MOCK-CHOICE-0638",
     "question": "​ 党的二十大报告指出，全面从严治党的核心是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -49897,7 +50439,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0602",
+    "id": "MOCK-CHOICE-0639",
     "question": "党的二十大报告指出，要健全（ ）制度体系，扩大人民有序政治 参与，保证人民依法实行民主选举、民主协商、民主决策、民主管理、 民主监督。",
     "type": "单选题",
     "module": "模拟题",
@@ -49922,7 +50464,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0603",
+    "id": "MOCK-CHOICE-0640",
     "question": "抗日战争时期，中国共产党领导的敌后战场的战略总后方和指挥中 枢是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -49947,7 +50489,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0604",
+    "id": "MOCK-CHOICE-0641",
     "question": "中华人民共和国的成立，标志着中国（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -49972,7 +50514,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0605",
+    "id": "MOCK-CHOICE-0642",
     "question": "马克思主义中国化的第二次飞跃是指（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -49998,7 +50540,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0606",
+    "id": "MOCK-CHOICE-0643",
     "question": "高校辅导员开展心理健康教育工作的核心任务是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50025,7 +50567,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0607",
+    "id": "MOCK-CHOICE-0644",
     "question": "以下不属于智力因素的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50050,7 +50592,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0608",
+    "id": "MOCK-CHOICE-0645",
     "question": "2024 年 8 月 26 日，《中共中央 国务院关于弘扬教育家精神加强 新时代高素质专业化教师队伍建设的意见》发布。《意见》指出，工 作中要坚持教育家精神铸魂强师，引导广大教师坚定（ ）的理想信 念。",
     "type": "单选题",
     "module": "模拟题",
@@ -50077,7 +50619,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0609",
+    "id": "MOCK-CHOICE-0646",
     "question": "以下有关“党的三个历史决议”对应正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -50101,7 +50643,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0610",
+    "id": "MOCK-CHOICE-0647",
     "question": "加大心理健康教育培训力度，对新入职的辅导员、研究生导师开 展心理健康教育基本知识和技能全覆盖培训，对所有辅导员每（ ） 年至少开展（ ）次心理健康教育专题培训。",
     "type": "单选题",
     "module": "模拟题",
@@ -50127,7 +50669,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0611",
+    "id": "MOCK-CHOICE-0648",
     "question": "学生在学习新知识时，常常会受到已有知识经验的影响，这种现 象在教育心理学中被称为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50153,7 +50695,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0612",
+    "id": "MOCK-CHOICE-0649",
     "question": "2025 年 4 月 24 日，神舟二十号载人飞船发射成功。本次任务中， （ ）空间再生实验是国内首次开展，首次在轨验证再生生物在微 重力下的组织修复能力，或推动人类肢体再生医学突破。",
     "type": "单选题",
     "module": "模拟题",
@@ -50178,7 +50720,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0613",
+    "id": "MOCK-CHOICE-0650",
     "question": "教育部等十七部门联合印发的《全面加强和改进新时代学生心理 健康工作专项行动计划（2023—2025 年）》中，明确到 2025 年，开 展心理健康教育的家庭教育指导服务站点比例要达到多少？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50205,7 +50747,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0614",
+    "id": "MOCK-CHOICE-0651",
     "question": "2025 世界数字教育大会全体会议指出，智能时代的教育发展与转 型，最重要的策略是什么？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50232,7 +50774,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0615",
+    "id": "MOCK-CHOICE-0652",
     "question": "《教育强国建设规划纲要（2024－2035 年）》中，明确提出到 2035 年我国教育发展的总体目标是什么？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50257,7 +50799,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0616",
+    "id": "MOCK-CHOICE-0653",
     "question": "习近平总书记指出，建设教育强国要正确处理多种重大关系。其 中，把培养国家重大战略急需人才摆到突出位置，着力造就拔尖创新 人才，推动实现高水平科技自立自强，这主要体现了（ ）的关系。",
     "type": "单选题",
     "module": "模拟题",
@@ -50283,7 +50825,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0617",
+    "id": "MOCK-CHOICE-0654",
     "question": "中共中央政治局 2025 年 2 月 28 日上午就建设更高水平平安中国 进行第十九次集体学习。中共中央总书记习近平在主持学习时强调， 要把捍卫国家____摆在首位，坚定维护国家____。",
     "type": "单选题",
     "module": "模拟题",
@@ -50308,7 +50850,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0618",
+    "id": "MOCK-CHOICE-0655",
     "question": "《关于加快推进教育数字化的意见》指出，统筹推进大中小学人 工智能教育一体化，建设（ ）高校人工智能通识课程，建设一批 高校智慧课程。",
     "type": "单选题",
     "module": "模拟题",
@@ -50335,7 +50877,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0619",
+    "id": "MOCK-CHOICE-0656",
     "question": "教师在教授几何证明时，先示范完整解题过程，再逐步减少提示， 最终让学生独立完成。这种教学方法体现了（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50360,7 +50902,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0620",
+    "id": "MOCK-CHOICE-0657",
     "question": "学生将考试失败归因于 \"题目太难\"，这种归因属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -50385,7 +50927,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0621",
+    "id": "MOCK-CHOICE-0658",
     "question": "党在社会主义初级阶段基本路线的核心内容是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50410,7 +50952,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0622",
+    "id": "MOCK-CHOICE-0659",
     "question": "邓小平明确指出社会主义的本质是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -50435,7 +50977,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0623",
+    "id": "MOCK-CHOICE-0660",
     "question": "健全落实发展对象谈心谈话和政治审查制度。对发展对象应进行 短期集中培训，时间一般不少于（ ）个学时，培训突出思想入党和 政治引领，并结合社会实践和志愿服务等进行党情国情教育。",
     "type": "单选题",
     "module": "模拟题",
@@ -50462,7 +51004,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0624",
+    "id": "MOCK-CHOICE-0661",
     "question": "基层党组织应当把党史学习教育纳入年度工作计划，通过“三会 一课”、主题党日等形式开展党史学习教育，每年至少组织（ ）次以 党史为主要内容的学习或者主题党日。",
     "type": "单选题",
     "module": "模拟题",
@@ -50487,7 +51029,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0625",
+    "id": "MOCK-CHOICE-0662",
     "question": "《高等学校学生行为准则》规定：热爱祖国，服务人民，弘扬民 族精神，维护（ ）。不参与违反四项基本原则，影响国家统一和社 会稳定的活动。",
     "type": "单选题",
     "module": "模拟题",
@@ -50514,7 +51056,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0626",
+    "id": "MOCK-CHOICE-0663",
     "question": "根据《普通高等学校学生党建工作标准》，学生党支部的设立有助 于发挥（ ）作用。",
     "type": "多选题",
     "module": "模拟题",
@@ -50540,7 +51082,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0627",
+    "id": "MOCK-CHOICE-0664",
     "question": "加强与学生的网上互动交流，运用网络新媒体对学生开展 思想引领、（ ）等",
     "type": "多选题",
     "module": "模拟题",
@@ -50567,7 +51109,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0628",
+    "id": "MOCK-CHOICE-0665",
     "question": "据新华社 2025 年 7 月 2 日报道，中共中央总书记、国家主席、中 央军委主席习近平致信祝贺全国青联十四届全委会全国学联二十八 大召开指出，以中国式现代化全面推进强国建设、民族复兴伟业，青 年大有可为。广大青年要____，奋力书写挺膺担当的青春篇章。",
     "type": "多选题",
     "module": "模拟题",
@@ -50596,7 +51138,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0629",
+    "id": "MOCK-CHOICE-0666",
     "question": "根据《普通高等学校学生管理规定》，学生在校期间依法享有下列 哪些权利？（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -50628,7 +51170,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0630",
+    "id": "MOCK-CHOICE-0667",
     "question": "党对共青团和青年工作的领导全面加强，团的立身之本和政治之魂 更加牢固，共青团工作的方向任务更加明确，团组织的（ ）更加 鲜明，团干部的思想作风、工作作风、生活作风更加积极健康向上， 在广大青年群体中的形象焕然一新。",
     "type": "多选题",
     "module": "模拟题",
@@ -50655,7 +51197,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0631",
+    "id": "MOCK-CHOICE-0668",
     "question": "大学生思想政治教育工作队伍主体是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -50687,7 +51229,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0632",
+    "id": "MOCK-CHOICE-0669",
     "question": "高校辅导员队伍是和（ ）同等重要的“第四支队伍”。",
     "type": "多选题",
     "module": "模拟题",
@@ -50715,7 +51257,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0633",
+    "id": "MOCK-CHOICE-0670",
     "question": "高校辅导员队伍是和高校教学、科研、管理同等重要的“第四支队 伍”，是（ ），是建设中国特色世界一流大学和实现教育强国不可 或缺的重要力量。",
     "type": "多选题",
     "module": "模拟题",
@@ -50744,7 +51286,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0634",
+    "id": "MOCK-CHOICE-0671",
     "question": "国家助学贷款最长贷款期限：剩余学制加（ ）年、最长不超过（ ） 年。学生毕业后不再继续攻读学位时， 自毕业当年起开始自付利息， 在 5 年还本宽限期内可只需偿还利息，如毕业后剩余贷款期限小于 5 年，按《借款 合同》约定的还款计划还款。",
     "type": "多选题",
     "module": "模拟题",
@@ -50770,7 +51312,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0635",
+    "id": "MOCK-CHOICE-0672",
     "question": "辅导员要做好学生骨干的遴选、培养、激励工作，要考查学生思 想政治素质、（ ）等基本素养。",
     "type": "多选题",
     "module": "模拟题",
@@ -50799,7 +51341,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0219",
+    "id": "MOCK-FJ-0200",
     "question": "发展党员工作应当贯彻党的基本理论、基本路线、基本纲领、基本 经验、基本要求，按照 、 、 、 的总要 求，坚持党章规定的党员标准，始终把 放在首位。",
     "type": "填空题",
     "module": "模拟题",
@@ -50822,7 +51364,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0220",
+    "id": "MOCK-FJ-0201",
     "question": "高等学校要坚持把 作为中心环节把辅导员队伍建设 作为教师队伍和管理队伍建设的重要内容，整体规划、统筹安排，不 断 提 高 队 伍 的 专 业 水 平 和 职 业 能 力 ， 保 证 辅 导 员 、 、 、 。",
     "type": "填空题",
     "module": "模拟题",
@@ -50846,7 +51388,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0221",
+    "id": "MOCK-FJ-0202",
     "question": "高等学校应当制定辅导员管理岗位聘任办法，根据辅导员的 及 ，确定相应级别的管理岗位等级。",
     "type": "填空题",
     "module": "模拟题",
@@ -50866,7 +51408,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0222",
+    "id": "MOCK-FJ-0203",
     "question": "2025 年 5 月 19 日至 20 日，主席在河南考察指出， 是 党中央徙木立信之举，是新时代管党治党的标志性措施。",
     "type": "填空题",
     "module": "模拟题",
@@ -50885,7 +51427,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0223",
+    "id": "MOCK-FJ-0204",
     "question": "实施一流学科培优行动，推动学科融合发展，超常布局急需学科专 业，加强 、 、 建设，支持濒危学 科和冷门学科。",
     "type": "填空题",
     "module": "模拟题",
@@ -50904,7 +51446,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0224",
+    "id": "MOCK-FJ-0205",
     "question": "党的二十大以强烈的文化使命感，对推进文化自信自强，铸就社会 主义文化新辉煌作出部署，强调要坚持中国特色社会主义文化发展道 路，增强文化自信，围绕 、 、 、 、展形象，建设社会主义文化强国，增强实现中华民族 伟大复兴的精神力量。",
     "type": "填空题",
     "module": "模拟题",
@@ -50923,7 +51465,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0225",
+    "id": "MOCK-FJ-0206",
     "question": "中共十二大首次提出了 “建设有中国特色的社会主义” 这一重大 命题，此次大会确立了邓小平理论为党的指导思想。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -50945,7 +51487,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0226",
+    "id": "MOCK-FJ-0207",
     "question": "学生申诉处理委员会对学生提出的申诉进行复查，并在接到书面申 诉之日起 10 个工作日内作出复查结论并告知申诉人。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -50966,7 +51508,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0227",
+    "id": "MOCK-FJ-0208",
     "question": "学生自杀、自伤的学生伤害事故，学校已行了相应责任，行为并无 不当的，无法律责任。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -50989,7 +51531,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0228",
+    "id": "MOCK-FJ-0209",
     "question": "接受非学历高等教育的学生，成绩合格，由所在高等学校或者其他 高等教育机构发给相应的肄业证书。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -51010,7 +51552,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0229",
+    "id": "MOCK-FJ-0210",
     "question": "人才能够催生新产业、新模式、新动能，是发展新质生产力的核心 要素。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -51100,7 +51642,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0636",
+    "id": "MOCK-CHOICE-0673",
     "question": "习近平总书记在河南洛阳轴承集团股份有限公司考察时强调，现代制造业离 模拟题&模拟测试（一百二十一） 不 开（ ），要大力加强技术攻关，走自主创新的发展路子。",
     "type": "单选题",
     "module": "模拟题",
@@ -51125,7 +51667,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0637",
+    "id": "MOCK-CHOICE-0674",
     "question": "《关于推动现代职业教育高质量发展的意见》强调，要深化产教融合、校企合 作，鼓励企业举办高质量职业教育，探索（ ）的办学模式。",
     "type": "单选题",
     "module": "模拟题",
@@ -51150,7 +51692,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0638",
+    "id": "MOCK-CHOICE-0675",
     "question": "《教育强国建设规划纲要（2024 - 2035 年）》中提出，要全面构建多个教育 体系以实现教育强国目标，以下不属于其中的是（ ）​",
     "type": "单选题",
     "module": "模拟题",
@@ -51177,7 +51719,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0639",
+    "id": "MOCK-CHOICE-0676",
     "question": "下列不属于德育原则的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51202,7 +51744,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0640",
+    "id": "MOCK-CHOICE-0677",
     "question": "学生在课堂上能够根据老师的要求思考问题，并能够克服外界干扰完成作业， 这体现了学生的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51227,7 +51769,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0641",
+    "id": "MOCK-CHOICE-0678",
     "question": "在德育过程中，教师通过摆事实、讲道理，使学生提高认识、形成正确观点的 方法是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51252,7 +51794,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0642",
+    "id": "MOCK-CHOICE-0679",
     "question": "某学生在学习 “三角形” 概念后，认为 “由三条线段组成的图形就是三角 形”，当老师给出 “三条线段组成的折线图形” 时，该学生才意识到自己理解 的偏差。这一过程体现了（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51277,7 +51819,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0643",
+    "id": "MOCK-CHOICE-0680",
     "question": "下列关于教育起源的理论中，认为教育起源于儿童对成人无意识模仿的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51302,7 +51844,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0644",
+    "id": "MOCK-CHOICE-0681",
     "question": "在教学过程中，教师利用学生已有知识经验引出新知识的教学环节被称为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51327,7 +51869,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0645",
+    "id": "MOCK-CHOICE-0682",
     "question": "下列关于教育目的与培养目标的说法，正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51352,7 +51894,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0646",
+    "id": "MOCK-CHOICE-0683",
     "question": "学生在解决数学难题时，能够从不同角度思考，提出多种解法，这体现了其 思维的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51377,7 +51919,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0647",
+    "id": "MOCK-CHOICE-0684",
     "question": "某学生认为 “惩罚是万能的”，只要犯错就必须严厉惩罚，否则无法改正。 这种认知偏差属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51402,7 +51944,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0648",
+    "id": "MOCK-CHOICE-0685",
     "question": "下列不属于建构主义学习理论基本观点的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51427,7 +51969,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0649",
+    "id": "MOCK-CHOICE-0686",
     "question": "2025 年职业教育活动周主题为“（ ）”",
     "type": "单选题",
     "module": "模拟题",
@@ -51452,7 +51994,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0650",
+    "id": "MOCK-CHOICE-0687",
     "question": "国务院决定自（ ）年起，开始举办“职业教育活动周”。",
     "type": "单选题",
     "module": "模拟题",
@@ -51477,7 +52019,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0651",
+    "id": "MOCK-CHOICE-0688",
     "question": "2025 年职业教育活动周，河南省的活动主题是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51502,7 +52044,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0652",
+    "id": "MOCK-CHOICE-0689",
     "question": "中央八项规定是在哪一年审议通过的？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51527,7 +52069,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0653",
+    "id": "MOCK-CHOICE-0690",
     "question": "神舟二十号载人飞船发射的时间是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51552,7 +52094,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0654",
+    "id": "MOCK-CHOICE-0691",
     "question": "某学生为了获得老师的表扬而努力学习，这种学习动机属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51577,7 +52119,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0655",
+    "id": "MOCK-CHOICE-0692",
     "question": "学生在记忆英语单词时，将 “gas（煤气）” 记为 “该死”，这种记忆方法 属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51602,7 +52144,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0656",
+    "id": "MOCK-CHOICE-0693",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，把学校思想政治教育贯穿 各学科体系、教学体系、教材体系、管理体系，融入（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -51631,7 +52173,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0657",
+    "id": "MOCK-CHOICE-0694",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，实施职业教育教学关键要 素改革，系统推进专业、课程、教材、教师、实习实训改革，建设集（ ）功 能于一体的实习实训基地。",
     "type": "多选题",
     "module": "模拟题",
@@ -51659,7 +52201,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0658",
+    "id": "MOCK-CHOICE-0695",
     "question": "下列属于教育学创立阶段代表人物的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -51687,7 +52229,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0659",
+    "id": "MOCK-CHOICE-0696",
     "question": "下列属于德育方法中榜样示范法的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -51849,7 +52391,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0660",
+    "id": "MOCK-CHOICE-0697",
     "question": "在“高质量完成‘十四五’规划”首场发布会上，国家发展改革委主任郑栅 模拟题&模拟测试（一百二十二） 洁 介绍了我国“十四五”时期经济社会发展成就。下列相关说法错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -51874,7 +52416,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0661",
+    "id": "MOCK-CHOICE-0698",
     "question": "2025 年 6 月 24 日，国新办新闻发布会消息，9 月 3 日，将在北京天安门广场 隆重举行纪念中国人民抗日战争暨世界反法西斯战争胜利________周年大会，包 括检阅部队。",
     "type": "单选题",
     "module": "模拟题",
@@ -51899,7 +52441,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0662",
+    "id": "MOCK-CHOICE-0699",
     "question": "2025 年 6 月 21 日，中国奥委会举行 2025 年第 39 届奥林匹克日活动，迎接 6 月 23 日国际奥林匹克日。本届活动延续________的主题，覆盖北京、深圳、南 京等地，开展了奥林匹克日健康跑、奥林匹克文化营等活动。",
     "type": "单选题",
     "module": "模拟题",
@@ -51924,7 +52466,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0663",
+    "id": "MOCK-CHOICE-0700",
     "question": "2025 年 6 月 19 日，2025 年第 12 届世界运动会奖牌________正式亮相。",
     "type": "单选题",
     "module": "模拟题",
@@ -51949,7 +52491,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0664",
+    "id": "MOCK-CHOICE-0701",
     "question": "2025 年 7 月 11 日，联合国教科文组织第 47 届世界遗产大会通过决议，将 “（ ）”列入《世界遗产名录》。至此，中国世界遗产总数达到（ ） 项。",
     "type": "单选题",
     "module": "模拟题",
@@ -51974,7 +52516,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0665",
+    "id": "MOCK-CHOICE-0702",
     "question": "中国式现代化的本质要求是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -51999,7 +52541,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0666",
+    "id": "MOCK-CHOICE-0703",
     "question": "以下关于二十届三中全会中通过的《决定》中的\"进一步全面深化改革的总目 标\"表述正确的有（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52024,7 +52566,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0667",
+    "id": "MOCK-CHOICE-0704",
     "question": "二十届三中全会中通过的《决定》中指出，到（ ）时，完成本决定提出的 改革任务。",
     "type": "单选题",
     "module": "模拟题",
@@ -52049,7 +52591,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0668",
+    "id": "MOCK-CHOICE-0705",
     "question": "下列关于课程资源的说法中，正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52074,7 +52616,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0669",
+    "id": "MOCK-CHOICE-0706",
     "question": "（ ）是促进个体发展从潜在的可能状态转向现实状态的决定性因素。",
     "type": "单选题",
     "module": "模拟题",
@@ -52099,7 +52641,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0670",
+    "id": "MOCK-CHOICE-0707",
     "question": "教育心理学的发展历程大致经历了四个时期，每个时期都有一些心理学家提 出的主张，下列说法不正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52125,7 +52667,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0671",
+    "id": "MOCK-CHOICE-0708",
     "question": "提出“囊括大典，网罗众家，思想自由，兼容并包”的方法方针的教育家是 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52150,7 +52692,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0672",
+    "id": "MOCK-CHOICE-0709",
     "question": "显性课程和隐性课程是根据（ ）的不同而划分的。",
     "type": "单选题",
     "module": "模拟题",
@@ -52175,7 +52717,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0673",
+    "id": "MOCK-CHOICE-0710",
     "question": "决定个体的外显和内隐行为，并使其与他人的行为有稳定区别的综合心理特 征称之为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52201,7 +52743,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0674",
+    "id": "MOCK-CHOICE-0711",
     "question": "李老师每次上新课前，都会预设问题激发兴趣，并让学生提前进行预习，这 符合桑代克学习定律中的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52226,7 +52768,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0675",
+    "id": "MOCK-CHOICE-0712",
     "question": "在教育教学中，教师能够因势利导、灵活应变、对症下药，这体现了教师的 哪种特殊能力（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52251,7 +52793,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0676",
+    "id": "MOCK-CHOICE-0713",
     "question": "德育的认知模式是由（ ）提出的。",
     "type": "单选题",
     "module": "模拟题",
@@ -52276,7 +52818,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0677",
+    "id": "MOCK-CHOICE-0714",
     "question": "我们到一个地方去办事，会事先在头脑中想出可能到达的道路，经过分析与 比较，最后选择一条短而方便的路。这样的思维是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52301,7 +52843,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0678",
+    "id": "MOCK-CHOICE-0715",
     "question": "学生使用“我能应付这个考试”“无论考试的结果如何，都将不会是最后一次” 等正向的自我对话来缓解考试焦虑，这种方法是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52326,7 +52868,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0679",
+    "id": "MOCK-CHOICE-0716",
     "question": "衡量教师是否成熟的主要标志是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52351,7 +52893,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0680",
+    "id": "MOCK-CHOICE-0717",
     "question": "从教学改革的角度看，新课程改革的显著特征和核心任务是促进（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52376,7 +52918,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0681",
+    "id": "MOCK-CHOICE-0718",
     "question": "某学生活泼好动，善于交际，思维敏捷，容易接受新鲜事物，情绪情感容易 产生也容易变化和消失。该学生的气质类型偏向于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52401,7 +52943,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0682",
+    "id": "MOCK-CHOICE-0719",
     "question": "评价一节课好坏的最主要标准是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52426,7 +52968,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0683",
+    "id": "MOCK-CHOICE-0720",
     "question": "小李在校园招聘会上收到一家工资很高的用人单位的招聘意向，但是公司要 求经常出差，这让小李举棋不定。这种心理冲突是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52452,7 +52994,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0684",
+    "id": "MOCK-CHOICE-0721",
     "question": "在学习汉字时，对“已”“巳”的区分，体现了（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52477,7 +53019,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0685",
+    "id": "MOCK-CHOICE-0722",
     "question": "苏霍姆林斯基有一个精辟的比喻：要像对待荷叶上的露珠一样，小心翼翼地 保护学生幼小的心灵。晶莹透亮的露珠是美丽可爱的，但十分脆弱，一不小心就 会滚落破碎，不复存在。这提示我们，在教育中要贯彻教师职业道德基本原则中 的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52502,7 +53044,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0686",
+    "id": "MOCK-CHOICE-0723",
     "question": "《学记》是中国古代也是世界上最早的专门论述教育问题的论著，其思想观 点不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52527,7 +53069,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0687",
+    "id": "MOCK-CHOICE-0724",
     "question": "教师在教学过程中有目的地创设具有一定情绪色彩的生动具体的场景，以引 起学生的情感体验，帮助学生理解教材，并使学生的心理机能得到发展，这种教 学方法是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52553,7 +53095,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0688",
+    "id": "MOCK-CHOICE-0725",
     "question": "游览过南京长江大桥的人，在头脑中再现该大桥的形象。在心理学上称为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52578,7 +53120,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0689",
+    "id": "MOCK-CHOICE-0726",
     "question": "下列关于“学习”的表述，正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -52603,7 +53145,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0690",
+    "id": "MOCK-CHOICE-0727",
     "question": "中国式现代化的基础性、战略性支撑是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52630,7 +53172,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0691",
+    "id": "MOCK-CHOICE-0728",
     "question": "教学过程的中心环节是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52657,7 +53199,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0692",
+    "id": "MOCK-CHOICE-0729",
     "question": "科学技术对教育的影响主要表现为（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52684,7 +53226,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0693",
+    "id": "MOCK-CHOICE-0730",
     "question": "良好的意志品质主要包括（ ）四个维度。",
     "type": "多选题",
     "module": "模拟题",
@@ -52713,7 +53255,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0694",
+    "id": "MOCK-CHOICE-0731",
     "question": "心理发展的不平衡性体现在（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52742,7 +53284,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0695",
+    "id": "MOCK-CHOICE-0732",
     "question": "教师职业道德评价的方法有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52772,7 +53314,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0696",
+    "id": "MOCK-CHOICE-0733",
     "question": "“把学生看成是独特的人”的基本含义是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52800,7 +53342,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0697",
+    "id": "MOCK-CHOICE-0734",
     "question": "情绪情感的功能包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52830,7 +53372,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0698",
+    "id": "MOCK-CHOICE-0735",
     "question": "个体自我意识发展经历的过程有（）",
     "type": "多选题",
     "module": "模拟题",
@@ -52858,7 +53400,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0699",
+    "id": "MOCK-CHOICE-0736",
     "question": "我国《教师资格条例》中要求教师必须满足以下哪些条件（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -52889,7 +53431,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0230",
+    "id": "MOCK-FJ-0211",
     "question": "受教育者在德育过程中既是德育的客体，又是德育的主体。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -52912,7 +53454,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0231",
+    "id": "MOCK-FJ-0212",
     "question": "班级越大，情感纽带的力量就越强。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -52933,7 +53475,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0232",
+    "id": "MOCK-FJ-0213",
     "question": "感觉仅依赖个别感觉器官的活动，而知觉依赖多种感觉器官的联合活动。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -52956,7 +53498,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0233",
+    "id": "MOCK-FJ-0214",
     "question": "高原现象是动作技能练习时普遍存在的现象，这可以随着坚持练习而克服。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -52977,7 +53519,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0234",
+    "id": "MOCK-FJ-0215",
     "question": "慎独是指通过自我批评、自我解剖，以达到自我否定、自我改造和自我完善的 目的。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -52998,7 +53540,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0235",
+    "id": "MOCK-FJ-0216",
     "question": "课程设计是将课程理念转化为课程实践活动的“桥梁”。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -53021,7 +53563,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0236",
+    "id": "MOCK-FJ-0217",
     "question": "我们阅读鲁迅的作品《祝福》中关于祥林嫂的文字描述时，想象出祥林嫂的形 象属于创造想象。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -53042,7 +53584,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0237",
+    "id": "MOCK-FJ-0218",
     "question": "政治经济制度与教育之间并不是只有单向的决定作用，它们之间是彼此制约的。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -53065,7 +53607,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0238",
+    "id": "MOCK-FJ-0219",
     "question": "学校的课程、教学中所采用的方法以及学校中每一样工作、学校生活中发生的 每一件小事，都充满了进行道德教育的可能性。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -53089,7 +53631,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0239",
+    "id": "MOCK-FJ-0220",
     "question": "将对象从背景中分离出来的知觉特性是整体性。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -53164,7 +53706,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0240",
+    "id": "MOCK-FJ-0221",
     "question": ".洛阳理工学院的校风是： 、 、 、 。",
     "type": "填空题",
     "module": "模拟题",
@@ -53181,7 +53723,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0241",
+    "id": "MOCK-FJ-0222",
     "question": "习近平在河南考察时强调，坚定信心推动 ，奋 力谱写 新篇章。",
     "type": "填空题",
     "module": "模拟题",
@@ -53198,7 +53740,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0242",
+    "id": "MOCK-FJ-0223",
     "question": "为贯彻落实党的二十届三中全会部署，巩固拓展学习贯彻习近平新时代中国特 色社会主义思想主题教育成果，巩固深化党纪学习教育成果，锲而不舍落实中央 八项规定精神，推进作风建设常态化长效化，经党中央同意，在全党开展深入贯 彻 。学习教育于 2025 年全国两会 后启动、 前基本结束。",
     "type": "填空题",
     "module": "模拟题",
@@ -53215,7 +53757,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0243",
+    "id": "MOCK-FJ-0224",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，拓展 和 空间和阵地。统筹推动价值引领、实践体验、环境营造，探索课上课下协同、校 内校外一体、线上线下融合的育人机制。",
     "type": "填空题",
     "module": "模拟题",
@@ -53232,7 +53774,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0244",
+    "id": "MOCK-FJ-0225",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，正确处理支撑国家战略和 满足民生需求、 、培养人才和满足社会需要、规范 有序和激发活力、 的关系。",
     "type": "填空题",
     "module": "模拟题",
@@ -53249,7 +53791,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0245",
+    "id": "MOCK-FJ-0226",
     "question": "把 “ 扶 困 ” 与 “ 扶 智 ”，“ 扶 困 ” 与 “ 扶 志 ” 结 合 起 来 ， 建 立 、 、 、 “四位一体”的发 展型资助体系。",
     "type": "填空题",
     "module": "模拟题",
@@ -53266,7 +53808,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0246",
+    "id": "MOCK-FJ-0227",
     "question": "党员 5 年内参加各类集中学习培训累计不少于 学时。",
     "type": "填空题",
     "module": "模拟题",
@@ -53283,7 +53825,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0247",
+    "id": "MOCK-FJ-0228",
     "question": "_______是检验高校一切工作的根本标准。",
     "type": "填空题",
     "module": "模拟题",
@@ -53300,7 +53842,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0248",
+    "id": "MOCK-FJ-0229",
     "question": "入学时，家庭经济特别困难的新生如暂时筹集不齐学费和住宿费，可在开学 报到的当天，通过学校开设的“ ”报到。",
     "type": "填空题",
     "module": "模拟题",
@@ -53317,7 +53859,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-CHOICE-0700",
+    "id": "MOCK-CHOICE-0737",
     "question": "洛阳理工学院始建于（ ）年，2007 年由洛阳工业高等专科学校与洛阳大 学合并，升格为本科院校，更名为洛阳理工学院。",
     "type": "单选题",
     "module": "模拟题",
@@ -53340,7 +53882,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0701",
+    "id": "MOCK-CHOICE-0738",
     "question": "学生党支部委员会坚持按期换届。合理控制学生党支部党员人数规模，一般在 ( )人以内。",
     "type": "单选题",
     "module": "模拟题",
@@ -53363,7 +53905,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0702",
+    "id": "MOCK-CHOICE-0739",
     "question": "预备党员预备期满需要继续考察和教育的,可以延长一次预备期,延长时间不 能少于（ ）年,最长不超过（ ）年。",
     "type": "单选题",
     "module": "模拟题",
@@ -53386,7 +53928,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0703",
+    "id": "MOCK-CHOICE-0740",
     "question": "新时代高校教师职业行为十项准则中，“不得通过课堂、论坛、讲座、信息网 络及其他渠道发表、转发错误观点，或编造散布虚假信息、不良信息。”属于哪 条准则的内容？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -53410,7 +53952,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0704",
+    "id": "MOCK-CHOICE-0741",
     "question": "辅导员要掌握学生思想行为特点及思想政治状况，有针对性地帮助学生处理好 思想认识、( )、学习生活、择业交友等方面的具体问题。",
     "type": "单选题",
     "module": "模拟题",
@@ -53434,7 +53976,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0705",
+    "id": "MOCK-CHOICE-0742",
     "question": "( ),是党在革命中战胜敌人的三大法宝。",
     "type": "单选题",
     "module": "模拟题",
@@ -53457,7 +53999,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0706",
+    "id": "MOCK-CHOICE-0743",
     "question": "从 2024 年起，将本专科生国家奖学金奖励名额由每年 名增加到 名，奖励标准由每生每年 提高到 。（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -53480,7 +54022,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0707",
+    "id": "MOCK-CHOICE-0744",
     "question": "“中国共产党”这一称谓的最早提出者是 。（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -53503,7 +54045,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0708",
+    "id": "MOCK-CHOICE-0745",
     "question": "共青团组织的四项根本职能是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -53526,7 +54068,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0709",
+    "id": "MOCK-CHOICE-0746",
     "question": "《关于进一步加强和改进新形势下高校宣传思想工作的意见》指出,加强和改 进新 形势下高校宣传思想工作的重点是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -53549,7 +54091,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0710",
+    "id": "MOCK-CHOICE-0747",
     "question": "习近平在河南考察时强调，新时代新征程，河南要认真落实党中央关于中部地 区加快崛起、黄河流域生态保护和高质量发展等战略部署，坚持稳中求进工作总 基调，全面深化改革开放，（ ），以高质量发展和高效能治理奋力谱写中原大 地推进中国式现代化新篇章。",
     "type": "多选题",
     "module": "模拟题",
@@ -53572,7 +54114,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0711",
+    "id": "MOCK-CHOICE-0748",
     "question": "高等教育的任务是培养具有( )和（ ）的高级专门人才，发展科学技术 文化，促进社会主义现代化建设。",
     "type": "多选题",
     "module": "模拟题",
@@ -53596,7 +54138,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0712",
+    "id": "MOCK-CHOICE-0749",
     "question": "辅导员是开展大学生思想政治教育的骨干力量，是高等学校学生日常思想政治 教育和管理工作的（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -53621,7 +54163,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0713",
+    "id": "MOCK-CHOICE-0750",
     "question": "坚持资助育人导向，在奖学金评选发放环节，全面考察学生的( )等方面的综 合表现，培养学生奋斗精神和感恩意识。",
     "type": "多选题",
     "module": "模拟题",
@@ -53645,7 +54187,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0714",
+    "id": "MOCK-CHOICE-0751",
     "question": "高校辅导员队伍是和（ ）同等重要的“第四支队伍”。",
     "type": "多选题",
     "module": "模拟题",
@@ -53770,7 +54312,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0249",
+    "id": "MOCK-FJ-0230",
     "question": "致知，致善，致能，致新",
     "type": "填空题",
     "module": "模拟题",
@@ -53787,7 +54329,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0250",
+    "id": "MOCK-FJ-0231",
     "question": "求真，惟实，开放，包容",
     "type": "填空题",
     "module": "模拟题",
@@ -53804,7 +54346,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0251",
+    "id": "MOCK-FJ-0232",
     "question": "高质量发展高效能治理 中原大地推进中国式现代化",
     "type": "填空题",
     "module": "模拟题",
@@ -53821,7 +54363,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0252",
+    "id": "MOCK-FJ-0233",
     "question": "中央八项规定精神学习教育 7 月底",
     "type": "填空题",
     "module": "模拟题",
@@ -53838,7 +54380,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0253",
+    "id": "MOCK-FJ-0234",
     "question": "实践育人 网络育人",
     "type": "填空题",
     "module": "模拟题",
@@ -53855,7 +54397,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0254",
+    "id": "MOCK-FJ-0235",
     "question": "知识学习和全面发展 扎根中国大地和借鉴国际经验",
     "type": "填空题",
     "module": "模拟题",
@@ -53872,7 +54414,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0255",
+    "id": "MOCK-FJ-0236",
     "question": "国家资助 学校奖助 社会捐助 学生自助",
     "type": "填空题",
     "module": "模拟题",
@@ -53889,7 +54431,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0256",
+    "id": "MOCK-FJ-0237",
     "question": "160",
     "type": "填空题",
     "module": "模拟题",
@@ -53906,7 +54448,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0257",
+    "id": "MOCK-FJ-0238",
     "question": "立德树人的成效",
     "type": "填空题",
     "module": "模拟题",
@@ -53923,7 +54465,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0258",
+    "id": "MOCK-FJ-0239",
     "question": "绿色通道",
     "type": "填空题",
     "module": "模拟题",
@@ -54056,7 +54598,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0715",
+    "id": "MOCK-CHOICE-0752",
     "question": "2025 年 1 月 21 日，主席在北京同俄罗斯总统普京举行视频会晤指出，今年是 中国人民抗日战争、苏联伟大卫国战争暨世界反法西斯战争胜利（ ）周 年，也是联合国成立（ ）周年。",
     "type": "单选题",
     "module": "模拟题",
@@ -54081,7 +54623,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0716",
+    "id": "MOCK-CHOICE-0753",
     "question": "抗日战争时期，中国共产党领导的八路军在华北地区发动的一次规模最大、持 续时间最长的战役是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54106,7 +54648,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0717",
+    "id": "MOCK-CHOICE-0754",
     "question": "学生小明去自习室自习，当他走到自习室门口的时候，听到同学们在里面大声 的说话，嬉戏打闹，所以他就掉头回寝室进行学习，这是属于（ ）作用。",
     "type": "单选题",
     "module": "模拟题",
@@ -54131,7 +54673,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0718",
+    "id": "MOCK-CHOICE-0755",
     "question": "党的根本宗旨是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -54156,7 +54698,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0719",
+    "id": "MOCK-CHOICE-0756",
     "question": "我国第一颗原子弹爆炸成功的时间是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -54181,7 +54723,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0720",
+    "id": "MOCK-CHOICE-0757",
     "question": "申请入党的人，要填写入党志愿书，要有（ ）名正式党员作介绍人，要经 过支部大会通过和上级党组织批准，并且经过预备期的考察，才能成为正式党员。",
     "type": "单选题",
     "module": "模拟题",
@@ -54206,7 +54748,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0721",
+    "id": "MOCK-CHOICE-0758",
     "question": "当一个人颜值比较高，他的其他同外表无关的表现也会得到更好的支持。这是 造成社会知觉偏差的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -54231,7 +54773,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0722",
+    "id": "MOCK-CHOICE-0759",
     "question": "中央八项规定是在哪一年审议通过的？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54256,7 +54798,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0723",
+    "id": "MOCK-CHOICE-0760",
     "question": "在哪次会议中毛泽东同志提出思想建党、政治建军的原则?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54281,7 +54823,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0724",
+    "id": "MOCK-CHOICE-0761",
     "question": "以下选项体现出循序渐进的教学原则的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -54306,7 +54848,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0725",
+    "id": "MOCK-CHOICE-0762",
     "question": "从 2024 年起，将本专科生国家奖学金奖励名额由每年 名增加到 名，奖励标准由每生每年 提高到 。（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54332,7 +54874,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0726",
+    "id": "MOCK-CHOICE-0763",
     "question": "从 2024 年起，将本专科生国家励志奖学金奖励标准由每生每年 提高 到 。（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54358,7 +54900,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0727",
+    "id": "MOCK-CHOICE-0764",
     "question": "新质生产力是（ ）起主导作用，摆脱传统经济增长方式、生产力发展路径， 具有高科技、高效能、高质量特征，符合新发展理念的先进生产力质态。",
     "type": "单选题",
     "module": "模拟题",
@@ -54383,7 +54925,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0728",
+    "id": "MOCK-CHOICE-0765",
     "question": "（ ）是新中国成立以来第一个被确立为国家安全工作指导思想的重大 战略思想，是新时代中特社主义思想的重要组成部分。",
     "type": "单选题",
     "module": "模拟题",
@@ -54408,7 +54950,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0729",
+    "id": "MOCK-CHOICE-0766",
     "question": "高校应当将党务工作和思想政治工作队伍建设纳入学校人才队伍建设总体规 划，专职党务工作人员和思想政治工作人员应当在编制内配足，总数不低于全校 师生人数的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54435,7 +54977,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0730",
+    "id": "MOCK-CHOICE-0767",
     "question": "亲人死亡、失恋、学业失败等造成的心理危机，属于心理危机类型中的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54460,7 +55002,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0731",
+    "id": "MOCK-CHOICE-0768",
     "question": "《教育强国建设规划纲要（2024—2035 年）》主要目标是：到 2027 年，教育 强国建设取得（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -54485,7 +55027,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0732",
+    "id": "MOCK-CHOICE-0769",
     "question": "教育部等八部门《关于加快构建高校思想政治工作体系的意见》 提出， 要 加强网络育人，各高校应按照在校生总数每生每年不低于( )的标准设立网络思 政工作专项经费。",
     "type": "单选题",
     "module": "模拟题",
@@ -54512,7 +55054,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0733",
+    "id": "MOCK-CHOICE-0770",
     "question": "党的最高理想和最终目标是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -54537,7 +55079,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0734",
+    "id": "MOCK-CHOICE-0771",
     "question": "师德的灵魂是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -54562,7 +55104,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0735",
+    "id": "MOCK-CHOICE-0772",
     "question": "学生在课堂上能够一边听讲，一边记笔记，这种现象属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54587,7 +55129,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0736",
+    "id": "MOCK-CHOICE-0773",
     "question": "德育过程的基本矛盾是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54612,7 +55154,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0737",
+    "id": "MOCK-CHOICE-0774",
     "question": "下列有关《学记》中的教育思想对应不正确的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -54638,7 +55180,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0738",
+    "id": "MOCK-CHOICE-0775",
     "question": "《普通高等学校辅导员队伍建设规定》要求，辅导员的配备应（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -54664,7 +55206,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0739",
+    "id": "MOCK-CHOICE-0776",
     "question": "中国文学史上第一部长篇叙事诗是____。",
     "type": "单选题",
     "module": "模拟题",
@@ -54689,7 +55231,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0740",
+    "id": "MOCK-CHOICE-0777",
     "question": "教学的教育性主要体现在教学过程的哪一条基本规律中?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -54714,7 +55256,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0741",
+    "id": "MOCK-CHOICE-0778",
     "question": "《教育部八部门关于加快构建高校思想政治工作体系的意见》推动“一站式” 学生社区建设，把校院领导力量,管理力量,服务力量,( )压到教育管理服务一 线，将社区打造成思想教育、师生交流、文化活动、生活服务于一体的教育生活 园地。",
     "type": "单选题",
     "module": "模拟题",
@@ -54741,7 +55283,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0742",
+    "id": "MOCK-CHOICE-0779",
     "question": "根据《普通高等学校学生管理规定》，学生对处分决定有异议的，在接到学校 处分决定书之日起（ ）日内，可以向学校学生申诉处理委员会提出书面申诉: 学生申诉处理委员会对学生提出的申诉进行复查，并在接到书面申诉之日起（ ） 个工作日内，作出复查结论并告知申诉人。",
     "type": "单选题",
     "module": "模拟题",
@@ -54767,7 +55309,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0743",
+    "id": "MOCK-CHOICE-0780",
     "question": "( )回答了“为谁培养人”、“培养什么样的人”、“怎样培养人”的问题。",
     "type": "单选题",
     "module": "模拟题",
@@ -54914,7 +55456,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0744",
+    "id": "MOCK-CHOICE-0781",
     "question": "《高等学校学生行为准则》第二条规定，热爱祖国，服务人民。弘扬民族精神 模拟测试&模拟题（一百二十五） ， 维护（ ）。不参与违反四项基本原则、影响国家统一和社会稳定的活动。",
     "type": "单选题",
     "module": "模拟题",
@@ -54938,7 +55480,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0745",
+    "id": "MOCK-CHOICE-0782",
     "question": "“政权是由枪杆子中取得的”这一论断是毛泽东在（ ）提出的。",
     "type": "单选题",
     "module": "模拟题",
@@ -54961,7 +55503,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0746",
+    "id": "MOCK-CHOICE-0783",
     "question": "根据《普通高等学校学生管理规定》，除开除学籍处分以外，给予学生处分一 般应当设置（ ）期限，到期按学校规定程序予以解除。解除处分后，学生获 得表彰、奖励及其他权益，不再受原处分的影响。",
     "type": "单选题",
     "module": "模拟题",
@@ -54985,7 +55527,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0747",
+    "id": "MOCK-CHOICE-0784",
     "question": "必须把教育摆在优先发展的战略地位思想的提出始自党的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -55008,7 +55550,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0748",
+    "id": "MOCK-CHOICE-0785",
     "question": "负责学位授予资格审批的单位应当自受理申请之日起（ ）内作出决议，并向 社会公示。公示期不少于（ ）。公示期内有异议的，应当组织复核。",
     "type": "单选题",
     "module": "模拟题",
@@ -55031,7 +55573,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0749",
+    "id": "MOCK-CHOICE-0786",
     "question": "《高等学校辅导员职业能力标准（暂行）》中尊重学生独立人格和个人隐私， 保护学生自尊心、 自信心和进取心，促进学生全面发展，努力培养社会主义合 格建设者和可靠接班人是辅导员职业守则的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -55056,7 +55598,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0750",
+    "id": "MOCK-CHOICE-0787",
     "question": "“不畏浮云遮望眼，只缘身在最高层“，出自诗人（ ）的《登飞来峰》一 诗。",
     "type": "单选题",
     "module": "模拟题",
@@ -55079,7 +55621,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0751",
+    "id": "MOCK-CHOICE-0788",
     "question": "办出世界一流大学必须牢牢抓住的核心点是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -55102,7 +55644,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0752",
+    "id": "MOCK-CHOICE-0789",
     "question": "《中共中央国务院关于全面深化新时代教师队伍建设改革的意见》中提出，深 化高等学校教师人事制度改革积极探索实行高等学校人员总量管理。严把高等学 校教师选聘关，实行思想政治素质和（ ）双重考察。",
     "type": "单选题",
     "module": "模拟题",
@@ -55126,7 +55668,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0753",
+    "id": "MOCK-CHOICE-0790",
     "question": "党的（ ）首次把筑牢中华民族共同体意识写入新修订的党章。",
     "type": "单选题",
     "module": "模拟题",
@@ -55149,7 +55691,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0754",
+    "id": "MOCK-CHOICE-0791",
     "question": "根据《中华人民共和国兵役法》,（ ）是中华人民共和国每一个公民的神 圣职责。所有公民，不分民族、种族、职业、家庭出身、宗教信仰和教育程度， 都有义务依照法律规定服兵役。",
     "type": "单选题",
     "module": "模拟题",
@@ -55172,7 +55714,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0755",
+    "id": "MOCK-CHOICE-0792",
     "question": "素质教育的重点是培养学生的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -55195,7 +55737,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0756",
+    "id": "MOCK-CHOICE-0793",
     "question": "对不同年龄阶段的学生，在教育内容和方法上应有所不同，而不能搞“一刀 切”“一锅煮”，这是遵循了个体身心发展（ ）的规律。",
     "type": "单选题",
     "module": "模拟题",
@@ -55218,7 +55760,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0757",
+    "id": "MOCK-CHOICE-0794",
     "question": "认为教育是扩充“善性”的过程，教育的目的在于“明人伦”，提出“富贵不 能淫，贫贱不能移，威武不能屈”的大丈夫人格的儒家代表人物是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -55241,7 +55783,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0758",
+    "id": "MOCK-CHOICE-0795",
     "question": "最早提出教师要做“人类灵魂的工程师”的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -55264,7 +55806,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0759",
+    "id": "MOCK-CHOICE-0796",
     "question": "中国特色社会主义的内在要求是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -55287,7 +55829,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0760",
+    "id": "MOCK-CHOICE-0797",
     "question": "在中国颂扬俄国十月革命的第一人（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -55310,7 +55852,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0761",
+    "id": "MOCK-CHOICE-0798",
     "question": "高校教师的基本道德要求是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -55334,7 +55876,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0762",
+    "id": "MOCK-CHOICE-0799",
     "question": "辅导员需要定期参加思想政治教育培训。基本培训期限：入职培训不少于（ ） 标准学时；中级不少于（ ）标准学时；高级不少于（ ）标准学时。",
     "type": "单选题",
     "module": "模拟题",
@@ -55358,7 +55900,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0763",
+    "id": "MOCK-CHOICE-0800",
     "question": "习近平总书记指出：“各国历史、文化、制度、发展水平不尽相同，但各国人 民都追求____的全人类共同价值。”",
     "type": "单选题",
     "module": "模拟题",
@@ -55381,7 +55923,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0764",
+    "id": "MOCK-CHOICE-0801",
     "question": "学校给予学生处分，应当坚持教育与惩戒相结合，与学生违法、违纪行为的性 质和过错的严重程度相适应。学校对学生的处分，应当做到（ )。",
     "type": "多选题",
     "module": "模拟题",
@@ -55404,7 +55946,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0765",
+    "id": "MOCK-CHOICE-0802",
     "question": "按照科尔伯格的道德认知发展理论，前习俗水平包括的发展阶段是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -55427,7 +55969,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0766",
+    "id": "MOCK-CHOICE-0803",
     "question": "做好心理辅导工作，必须遵循的原则有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -55450,7 +55992,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0767",
+    "id": "MOCK-CHOICE-0804",
     "question": "根据《普通高等学校学生管理规定》，学生有下列情形之一（ ），学校可予 退学处理。",
     "type": "多选题",
     "module": "模拟题",
@@ -55474,7 +56016,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0768",
+    "id": "MOCK-CHOICE-0805",
     "question": "《普通高等学校辅导员队伍建设规定》中规定专职辅导员是指在院（系）专职 从事大学生日常思想政治教育工作的人员，下列专职辅导员是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -55500,7 +56042,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0769",
+    "id": "MOCK-CHOICE-0806",
     "question": "2025 年 6 月 11 日，教育部发布《2024 年全国教育事业发展统计公报》。根据 公报，下列说法正确的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -55523,7 +56065,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0770",
+    "id": "MOCK-CHOICE-0807",
     "question": "办好中国的世界一流大学，要抓好（ ）三项基础性工作",
     "type": "多选题",
     "module": "模拟题",
@@ -55546,7 +56088,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0771",
+    "id": "MOCK-CHOICE-0808",
     "question": "辅导员选聘工作要在高等学校党委统一领导下进行，由（ ）等相关部门共 同组织开展。",
     "type": "多选题",
     "module": "模拟题",
@@ -55570,7 +56112,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0772",
+    "id": "MOCK-CHOICE-0809",
     "question": "确保广大学生始终忠于党、忠于国家、忠于人民、忠于社会主义，坚定（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -55593,7 +56135,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0773",
+    "id": "MOCK-CHOICE-0810",
     "question": "党对共青团和青年工作的领导全面加强，团的立身之本和政治之魂更加牢固， 共青团工作的方向任务更加明确，团组织的（ ）更加鲜明，团干部的思想作 风、工作作风、生活作风更加积极健康向上，在广大青年群体中的形象焕然一新。",
     "type": "多选题",
     "module": "模拟题",
@@ -55616,7 +56158,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0259",
+    "id": "MOCK-FJ-0240",
     "question": "《 教育 强国建设规划 纲要（ 2024 —2035 年 ）》指出 ，拓展 和 空间和阵地。统筹推动 、 、环境营造，探索课上课 下协同、校内校外一体、线上线下融合的育人机制。",
     "type": "填空题",
     "module": "模拟题",
@@ -55633,7 +56175,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0260",
+    "id": "MOCK-FJ-0241",
     "question": "党的七大提出的三大作风： 、 、 。",
     "type": "填空题",
     "module": "模拟题",
@@ -55650,7 +56192,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0261",
+    "id": "MOCK-FJ-0242",
     "question": "郑州轻工业大学的校风： 、 、 。",
     "type": "填空题",
     "module": "模拟题",
@@ -55667,7 +56209,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0262",
+    "id": "MOCK-FJ-0243",
     "question": "《全面加强和改进新时代学生心理健康工作专项行动计划（2023—2025 年）》 的指导思想，培育学生热爱生活、 、自尊自信、理性平和、乐观 向上的心理品质和不懈奋斗、 、百折不挠的意志品质，促进学 生思想道德素质、科学文化素质和身心健康素质协调发展，培养担当民族复兴大 任的时代新人。",
     "type": "填空题",
     "module": "模拟题",
@@ -55685,7 +56227,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0263",
+    "id": "MOCK-FJ-0244",
     "question": "习近平在河南考察时强调，坚定信心推动高质量发展高效能治理，奋力谱写中 原大地 新篇章。",
     "type": "填空题",
     "module": "模拟题",
@@ -55702,7 +56244,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0264",
+    "id": "MOCK-FJ-0245",
     "question": "习近平给谢依特小学戍边支教西部计划志愿者服务队队员的回信，希望广大青 年坚定理想信念， ， ，发扬奋斗精神，到祖 国和人民最需要的地方发光发热，为中国式现代化建设贡献青春力量。",
     "type": "填空题",
     "module": "模拟题",
@@ -55720,7 +56262,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0265",
+    "id": "MOCK-FJ-0246",
     "question": "教育部等九部门关于加快推进教育数字化的意见提出，坚持立德树人，坚 持 ，坚持 ，坚持以人为本，坚持改革创新，坚持 统筹规划，坚持安全发展，坚持开放合作。",
     "type": "填空题",
     "module": "模拟题",
@@ -55739,7 +56281,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0266",
+    "id": "MOCK-FJ-0247",
     "question": "社会主义制度是实现人的全面发展的社会条件， 是 培养全面发展的人的惟一途径。",
     "type": "填空题",
     "module": "模拟题",
@@ -55756,7 +56298,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0267",
+    "id": "MOCK-FJ-0248",
     "question": "五四精神的内涵是： 。",
     "type": "填空题",
     "module": "模拟题",
@@ -55773,7 +56315,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0268",
+    "id": "MOCK-FJ-0249",
     "question": "高等学校要坚持把 作为中心环节把辅导员队伍建设作为教师队伍 和管理队伍建设的重要内容，整体规划、统筹安排，不断提高队伍的专业水平和 职业能力，保证辅导员 。",
     "type": "填空题",
     "module": "模拟题",
@@ -55874,7 +56416,28 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0269",
+    "id": "MOCK-CHOICE-0811",
+    "question": "BC 本题考查科尔伯格的道德发展阶段论。前习俗水平包括服从与惩罚定向阶 段和相对功利取向阶段，相对功利取向阶段又称为朴素的利己主义定向阶段。",
+    "type": "多选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "",
+    "source_file": "125.模拟测试（一百二十五）附答案F.pdf",
+    "policy_basis": [
+      "125.模拟测试（一百二十五）附答案F.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "和",
+      "D": "选项是皮亚杰关于道德发展的理论。故本题选 BC。"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": "MOCK-FJ-0250",
     "question": "实践育人 网络育人 价值引领 实践体验",
     "type": "填空题",
     "module": "模拟题",
@@ -55891,7 +56454,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0270",
+    "id": "MOCK-FJ-0251",
     "question": "理论联系实际、密切联系群众、批评和自我批评",
     "type": "填空题",
     "module": "模拟题",
@@ -55908,7 +56471,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0271",
+    "id": "MOCK-FJ-0252",
     "question": "朴实、务实、扎实",
     "type": "填空题",
     "module": "模拟题",
@@ -55925,7 +56488,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0272",
+    "id": "MOCK-FJ-0253",
     "question": "珍视生命 荣辱不惊",
     "type": "填空题",
     "module": "模拟题",
@@ -55942,7 +56505,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0273",
+    "id": "MOCK-FJ-0254",
     "question": "推进中国式现代化",
     "type": "填空题",
     "module": "模拟题",
@@ -55959,7 +56522,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0274",
+    "id": "MOCK-FJ-0255",
     "question": "厚植家国情怀 练就过硬本领",
     "type": "填空题",
     "module": "模拟题",
@@ -55976,7 +56539,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0275",
+    "id": "MOCK-FJ-0256",
     "question": "应用导向 数字赋能",
     "type": "填空题",
     "module": "模拟题",
@@ -55994,7 +56557,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0276",
+    "id": "MOCK-FJ-0257",
     "question": "教育与生产劳动相结合",
     "type": "填空题",
     "module": "模拟题",
@@ -56011,7 +56574,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0277",
+    "id": "MOCK-FJ-0258",
     "question": "奉献、友爱、互助、进步",
     "type": "填空题",
     "module": "模拟题",
@@ -56028,7 +56591,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0278",
+    "id": "MOCK-FJ-0259",
     "question": "立德树人 工作有条件、干事有平台、待遇有保障、发展有空间",
     "type": "填空题",
     "module": "模拟题",
@@ -56182,7 +56745,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0774",
+    "id": "MOCK-CHOICE-0812",
     "question": "办好我国高校，办出世界一流大学,（ ）是本，本科教育是根。",
     "type": "单选题",
     "module": "模拟题",
@@ -56207,7 +56770,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0775",
+    "id": "MOCK-CHOICE-0813",
     "question": "办好我国高校，办出世界一流大学，必须牢牢抓住（ ）这个核心点。",
     "type": "单选题",
     "module": "模拟题",
@@ -56232,7 +56795,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0776",
+    "id": "MOCK-CHOICE-0814",
     "question": "2015 年，（ ）提出一流大学、一流学科的“双一流”建设。",
     "type": "单选题",
     "module": "模拟题",
@@ -56257,7 +56820,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0777",
+    "id": "MOCK-CHOICE-0815",
     "question": "各高校要更好地肩负“（ ）”的神圣使命，回答好“（ ）、怎样培养人、 为谁培养人”这一根本问题。",
     "type": "单选题",
     "module": "模拟题",
@@ -56282,7 +56845,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0778",
+    "id": "MOCK-CHOICE-0816",
     "question": "《关于加快建设高水平本科教育全面提高人才培养能力的意见》中明确指出： 鼓励学生通过参加社会实践、科学研究、（ ）、竞赛活动等获取学分。",
     "type": "单选题",
     "module": "模拟题",
@@ -56307,7 +56870,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0779",
+    "id": "MOCK-CHOICE-0817",
     "question": "《高等学校学生行为准则》第三条规定:勤奋学习，自强不息。积极实践，勇 于（ ），珍惜时间，学业有成。",
     "type": "单选题",
     "module": "模拟题",
@@ -56332,7 +56895,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0780",
+    "id": "MOCK-CHOICE-0818",
     "question": "高等学校学生行为准则主要内容为:志存高远，坚定信念；热爱祖国，服务人 民；勤奋学习，自强不息；遵纪守法，弘扬正气；（ ）；明礼修身，团结友爱； 勤俭节约，艰苦奋斗；强健体魄，热爱生活。",
     "type": "单选题",
     "module": "模拟题",
@@ -56357,7 +56920,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0781",
+    "id": "MOCK-CHOICE-0819",
     "question": "在职业生涯规划的流程中，（ ）是制定职业生涯规划的关键。",
     "type": "单选题",
     "module": "模拟题",
@@ -56382,7 +56945,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0782",
+    "id": "MOCK-CHOICE-0820",
     "question": "职业生涯规划的核心是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56407,7 +56970,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0783",
+    "id": "MOCK-CHOICE-0821",
     "question": "下列不属于职业锚理论中职业锚类型的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56432,7 +56995,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0784",
+    "id": "MOCK-CHOICE-0822",
     "question": "职业锚理论的提出者是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56457,7 +57020,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0785",
+    "id": "MOCK-CHOICE-0823",
     "question": "关爱帮助学生党员。坚持（ ），从政治、思想、学习和生活上关心爱护学 生党员。",
     "type": "单选题",
     "module": "模拟题",
@@ -56483,7 +57046,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0786",
+    "id": "MOCK-CHOICE-0824",
     "question": "辅导员是开展（ ）思想政治教育的骨干力量。",
     "type": "单选题",
     "module": "模拟题",
@@ -56509,7 +57072,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0787",
+    "id": "MOCK-CHOICE-0825",
     "question": "辅导员是（ ）日常思想政治教育和管理工作的组织者、实施者、指导者。",
     "type": "单选题",
     "module": "模拟题",
@@ -56535,7 +57098,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0788",
+    "id": "MOCK-CHOICE-0826",
     "question": "大学生的心理问题有很多种类，根据心理异常的严重程度，将大学生的心理 问题分为几个层次，其中不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56560,7 +57123,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0789",
+    "id": "MOCK-CHOICE-0827",
     "question": "( )关系执政党的生死存亡。",
     "type": "单选题",
     "module": "模拟题",
@@ -56585,7 +57148,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0790",
+    "id": "MOCK-CHOICE-0828",
     "question": "毛泽东思想初步形成于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56610,7 +57173,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0791",
+    "id": "MOCK-CHOICE-0829",
     "question": "《普通高等学校辅导员队伍建设规定》的施行时间是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56636,7 +57199,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0792",
+    "id": "MOCK-CHOICE-0830",
     "question": "学校应当健全学生学业成绩和学籍档案管理制度，真实、完整地记载、出具 学生学业成绩，对通过补考、重修获得的成绩，应当予以（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56661,7 +57224,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0793",
+    "id": "MOCK-CHOICE-0831",
     "question": "负责学位授予资格审批的单位应当自受理申请之日起九十日内作出决议，并 向社会公示。公示期不少于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -56686,7 +57249,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0794",
+    "id": "MOCK-CHOICE-0832",
     "question": "党组织应当坚持________和________相统一，从政治、思想、工作、生活上激 励关怀帮扶党员。",
     "type": "多选题",
     "module": "模拟题",
@@ -56713,7 +57276,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0795",
+    "id": "MOCK-CHOICE-0833",
     "question": "《党员教育管理工作条例》规定，发现党员有思想、工作、生活、作风和纪律 方面________问题的，以及群众对其有不良反映的，党组织负责人应当及时进行 提醒谈话，抓早抓小、防微杜渐。",
     "type": "多选题",
     "module": "模拟题",
@@ -56741,7 +57304,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0796",
+    "id": "MOCK-CHOICE-0834",
     "question": "《普通高等学校辅导员队伍建设规定》在修订中提到，辅导员要及时了解网络 舆情信息，密切关注学生的网络动态，敏锐把握一些（ ）问题。",
     "type": "多选题",
     "module": "模拟题",
@@ -56770,7 +57333,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0797",
+    "id": "MOCK-CHOICE-0835",
     "question": "省级教育部门应当根据区域内现有高等学校辅导员规模数量设立辅导员培训 专项经费，建立辅导员培训和研修基地，承担所在区域内高等学校辅导员的（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -56798,7 +57361,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0798",
+    "id": "MOCK-CHOICE-0836",
     "question": "陈宝生部长在全国高校辅导员优秀骨干培训班上强调，辅导员之“员”指的是 （ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -56827,7 +57390,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0799",
+    "id": "MOCK-CHOICE-0837",
     "question": "对辅导员的考核评价应由学生工作部门牵头，组织人事部门、院（系）党委（党 总支）和学生共同参与。考核结果与辅导员的（ ）等挂钩。",
     "type": "多选题",
     "module": "模拟题",
@@ -56854,7 +57417,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0800",
+    "id": "MOCK-CHOICE-0838",
     "question": "高校教师职业吸引力明显增强，教师思想政治素质、业务能力、育人水平、创 新能力得到显著提升，建设一支（ ）的高素质专业化创新型高校教师队伍。",
     "type": "多选题",
     "module": "模拟题",
@@ -56883,7 +57446,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0801",
+    "id": "MOCK-CHOICE-0839",
     "question": "先后对毛泽东思想的科学含义做出概括的文献是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -56912,7 +57475,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0802",
+    "id": "MOCK-CHOICE-0840",
     "question": "（多选）坚持资助育人导向，在奖学金评选发放环节，全面考察学生的( ) 等方面的综合表现，培养学生奋斗精神和感恩意识。",
     "type": "多选题",
     "module": "模拟题",
@@ -56943,7 +57506,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0803",
+    "id": "MOCK-CHOICE-0841",
     "question": "四风包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -56972,7 +57535,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0279",
+    "id": "MOCK-FJ-0260",
     "question": "习近平总书记在全国高校思想政治工作会议上的重要讲话中指出:“办好我国 高等教育,必须坚持 ,牢牢掌握 ,使高校成为 坚持党的领导的坚强阵地。”",
     "type": "填空题",
     "module": "模拟题",
@@ -56992,7 +57555,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0280",
+    "id": "MOCK-FJ-0261",
     "question": "辅导员思想理论教育和价值引领工作职责中，掌握学生思想行为特点及思想政 治状况，有针对性地帮助学生处理好思想认识、 、 、 择业交友等方面的具体问题。",
     "type": "填空题",
     "module": "模拟题",
@@ -57011,7 +57574,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0281",
+    "id": "MOCK-FJ-0262",
     "question": "高等学校应当按总体上师生比不低于 1:200 的比例设置专职辅导员岗位，按 照 、 的原则，足额配备到位。",
     "type": "填空题",
     "module": "模拟题",
@@ -57030,7 +57593,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0282",
+    "id": "MOCK-FJ-0263",
     "question": "辅导员是 的助手、 的助手、 的助手。",
     "type": "填空题",
     "module": "模拟题",
@@ -57050,7 +57613,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0283",
+    "id": "MOCK-FJ-0264",
     "question": "河南科技大学的校训： 。",
     "type": "填空题",
     "module": "模拟题",
@@ -57171,7 +57734,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0804",
+    "id": "MOCK-CHOICE-0842",
     "question": "习近平总书记在北京大学参加师生座谈会的讲话中引用了“道虽迩，不行不至; 事虽小，不为不成。”这句话出自（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57196,7 +57759,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0805",
+    "id": "MOCK-CHOICE-0843",
     "question": "学校应当按照国家有关规定,建立健全学生转学的具体办法：对转学情况应当 及时进行公示，并在转学完成后（ ）内，由转入学校报所在地省级教育行政 部门备案。",
     "type": "单选题",
     "module": "模拟题",
@@ -57221,7 +57784,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0806",
+    "id": "MOCK-CHOICE-0844",
     "question": "习近平总书记在全国高校思想政治工作会议上强调，高校立身之本在于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57247,7 +57810,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0807",
+    "id": "MOCK-CHOICE-0845",
     "question": "下列选项中，按时间顺序排列，排序正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57272,7 +57835,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0808",
+    "id": "MOCK-CHOICE-0846",
     "question": "大学生心理健康教育的主要内容不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57297,7 +57860,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0809",
+    "id": "MOCK-CHOICE-0847",
     "question": "国家奖学金的奖励标准为每人每年（ ）元",
     "type": "单选题",
     "module": "模拟题",
@@ -57322,7 +57885,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0810",
+    "id": "MOCK-CHOICE-0848",
     "question": "高校学生社团的业务指导单位是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57348,7 +57911,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0811",
+    "id": "MOCK-CHOICE-0849",
     "question": "高校辅导员在处理学生突发事件时，第一时间应（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57375,7 +57938,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0812",
+    "id": "MOCK-CHOICE-0850",
     "question": "高校学生党建工作的重点是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57401,7 +57964,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0813",
+    "id": "MOCK-CHOICE-0851",
     "question": "习近平总书记提出的 “四有” 好老师标准是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57426,7 +57989,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0814",
+    "id": "MOCK-CHOICE-0852",
     "question": "国家助学金的资助标准分为（ ）档",
     "type": "单选题",
     "module": "模拟题",
@@ -57451,7 +58014,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0815",
+    "id": "MOCK-CHOICE-0853",
     "question": "在实际工作中，辅导员不可能对某些理论问题有深入的研究，为解答学生的 困惑，辅导员可以借助专家的力量来满足学生的需求。辅导员在此扮演的是（ ） 角色。",
     "type": "单选题",
     "module": "模拟题",
@@ -57476,7 +58039,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0816",
+    "id": "MOCK-CHOICE-0854",
     "question": "《普通高等学校辅导员队伍建设规定》明确指出，“辅导员培训应当纳入高等 学校师资队伍和（ ）培训整体规划。”",
     "type": "单选题",
     "module": "模拟题",
@@ -57502,7 +58065,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0817",
+    "id": "MOCK-CHOICE-0855",
     "question": "学生党支部委员会坚持按期换届。合理控制学生党支部党员人数规模，一般 在( )人以内。",
     "type": "单选题",
     "module": "模拟题",
@@ -57527,7 +58090,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0818",
+    "id": "MOCK-CHOICE-0856",
     "question": "新时代高校教师职业行为十项准则中，“不得通过课堂、论坛、讲座、信息网 络及其他渠道发表、转发错误观点，或编造散布虚假信息、不良信息。”属于哪 条准则的内容？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -57554,7 +58117,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0819",
+    "id": "MOCK-CHOICE-0857",
     "question": "大学或者独立设置的学院还应当具有较强的教学、科学研究力量，较高的教 学、科学研究水平和相应规模，能够实施本科及本科以上教育。大学还必须设有 （ ）个以上国家规定的学科门类为主要学科。",
     "type": "单选题",
     "module": "模拟题",
@@ -57581,7 +58144,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0820",
+    "id": "MOCK-CHOICE-0858",
     "question": "1949 年 3 月，党在（ ）召开了七届二中全会，会议提出了彻底推翻国民 党统治，迅速夺取民主革命在全国胜利的各项方针。",
     "type": "单选题",
     "module": "模拟题",
@@ -57606,7 +58169,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0821",
+    "id": "MOCK-CHOICE-0859",
     "question": "( ),是党在革命中战胜敌人的三大法宝。",
     "type": "单选题",
     "module": "模拟题",
@@ -57631,7 +58194,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0822",
+    "id": "MOCK-CHOICE-0860",
     "question": "《深化新时代教育评价改革总体方案》指出:到( )年，基本形成富有时代 特征、彰显中国特色、体现世界水平的教育评价体系。",
     "type": "单选题",
     "module": "模拟题",
@@ -57656,7 +58219,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0823",
+    "id": "MOCK-CHOICE-0861",
     "question": "对以作弊、剽窃、抄袭等学术不端行为或者其他不正当手段获得学历证书、 学位证书的，学校应当依法予以( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -57681,7 +58244,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0824",
+    "id": "MOCK-CHOICE-0862",
     "question": "2025 年 6 月 1 日出版的第 11 期《求是》杂志发表了中共中央总书记、国家主 席、中央军委主席习近平的重要文章《加快建设教育强国》。下列相关说法正确 的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -57708,7 +58271,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0825",
+    "id": "MOCK-CHOICE-0863",
     "question": "中国历史上有许多经典的成语故事，下列成语故事以韩信为主人公的是 （ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -57734,7 +58297,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0826",
+    "id": "MOCK-CHOICE-0864",
     "question": "学生严重违反考核纪律或者作弊的，视其违纪或者作弊情节，给予相应的纪律 处分。给予（ ）处分的，经教育表现较好，可以对该课程给予补考或重修机会。",
     "type": "多选题",
     "module": "模拟题",
@@ -57765,7 +58328,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0827",
+    "id": "MOCK-CHOICE-0865",
     "question": "在入党申请人采取( )方式，支部委员会(不设支部委员会的由支部大会)研究 决定，并考报上级党组织备案的程序确定入党积极分子。",
     "type": "多选题",
     "module": "模拟题",
@@ -57791,7 +58354,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0828",
+    "id": "MOCK-CHOICE-0866",
     "question": "学校给予学生处分，应当坚持教育与惩戒相结合，与学生违法、违纪行为的性 质和过错的严重程度相适应。学校对学生的处分，应当做到（ )。",
     "type": "多选题",
     "module": "模拟题",
@@ -57818,7 +58381,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0829",
+    "id": "MOCK-CHOICE-0867",
     "question": "新时代高校思想政治工作的主要途径有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -57847,7 +58410,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0830",
+    "id": "MOCK-CHOICE-0868",
     "question": "习近平新时代中国特色社会主义思想的主要内容包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -57874,7 +58437,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0831",
+    "id": "MOCK-CHOICE-0869",
     "question": "根据《普通高等学校学生管理规定》，学生有下列情形之一（ ），学校可予退 学处理。",
     "type": "多选题",
     "module": "模拟题",
@@ -57902,7 +58465,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0832",
+    "id": "MOCK-CHOICE-0870",
     "question": "中国共产党党员必须履行的义务包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -57930,7 +58493,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0833",
+    "id": "MOCK-CHOICE-0871",
     "question": "高校学生日常事务管理的重要性体现在（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58063,7 +58626,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0834",
+    "id": "MOCK-CHOICE-0872",
     "question": "2025 年 7 月 31 日，国务院常务会议审议通过《关于深入实施“人工智能+” 行动的意见》，强调推进人工智能发展要形成的良性循环是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -58088,7 +58651,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0835",
+    "id": "MOCK-CHOICE-0873",
     "question": "（ ）要自觉接受党的领导，在共青团指导下，针对大学生特点，开展生动有 效的思想政治教育活动，把广大学生紧密团结在党的周围，在大学生思想政治教 育中更好地发挥桥梁和纽带作用。",
     "type": "单选题",
     "module": "模拟题",
@@ -58114,7 +58677,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0836",
+    "id": "MOCK-CHOICE-0874",
     "question": "二十大报告中指出，新时代十年的伟大多军，在党史、新中国史、改革开放史、 社会主义发展史、（ ）上具有里程碑意义。",
     "type": "单选题",
     "module": "模拟题",
@@ -58138,7 +58701,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0837",
+    "id": "MOCK-CHOICE-0875",
     "question": "（ ）是学校文化的核心和灵魂,是学校组织发展的精神动力。",
     "type": "单选题",
     "module": "模拟题",
@@ -58163,7 +58726,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0838",
+    "id": "MOCK-CHOICE-0876",
     "question": "把（ ）作为中国青年运动和青年工作的主题和方向，这是 100 多年来中国 青年运动和青年工作的一条基本经验。",
     "type": "单选题",
     "module": "模拟题",
@@ -58188,7 +58751,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0839",
+    "id": "MOCK-CHOICE-0877",
     "question": "河南省商业学校始建于（ ）年",
     "type": "单选题",
     "module": "模拟题",
@@ -58213,7 +58776,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0840",
+    "id": "MOCK-CHOICE-0878",
     "question": "“教育不应再限于学校围墙之内”体现了——教育理念（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -58238,7 +58801,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0841",
+    "id": "MOCK-CHOICE-0879",
     "question": "教学的首要任务是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -58264,7 +58827,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0842",
+    "id": "MOCK-CHOICE-0880",
     "question": "对于气质类型为（ ）的学生，应当着重培养其敏感、机智、认真、细致等个 性品质，防止与克服其怯懦、多疑、孤独等消极品质的产生；在教育方法方面， 要多给予同情、关怀和帮助，避免在公开场合指责他们。",
     "type": "单选题",
     "module": "模拟题",
@@ -58289,7 +58852,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0843",
+    "id": "MOCK-CHOICE-0881",
     "question": "“一朝被蛇咬，十年怕井绳”在心理学上属于（ ）的结果。",
     "type": "单选题",
     "module": "模拟题",
@@ -58312,7 +58875,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0844",
+    "id": "MOCK-CHOICE-0882",
     "question": "下列属于影响学习迁移的个人因素有（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -58402,7 +58965,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0845",
+    "id": "MOCK-CHOICE-0883",
     "question": "习近平在全国高校思想政治工作会议上强调，办好我们的高校，要坚持不懈培 育和弘扬社会主义核心价值观，引导广大师生做社会主义核心价值观的（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58430,7 +58993,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0846",
+    "id": "MOCK-CHOICE-0884",
     "question": "关于给予学生开除学籍处分，下列说法正确的选项是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58458,7 +59021,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0847",
+    "id": "MOCK-CHOICE-0885",
     "question": "学校文化的主要功能有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58485,7 +59048,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0848",
+    "id": "MOCK-CHOICE-0886",
     "question": "把学校思想政治教育贯穿各（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58515,7 +59078,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0849",
+    "id": "MOCK-CHOICE-0887",
     "question": "经贸的教风是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58541,7 +59104,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0850",
+    "id": "MOCK-CHOICE-0888",
     "question": "学校的办学特色是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58567,7 +59130,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0851",
+    "id": "MOCK-CHOICE-0889",
     "question": "10 月 16 日 , 中国共产党第二十次全国代表大会在北京人民大会堂开幕。 习近平代表第十九届中央委员会向大会作报告。报告指出，十年来, 我们经历 了对党和人民事业具有重 大现实意义和深远历史意义的三件大事：( )",
     "type": "多选题",
     "module": "模拟题",
@@ -58594,7 +59157,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0852",
+    "id": "MOCK-CHOICE-0890",
     "question": "习近平在河南考察时强调：坚定信心推动（ ）， 奋力谱写中原大地推进中 国式现代化新篇章。",
     "type": "多选题",
     "module": "模拟题",
@@ -58620,7 +59183,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0853",
+    "id": "MOCK-CHOICE-0891",
     "question": "奥苏贝尔根据学习进行的方式把学习分为（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58647,7 +59210,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0854",
+    "id": "MOCK-CHOICE-0892",
     "question": "下列关于气质的说法，正确的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -58676,7 +59239,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0284",
+    "id": "MOCK-FJ-0265",
     "question": "经贸的校训： 。",
     "type": "填空题",
     "module": "模拟题",
@@ -58698,7 +59261,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0285",
+    "id": "MOCK-FJ-0266",
     "question": "河南经贸职业学院前身是 学校和 学校",
     "type": "填空题",
     "module": "模拟题",
@@ -58717,7 +59280,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0286",
+    "id": "MOCK-FJ-0267",
     "question": "是进一步全面深化改革、推进中国式现代化的根本保证。",
     "type": "填空题",
     "module": "模拟题",
@@ -58736,7 +59299,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0287",
+    "id": "MOCK-FJ-0268",
     "question": "习近平在河南考察时强调，新时代新征程，河南要认真落实党中央关于中部地 区加快崛起、黄河流域生态保护和高质量发展等战略部署，坚持稳中求进工作总 基调，全面深化改革开放， ， ， ， ，以高质量发展和高效能治理奋力 谱写中原大地推进中国式现代化新篇章。",
     "type": "填空题",
     "module": "模拟题",
@@ -58757,7 +59320,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0288",
+    "id": "MOCK-FJ-0269",
     "question": "恪守 的职业守则。",
     "type": "填空题",
     "module": "模拟题",
@@ -58867,7 +59430,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0855",
+    "id": "MOCK-CHOICE-0893",
     "question": "2025 年 8 月 15 日，我国在文昌航天发射场成功组织实施（ ）系列运载火 箭系留点火试验，这是继圆满完成梦舟载人飞船零高度逃逸试验和揽月着陆器着 陆起飞综合验证试验之后，我国载人月球探测工程研制工作取得的又一项重要阶 段性突破。",
     "type": "单选题",
     "module": "模拟题",
@@ -58892,7 +59455,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0856",
+    "id": "MOCK-CHOICE-0894",
     "question": "2025 年 8 月 14 日，国务院新闻办公室举行“高质量完成‘十四五’规划”系 列主题新闻发布会，国家数据局相关负责人介绍“十四五”时期数字中国建设发 展成就。其中我国数字基础设施在规模、技术等方面处于世界领先地位，算力总 规模位居全球：",
     "type": "单选题",
     "module": "模拟题",
@@ -58917,7 +59480,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0857",
+    "id": "MOCK-CHOICE-0895",
     "question": "成都世运会将于 2025 年 8 月 17 日闭幕，本届世运会，中国体育代表团共夺得 （ ），金牌、奖牌总数均创历史新高。",
     "type": "单选题",
     "module": "模拟题",
@@ -58942,7 +59505,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0858",
+    "id": "MOCK-CHOICE-0896",
     "question": "新华社北京 8 月 6 日电 中共中央办公厅、国务院办公厅印发了（ ），通知 指出，形式主义、官僚主义是顽瘴痼疾，必须下大力气坚决纠治。",
     "type": "单选题",
     "module": "模拟题",
@@ -58967,7 +59530,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0859",
+    "id": "MOCK-CHOICE-0897",
     "question": "2025 年 8 月，浙江大学发布最新研制的新一代神经拟态类脑计算机（ ）， 这是神经元规模超过 20 亿的基于专用神经拟态芯片的类脑计算机。",
     "type": "单选题",
     "module": "模拟题",
@@ -58992,7 +59555,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0860",
+    "id": "MOCK-CHOICE-0898",
     "question": "2025 年 8 月 5 日上午，国务院新闻办举行新闻发布会，介绍西藏自治区成立 （ ）经济社会发展成就。",
     "type": "单选题",
     "module": "模拟题",
@@ -59017,7 +59580,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0861",
+    "id": "MOCK-CHOICE-0899",
     "question": "近日，中国嫦娥六号任务团队荣获 2025 年度“世界航天奖”。关于该奖项，说 法不正确的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -59042,7 +59605,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0862",
+    "id": "MOCK-CHOICE-0900",
     "question": "《关于加快构建普通高等学校毕业生高质量就业服务体系的意见》 健全就业实习制度，推动大学生利用寒暑假至少开展（ ）就业实习，强化实 习责任保险保障。",
     "type": "单选题",
     "module": "模拟题",
@@ -59067,7 +59630,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0863",
+    "id": "MOCK-CHOICE-0901",
     "question": "2025 年职业教育活动周主题为“（ ）”",
     "type": "单选题",
     "module": "模拟题",
@@ -59092,7 +59655,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0864",
+    "id": "MOCK-CHOICE-0902",
     "question": "第二期“双高计划”主要目标是：围绕推进中国式现代化和教育强国建设的 新要求，集中力量建设（ ）所左右高水平高职学校和（ ）个左右高水平专 业群。",
     "type": "单选题",
     "module": "模拟题",
@@ -59118,7 +59681,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0865",
+    "id": "MOCK-CHOICE-0903",
     "question": "广义教育与狭义教育（学校教育）的根本区别是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59143,7 +59706,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0866",
+    "id": "MOCK-CHOICE-0904",
     "question": "当代国际社会中影响最大，传播最广最具生命力的教育思想是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -59168,7 +59731,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0867",
+    "id": "MOCK-CHOICE-0905",
     "question": "引起并决定教育发展变化的最根本、最内在的因素是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59193,7 +59756,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0868",
+    "id": "MOCK-CHOICE-0906",
     "question": "直接决定教育性质的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59218,7 +59781,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0869",
+    "id": "MOCK-CHOICE-0907",
     "question": "首次提出较为系统的探究性教学理论，主张进行“问题教学法”的教育家是 （ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59243,7 +59806,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0870",
+    "id": "MOCK-CHOICE-0908",
     "question": "高等教育目的包括国家的教育目的、高等学校的培养目标、专业培养目标和 （ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59269,7 +59832,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0871",
+    "id": "MOCK-CHOICE-0909",
     "question": "学生临考时的怯场属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59294,7 +59857,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0872",
+    "id": "MOCK-CHOICE-0910",
     "question": "余音绕梁，三日不绝于耳属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59319,7 +59882,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0873",
+    "id": "MOCK-CHOICE-0911",
     "question": "小明正在津津有味地阅读一本课外书，没有听到上课铃声，从注意的角度看， 维系小明心理活动的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59344,7 +59907,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0874",
+    "id": "MOCK-CHOICE-0912",
     "question": "看到别人穿时装，自己也去买来穿上，属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59369,7 +59932,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0875",
+    "id": "MOCK-CHOICE-0913",
     "question": "高校教师既是教育者，又是（ ）和社会服务者。",
     "type": "单选题",
     "module": "模拟题",
@@ -59395,7 +59958,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0876",
+    "id": "MOCK-CHOICE-0914",
     "question": "讲授法是高校教学中最常用的方法之一，它包括讲述、讲解和（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59421,7 +59984,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0877",
+    "id": "MOCK-CHOICE-0915",
     "question": "教学评价包括对教师教学的评价和对（ ）的评价。",
     "type": "单选题",
     "module": "模拟题",
@@ -59446,7 +60009,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0878",
+    "id": "MOCK-CHOICE-0916",
     "question": "“老将出马，一个顶俩”，“姜还是老的辣”，说明（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59471,7 +60034,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0879",
+    "id": "MOCK-CHOICE-0917",
     "question": "有些教师特别喜欢成绩好的学生，常常觉得成绩好的学生什么都好，这种效 应是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59496,7 +60059,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0880",
+    "id": "MOCK-CHOICE-0918",
     "question": "下列遗址与其所在地对应正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59521,7 +60084,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0881",
+    "id": "MOCK-CHOICE-0919",
     "question": "2025 年 7 月 24 日，中央宣传部授予（ ）同志“时代楷模”称号，他是爱农 业、懂技术、善经营的新时代农民典范，是农村专业人才和实用人才的优秀代表。",
     "type": "单选题",
     "module": "模拟题",
@@ -59546,7 +60109,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0882",
+    "id": "MOCK-CHOICE-0920",
     "question": "下列关于我国古代文化常识的表述，正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59571,7 +60134,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0883",
+    "id": "MOCK-CHOICE-0921",
     "question": "2025 年 8 月 17 日，感动中国 2024 年度人物揭晓。其中的奥运冠军是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -59596,7 +60159,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0884",
+    "id": "MOCK-CHOICE-0922",
     "question": "1925 年 1 月 11 日至 22 日，（ ）在上海召开，此次会议对中国革命的一些基 本问题进行了比较系统的探讨，在党的历史上第一次明确提出无产阶级在民主革 命中的领导权和工农联盟问题。",
     "type": "单选题",
     "module": "模拟题",
@@ -59621,7 +60184,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0885",
+    "id": "MOCK-CHOICE-0923",
     "question": "习近平在河南考察时指出，高质量发展是中国式现代化的必然要求。面对复杂 的外部环境，要坚定信心，坚定不移办好自己的事，坚定不移扩大高水平对外开 放，着力（ ），以高质量发展的确定性应对各种不确定性。",
     "type": "多选题",
     "module": "模拟题",
@@ -59649,7 +60212,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0886",
+    "id": "MOCK-CHOICE-0924",
     "question": "下列属于“社会公德”主要内容的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -59676,7 +60239,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0887",
+    "id": "MOCK-CHOICE-0925",
     "question": "以下属于学习的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -59703,7 +60266,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0888",
+    "id": "MOCK-CHOICE-0926",
     "question": "在西方教育思想史上，被称为“里程碑著作”的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -59730,7 +60293,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0889",
+    "id": "MOCK-CHOICE-0927",
     "question": "强调人的发展主要依靠环境的刺激和要求，以及他人的影响和学校的教育等外 在力量是外铄论的观点，下列支持该观点的人有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -59756,7 +60319,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0890",
+    "id": "MOCK-CHOICE-0928",
     "question": "教育是激活新质生产力的基础和先导，这就要求高校发挥（ ）作用，成为 战略引领力量。",
     "type": "多选题",
     "module": "模拟题",
@@ -59783,7 +60346,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0891",
+    "id": "MOCK-CHOICE-0929",
     "question": "下列关于蔡元培的教育思想，表述正确是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -59809,7 +60372,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0892",
+    "id": "MOCK-CHOICE-0930",
     "question": "下列哪些做法有利于发挥学生的主体性？（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -59836,7 +60399,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0893",
+    "id": "MOCK-CHOICE-0931",
     "question": "2018 年 3 月 11 日，第十三届全国人民代表大会第一次会议通过了《中华人 民共和国宪法》将（ ）作为指导思想写入宪法修正案。",
     "type": "多选题",
     "module": "模拟题",
@@ -59863,7 +60426,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0894",
+    "id": "MOCK-CHOICE-0932",
     "question": "《中共中央 国务院关于实施就业优先战略促进高质量充分就业的意见》指出， 就业是最基本的民生，事关（ ），事关（ ），事关（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -59890,7 +60453,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0289",
+    "id": "MOCK-FJ-0270",
     "question": "学校教育是随着人类和人类社会出现的。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -59911,7 +60474,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0290",
+    "id": "MOCK-FJ-0271",
     "question": "教育促进人的发展的功能是教育的派生功能或工具功能。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -59932,7 +60495,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0291",
+    "id": "MOCK-FJ-0272",
     "question": "教学如果错过了关键期，就再也无法弥补。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -59953,7 +60516,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0292",
+    "id": "MOCK-FJ-0273",
     "question": "教育促进文化选择其实是一个不断反思和批判的过程，也是传播优秀文化、剔 除糟粕文化的过程。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -59976,7 +60539,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0293",
+    "id": "MOCK-FJ-0274",
     "question": "小鱼为了记住故事不断地去读故事，这说明小鱼使用了组织策略。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -59997,7 +60560,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0294",
+    "id": "MOCK-FJ-0275",
     "question": "按照皮亚杰的认知发展阶段理论，开始获得守恒概念的个体，其思维发展处于 具体运算阶段。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -60020,7 +60583,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0295",
+    "id": "MOCK-FJ-0276",
     "question": "古时对“戴罪立功”的犯人一般会“从轻发落”是负强化。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -60043,7 +60606,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0296",
+    "id": "MOCK-FJ-0277",
     "question": "健全教育战略性投入机制。保证国家财政性教育经费支出占国内生产总值比例 高于 5％。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -60064,7 +60627,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0297",
+    "id": "MOCK-FJ-0278",
     "question": "上好课是提高教学质量的关键，上好一堂课的内在动力是明确教学目的。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -60085,7 +60648,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0298",
+    "id": "MOCK-FJ-0279",
     "question": "在教学过程上，主张学、思、行结合的教育家是孔子。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -60159,7 +60722,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0895",
+    "id": "MOCK-CHOICE-0933",
     "question": "2025 年 8 月 21 日上午，西藏各族各界干部群众约 2 万人欢聚拉萨市布达拉宫 广场，热烈庆祝西藏自治区成立（ ）。（ ），在党中央亲切关怀和党的民族 政策光辉照耀下，西藏自治区宣告成立。",
     "type": "单选题",
     "module": "模拟题",
@@ -60184,7 +60747,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0896",
+    "id": "MOCK-CHOICE-0934",
     "question": "神舟二十号载人飞船发射的时间是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -60209,7 +60772,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0897",
+    "id": "MOCK-CHOICE-0935",
     "question": "2025 年 7 月 11 日，联合国教科文组织第 47 届世界遗产大会通过决议，将 “（ ）”列入《世界遗产名录》。至此，中国世界遗产总数达到（ ） 项。",
     "type": "单选题",
     "module": "模拟题",
@@ -60234,7 +60797,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0898",
+    "id": "MOCK-CHOICE-0936",
     "question": "《教育部办公厅关于组织实施数字化赋能教师发展行动的通知》强调，依托国 家智慧教育公共服务平台，加强名师、名校长工作室和虚拟教研室建设，发挥名 师的引领带动作用。实施“（ ）”行动，统筹名师资源，开展协同教研、网络 跟岗、在线帮扶，促进优质资源共享。",
     "type": "单选题",
     "module": "模拟题",
@@ -60261,7 +60824,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0899",
+    "id": "MOCK-CHOICE-0937",
     "question": "根据《教育部等九部门关于加快推进教育数字化的意见》,国家智慧教育公共 服务平台将围绕哪四大领域和五大版块建设汇聚精品资源?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -60287,7 +60850,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0900",
+    "id": "MOCK-CHOICE-0938",
     "question": "2025 年 4 月 30 日，习近平主持召开部分省区市“十五五”时期经济社会发展 座谈会。习近平指出，“十五五”时期，必须把（ ）摆在更加突出的战略位置。",
     "type": "单选题",
     "module": "模拟题",
@@ -60312,7 +60875,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0901",
+    "id": "MOCK-CHOICE-0939",
     "question": "怀进鹏在 2025 世界数字教育大会作主旨演讲表示，“（ ）”是我们需要共同 回答的时代课题、世界课题。",
     "type": "单选题",
     "module": "模拟题",
@@ -60338,7 +60901,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0902",
+    "id": "MOCK-CHOICE-0940",
     "question": "2025 年 6 月，中办印发《党组讨论和决定党员处分事项工作程序规定》。规定 指出，党纪处分决定作出后，应当正式通报派驻机构，并在（ ）宣布。",
     "type": "单选题",
     "module": "模拟题",
@@ -60365,7 +60928,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0903",
+    "id": "MOCK-CHOICE-0941",
     "question": "《中共中央关于进一步全面深化改革、推进中国式现代化的决定》提出：“完 善发挥____凝聚人心、汇聚力量政治作用的政策举措。”",
     "type": "单选题",
     "module": "模拟题",
@@ -60390,7 +60953,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0904",
+    "id": "MOCK-CHOICE-0942",
     "question": "潘懋元教授编写的____是中国第一部高等教育学著作。",
     "type": "单选题",
     "module": "模拟题",
@@ -60415,7 +60978,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0905",
+    "id": "MOCK-CHOICE-0943",
     "question": "据新华社 2025 年 2 月 20 日报道，教育部等八部门联合印发《普通本科高校 产业兼职教师管理办法》。产业兼职教师是指由普通本科高等学校聘请，以兼职 方式承担特定教育教学和实践创新任务的____。办法明确，产业兼职教师受聘高 校数量一般不超过____个。",
     "type": "单选题",
     "module": "模拟题",
@@ -60442,7 +61005,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0906",
+    "id": "MOCK-CHOICE-0944",
     "question": "2025 年 7 月 16 日，李强主持召开国务院常务会议。会议指出，（ ）是推 动经济行稳致远的战略之举。要找准关键着力点，深入实施提振消费专项行动。",
     "type": "单选题",
     "module": "模拟题",
@@ -60467,7 +61030,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0907",
+    "id": "MOCK-CHOICE-0945",
     "question": "数字人民币，是由中国人民银行发行的数字形式的法定货币，目前我国已经 选择部分有代表性的地区开展试点测试，截止 2025 年 6 月底，数字人民币累计 交易金额 7 万亿元。下列关于数字人民币说法正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -60494,7 +61057,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0908",
+    "id": "MOCK-CHOICE-0946",
     "question": "70 年前召开的（ ）是亚非国家和地区首次在没有殖民国家参加的情况下， 由人民切身利益的大型国际会议。（ ）率领中国代表团突破西方封锁，出席 该会议，开启了南南合作与不结盟运动的序幕，树立了亚非人民团结反帝反殖的 典范。",
     "type": "单选题",
     "module": "模拟题",
@@ -60519,7 +61082,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0909",
+    "id": "MOCK-CHOICE-0947",
     "question": "古筝名曲（ ）描绘了夕阳西下、碧波万顷的场景。该乐曲名字来自唐代 诗人王勃《滕王阁序》。自中央电视台《新闻联播天气预报》节目开播，一直将 其作为主题曲沿用至今，已经成为几代国人的共同记忆。",
     "type": "单选题",
     "module": "模拟题",
@@ -60544,7 +61107,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0910",
+    "id": "MOCK-CHOICE-0948",
     "question": "我国久传不息的名篇佳作都充满着对人民命运的悲悯、悲欢的关切，以精湛 的艺术彰显了深厚的人民情怀。下列诗句和作者对应关系不正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -60569,7 +61132,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0911",
+    "id": "MOCK-CHOICE-0949",
     "question": "马克思主义经典作家致力于推翻资产阶级统治的旧世界，建立无产阶级领导 的新世界，其国家学说是建立在( )的基础上，运用阶级分析方法，揭示资本 主义国家的本质是阶级压迫的工具。习近平总书记关于推进国家治理体系和治理 能力现代化的重要论述丰富和发展了马克思主义国家学说。",
     "type": "单选题",
     "module": "模拟题",
@@ -60595,7 +61158,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0912",
+    "id": "MOCK-CHOICE-0950",
     "question": "下列关于我国“四大名窟”的说法，错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -60620,7 +61183,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0913",
+    "id": "MOCK-CHOICE-0951",
     "question": "屐是指（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -60645,7 +61208,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0914",
+    "id": "MOCK-CHOICE-0952",
     "question": "下面有关我国古代都城名称对应不正确的一项是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -60670,7 +61233,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0915",
+    "id": "MOCK-CHOICE-0953",
     "question": "下列关于我国古代都城，说法错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -60695,7 +61258,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0916",
+    "id": "MOCK-CHOICE-0954",
     "question": "下列关于七大洲的相关说法中，错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -60720,7 +61283,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0917",
+    "id": "MOCK-CHOICE-0955",
     "question": "我们认为中共十一届三中全会是建国以来党的历史转折点，主要是因为 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -60745,7 +61308,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0918",
+    "id": "MOCK-CHOICE-0956",
     "question": "8 月 7 日，2025 年第 12 届世界运动会在（ ）开幕。世运会由国际世运会 协会主办，是非奥项目规模最大、水平最高的国际综合性运动会，每 4 年举办一 届。",
     "type": "单选题",
     "module": "模拟题",
@@ -60770,7 +61333,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0919",
+    "id": "MOCK-CHOICE-0957",
     "question": "杜牧有诗“豆蔻梢头二月初”，“豆蔻”是指年龄在（ ）的女子。",
     "type": "单选题",
     "module": "模拟题",
@@ -60795,7 +61358,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0920",
+    "id": "MOCK-CHOICE-0958",
     "question": "从“人民对美好生活的向往就是我们的奋斗目标”的拳拳之心，到“我是人 民的勤务员”的不渝初心，无不蕴含着习近平总书记以身许党许国、报党报国的 宏大境界。下列古语中，与习近平总书记的讲话精神最接近的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -60820,7 +61383,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0921",
+    "id": "MOCK-CHOICE-0959",
     "question": "（ ）又称光环效应，以点概全、以偏概全的主观印象，掩盖对于其他方 面的正确了解。",
     "type": "单选题",
     "module": "模拟题",
@@ -60845,7 +61408,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0922",
+    "id": "MOCK-CHOICE-0960",
     "question": "智龄(智力年龄)是( )首先提出的。",
     "type": "单选题",
     "module": "模拟题",
@@ -60870,7 +61433,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0923",
+    "id": "MOCK-CHOICE-0961",
     "question": "几位朋友邀你去看电影，而你却需要准备第二天的演讲，最后你终于克制了 自己，谢绝了邀请。这里的心理过程是一种( )",
     "type": "单选题",
     "module": "模拟题",
@@ -60895,7 +61458,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0924",
+    "id": "MOCK-CHOICE-0962",
     "question": "曹雪芹先生写作《红楼梦》的时候，想象出林黛玉和薛宝钗等众多人物的形 象。这个过程体现的想象是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -60921,7 +61484,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0925",
+    "id": "MOCK-CHOICE-0963",
     "question": "习近平强调，建成教育强国是近代以来中华民族梦寐以求的美好愿望，是实现 以中国式现代化全面推进强国建设、民族复兴伟业的（ ），必须朝着既定目标 扎实迈进。",
     "type": "多选题",
     "module": "模拟题",
@@ -60949,7 +61512,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0926",
+    "id": "MOCK-CHOICE-0964",
     "question": "求是文章《把教育强国的宏伟蓝图变为美好现实》强调，我国在校学生 2.9 亿，约占总人口的 21%，其（ ）直接关系党和国家事业薪火相传。",
     "type": "多选题",
     "module": "模拟题",
@@ -60975,7 +61538,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0927",
+    "id": "MOCK-CHOICE-0965",
     "question": "在教师招聘过程中,坚持的双重考察是指（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -61003,7 +61566,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0928",
+    "id": "MOCK-CHOICE-0966",
     "question": "习近平总书记在北京大学师生座谈会上的重要讲话强调，努力建设中国特色世 界一流大学要抓好哪三项基础工作（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -61031,7 +61594,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0929",
+    "id": "MOCK-CHOICE-0967",
     "question": "下列关于“中国星”的说法正确的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -61059,7 +61622,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0930",
+    "id": "MOCK-CHOICE-0968",
     "question": "8 月 16 日晚感动中国 2024 年度人物揭晓，以下入选感动中国 2024 年度人物 的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -61087,7 +61650,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0931",
+    "id": "MOCK-CHOICE-0969",
     "question": "下列关于记忆说法正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -61117,7 +61680,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0932",
+    "id": "MOCK-CHOICE-0970",
     "question": "记忆是编码、存储、提取的过程，与之对应的记忆分为( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -61144,7 +61707,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0933",
+    "id": "MOCK-CHOICE-0971",
     "question": "下列选项中属于心理过程的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -61171,7 +61734,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0934",
+    "id": "MOCK-CHOICE-0972",
     "question": "个性心理特征包括( )",
     "type": "多选题",
     "module": "模拟题",
@@ -61200,7 +61763,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0299",
+    "id": "MOCK-FJ-0280",
     "question": "在黄河干流，葛洲坝，三峡等 5 座大型水电站构成我国最大的清洁能源走廊。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -61221,7 +61784,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0300",
+    "id": "MOCK-FJ-0281",
     "question": "谢绝文字粗略的不刊之论。不刊之论使用正确。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -61242,7 +61805,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0301",
+    "id": "MOCK-FJ-0282",
     "question": "并非所有的帕金森患者都会手抖，心理压力、肌肉疲劳或服药，也会导致手部 震颤。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -61266,7 +61829,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0302",
+    "id": "MOCK-FJ-0283",
     "question": "珠江发源于内蒙古高原，水运量仅次于长江，居全国第二，且人均径流量全国 第一。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -61287,7 +61850,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0303",
+    "id": "MOCK-FJ-0284",
     "question": "幻想是创造想象的特殊形式。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -61310,7 +61873,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0304",
+    "id": "MOCK-FJ-0285",
     "question": "“月明星稀”是一种联觉。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -61331,7 +61894,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0305",
+    "id": "MOCK-FJ-0286",
     "question": "根据注意有没有自觉地目的性以及意志努力的程度，将注意分为无意注意和有 意注意。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -61352,7 +61915,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0306",
+    "id": "MOCK-FJ-0287",
     "question": "心理现象是人类独有的。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -61373,7 +61936,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0307",
+    "id": "MOCK-FJ-0288",
     "question": "注意本身不是一种独立的心理活动，但是各种心理活动过程都离不开它。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -61396,7 +61959,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0308",
+    "id": "MOCK-FJ-0289",
     "question": "面对耀眼的玻璃墙反光，小黄产生了不适的反应，此时他的视觉感受性提高 了。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -61453,7 +62016,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0935",
+    "id": "MOCK-CHOICE-0973",
     "question": "高等教育区别于普通教育的本质特征是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61478,7 +62041,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0936",
+    "id": "MOCK-CHOICE-0974",
     "question": "最早提出“教学相长”教育主张的著作是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61503,7 +62066,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0937",
+    "id": "MOCK-CHOICE-0975",
     "question": "以下不属于高等学校教学原则的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61528,7 +62091,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0938",
+    "id": "MOCK-CHOICE-0976",
     "question": "高等教育的个体功能不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61553,7 +62116,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0939",
+    "id": "MOCK-CHOICE-0977",
     "question": "以下属于高等教育宏观管理体制的模式是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61578,7 +62141,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0940",
+    "id": "MOCK-CHOICE-0978",
     "question": "我国高等教育大众化的起始时间是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61603,7 +62166,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0941",
+    "id": "MOCK-CHOICE-0979",
     "question": "高等学校的社会服务职能产生于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61628,7 +62191,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0942",
+    "id": "MOCK-CHOICE-0980",
     "question": "高等教育目的的作用不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61654,7 +62217,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0943",
+    "id": "MOCK-CHOICE-0981",
     "question": "高等教育管理体制改革的核心是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61679,7 +62242,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0944",
+    "id": "MOCK-CHOICE-0982",
     "question": "以下属于高校校园文化的物质文化的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61705,7 +62268,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0945",
+    "id": "MOCK-CHOICE-0983",
     "question": "高等教育的经济功能不包括（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61731,7 +62294,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0946",
+    "id": "MOCK-CHOICE-0984",
     "question": "高等教育学的研究对象是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61756,7 +62319,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0947",
+    "id": "MOCK-CHOICE-0985",
     "question": "高等教育的起源可以追溯到（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61781,7 +62344,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0948",
+    "id": "MOCK-CHOICE-0986",
     "question": "高校教材建设应遵循科学性、（ ）和适用性的原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -61807,7 +62370,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0949",
+    "id": "MOCK-CHOICE-0987",
     "question": "高校学生管理应遵循以人为本、（ ）和依法治校的原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -61834,7 +62397,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0950",
+    "id": "MOCK-CHOICE-0988",
     "question": "高校学生的心理健康教育要遵循预防性、发展性和（ ）原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -61860,7 +62423,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0951",
+    "id": "MOCK-CHOICE-0989",
     "question": "受教育者享有在（ ）上获得公正评价，完成规定的学业后获得相应的学业 证书、学位证书的权利。",
     "type": "单选题",
     "module": "模拟题",
@@ -61885,7 +62448,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0952",
+    "id": "MOCK-CHOICE-0990",
     "question": "被撤销教师资格的，自被撤销之日起（ ）年内不得重新申请教师资格认定。",
     "type": "单选题",
     "module": "模拟题",
@@ -61910,7 +62473,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0953",
+    "id": "MOCK-CHOICE-0991",
     "question": "侵占学校及其他教育机构校舍、场地及其他财产的，依法承担（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -61935,7 +62498,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0954",
+    "id": "MOCK-CHOICE-0992",
     "question": "教师资格考试科目、标准和考试大纲由（ ）审定。",
     "type": "单选题",
     "module": "模拟题",
@@ -61960,7 +62523,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0955",
+    "id": "MOCK-CHOICE-0993",
     "question": "根据《高等教育法》，高等学校的具体标准由谁制定？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -61985,7 +62548,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0956",
+    "id": "MOCK-CHOICE-0994",
     "question": "对于自发的、原本就有兴趣的学习任务，外部物质奖励往往会降低个体的内 在学习动机。这一现象被称为( )",
     "type": "单选题",
     "module": "模拟题",
@@ -62011,7 +62574,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0957",
+    "id": "MOCK-CHOICE-0995",
     "question": "对“植物、动物”等具体概念的理解影响着对“生物”这一概念的掌握;“角” 这个概念的掌握对“直角、锐角”等概念的学习有一定的影响。这种迁移属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -62036,7 +62599,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0958",
+    "id": "MOCK-CHOICE-0996",
     "question": "我国全面发展教育的基本内容包括德育、智育、体育、美育和劳动技术教育。 其中，( )是实施各育的思想基础。",
     "type": "单选题",
     "module": "模拟题",
@@ -62061,7 +62624,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0959",
+    "id": "MOCK-CHOICE-0997",
     "question": "我国古代墨子提出：“夫智者必量其力所能至而如从事焉”。它所体现的教学 原则是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -62086,7 +62649,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0960",
+    "id": "MOCK-CHOICE-0998",
     "question": "今年是中国人民抗日战争、苏联伟大卫国战争暨世界反法西斯战争胜利（ ） 周年，也是联合国成立（ ）周年。",
     "type": "单选题",
     "module": "模拟题",
@@ -62111,7 +62674,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0961",
+    "id": "MOCK-CHOICE-0999",
     "question": "国务院日前印发《关于深入实施（ ）行动的意见》（以下简称《意见》）。 《意见》深入实施（ ）行动，涌现一批新基础设施、新技术体系、新产业生 态、新就业岗位等，加快培育发展新质生产力，使全体人民共享人工智能发展成 果，更好服务中国式现代化建设。",
     "type": "单选题",
     "module": "模拟题",
@@ -62138,7 +62701,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0962",
+    "id": "MOCK-CHOICE-1000",
     "question": "我国当代历史上，第一个以法律形式明确规范教育目的的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -62165,7 +62728,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0963",
+    "id": "MOCK-CHOICE-1001",
     "question": "成都世运会将于 2025 年 8 月 17 日闭幕，我国（ ）金 17 银 11 铜收官，中 国体育代表团位居金牌、奖牌榜首位。",
     "type": "单选题",
     "module": "模拟题",
@@ -62190,7 +62753,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0964",
+    "id": "MOCK-CHOICE-1002",
     "question": "在西方，（ ）第一次明确提出了智育、德育和体育的概念，并将智育置于 首位。",
     "type": "单选题",
     "module": "模拟题",
@@ -62215,7 +62778,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0965",
+    "id": "MOCK-CHOICE-1003",
     "question": "高等教育的社会功能主要包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -62244,7 +62807,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0966",
+    "id": "MOCK-CHOICE-1004",
     "question": "高等学校教学方法的选择依据包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -62272,7 +62835,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0967",
+    "id": "MOCK-CHOICE-1005",
     "question": "历史警示我们，人类命运休戚与共，各个国家、各个民族只有（ ），才 能维护共同安全，消弭战争根源，不让历史悲剧重演！",
     "type": "多选题",
     "module": "模拟题",
@@ -62300,7 +62863,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0968",
+    "id": "MOCK-CHOICE-1006",
     "question": "二十大报告中指出, 必须坚持科技是第一生产力、人才是第一资源、创新是第 一动力深入实施( ) , 开辟发展新领域新赛道, 不断塑造发展新动能新优 势。",
     "type": "多选题",
     "module": "模拟题",
@@ -62327,7 +62890,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0969",
+    "id": "MOCK-CHOICE-1007",
     "question": "求是文章《把教育强国的宏伟蓝图变为美好现实》强调，教育是激活新质生产 力的基础和先导，这就要求高校发挥（ ）作用，成为战略引领力量。",
     "type": "多选题",
     "module": "模拟题",
@@ -62354,7 +62917,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0970",
+    "id": "MOCK-CHOICE-1008",
     "question": "强调人的发展主要依靠环境的刺激和要求，以及他人的影响和学校的教育等外 在力量是外铄论的观点，下列支持该观点的人有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -62380,7 +62943,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0971",
+    "id": "MOCK-CHOICE-1009",
     "question": "在西方教育思想史上，被称为“里程碑著作”的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -62407,7 +62970,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-0972",
+    "id": "MOCK-CHOICE-1010",
     "question": "历史上许多教育家对教学过程阐述过自己的观点，以下正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -62451,7 +63014,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0309",
+    "id": "MOCK-FJ-0290",
     "question": "高等教育目的是高等教育活动的出发点和归宿。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62475,7 +63038,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0310",
+    "id": "MOCK-FJ-0291",
     "question": "教育者根据一定的社会要求，有目的、有计划、有组织地对受教育者施加影响， 促使他们朝着所期望的方向发展的活动就是广义的教育。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62496,7 +63059,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0311",
+    "id": "MOCK-FJ-0292",
     "question": "教育是伴随着人类社会的出现而出现的。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62519,7 +63082,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0312",
+    "id": "MOCK-FJ-0293",
     "question": "个体的主观能动性在人的发展中起主导作用。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62540,7 +63103,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0313",
+    "id": "MOCK-FJ-0294",
     "question": "政治经济制度制约着人才的培养规格和教育结构，制约指教育事业的速度和规 模。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62561,7 +63124,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0314",
+    "id": "MOCK-FJ-0295",
     "question": "感觉记忆的保持时间在一分钟以上，容量很大。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62582,7 +63145,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0315",
+    "id": "MOCK-FJ-0296",
     "question": "学生将成败归因于努力比归因于能力会产生更强烈的情绪体验。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62606,7 +63169,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0316",
+    "id": "MOCK-FJ-0297",
     "question": "根据皮亚杰的理论，在良好的外界环境作用下，学生的认知发展从前运算阶段 直接跨越至形式运算阶段。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62627,7 +63190,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0317",
+    "id": "MOCK-FJ-0298",
     "question": "就认知风格而言，场独立型要优于场依存型。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62648,7 +63211,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0318",
+    "id": "MOCK-FJ-0299",
     "question": "焦虑不利于学生的学习。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -62789,7 +63352,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-0973",
+    "id": "MOCK-CHOICE-1011",
     "question": "2025 年 9 月 10 日是我国第 个教师节，主题是“ ”",
     "type": "单选题",
     "module": "模拟题",
@@ -62812,7 +63375,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0974",
+    "id": "MOCK-CHOICE-1012",
     "question": "各地各校要把 建设摆在教师队伍建设的首要位置。（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -62835,7 +63398,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0975",
+    "id": "MOCK-CHOICE-1013",
     "question": "到（ ）年，我国全面步入智能经济和智能社会发展新阶段，为基本实现社 会主义现代化提供有力支撑。",
     "type": "单选题",
     "module": "模拟题",
@@ -62858,7 +63421,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0976",
+    "id": "MOCK-CHOICE-1014",
     "question": "郑州财税金融职业学院办学历史可追溯至（ ）年停办的郑州市财贸学校。",
     "type": "单选题",
     "module": "模拟题",
@@ -62881,7 +63444,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0977",
+    "id": "MOCK-CHOICE-1015",
     "question": "郑州财税金融职业学院正在推进建设的航空港新校区位于中原经济发展的战 略突破口和核心增长极——郑州航空港经济综合实验区，批复总征地面积（ ） 亩，总建筑面积 48 万平方米。",
     "type": "单选题",
     "module": "模拟题",
@@ -62904,7 +63467,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0978",
+    "id": "MOCK-CHOICE-1016",
     "question": "被确定为河南省职业教育示范性新兴专业点立项建设项目， 获批河 南省职业教育示范性骨干专业点。（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -62927,7 +63490,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0979",
+    "id": "MOCK-CHOICE-1017",
     "question": "（ ）被教育部确定为高等职业教育创新发展行动计划骨干专业。",
     "type": "单选题",
     "module": "模拟题",
@@ -62950,7 +63513,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0980",
+    "id": "MOCK-CHOICE-1018",
     "question": "2025 年职业教育活动周，河南省的活动主题是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -62973,7 +63536,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0981",
+    "id": "MOCK-CHOICE-1019",
     "question": "2025 年 8 月，《中共中央 国务院关于推动城市高质量发展的意见》（以下简称 《意见》）发布。《意见》提出以建设（ ）的现代化人民城市为目标。 ①创新②宜居③美丽④韧性⑤文明⑥智能",
     "type": "单选题",
     "module": "模拟题",
@@ -62996,7 +63559,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0982",
+    "id": "MOCK-CHOICE-1020",
     "question": "2025 年 8 月 17 日晚，2025 年第 12 届世界运动会在成都圆满闭幕。本届世运 会是中国西部继成都大运会之后举办的又一大型国际综合性赛事。下列内容表述 不正确的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -63019,7 +63582,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0983",
+    "id": "MOCK-CHOICE-1021",
     "question": "每年 5 月的（ ）为“职业教育活动周”（简称活动周）。",
     "type": "单选题",
     "module": "模拟题",
@@ -63042,7 +63605,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0984",
+    "id": "MOCK-CHOICE-1022",
     "question": "“书中自有颜如玉，书中自有黄金屋，书中自有千钟粟”，反映的教育目的价 值取向是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63065,7 +63628,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0985",
+    "id": "MOCK-CHOICE-1023",
     "question": "夸美纽斯是捷克伟大的民主主义教育家,是西方近代教育理论的奠基者。贯 穿夸美纽斯整个教育体系的一条根本性指导原则是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63088,7 +63651,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0986",
+    "id": "MOCK-CHOICE-1024",
     "question": "教育是一种社会现象，它的发生和发展受社会发展规律的制约，教育社会性 是教育现象的根本属性。其中，教育社会性最主要的表现形式为教育的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63111,7 +63674,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0987",
+    "id": "MOCK-CHOICE-1025",
     "question": "教育能传播思想、形成舆论，这体现了教育的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63134,7 +63697,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0988",
+    "id": "MOCK-CHOICE-1026",
     "question": "我国教育目的的根本性质是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -63157,7 +63720,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0989",
+    "id": "MOCK-CHOICE-1027",
     "question": "学校教育中通常采用评选三好学生、优秀学生干部的方式或用学习反馈，以 物质或精神奖励的方式引起学生的学习动机，这主要是激发学生的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63180,7 +63743,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0990",
+    "id": "MOCK-CHOICE-1028",
     "question": "小丽认为自己考试成绩不理想是因为试题太难。根据维纳的归因理论，这属 于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63203,7 +63766,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0991",
+    "id": "MOCK-CHOICE-1029",
     "question": "在人的个性特征和个性系统中( )具有重要作用。",
     "type": "单选题",
     "module": "模拟题",
@@ -63226,7 +63789,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0992",
+    "id": "MOCK-CHOICE-1030",
     "question": "下列说法错误的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63249,7 +63812,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0993",
+    "id": "MOCK-CHOICE-1031",
     "question": "以下哪一种商品的需求价格弹性最小?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -63272,7 +63835,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0994",
+    "id": "MOCK-CHOICE-1032",
     "question": "基尼系数的数值在________之间，说明收入分配相对合理。",
     "type": "单选题",
     "module": "模拟题",
@@ -63295,7 +63858,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0995",
+    "id": "MOCK-CHOICE-1033",
     "question": "医生用的听诊器是通过心脏振动的幅度增加声音的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63318,7 +63881,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0996",
+    "id": "MOCK-CHOICE-1034",
     "question": "人们的收入减少时，正常消费也会相应减少，高价奢侈品消费更是销量低迷， 但是按摩、理发等放松消费却完全相反。这种现象所反映的经济效应指的是 ( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63341,7 +63904,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0997",
+    "id": "MOCK-CHOICE-1035",
     "question": "四大发明中历史最为久远的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -63364,7 +63927,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0998",
+    "id": "MOCK-CHOICE-1036",
     "question": "2025 年 5 月 3 日，习近平给谢依特小学戍边支教西部计划志愿者服务队队员 回信。习近平指出，这些年，越来越多年轻人选择到西部、到乡村、到基层志愿 服务，无私奉献，展现了新时代中国青年（ ）的精神风貌和（ ）的责任担当。",
     "type": "单选题",
     "module": "模拟题",
@@ -63387,7 +63950,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-0999",
+    "id": "MOCK-CHOICE-1037",
     "question": "5 月 14 日，2025 世界数字教育大会在武汉开幕。教育部部长怀进鹏作题为 “（ ）”的主旨演讲。",
     "type": "单选题",
     "module": "模拟题",
@@ -63411,7 +63974,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1000",
+    "id": "MOCK-CHOICE-1038",
     "question": "（ ）是中国式现代化的本质特征，也是区别于西方现代化的显著标志。",
     "type": "单选题",
     "module": "模拟题",
@@ -63434,7 +63997,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1001",
+    "id": "MOCK-CHOICE-1039",
     "question": "教师职业道德修养水平的重要标志是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -63457,7 +64020,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1002",
+    "id": "MOCK-CHOICE-1040",
     "question": "我们要正确把握理论的精髓和实质，用以解决现实问题。邓小平理论的精髓 是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -63480,7 +64043,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1003",
+    "id": "MOCK-CHOICE-1041",
     "question": "根据马克思关于人的全面发展学说，以下说法正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -63503,7 +64066,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1004",
+    "id": "MOCK-CHOICE-1042",
     "question": "下面关于古代外国的教育说法正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -63526,7 +64089,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1005",
+    "id": "MOCK-CHOICE-1043",
     "question": "加强教师职业道德修养学习主要有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -63549,7 +64112,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1006",
+    "id": "MOCK-CHOICE-1044",
     "question": "教育目的不是固定不变的，以下有关我国教育目的的发展表述正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -63572,7 +64135,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1007",
+    "id": "MOCK-CHOICE-1045",
     "question": "关于欧美学制表述正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -63595,7 +64158,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0319",
+    "id": "MOCK-FJ-0300",
     "question": "学院电子商务专业被确定为现代学徒制省级试点专业及河南省乡村振兴技能 人才培养示范专业。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63616,7 +64179,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0320",
+    "id": "MOCK-FJ-0301",
     "question": "教育法律关系，一经发生，是不可以变更的。 ( )",
     "type": "判断题",
     "module": "模拟题",
@@ -63637,7 +64200,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0321",
+    "id": "MOCK-FJ-0302",
     "question": "教育申诉制度的性质是属于行政性的。 ( )",
     "type": "判断题",
     "module": "模拟题",
@@ -63658,7 +64221,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0322",
+    "id": "MOCK-FJ-0303",
     "question": "教育只能保存传递文化，而不能创造更新文化。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63679,7 +64242,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0323",
+    "id": "MOCK-FJ-0304",
     "question": "如果两个国家的政治、经济状况一致，则这个国家的教育就完全一样。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63700,7 +64263,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0324",
+    "id": "MOCK-FJ-0305",
     "question": "备课是上课的基础和前提，而上课则是课时计划的实施过程。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63721,7 +64284,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0325",
+    "id": "MOCK-FJ-0306",
     "question": "一堂课是不是好课，就是看课堂气氛是否活跃。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63742,7 +64305,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0326",
+    "id": "MOCK-FJ-0307",
     "question": "德育工作要把“塑造”教育与“改造”教育结合起来。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63763,7 +64326,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0327",
+    "id": "MOCK-FJ-0308",
     "question": "情感陶冶法就是通过学校环境潜移默化地对学生进行影响。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63784,7 +64347,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0328",
+    "id": "MOCK-FJ-0309",
     "question": "当一个不爱学习的学生表现出良好的学习行为时,教师撤消对他的批评,教师 的这一做法属于负强化。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -63871,7 +64434,72 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0329",
+    "id": "MOCK-CHOICE-1046",
+    "question": "人（男子运动员 1963 人，女子运动员 1979 人）参赛，是历史上规模最大、人数 最多的一届世界运动会。",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "文化科技常识"
+    ],
+    "reference_answer": "",
+    "source_file": "134.郑州财税金融职业学院模拟题&模拟测试（一百三十四）.pdf",
+    "policy_basis": [
+      "134.郑州财税金融职业学院模拟题&模拟测试（一百三十四）.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "项：本届世运会共设有 34 个大项、60 个分项、256 个小项，运动员 3942",
+      "D": "项正确。",
+      "C": "项错误。",
+      "B": "项正确，"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": "MOCK-CHOICE-1047",
+    "question": "BC【解析】 本题考查的是古代外国的教育。古代希腊的教育分为两种截然不 同的教育，雅典教育培养的是身心和谐的政治家和商人,斯巴达教育培养的是强 悍的军人和武士。古代埃及的教育形式多式多样，教育特征是以僧为师，以吏为 师。中世纪时期的教会教育培养的是教士和僧侣，学习内容：三科，四学。中世 纪时期的骑士教育具有鲜明的等级性和阶级性，主要学习“骑土七技”。故 BC 选项正确。",
+    "type": "多选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "",
+    "source_file": "134.郑州财税金融职业学院模拟题&模拟测试（一百三十四）.pdf",
+    "policy_basis": [
+      "134.郑州财税金融职业学院模拟题&模拟测试（一百三十四）.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "项，古代希腊的教育分为两种截然不同的教育，斯巴达教育培养的 是强悍的军人和武士，雅典教育培养的是身心和谐的政治家和商人，题干表述错 误，排除。",
+      "D": "项，骑士教育具有鲜明的等级性和阶级性，主要学习“七技”，题 干表述错误，排除。综上，本题选 BC。"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": "MOCK-CHOICE-1048",
+    "question": "BC【解析】 本题考查加强教师职业道德修养学习方法。加强教师职业道德修 不属于加强教师职业道德修养学习方法。不符题意排除。综上所述，本题选 BC。",
+    "type": "多选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "教育学原理"
+    ],
+    "reference_answer": "",
+    "source_file": "134.郑州财税金融职业学院模拟题&模拟测试（一百三十四）.pdf",
+    "policy_basis": [
+      "134.郑州财税金融职业学院模拟题&模拟测试（一百三十四）.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "项、",
+      "D": "项："
+    },
+    "correct_answers": []
+  },
+  {
+    "id": "MOCK-FJ-0310",
     "question": "√",
     "type": "判断题",
     "module": "模拟题",
@@ -63892,7 +64520,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0330",
+    "id": "MOCK-FJ-0311",
     "question": "× 教育法律关系发生以后，如果法律关系的构成要素改变了，法律关系也就 随之变更。故本题错误。",
     "type": "判断题",
     "module": "模拟题",
@@ -63913,7 +64541,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0331",
+    "id": "MOCK-FJ-0312",
     "question": "√ 教育申诉制度是一项法定的、专门性的、非诉讼意义上的行政申诉制度。 故本题正确。",
     "type": "判断题",
     "module": "模拟题",
@@ -63934,7 +64562,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0332",
+    "id": "MOCK-FJ-0313",
     "question": "× 教育也能创造、更新文化。",
     "type": "判断题",
     "module": "模拟题",
@@ -63955,7 +64583,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0333",
+    "id": "MOCK-FJ-0314",
     "question": "× 没有考虑文化因素对教育的影响。",
     "type": "判断题",
     "module": "模拟题",
@@ -63976,7 +64604,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0334",
+    "id": "MOCK-FJ-0315",
     "question": "√",
     "type": "判断题",
     "module": "模拟题",
@@ -63997,7 +64625,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0335",
+    "id": "MOCK-FJ-0316",
     "question": "× 评价一堂课是否成功，要根据一堂好课的标准",
     "type": "判断题",
     "module": "模拟题",
@@ -64018,7 +64646,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0336",
+    "id": "MOCK-FJ-0317",
     "question": "√",
     "type": "判断题",
     "module": "模拟题",
@@ -64039,7 +64667,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0337",
+    "id": "MOCK-FJ-0318",
     "question": "× 情感陶冶法是教育者有目的地利用环境或者创设一定的情境，对受教育者 进行积极影响使其耳濡目染，心灵受到感化的一种方法。",
     "type": "判断题",
     "module": "模拟题",
@@ -64060,7 +64688,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0338",
+    "id": "MOCK-FJ-0319",
     "question": "√",
     "type": "判断题",
     "module": "模拟题",
@@ -64149,7 +64777,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1008",
+    "id": "MOCK-CHOICE-1049",
     "question": "在实验中，让你戴上耳机，然后开始由小到大地调节音量，你会从一开始听不 见，到开始逐渐能够听得见。你刚刚能够听得见时的音量，在心理学中被称为( )",
     "type": "单选题",
     "module": "模拟题",
@@ -64174,7 +64802,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1009",
+    "id": "MOCK-CHOICE-1050",
     "question": "以下现象中，表明感受性可通过练习而提高的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -64199,7 +64827,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1010",
+    "id": "MOCK-CHOICE-1051",
     "question": "认同是在思想、情感、态度和行为上主动接受他人的影响，使自己的态度和行 为( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -64224,7 +64852,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1011",
+    "id": "MOCK-CHOICE-1052",
     "question": "要想做到“见义智为”，最关键的是要加强( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -64249,7 +64877,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1012",
+    "id": "MOCK-CHOICE-1053",
     "question": "布鲁姆提出“为掌握而学习”，认为前面学习要达到（ ）的正确率，才能开 始新的学习。",
     "type": "单选题",
     "module": "模拟题",
@@ -64274,7 +64902,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1013",
+    "id": "MOCK-CHOICE-1054",
     "question": "同概念一样，规则也有正例反例，下列表述能体现桑代克效果律正例的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64299,7 +64927,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1014",
+    "id": "MOCK-CHOICE-1055",
     "question": "从教育的社会功能来看，一个人通过自学，从一名初级会计晋升为中级会计， 这体现了（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64324,7 +64952,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1015",
+    "id": "MOCK-CHOICE-1056",
     "question": "人们喜欢记住自己感兴趣的事物，对不喜欢的事物记忆起来十分吃力，这表明 情绪具有（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64349,7 +64977,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1016",
+    "id": "MOCK-CHOICE-1057",
     "question": "加涅认为教学过程的首要因素是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64375,7 +65003,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1017",
+    "id": "MOCK-CHOICE-1058",
     "question": "马斯洛将认知、审美的需要列入下面哪一种需要之中（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64401,7 +65029,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1018",
+    "id": "MOCK-CHOICE-1059",
     "question": "夸美纽斯是捷克伟大的民主主义教育家,是西方近代教育理论的奠基者。贯穿 夸美纽斯整个教育体系的一条根本性指导原则是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64426,7 +65054,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1019",
+    "id": "MOCK-CHOICE-1060",
     "question": "第一次把教育学作为一门独立的学科提出来的著作是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64451,7 +65079,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1020",
+    "id": "MOCK-CHOICE-1061",
     "question": "（ ）是教育史上第一个正式提出的有关教育起源的学说，也是较早地把教 育起源问题作为一个学术问题提出来的学说。",
     "type": "单选题",
     "module": "模拟题",
@@ -64476,7 +65104,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1021",
+    "id": "MOCK-CHOICE-1062",
     "question": "教育目的的个人本位的价值取向的代表人物有（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64501,7 +65129,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1022",
+    "id": "MOCK-CHOICE-1063",
     "question": "最早提出班级授课制的是教育家是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64527,7 +65155,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1023",
+    "id": "MOCK-CHOICE-1064",
     "question": "在我国，教和育最早并不是连在一起使用的。“教”字最早出现（ ）中，为 象形文字。",
     "type": "单选题",
     "module": "模拟题",
@@ -64552,7 +65180,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1024",
+    "id": "MOCK-CHOICE-1065",
     "question": "王老师在教育教学过程中，从来不采取“一刀切”的办法，因为他深刻地认 识到人的身心发展具有（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64579,7 +65207,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1025",
+    "id": "MOCK-CHOICE-1066",
     "question": "书院教学的基本精神是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64604,7 +65232,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1026",
+    "id": "MOCK-CHOICE-1067",
     "question": "教育的最基本的职能是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64629,7 +65257,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1027",
+    "id": "MOCK-CHOICE-1068",
     "question": "教育的功能从结构上可分为多种，其中教育复制了现有的社会关系，再现了 社会的不平等体现了教育的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64654,7 +65282,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1028",
+    "id": "MOCK-CHOICE-1069",
     "question": "“教育不是强迫儿童或青年去吸收外面的东西，而是要使人类‘与生俱来’ 的能力得以生长。”这是（ ）的观点。",
     "type": "单选题",
     "module": "模拟题",
@@ -64679,7 +65307,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1029",
+    "id": "MOCK-CHOICE-1070",
     "question": "教师的教育专业素养中，（ ）是使教师成为一名优秀教师的第一要素。",
     "type": "单选题",
     "module": "模拟题",
@@ -64705,7 +65333,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1030",
+    "id": "MOCK-CHOICE-1071",
     "question": "在我国漫长的封建社会，以儒家为核心的伦理性文化一直占据主流地位，因 而在教育目标上强调：“明明德，亲民，止于至善”，通过修己正人，达到“明人 伦”。这表明（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64731,7 +65359,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1031",
+    "id": "MOCK-CHOICE-1072",
     "question": "把学习者的学习动机分为“高成就动机”和“避免失败”的理论是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64756,7 +65384,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1032",
+    "id": "MOCK-CHOICE-1073",
     "question": "一个联结的使用，会增加这个联结的力量，是指（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64781,7 +65409,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1033",
+    "id": "MOCK-CHOICE-1074",
     "question": "2025 年 9 月 1 日出版的第 17 期《求是》杂志发表中共中央总书记、国家主 席、中央军委主席习近平的重要文章《弘扬伟大抗战精神，向着中华民族伟大复 兴的光辉彼岸奋勇前进》，文章指出，伟大的抗战精神，是中国人民弥足珍贵的 精神财富。关于抗战精神，下列说法错误的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64806,7 +65434,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1034",
+    "id": "MOCK-CHOICE-1075",
     "question": "2025 年 9 月 5 日，2025 世界智能产业博览会在重庆市开幕，本次主题为：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64831,7 +65459,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1035",
+    "id": "MOCK-CHOICE-1076",
     "question": "党的机关公开发布重要决定或重大事件用（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -64856,7 +65484,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1036",
+    "id": "MOCK-CHOICE-1077",
     "question": "习近平总书记强调：我们必须始终保持高度警惕，用大概率思维应对小概率 事件，牢牢守住不发生系统性风险的底线。这一重要论述体现的哲理是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64881,7 +65509,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1037",
+    "id": "MOCK-CHOICE-1078",
     "question": "抗战伊始，中国共产党面对复杂的国际国内形势和两条不同的抗战路线，提 出必须坚持统一战线中的独立自主原则。与这一原则相对应的哲学原理是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64906,7 +65534,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1038",
+    "id": "MOCK-CHOICE-1079",
     "question": "敢于斗争、敢于胜利是中国共产党人鲜明的政治品格和政治优势，毛泽东第 一次提出“从斗争中创造新局 面”这一重要论述的著作是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64931,7 +65559,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1039",
+    "id": "MOCK-CHOICE-1080",
     "question": "古代诗词中有不少关于四季降雨的佳句，下列选项中不是描述春雨的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -64956,7 +65584,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1040",
+    "id": "MOCK-CHOICE-1081",
     "question": "2025 年 8 月 2 日，第十五届全国运动会和全国第十二届残疾人运动会暨第九 届特殊奥林匹克运动会正式发布火炬，取名“（ ）”。",
     "type": "单选题",
     "module": "模拟题",
@@ -64981,7 +65609,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1041",
+    "id": "MOCK-CHOICE-1082",
     "question": "（ ）又名菡萏、芙蓉、芙葉等，是世界上最重要的水生植物之一，其花清 香远溢，出污泥而不染，深为人们喜爱。",
     "type": "单选题",
     "module": "模拟题",
@@ -65006,7 +65634,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1042",
+    "id": "MOCK-CHOICE-1083",
     "question": "你穿越到宋朝，不可能看到的场景是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -65031,7 +65659,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1043",
+    "id": "MOCK-CHOICE-1084",
     "question": "—书院前挂一副对联“治无古今，育才是急，莫漫观四海潮流，千秋讲院； 学有因革，通变为雄，试忖度朱张意气，毛蔡风神。”这座书院是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -65056,7 +65684,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1044",
+    "id": "MOCK-CHOICE-1085",
     "question": "下列名著与作者对应不正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -65081,7 +65709,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1045",
+    "id": "MOCK-CHOICE-1086",
     "question": "关于中国高校，下列说法错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -65108,7 +65736,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1046",
+    "id": "MOCK-CHOICE-1087",
     "question": "下列自然景象与影响因素对应错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -65134,7 +65762,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1047",
+    "id": "MOCK-CHOICE-1088",
     "question": "下列事迹与历史人物对应有误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -65161,7 +65789,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1048",
+    "id": "MOCK-CHOICE-1089",
     "question": "现代三大教育理论包括（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65188,7 +65816,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1049",
+    "id": "MOCK-CHOICE-1090",
     "question": "社会本位论强调教育应当从社会发展的需要出发，关注教育的社会价值。下列 观点体现了社会本位论的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65215,7 +65843,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1050",
+    "id": "MOCK-CHOICE-1091",
     "question": "劳动教育是中国特色社会主义教育制度的重要内容，直接决定社会主义建设者 和接班人的（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65243,7 +65871,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1051",
+    "id": "MOCK-CHOICE-1092",
     "question": "学校的组织和制度文化的主要表达方式有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65270,7 +65898,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1052",
+    "id": "MOCK-CHOICE-1093",
     "question": "品德和道德的联系表现在（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65297,7 +65925,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1053",
+    "id": "MOCK-CHOICE-1094",
     "question": "加涅把程序性知识分为两个亚类，即（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65323,7 +65951,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1054",
+    "id": "MOCK-CHOICE-1095",
     "question": "学校教育的系统性主要表现在（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65349,7 +65977,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1055",
+    "id": "MOCK-CHOICE-1096",
     "question": "以下对记忆描述正确的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -65376,7 +66004,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1056",
+    "id": "MOCK-CHOICE-1097",
     "question": "学校教育之所以对个体发展发挥主导作用是因为( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -65402,7 +66030,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1057",
+    "id": "MOCK-CHOICE-1098",
     "question": "从教育的角度看，反映了遗传因素对人的发展的影响有 （ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -65429,7 +66057,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0339",
+    "id": "MOCK-FJ-0320",
     "question": "德育内容是德育工作的出发点，它不仅决定了德育的目标、形式和方法，而且 制着德育工作的基本过程。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65451,7 +66079,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0340",
+    "id": "MOCK-FJ-0321",
     "question": "美德即知识。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65474,7 +66102,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0341",
+    "id": "MOCK-FJ-0322",
     "question": "夸美纽斯是最早从理论上对班级授课制进行阐述的教育家。",
     "type": "判断题",
     "module": "模拟题",
@@ -65498,7 +66126,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0342",
+    "id": "MOCK-FJ-0323",
     "question": "教育水平的提高能够减缓人口的流动，以满足社会发展对不同类型人员的需要， 促进人口分布结构的合理化。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65519,7 +66147,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0343",
+    "id": "MOCK-FJ-0324",
     "question": "教育可以“简化”文化，吸取基本内容；教育可以“净化”文化，消除其不良 因素。这体现了教育对文化的发展功能。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65541,7 +66169,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0344",
+    "id": "MOCK-FJ-0325",
     "question": "策 略 性 知 识 学 习 的 最 高 水 平 就 是 把 习 得 的 策 略 迁 移 到 未 训 练 的 情 境 中。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65562,7 +66190,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0345",
+    "id": "MOCK-FJ-0326",
     "question": "格式塔顿悟学习理论用“整体性”和“组织作用”的概念来解释学习过程，认 为学习的结果是次要派生的现象，过程才是重要的。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65585,7 +66213,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0346",
+    "id": "MOCK-FJ-0327",
     "question": "面对问题情境，倾向于深思熟虑且较少出错的认知风格是场独立型。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65606,7 +66234,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0347",
+    "id": "MOCK-FJ-0328",
     "question": "小敏为了让自己在班集体中的排名更靠前面而努力学习的内驱力是认知内驱 力。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65627,7 +66255,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0348",
+    "id": "MOCK-FJ-0329",
     "question": "提供适当的变式练习属于陈述性知识教学策略的范畴。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -65666,7 +66294,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1058",
+    "id": "MOCK-CHOICE-1099",
     "question": "河南应用技术职业学院始建于（ ）年，前身是河南省化学工业学校。",
     "type": "单选题",
     "module": "模拟题",
@@ -65691,7 +66319,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1059",
+    "id": "MOCK-CHOICE-1100",
     "question": "国务院新闻办公室 2025 年 9 月 24 日举行“高质量完成‘十四五’规划”系列 主题新闻发布会。应急管理部相关负责人介绍，“十四五”时期，我国应急管理 体系和能力建设取得突破性进展和历史性成就。自然灾害方面，主要表现为“三 个下降”，也就是 2021 年至 2024 年（ ）占国内生产总值比均比“十三五”时 期下降。",
     "type": "单选题",
     "module": "模拟题",
@@ -65717,7 +66345,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1060",
+    "id": "MOCK-CHOICE-1101",
     "question": "国务院新闻办公室 2025 年 9 月 23 日举行“高质量完成‘十四五’规划”系列 主题新闻发布会。教育部相关负责人介绍，“十四五”规划所确立的教育领域各 项目标任务已全面高质量完成。对此，下列说法错误的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -65742,7 +66370,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1061",
+    "id": "MOCK-CHOICE-1102",
     "question": "在中国致公党成立 100 周年之际，中共中央总书记、国家主席、中央军委主席 习近平发来贺信，代表中共中央表示热烈祝贺，向致公党全体同志致以诚挚问候。 关于致公党，下列说法错误的是：",
     "type": "单选题",
     "module": "模拟题",
@@ -65767,7 +66395,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1062",
+    "id": "MOCK-CHOICE-1103",
     "question": "2025 年 9 月 21 日，联合国教科文组织国际 STEM 教育研究所在上海正式成立。 该中心将依托中国在 STEM 教育，也就是（ ）学科及跨学科教育实践，通过 国际联合研究、政策对话和培训等多种方式，推动全球 STEM 教育优质资源共建 共享。",
     "type": "单选题",
     "module": "模拟题",
@@ -65792,7 +66420,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1063",
+    "id": "MOCK-CHOICE-1104",
     "question": "在全面发展的教育中，起导向和动力作用的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -65817,7 +66445,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1064",
+    "id": "MOCK-CHOICE-1105",
     "question": "学生热爱班集体，学习认真，对自己要求严格等方面的性格特征属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -65842,7 +66470,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1065",
+    "id": "MOCK-CHOICE-1106",
     "question": "回忆高尔基的《海燕》时，头脑中浮现课文的第一段和结尾，中间部分模糊不 清，这种现象可以用遗忘的( )来解释。",
     "type": "单选题",
     "module": "模拟题",
@@ -65867,7 +66495,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1066",
+    "id": "MOCK-CHOICE-1107",
     "question": "小明说当他听到锅铲刮锅底的声音时，就会觉得很冷浑身不舒服，这种感觉现 象是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -65892,7 +66520,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1067",
+    "id": "MOCK-CHOICE-1108",
     "question": "先吃糖，后吃橘子，就会觉得橘子特别酸，体现了( )",
     "type": "单选题",
     "module": "模拟题",
@@ -65917,7 +66545,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1068",
+    "id": "MOCK-CHOICE-1109",
     "question": "学生上课时，边听、边看、边做笔记这是注意的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -65942,7 +66570,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1069",
+    "id": "MOCK-CHOICE-1110",
     "question": "下列关于日食和月食的判断，正确的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -65967,7 +66595,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1070",
+    "id": "MOCK-CHOICE-1111",
     "question": "下列有关知识产权的说法符合法律规定的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -65992,7 +66620,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1071",
+    "id": "MOCK-CHOICE-1112",
     "question": "依法治国，就是广大人民群众在党的领导下，依照宪法和法律规定，通过各 种途径和形式管理国家事务，管理经济文化事业，管理社会事务，保证国家各项 工作都依法进行，逐步实现社会主义民主的制度化、法律化，使这种制度和法律 不因领导人的改变而改变，不因领导人的看法和注意力的改变而改变。依法治国 的主体是∶（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66018,7 +66646,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1072",
+    "id": "MOCK-CHOICE-1113",
     "question": "对国务院部门的具体行政行为不服的，当事人向下列哪个组织申请行政复议? （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66043,7 +66671,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1073",
+    "id": "MOCK-CHOICE-1114",
     "question": "小刚去年去过长城，至今长城的映像还留在他的脑海中，这种映像属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -66068,7 +66696,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1074",
+    "id": "MOCK-CHOICE-1115",
     "question": "智龄(智力年龄)是( )首先提出的。",
     "type": "单选题",
     "module": "模拟题",
@@ -66093,7 +66721,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1075",
+    "id": "MOCK-CHOICE-1116",
     "question": "在教育目的问题上，实用主义教育流派的代表人物杜威所持有的观点是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66118,7 +66746,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1076",
+    "id": "MOCK-CHOICE-1117",
     "question": "（ ）是指导整个课程编制过程的最为关键的准则，是特定阶段学校课程所 要达到的预期结果。",
     "type": "单选题",
     "module": "模拟题",
@@ -66143,7 +66771,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1077",
+    "id": "MOCK-CHOICE-1118",
     "question": "教师自编测验时，要想提高测验的区分度，最重要的是控制好试题的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66168,7 +66796,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1078",
+    "id": "MOCK-CHOICE-1119",
     "question": "体育课上，陈老师在教学生新的广播操动作，她先对每个动作进行示范与讲 解，然后让学生进行细致地观察并思考应该怎么做这些动作。这属于操作技能的 （ ）阶段。",
     "type": "单选题",
     "module": "模拟题",
@@ -66193,7 +66821,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1079",
+    "id": "MOCK-CHOICE-1120",
     "question": "（ ）是教学内容的载体，是教学内容的表现形式，是师生之间传递信息的 工具。",
     "type": "单选题",
     "module": "模拟题",
@@ -66218,7 +66846,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1080",
+    "id": "MOCK-CHOICE-1121",
     "question": "西方最早的一部教育著作，也是世界上第一部教学法论著的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66243,7 +66871,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1081",
+    "id": "MOCK-CHOICE-1122",
     "question": "学校产生的必要条件之一是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66268,7 +66896,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1082",
+    "id": "MOCK-CHOICE-1123",
     "question": "古诗句“欢娱嫌夜短，寂寞恨更长”描写的心理现象是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66293,7 +66921,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1083",
+    "id": "MOCK-CHOICE-1124",
     "question": "人格是指决定个体的外显行为和内隐行为，并使其与他人的行为有稳定区别 的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66319,7 +66947,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1084",
+    "id": "MOCK-CHOICE-1125",
     "question": "苏霍姆林斯基指出：尽可能地了解每个孩子的精神世界——这是教师和校长 的首条金科玉律。这句话体现了（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66344,7 +66972,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1085",
+    "id": "MOCK-CHOICE-1126",
     "question": "下列著作中，为班级授课制奠定理论基础的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66370,7 +66998,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1086",
+    "id": "MOCK-CHOICE-1127",
     "question": "在皮亚杰的认知理论中，个体改变自己的动作以适应客观变化的行为，被称 为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66395,7 +67023,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1087",
+    "id": "MOCK-CHOICE-1128",
     "question": "体现教师追求真理、探索真理、捍卫真理的科学精神的优秀品质的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -66420,7 +67048,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1088",
+    "id": "MOCK-CHOICE-1129",
     "question": "学校的办学理念是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66447,7 +67075,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1089",
+    "id": "MOCK-CHOICE-1130",
     "question": "学校的校训是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66475,7 +67103,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1090",
+    "id": "MOCK-CHOICE-1131",
     "question": "皮亚杰将儿童认知发展划分为( )",
     "type": "多选题",
     "module": "模拟题",
@@ -66503,7 +67131,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1091",
+    "id": "MOCK-CHOICE-1132",
     "question": "下列关于记忆说法正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -66533,7 +67161,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1092",
+    "id": "MOCK-CHOICE-1133",
     "question": "记忆是编码、存储、提取的过程，与之对应的记忆分为( )",
     "type": "多选题",
     "module": "模拟题",
@@ -66560,7 +67188,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1093",
+    "id": "MOCK-CHOICE-1134",
     "question": "以下说法体现了启发式教学思想的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66589,7 +67217,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1094",
+    "id": "MOCK-CHOICE-1135",
     "question": "学校德育的社会性功能包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66618,7 +67246,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1095",
+    "id": "MOCK-CHOICE-1136",
     "question": "下列属于心境表现的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66644,7 +67272,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1096",
+    "id": "MOCK-CHOICE-1137",
     "question": "陈述性知识的表征形式主要有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66672,7 +67300,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1097",
+    "id": "MOCK-CHOICE-1138",
     "question": "按照《中华人民共和国教师法》的规定，教师履行遵守宪法、法律和职业道 德，为人师表；贯彻国家的教育方针，遵守规章制度，执行学校的教学计划，履 行教师聘约，完成教育教学工作任务和（ ）义务。",
     "type": "多选题",
     "module": "模拟题",
@@ -66701,7 +67329,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1098",
+    "id": "MOCK-CHOICE-1139",
     "question": "严复在教育作用问题上，受斯宾塞“三育论”的影响，主张（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66728,7 +67356,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1099",
+    "id": "MOCK-CHOICE-1140",
     "question": "教师的职业形象包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66757,7 +67385,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1100",
+    "id": "MOCK-CHOICE-1141",
     "question": "智力的个别差异主要包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66785,7 +67413,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1101",
+    "id": "MOCK-CHOICE-1142",
     "question": "常用的精加工策略有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66812,7 +67440,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1102",
+    "id": "MOCK-CHOICE-1143",
     "question": "国家坚持以（ ）为指导，遵循宪法确定的基本原则，发展社会主义的教育 事业。",
     "type": "多选题",
     "module": "模拟题",
@@ -66840,7 +67468,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1103",
+    "id": "MOCK-CHOICE-1144",
     "question": "教育发展是一个漫长的过程，具有独立形态的教育学创立的标志包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66868,7 +67496,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1104",
+    "id": "MOCK-CHOICE-1145",
     "question": "教师专业知识的拓展包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66895,7 +67523,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1105",
+    "id": "MOCK-CHOICE-1146",
     "question": "瞬时记忆的特点是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66922,7 +67550,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1106",
+    "id": "MOCK-CHOICE-1147",
     "question": "理想师生关系的特征有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66950,7 +67578,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1107",
+    "id": "MOCK-CHOICE-1148",
     "question": "按照马斯洛的需要层次理论，一旦得到满足，由此产生的动机就会消失的需 要有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -66977,7 +67605,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0349",
+    "id": "MOCK-FJ-0330",
     "question": "教育从来就是具有而且将永远具有阶级性的特点。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -66998,7 +67626,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0350",
+    "id": "MOCK-FJ-0331",
     "question": "教育从来就是同生产劳动结合在一起的。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67019,7 +67647,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0351",
+    "id": "MOCK-FJ-0332",
     "question": "人类历史上，先是某些圣贤办起了学校，然后才有教育活动。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67040,7 +67668,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0352",
+    "id": "MOCK-FJ-0333",
     "question": "在原始教育阶段，教育与生产劳动合二为一，人人必须劳动，因而人人受教育， 但到了古代教育阶段，教育只是少数人才能享受的，所以，古代教育不如原始教 育。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67061,7 +67689,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0353",
+    "id": "MOCK-FJ-0334",
     "question": "教育对文化的传播与传递是无条件的。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67082,7 +67710,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0354",
+    "id": "MOCK-FJ-0335",
     "question": "德育工作要把“塑造”教育与“改造”教育结合起来。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67105,7 +67733,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0355",
+    "id": "MOCK-FJ-0336",
     "question": "情感陶冶法就是通过学校环境潜移默化地对学生进行影响。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67126,7 +67754,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0356",
+    "id": "MOCK-FJ-0337",
     "question": "进行德育必须遵循从知到意的顺序进行。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67147,7 +67775,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0357",
+    "id": "MOCK-FJ-0338",
     "question": "没有要求也就没有德育。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67170,7 +67798,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0358",
+    "id": "MOCK-FJ-0339",
     "question": "知行统一即思想与行为的统一。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -67209,7 +67837,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0359",
+    "id": "MOCK-FJ-0340",
     "question": "《学记》所说的“教学相长”本义是指教师的教与学生的学互相促进，共同提 高。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67230,7 +67858,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0360",
+    "id": "MOCK-FJ-0341",
     "question": "著名教育家昆体良说：“教师是太阳底下最崇高的职业”。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67251,7 +67879,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0361",
+    "id": "MOCK-FJ-0342",
     "question": "马克思主义认为，实现人的全面发展的唯一方法是知识分子与工人农民相结合。 ( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67273,7 +67901,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0362",
+    "id": "MOCK-FJ-0343",
     "question": "我国当前课程改革的核心理念是：为了中华民族的复兴，为了每位学生的发展。 ( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67295,7 +67923,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0363",
+    "id": "MOCK-FJ-0344",
     "question": "陈老师通过组织班里的学生去参加特定的集体道德实践活动，来提高学生的道 德认知。陈老师运用的是品德评价法。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67316,7 +67944,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0364",
+    "id": "MOCK-FJ-0345",
     "question": "教师利用抑扬顿挫的声音是为了引起学生的无意注意。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67337,7 +67965,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0365",
+    "id": "MOCK-FJ-0346",
     "question": "学生在学习“四边形”的知识后，再学习长方形、等腰梯形这种学习是上位学 习。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67358,7 +67986,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0366",
+    "id": "MOCK-FJ-0347",
     "question": "晶体智力以生理为基础的认知能力，受先天遗传因素的影响较大;流体智力的 发展与年龄有关，20 岁达到顶峰后，30 岁随着年龄的增长而下降。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67379,7 +68007,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0367",
+    "id": "MOCK-FJ-0348",
     "question": "对大多数学生和学习材料而言，集中复习的效果优于分散复习效果。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67400,7 +68028,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0368",
+    "id": "MOCK-FJ-0349",
     "question": "教师职业道德基本原则是由教师职业道德规范和范畴派生出来的，是教师职 业道德规范和范畴的展开、补充和具体化。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -67421,7 +68049,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1108",
+    "id": "MOCK-CHOICE-1149",
     "question": "10 月 6 日，在中华民族传统佳节中秋节之际，国家航天局和国家原子能机构 联合发布（ ）月球背面样品研究最新成果。中国科学家首次基于（ ） 月球背面样品研究发现，月球背面月幔相比月球正面更“冷”。",
     "type": "单选题",
     "module": "模拟题",
@@ -67446,7 +68074,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1109",
+    "id": "MOCK-CHOICE-1150",
     "question": "《中国共产党思想政治工作条例》强调，（ ）是党的优良传统、鲜明特色 和突出政治优势。",
     "type": "单选题",
     "module": "模拟题",
@@ -67472,7 +68100,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1110",
+    "id": "MOCK-CHOICE-1151",
     "question": "10 月 9 日，中华人民共和国第十五届运动会会歌（ ）及 MV 正式发布。",
     "type": "单选题",
     "module": "模拟题",
@@ -67497,7 +68125,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1111",
+    "id": "MOCK-CHOICE-1152",
     "question": "希望得到他人的关心和认可并获得一定的地位，这是人的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -67522,7 +68150,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1112",
+    "id": "MOCK-CHOICE-1153",
     "question": "教师讲课的语调应当抑扬顿挫，这样才能让学生更认真地听课，这属于知觉的 ( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -67545,7 +68173,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1113",
+    "id": "MOCK-CHOICE-1154",
     "question": "老师在黑板上演算的过程是属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -67568,7 +68196,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1114",
+    "id": "MOCK-CHOICE-1155",
     "question": "学生在学习一篇议论文时，边读边勾画出文章的论点论据的逻辑关系图以辅助 理解，这种学习方法属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -67591,7 +68219,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1115",
+    "id": "MOCK-CHOICE-1156",
     "question": "教育学的研究对象是()",
     "type": "单选题",
     "module": "模拟题",
@@ -67616,7 +68244,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1116",
+    "id": "MOCK-CHOICE-1157",
     "question": "不是凭借教授的知识，而是凭借提问刺激对方思考，通过对方的思考亲自发现 真理。提出这种教育方法的教育家是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -67641,7 +68269,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1117",
+    "id": "MOCK-CHOICE-1158",
     "question": "决定教育性质的根本因素是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -67666,7 +68294,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1118",
+    "id": "MOCK-CHOICE-1159",
     "question": "下列关于教育与社会政治经济制度关系的表述，不正确的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -67691,7 +68319,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1119",
+    "id": "MOCK-CHOICE-1160",
     "question": "我国《民法典》规定，普通诉讼时效期间为多少年？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -67716,7 +68344,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1120",
+    "id": "MOCK-CHOICE-1161",
     "question": "“十四五”规划指出，构建新发展格局的战略基点是？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -67741,7 +68369,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1121",
+    "id": "MOCK-CHOICE-1162",
     "question": "标志红军二万五千里长征结束的事件是？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -67766,7 +68394,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1122",
+    "id": "MOCK-CHOICE-1163",
     "question": "下列属于我国自主研制的卫星导航系统是？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -67791,7 +68419,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1123",
+    "id": "MOCK-CHOICE-1164",
     "question": "中央银行调控货币供应量的常用工具是？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -67816,7 +68444,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1124",
+    "id": "MOCK-CHOICE-1165",
     "question": "黄河与长江共同流经的省级行政区是？",
     "type": "单选题",
     "module": "模拟题",
@@ -67841,7 +68469,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1125",
+    "id": "MOCK-CHOICE-1166",
     "question": "下列文种中适用于向上级机关汇报工作的是？",
     "type": "单选题",
     "module": "模拟题",
@@ -67866,7 +68494,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1126",
+    "id": "MOCK-CHOICE-1167",
     "question": "“物是观念的集合”属于哪种哲学观点？",
     "type": "单选题",
     "module": "模拟题",
@@ -67891,7 +68519,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1127",
+    "id": "MOCK-CHOICE-1168",
     "question": "下列行为中属于行政处罚的是？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -67916,7 +68544,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1128",
+    "id": "MOCK-CHOICE-1169",
     "question": "毛泽东同志提出“须知政权是由枪杆子中取得的”论断是在（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -67941,7 +68569,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1129",
+    "id": "MOCK-CHOICE-1170",
     "question": "不同的时代有不同的革命精神，下列精神按出现的先后顺序排列正确的是（ ） ①五四精神②井冈山精神③长征精神④改革开放精神",
     "type": "单选题",
     "module": "模拟题",
@@ -67966,7 +68594,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1130",
+    "id": "MOCK-CHOICE-1171",
     "question": "中国共产党在抗日战争时期于敌后开创的第一个抗日根据地是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -67991,7 +68619,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1131",
+    "id": "MOCK-CHOICE-1172",
     "question": "“天高云淡，望断南飞雁。不到长城非好汉，屈指行程二万。六盘山上高峰， 红旗漫卷西风。今日长缨在手，何时缚住苍龙？”毛泽东同志的这首词反映的重 大历史事件是（）。",
     "type": "单选题",
     "module": "模拟题",
@@ -68016,7 +68644,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1132",
+    "id": "MOCK-CHOICE-1173",
     "question": "中国人民解放军的名称经历了多年的发展变迁，出现了许多不同种类的名称。 如：①新四军②中国工农革命军③中国工农红军④人民解放军。这些名称出现的 先后顺序是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68041,7 +68669,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1133",
+    "id": "MOCK-CHOICE-1174",
     "question": "《职业教育法》规定:企业与职业学校联合招收学生，以工学结合的方式进行 学徒培养的，应当签订( )",
     "type": "单选题",
     "module": "模拟题",
@@ -68066,7 +68694,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1134",
+    "id": "MOCK-CHOICE-1175",
     "question": "《职业教育法》规定:职业教育活动周为每年五月的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -68091,7 +68719,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1135",
+    "id": "MOCK-CHOICE-1176",
     "question": "（ ）、工会等群团组织、行业组织、企业、事业单位等委托学校、职业培训 机构实施职业教育的，应当签订委托合同。",
     "type": "单选题",
     "module": "模拟题",
@@ -68116,7 +68744,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1136",
+    "id": "MOCK-CHOICE-1177",
     "question": "职业教育实行政府统筹、（ ）、地方为主、行业指导、校企合作、社会参与。",
     "type": "单选题",
     "module": "模拟题",
@@ -68141,7 +68769,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1137",
+    "id": "MOCK-CHOICE-1178",
     "question": "从 2019 年开始，在职业院校、应用型本科高校启动“（ ）+若干职业技能 等级证书”制度试点（以下称 1+X 证书制度试点）工作。",
     "type": "单选题",
     "module": "模拟题",
@@ -68166,7 +68794,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1138",
+    "id": "MOCK-CHOICE-1179",
     "question": "遗忘是个体的一种正常现象，影响遗忘的因素有很多。下列遗忘观点与“及 时复习策略”相一致的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68191,7 +68819,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1139",
+    "id": "MOCK-CHOICE-1180",
     "question": "李老师能力强，善于与学生交流，经常倾听学生对于开展教学活动的意见， 班上的学生学习积极性高，兴趣广泛，和老师配合默契。这属于（ ）师生关系。",
     "type": "单选题",
     "module": "模拟题",
@@ -68216,7 +68844,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1140",
+    "id": "MOCK-CHOICE-1181",
     "question": "（ ）是从一般性知识的前提推出个别性知识的结论的推理，即从一般到特 殊的推理。",
     "type": "单选题",
     "module": "模拟题",
@@ -68241,7 +68869,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1141",
+    "id": "MOCK-CHOICE-1182",
     "question": "20 世纪美国心理学家班杜拉提出社会学习理论，对这一理论描述有误的是 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68266,7 +68894,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1142",
+    "id": "MOCK-CHOICE-1183",
     "question": "教育心理学研究要求研究者牢记被试的心理是不断发展变化的，应该采用动 态、变化的指标进行衡量。这遵循了教育心理学研究的（ ）原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -68292,7 +68920,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1143",
+    "id": "MOCK-CHOICE-1184",
     "question": "“多一把尺子，就多一个好学生”反映的评价观是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68317,7 +68945,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1144",
+    "id": "MOCK-CHOICE-1185",
     "question": "学生在教师指导下运用知识反复完成一定的操作或解决某类作业与习题，以 便加深理解，形成技能、技巧。这种教学方法是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68342,7 +68970,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1145",
+    "id": "MOCK-CHOICE-1186",
     "question": "人的注意会经常出现周期性的加强和减弱，所以应合理设置学生的上课时间， 保证最佳的教学效果。这一现象反映了（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68368,7 +68996,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1146",
+    "id": "MOCK-CHOICE-1187",
     "question": "尽管发展的速度可以有个别差异，会加速或延缓，但发展是不可逆的，也不 可逾越。这是指学生心理发展的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68393,7 +69021,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1147",
+    "id": "MOCK-CHOICE-1188",
     "question": "把学习者的学习动机归为“力求成功的动机”和“避免失败的动机”的理论 是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -68418,7 +69046,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1148",
+    "id": "MOCK-CHOICE-1189",
     "question": "国和世界上最早的马克思主义教育学著作分别是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -68444,7 +69072,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1149",
+    "id": "MOCK-CHOICE-1190",
     "question": "国家采取措施，提高技术技能人才的社会地位和待遇，弘扬（ ）的时代风尚。",
     "type": "多选题",
     "module": "模拟题",
@@ -68471,7 +69099,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1150",
+    "id": "MOCK-CHOICE-1191",
     "question": "职业学校在办学中可以开展下列活动（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -68501,7 +69129,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1151",
+    "id": "MOCK-CHOICE-1192",
     "question": "陶冶法是通过创设良好的情境，潜移默化地培养学生品德的方法，主要包括 （ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -68529,7 +69157,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1152",
+    "id": "MOCK-CHOICE-1193",
     "question": "下列属于运用说服教育法的要求的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -68558,7 +69186,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1153",
+    "id": "MOCK-CHOICE-1194",
     "question": "布鲁纳的教育心理学成果主要表现在（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -68589,7 +69217,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1154",
+    "id": "MOCK-CHOICE-1195",
     "question": "影响态度与品德学习的内部条件有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -68617,7 +69245,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1155",
+    "id": "MOCK-CHOICE-1196",
     "question": "下列关于气质的说法，正确的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -68646,7 +69274,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1156",
+    "id": "MOCK-CHOICE-1197",
     "question": "教师的人格形象是教师在教育教学活动中的心理特征的整体体现，理想教师的 人格包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -68675,7 +69303,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1157",
+    "id": "MOCK-CHOICE-1198",
     "question": "学习策略包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -69199,7 +69827,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1158",
+    "id": "MOCK-CHOICE-1199",
     "question": "习近平总书记强调，实现党在新时代新征程的使命任务，党的建设 和组织工作要有新担当新作为。关于深入推进新时代党的建设新的伟 大工程，下列表述正确的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -69227,7 +69855,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1159",
+    "id": "MOCK-CHOICE-1200",
     "question": "下列关于真理的说法，正确的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -69254,7 +69882,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1160",
+    "id": "MOCK-CHOICE-1201",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，全面推进各级 各类学校党的建设，牢牢掌握党对学校意识形态工作领导权，落实意 识形态工作责任制，深入推进党风廉政建设和反腐败斗争，将（ ） 建设作为评价学校领导班子办学治校水平的重要内容，维护教育系统 政治安全与和谐稳定。",
     "type": "多选题",
     "module": "模拟题",
@@ -69283,7 +69911,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1161",
+    "id": "MOCK-CHOICE-1202",
     "question": "2025 年 9 月 1 日出版的第 17 期《求是》杂志发表中共中央总书记、 国家主席、中央军委主席习近平的重要文章《弘扬伟大抗战精神，向 着中华民族伟大复兴的光辉彼岸奋勇前进》。文章指出，中国人民抗 日战争胜利，是近代以来中国抗击外敌入侵的第一次完全胜利。这一 伟大胜利的意义包括：（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -69311,7 +69939,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1162",
+    "id": "MOCK-CHOICE-1203",
     "question": "2025 年 4 月 16 日出版的第 8 期《求是》杂志发表主席的重要文章 《加快建设文化强国》。建设文化强国，（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -69339,7 +69967,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1163",
+    "id": "MOCK-CHOICE-1204",
     "question": "在入党申请人中确定入党积极分子时，“两推一备案”工作指的是? （ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -69367,7 +69995,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1164",
+    "id": "MOCK-CHOICE-1205",
     "question": "“一带一路”具体是指（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -69393,7 +70021,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1165",
+    "id": "MOCK-CHOICE-1206",
     "question": "党的三大作风是指（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -69420,7 +70048,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1166",
+    "id": "MOCK-CHOICE-1207",
     "question": "学生有下列情形之一，学校可予退学处理：( )",
     "type": "多选题",
     "module": "模拟题",
@@ -69449,7 +70077,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1167",
+    "id": "MOCK-CHOICE-1208",
     "question": "全党必须坚用马克思主义的立场、观点、方法观察时代、把握时 代、引领时代，不断深化对( )的认识。",
     "type": "多选题",
     "module": "模拟题",
@@ -69983,7 +70611,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1168",
+    "id": "MOCK-CHOICE-1209",
     "question": "习近平总书记强调，实现党在新时代新征程的使命任务，党的建设 和组织工作要有新担当新作为。关于深入推进新时代党的建设新的伟 大工程，下列表述正确的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -70011,7 +70639,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1169",
+    "id": "MOCK-CHOICE-1210",
     "question": "下列关于真理的说法，正确的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -70038,7 +70666,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1170",
+    "id": "MOCK-CHOICE-1211",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，全面推进各级 各类学校党的建设，牢牢掌握党对学校意识形态工作领导权，落实意 识形态工作责任制，深入推进党风廉政建设和反腐败斗争，将（ ） 建设作为评价学校领导班子办学治校水平的重要内容，维护教育系统 政治安全与和谐稳定。",
     "type": "多选题",
     "module": "模拟题",
@@ -70067,7 +70695,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1171",
+    "id": "MOCK-CHOICE-1212",
     "question": "2025 年 9 月 1 日出版的第 17 期《求是》杂志发表中共中央总书记、 国家主席、中央军委主席习近平的重要文章《弘扬伟大抗战精神，向 着中华民族伟大复兴的光辉彼岸奋勇前进》。文章指出，中国人民抗 日战争胜利，是近代以来中国抗击外敌入侵的第一次完全胜利。这一 伟大胜利的意义包括：（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -70095,7 +70723,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1172",
+    "id": "MOCK-CHOICE-1213",
     "question": "2025 年 4 月 16 日出版的第 8 期《求是》杂志发表主席的重要文章 《加快建设文化强国》。建设文化强国，（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -70123,7 +70751,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1173",
+    "id": "MOCK-CHOICE-1214",
     "question": "孔子是我国教育史上第一个将毕生精力贡献给教育事业的人，他的 言论对后世的教育活动产生了深远的影响。下列属于孔子教育学观点 的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -70150,7 +70778,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1174",
+    "id": "MOCK-CHOICE-1215",
     "question": "根据《中华人民共和国教师法》的规定，教师应当履行的义务不包 括（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -70177,7 +70805,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1175",
+    "id": "MOCK-CHOICE-1216",
     "question": "按《教师法》规定，教师有（ ）情形之一的，应由所在学校、其 他教育机构或者教育行政部门给予行政处分或解聘处理。",
     "type": "多选题",
     "module": "模拟题",
@@ -70206,7 +70834,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1176",
+    "id": "MOCK-CHOICE-1217",
     "question": "《高等教育法》规定，高等学校教师取得教师职务应该具备下列基 本条件( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -70236,7 +70864,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1177",
+    "id": "MOCK-CHOICE-1218",
     "question": "《高等教育法》规定的对家庭经济困难学生提供特别帮助的举措 主要有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -70299,7 +70927,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0369",
+    "id": "MOCK-FJ-0350",
     "question": "周口师范学院校训： 。",
     "type": "填空题",
     "module": "模拟题",
@@ -70318,7 +70946,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0370",
+    "id": "MOCK-FJ-0351",
     "question": "习近平在河南考察时强调：坚定信心推动 奋力 谱写中原大地 。",
     "type": "填空题",
     "module": "模拟题",
@@ -70337,7 +70965,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0371",
+    "id": "MOCK-FJ-0352",
     "question": "我们党要始终做到不忘初心、牢记使命，把党和人民事业长长久久 推进下去，必须增强政治意识，善于从政治上看问题，善于把握政治 大局，不断提高 、 、 。",
     "type": "填空题",
     "module": "模拟题",
@@ -70356,7 +70984,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0372",
+    "id": "MOCK-FJ-0353",
     "question": "高校的立身之本在于 。",
     "type": "填空题",
     "module": "模拟题",
@@ -70375,7 +71003,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0373",
+    "id": "MOCK-FJ-0354",
     "question": "高等学校辅导员实行学校和 双重管理， 是学校管理 辅导员队伍的职能部门。 负责对辅导员进行直接领导 和管理。",
     "type": "填空题",
     "module": "模拟题",
@@ -70394,7 +71022,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1178",
+    "id": "MOCK-CHOICE-1219",
     "question": "2025 年 10 月 17 日世界互联网大会宣布，2025 年世界互联网大会 乌镇峰会于 11 月 6 日至 9 日举行。本届大会主题为（ ），其间将 围绕智慧农业、人工智能等举办 24 场分论坛以及“互联网之光”博 览会等活动。",
     "type": "单选题",
     "module": "模拟题",
@@ -70421,7 +71049,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1179",
+    "id": "MOCK-CHOICE-1220",
     "question": "新时代以来，我们经历的对党和人民事业具有重大现实意义和深远 历史意义的“三件大事”不包括( )",
     "type": "单选题",
     "module": "模拟题",
@@ -70446,7 +71074,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1180",
+    "id": "MOCK-CHOICE-1221",
     "question": "师生关系中最基本的表现形式，也是师生关系的核心是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -70472,7 +71100,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1181",
+    "id": "MOCK-CHOICE-1222",
     "question": "2025 年 10 月 18 日，著名物理学家、诺贝尔物理学奖得主杨振宁 先生在北京逝世。杨振宁是 20 世纪最伟大的物理学家之一，因提出 “（ ）”理论与李政道共同获得 1957 年诺贝尔物理学奖。",
     "type": "单选题",
     "module": "模拟题",
@@ -70497,7 +71125,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1182",
+    "id": "MOCK-CHOICE-1223",
     "question": "教育部印发《大中小学劳动教育指导纲要(试行)》独立开设劳动教 育必修课，本科阶段不少于( )学时。",
     "type": "单选题",
     "module": "模拟题",
@@ -70524,7 +71152,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1183",
+    "id": "MOCK-CHOICE-1224",
     "question": "习近平强调，把( )作为中国青年运动和青年工作的主题和方向， 这是一百多年来中国青年运动和青年工作的一条基本经验。",
     "type": "单选题",
     "module": "模拟题",
@@ -70549,7 +71177,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1184",
+    "id": "MOCK-CHOICE-1225",
     "question": "《党章》规定，党员的党龄，从( )之日算起。",
     "type": "单选题",
     "module": "模拟题",
@@ -70575,7 +71203,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1185",
+    "id": "MOCK-CHOICE-1226",
     "question": "《高等学校学生行为准则》规定：热爱祖国，服务人民，弘扬民族 精神，维护（ ）。不参与违反四项基本原则，影响国家统一和社会 稳定的活动。",
     "type": "单选题",
     "module": "模拟题",
@@ -70601,7 +71229,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1186",
+    "id": "MOCK-CHOICE-1227",
     "question": "根据《普通高等学校学生管理规定》,下列说法正确的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -70627,7 +71255,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1187",
+    "id": "MOCK-CHOICE-1228",
     "question": "习近平总书记在全国宣传思想文化工作会议上作出重要指示强调， 要坚持以新时代中国特色社会主义思想为指导，全面贯彻党的二十大 精神，聚焦( )这个首要政治任务，不断提升国家文化软实力和中 华文化影响力。",
     "type": "单选题",
     "module": "模拟题",
@@ -70652,7 +71280,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1188",
+    "id": "MOCK-CHOICE-1229",
     "question": "以下不属于新民主主义革命三大法宝的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -70678,7 +71306,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1189",
+    "id": "MOCK-CHOICE-1230",
     "question": "《关于深化新时代学校思想政治理论课改革创新的若干意见》指 出，在统筹推进思政课课程内容建设过程中，要遵循学生认知规律设 计课程内容，体现不同学段特点，研究生阶段重在开展探究性学习， 本专科阶段重在开展( ),高中阶段重在开展常识性学习，初中阶段 重在开展体验性学习，小学阶段重在开展启蒙性学习。",
     "type": "单选题",
     "module": "模拟题",
@@ -70704,7 +71332,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1190",
+    "id": "MOCK-CHOICE-1231",
     "question": "《普通高等学校学生党建工作标准》要求，对发展对象应进行短 期集中培训，时间一般不少于( )学时。",
     "type": "单选题",
     "module": "模拟题",
@@ -70731,7 +71359,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1191",
+    "id": "MOCK-CHOICE-1232",
     "question": "加强新时代高校教师队伍建设改革，以习近平新时代中国特色社 会主义思想为指导，落实立德树人根本任务，聚焦高校内涵式发展， 以( )为首要任务，以提高教师专业素质能力为关键，以推进人事 制度改革为突破口。",
     "type": "单选题",
     "module": "模拟题",
@@ -70758,7 +71386,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1192",
+    "id": "MOCK-CHOICE-1233",
     "question": "中国在社会主义道路上的制度探索和实践，成就了（ ）和（ ） 两大奇迹。",
     "type": "单选题",
     "module": "模拟题",
@@ -70783,7 +71411,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1193",
+    "id": "MOCK-CHOICE-1234",
     "question": "（ ）是 1921 年党的一大通过的第一个党的正式文件，规定了党 的名称、性质、任务、纲领、组织和纪律等。",
     "type": "单选题",
     "module": "模拟题",
@@ -70810,7 +71438,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1194",
+    "id": "MOCK-CHOICE-1235",
     "question": "“博学之，审问之，慎思之，明辨之，笃行之”出自( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -70835,7 +71463,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1195",
+    "id": "MOCK-CHOICE-1236",
     "question": "我国现代史上第一本比较系统全面地阐述马克思主义教育理论的 著作是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -70861,7 +71489,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1196",
+    "id": "MOCK-CHOICE-1237",
     "question": "亲人死亡、失恋学业失败等造成的心理危机，属于心理危机类型 中的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -70886,7 +71514,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1197",
+    "id": "MOCK-CHOICE-1238",
     "question": "我国三大平原是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -70911,7 +71539,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1198",
+    "id": "MOCK-CHOICE-1239",
     "question": "坚持把师德师风作为教师素质评价的第一标准，健全师德考核制度， 建立教师个人信用记录，完善诚信承诺和失信惩戒机制，推动师德建 设常态化长效化，引导广大教师教书育人和自我修养相结合，做到 ( ),更好担当起学生健康成长指导者和引路人的责任。",
     "type": "多选题",
     "module": "模拟题",
@@ -70939,7 +71567,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1199",
+    "id": "MOCK-CHOICE-1240",
     "question": "发展 21 世纪马克思主义、当代中国马克思主义，必须立足中国、 放眼世界，保持与时俱进的理论品格，深刻认识马克思主义的时代意 义和现实意义，锲而不舍推进马克思主义( ),使马克思主义放射出 更加灿烂的真理光芒。",
     "type": "多选题",
     "module": "模拟题",
@@ -70966,7 +71594,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1200",
+    "id": "MOCK-CHOICE-1241",
     "question": "党支部的“三会一课”制度的“三会”指的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -70993,7 +71621,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1201",
+    "id": "MOCK-CHOICE-1242",
     "question": "《高等学校辅导员职业能力标准（暂行）》中对辅导员职业能力特 征的要求有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -71022,7 +71650,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1202",
+    "id": "MOCK-CHOICE-1243",
     "question": "因下列情形之一造成的学生伤害事故，学校已行了相应责任，行为 并无不当的，无法律责任。（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -71049,7 +71677,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1203",
+    "id": "MOCK-CHOICE-1244",
     "question": "在对学生作出处分或者其他不利决定之前，学校应当告知学生作出 决定的事实、理由及依据，并告知学生享有( )的权利。",
     "type": "多选题",
     "module": "模拟题",
@@ -71076,7 +71704,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1204",
+    "id": "MOCK-CHOICE-1245",
     "question": "学校对学生作出( )决定，应当提交校长办公会或者校长授权的 专门会议研究决定，并应当事先进行合法性审查。",
     "type": "多选题",
     "module": "模拟题",
@@ -71108,7 +71736,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1205",
+    "id": "MOCK-CHOICE-1246",
     "question": "全面深化改革的总目标是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -71136,7 +71764,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1206",
+    "id": "MOCK-CHOICE-1247",
     "question": "《高等学校勤工助学管理办法》中指出，勤工助学活动应坚持“立 足校园、服务社会”的宗旨，按照( )的原则，由学校在不影响正 常教学秩序和学生正常学习的前提下有组织地开展。",
     "type": "多选题",
     "module": "模拟题",
@@ -71170,7 +71798,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1207",
+    "id": "MOCK-CHOICE-1248",
     "question": "学生志愿服务要遵循( )原则。",
     "type": "多选题",
     "module": "模拟题",
@@ -71282,7 +71910,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0374",
+    "id": "MOCK-FJ-0355",
     "question": "“十五五”时期在基本实现社会主义现代化进程中具有 的 重要地位。",
     "type": "填空题",
     "module": "模拟题",
@@ -71299,7 +71927,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0375",
+    "id": "MOCK-FJ-0356",
     "question": "完善国际传播体制机制，创新传播载体和方式，加强重点基地建设， 增强主流媒体国际传播能力，全面提升国际话语权，讲好中国故事， 展现____、____、____的中国形象。",
     "type": "填空题",
     "module": "模拟题",
@@ -71316,7 +71944,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0376",
+    "id": "MOCK-FJ-0357",
     "question": "“十五五”规划继续把 确定为\"十五五\"时期经济社会 发展的主题。",
     "type": "填空题",
     "module": "模拟题",
@@ -71333,7 +71961,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0377",
+    "id": "MOCK-FJ-0358",
     "question": "勤工助学活动应坚持“ ”的宗旨，按照学有余力、 、 、 、竞争上岗、遵纪守法的原 则，由学校在不影响正常教学秩序和学生正常学习的前提下有组织地 开展。",
     "type": "填空题",
     "module": "模拟题",
@@ -71351,7 +71979,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0378",
+    "id": "MOCK-FJ-0359",
     "question": "新时代的中国青年要以 为己任，增强做中国人的志气、 骨气、底气，不负时代，不负韶华，不负党和人民的殷切期望!",
     "type": "填空题",
     "module": "模拟题",
@@ -71368,7 +71996,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-CHOICE-1208",
+    "id": "MOCK-CHOICE-1249",
     "question": "学生社团在校园文化建设中发挥着特殊的作用，更因其以学生为主 体而在育人体系中占据重要位置。关于学生社团的主要作用以下描述 正确的是( )。 ①有利于提高学生综合素质；②有利于繁荣校园文化；③有利于规范 学生日常行为④有利于社会主义政治文明建设",
     "type": "单选题",
     "module": "模拟题",
@@ -71392,7 +72020,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1209",
+    "id": "MOCK-CHOICE-1250",
     "question": "一般来说，马克思主义由三个重要部分组成，以下不包括( )",
     "type": "单选题",
     "module": "模拟题",
@@ -71415,7 +72043,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1210",
+    "id": "MOCK-CHOICE-1251",
     "question": "学生对学校的处理或者处分决定有异议的，可以在接到学校处理或 者处分决定书之日起( )日内，向学校学生申诉处理委员会提出书 面申诉。",
     "type": "单选题",
     "module": "模拟题",
@@ -71438,7 +72066,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1211",
+    "id": "MOCK-CHOICE-1252",
     "question": "高校素质教育中，( )是方向和灵魂。",
     "type": "单选题",
     "module": "模拟题",
@@ -71461,7 +72089,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1212",
+    "id": "MOCK-CHOICE-1253",
     "question": "在我国，高等教育可以追溯到（ ）时期。",
     "type": "单选题",
     "module": "模拟题",
@@ -71484,7 +72112,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1213",
+    "id": "MOCK-CHOICE-1254",
     "question": "( )是党在社会基层组织中的战斗堡垒，是党的全部工作和战斗 力的基础。",
     "type": "单选题",
     "module": "模拟题",
@@ -71507,7 +72135,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1214",
+    "id": "MOCK-CHOICE-1255",
     "question": "申请入党的人，要填写( ),要有( )正式党员作为介绍人，要 经过支部大会通过和上级党组织批准，并且经过预备期的考察，才能 成为正式党员。",
     "type": "单选题",
     "module": "模拟题",
@@ -71530,7 +72158,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1215",
+    "id": "MOCK-CHOICE-1256",
     "question": "从简单分类来讲，辅导员属于( )教师。",
     "type": "单选题",
     "module": "模拟题",
@@ -71554,7 +72182,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1216",
+    "id": "MOCK-CHOICE-1257",
     "question": "新时期辅导员在工作中应坚持的工作理念是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -71577,7 +72205,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1217",
+    "id": "MOCK-CHOICE-1258",
     "question": "大学作为一个特殊的群体，衡量大学生心理健康的首要为( )",
     "type": "单选题",
     "module": "模拟题",
@@ -71600,7 +72228,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1218",
+    "id": "MOCK-CHOICE-1259",
     "question": "“关爱自然，爱护环境，珍惜资源”属于《高等学校学生行为准 则》内容中的哪一条准则?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -71623,7 +72251,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1219",
+    "id": "MOCK-CHOICE-1260",
     "question": "马克思主义哲学是( )的科学的世界观和方法论。",
     "type": "单选题",
     "module": "模拟题",
@@ -71646,7 +72274,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1220",
+    "id": "MOCK-CHOICE-1261",
     "question": "2025 年 9 月 3 日，纪念中国人民抗日战争暨世界反法西斯战争胜 利 80 周年阅兵活动在北京天安门广场举行。徒步方队体现的是“一 老一新”，这“一老一新”指的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -71669,7 +72297,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1221",
+    "id": "MOCK-CHOICE-1262",
     "question": "“重阳”之名称由来，得名于古籍（ ）中的“阳爻为九”。",
     "type": "单选题",
     "module": "模拟题",
@@ -71692,7 +72320,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1222",
+    "id": "MOCK-CHOICE-1263",
     "question": "习近平总书记指出：“新质生产力本质是先进生产力”。下列关于 生产力相关的表述正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -71715,7 +72343,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1223",
+    "id": "MOCK-CHOICE-1264",
     "question": "2025 年 10 月 20 日至 23 日，中国共产党第二十届中央委员会第四 次全体会议在北京举行。下列不属于“十五五”时期经济社会发展必 须遵循的原则的是：（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -71738,7 +72366,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1224",
+    "id": "MOCK-CHOICE-1265",
     "question": "各高校要结合专业特点和人才培养要求，分类制订实践教学标准， 增加实践教学比重，确保人文社会科学类本科专业不少于总学分(学 时)的( )、理工农医类本科专业不少于( )、高职高专类专业不 少于( );师范类学生教育实践不少于一个学期，专业学位硕士研究 生不少于半年。",
     "type": "多选题",
     "module": "模拟题",
@@ -71762,7 +72390,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1225",
+    "id": "MOCK-CHOICE-1266",
     "question": "因下列那些情形造成的学生伤害事故，学校已履行了相应职责，行 为并无不当的，无法律责任的( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -71785,7 +72413,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1226",
+    "id": "MOCK-CHOICE-1267",
     "question": "学校给予学生处分，应当坚持教育与惩戒相结合，与学生违法、违 纪行为的性质和过错的严重程度相适应。学校对学生的处分，应当做 到( )",
     "type": "多选题",
     "module": "模拟题",
@@ -71808,7 +72436,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1227",
+    "id": "MOCK-CHOICE-1268",
     "question": "下列属于二十大党章新写入的内容有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -71831,7 +72459,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1228",
+    "id": "MOCK-CHOICE-1269",
     "question": "中央 16 号文件指出，要着力加强班级集体建设,组织开展丰富多彩 的主题班会等活动，发挥( )的职能。",
     "type": "多选题",
     "module": "模拟题",
@@ -71854,7 +72482,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1229",
+    "id": "MOCK-CHOICE-1270",
     "question": "以下说法正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -71871,13 +72499,14 @@ window.__QUESTION_BANK__ = [
     "options": {
       "A": "党章是最根本的党内法规，是管党治党的总规矩。",
       "B": "党纪学习要求做到学纪、知纪、明纪、守纪。",
-      "C": "党的纪律：政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、 生活纪律。D.党员的纪律处分为：警告、严重警告、记过、留党察看 和开除党籍",
+      "C": "党的纪律：政治纪律、组织纪律、廉洁纪律、群众纪律、工作纪律、 生活纪律。",
+      "D": "党员的纪律处分为：警告、严重警告、记过、留党察看 和开除党籍",
       "E": "党的建设：政治建设、思想建设、组织建设、作风建设、纪律建设 和制度建设"
     },
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1230",
+    "id": "MOCK-CHOICE-1271",
     "question": "依据《高等学校精导员职业能力标准(暂行)》之规定，对于初级辅 导员不属于日常事务管理的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -71894,13 +72523,14 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入",
     "options": {
       "A": "开展新生入学教育",
-      "B": "有针对性地帮助学生处理好学习成才、择业交友、健康生活等方面 的具体问题 C.了解学生所学专业的基本情况，组织开展专业教育",
+      "B": "有针对性地帮助学生处理好学习成才、择业交友、健康生活等方面 的具体问题",
+      "C": "了解学生所学专业的基本情况，组织开展专业教育",
       "D": "有效开展助、贷、勤、减、补工作，落实好家庭经济困难学生的资 助工作"
     },
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1231",
+    "id": "MOCK-CHOICE-1272",
     "question": "“四个全面”战略布局提出的依据是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -71923,7 +72553,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1232",
+    "id": "MOCK-CHOICE-1273",
     "question": "在教师招聘过程中,坚持（ ）和（ ）双重考察。",
     "type": "多选题",
     "module": "模拟题",
@@ -72014,7 +72644,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0379",
+    "id": "MOCK-FJ-0360",
     "question": "承前启后",
     "type": "填空题",
     "module": "模拟题",
@@ -72031,7 +72661,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0380",
+    "id": "MOCK-FJ-0361",
     "question": "可信、可爱、可敬",
     "type": "填空题",
     "module": "模拟题",
@@ -72048,7 +72678,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0381",
+    "id": "MOCK-FJ-0362",
     "question": "推动高质量发展",
     "type": "填空题",
     "module": "模拟题",
@@ -72065,7 +72695,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0382",
+    "id": "MOCK-FJ-0363",
     "question": "立足校园、服务社会；自愿申请 信息公开 扶困优先",
     "type": "填空题",
     "module": "模拟题",
@@ -72082,7 +72712,7 @@ window.__QUESTION_BANK__ = [
     "blanks": []
   },
   {
-    "id": "MOCK-FJ-0383",
+    "id": "MOCK-FJ-0364",
     "question": "实现中华民族伟大复兴",
     "type": "填空题",
     "module": "模拟题",
@@ -72097,6 +72727,29 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "blanks": []
+  },
+  {
+    "id": "MOCK-CHOICE-1274",
+    "question": "象。科学技术属于非实体性要素。",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "",
+    "source_file": "142.周口师范学院辅导员岗模拟题二&模拟测试（一百四十二）.pdf",
+    "policy_basis": [
+      "142.周口师范学院辅导员岗模拟题二&模拟测试（一百四十二）.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "B": "",
+      "C": "项错误，社会基本矛盾是历史发展的根本动力。",
+      "D": "项错误，劳动者是生产力中最活跃的因素。",
+      "A": "项错误，生产力的基本要素包括劳动者、劳动资料和劳动对"
+    },
+    "correct_answers": []
   },
   {
     "id": "MOCK-SAQ-0091",
@@ -72133,7 +72786,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1233",
+    "id": "MOCK-CHOICE-1275",
     "question": "根据《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》，“十 四五”时期我国发展取得重大成就，其根本原因在于：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72158,7 +72811,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1234",
+    "id": "MOCK-CHOICE-1276",
     "question": "二十届四中全会于（ ）召开。",
     "type": "单选题",
     "module": "模拟题",
@@ -72183,7 +72836,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1235",
+    "id": "MOCK-CHOICE-1277",
     "question": "现代教师观要求教师必须重视自身的发展，做到以身作则、为人师表，这体现 了教师劳动（ ）的特点。",
     "type": "单选题",
     "module": "模拟题",
@@ -72208,7 +72861,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1236",
+    "id": "MOCK-CHOICE-1278",
     "question": "中华民族的摇篮是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -72233,7 +72886,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1237",
+    "id": "MOCK-CHOICE-1279",
     "question": "教育和经济的关系，总的来说是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72258,7 +72911,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1238",
+    "id": "MOCK-CHOICE-1280",
     "question": "课程标准通常包括了几种具有内在关联的标准，主要有内容标准和表现标准。 下列内容不符合课程标准内涵的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72284,7 +72937,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1239",
+    "id": "MOCK-CHOICE-1281",
     "question": "在暗室里把灯点亮，在灯前注视灯光三四秒钟，然后闭上眼睛，就会看见在黑 色的背景上有一个白色光亮的痕迹，这种现象在心理学中称为（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72309,7 +72962,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1240",
+    "id": "MOCK-CHOICE-1282",
     "question": "下列选项中，不属于认知方式差异的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72334,7 +72987,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1241",
+    "id": "MOCK-CHOICE-1283",
     "question": "学生基于自身兴趣，在教师指导下确定研究专题，主动解决问题的学习方式是 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72359,7 +73012,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1242",
+    "id": "MOCK-CHOICE-1284",
     "question": "奥利弗生活在 19 世纪的欧洲，在接受良好的家庭教育后，他被送入文法中学 接受教育，最后顺利进入大学。那么奥利弗最有可能生活在（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72384,7 +73037,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1243",
+    "id": "MOCK-CHOICE-1285",
     "question": "教育目的与培养目标的关系是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72409,7 +73062,32 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1244",
+    "id": "MOCK-CHOICE-1286",
+    "question": "对于遗忘发展的进程，德国心理学家艾宾浩斯最早进行了系统的研究，下列 关于遗忘的说法正确的有（ ）个。 ①遗忘的过程最初进展得很慢，以后逐渐加快 ②遗忘的发展是均衡的 ③过了相当长的时间后，几乎不再遗忘",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "心理健康"
+    ],
+    "reference_answer": "B 艾宾浩斯遗忘曲线表明，遗忘在学习之后立即开始，而且在最初的时间里 遗忘速度很快，随着时间的推移，遗忘的速度逐渐缓慢下来，过了相当长的时间 后，几乎不再发生遗忘。由此可以看出，遗忘是有规律的，即遗忘的进程是不均 衡的，其趋势是先快后慢、先多后少，呈负加速，且到一定的程度就不再遗忘了。 故题干中只有③说法正确，答案选 B 项。",
+    "source_file": "143.郑州工业安全职业学院模拟题&模拟测试（一百四十三）.pdf",
+    "policy_basis": [
+      "143.郑州工业安全职业学院模拟题&模拟测试（一百四十三）.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-1287",
     "question": "下列关于学生认知风格的描述，不正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72434,7 +73112,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1245",
+    "id": "MOCK-CHOICE-1288",
     "question": "反对“壶与杯”的教育理论，指出“以学生为中心”主张的心理学家是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72460,7 +73138,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1246",
+    "id": "MOCK-CHOICE-1289",
     "question": "古人云：“取法乎上，则得乎中；取法乎中，则得乎下；取法乎下，则无所得 矣。”这说明教师在专业自我发展中要注意（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72485,7 +73163,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1247",
+    "id": "MOCK-CHOICE-1290",
     "question": "“己欲立而立人，己欲达而达人”告诉教师，对待学生要（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72510,7 +73188,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1248",
+    "id": "MOCK-CHOICE-1291",
     "question": "“一门三父子，都是大文豪，诗赋传千古，峨眉共比高。”这首诗中所描述的 三个人物是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72535,7 +73213,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1249",
+    "id": "MOCK-CHOICE-1292",
     "question": "“出淤泥而不染”“同流而不合污”说明人的身心发展的源泉和动力是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72560,7 +73238,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1250",
+    "id": "MOCK-CHOICE-1293",
     "question": "“甲之熊掌，乙之砒霜”这个谚语体现了以下科学心理观中的哪些观点（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72585,7 +73263,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1251",
+    "id": "MOCK-CHOICE-1294",
     "question": "教育心理学的发展历程大致经历了四个时期，每个时期都有一些心理学家提 出的主张，下列说法不正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -72611,7 +73289,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1252",
+    "id": "MOCK-CHOICE-1295",
     "question": "教学作为学校教育的重要环节，其意义是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -72638,7 +73316,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1253",
+    "id": "MOCK-CHOICE-1296",
     "question": "马卡连柯指出教师要影响个别学生，首先要影响这个学生所在的集体，然后通 过集体和教师一起影响这个学生，便会产生良好的教育效果。这属于德育原则中 的（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -72664,7 +73342,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1254",
+    "id": "MOCK-CHOICE-1297",
     "question": "情绪情感的功能包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -72692,7 +73370,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1255",
+    "id": "MOCK-CHOICE-1298",
     "question": "下列属于操作技能的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -72718,7 +73396,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1256",
+    "id": "MOCK-CHOICE-1299",
     "question": "现代三大教育理论包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -72745,7 +73423,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1257",
+    "id": "MOCK-CHOICE-1300",
     "question": "社会本位论强调教育应当从社会发展的需要出发，关注教育的社会价值。下列 观点体现了社会本位论的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -72804,7 +73482,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1258",
+    "id": "MOCK-CHOICE-1301",
     "question": "近几年，中国传统节日越来越受到年轻人的喜爱和传承。下列对于传统节日 与习俗对应正确的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -72930,7 +73608,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1259",
+    "id": "MOCK-CHOICE-1302",
     "question": "高校学生资助管理机构具体负责组织国家奖学金的评审工作，提出本校当年本 专科生国家奖学金获奖学生建议名单，报学校评审领导小组审定后，在校内进行 不少于( )个工作日的公示。",
     "type": "单选题",
     "module": "模拟题",
@@ -72957,7 +73635,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1260",
+    "id": "MOCK-CHOICE-1303",
     "question": "学习成绩排名与综合考评成绩排名均位于( )(含)的学生，可以申请本专科 生国家奖学金。",
     "type": "单选题",
     "module": "模拟题",
@@ -72983,7 +73661,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1261",
+    "id": "MOCK-CHOICE-1304",
     "question": "学校勤工助学管理服务组织统筹管理校外勤工助学活动，并注重与( )的有 机结合。",
     "type": "单选题",
     "module": "模拟题",
@@ -73009,7 +73687,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1262",
+    "id": "MOCK-CHOICE-1305",
     "question": "校内勤工助学岗位设置应按照每月平均上岗工时原则上不低于( )小时为标 准。",
     "type": "单选题",
     "module": "模拟题",
@@ -73035,7 +73713,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1263",
+    "id": "MOCK-CHOICE-1306",
     "question": "安排勤工助学岗位，应优先考虑( )学生。",
     "type": "单选题",
     "module": "模拟题",
@@ -73060,11 +73738,11 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0384",
-    "question": "学生能指出生字的字形结构，用学的生词造句，在病句中找出错误部分。这属 于学习过程的（ ）阶段。 A.理解 B.分析 C.应用 D.综合",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1307",
+    "question": "学生能指出生字的字形结构，用学的生词造句，在病句中找出错误部分。这属 于学习过程的（ ）阶段。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "综合知识"
     ],
@@ -73075,17 +73753,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "理解",
+      "B": "分析",
+      "C": "应用",
+      "D": "综合"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "C"
+    ]
   },
   {
-    "id": "MOCK-FJ-0385",
-    "question": "坚持和落实“两个毫不动摇\"。毫不动摇巩固和发展公有制经济，毫不动摇( ) 非公有制经济发展，保证各种所有制经济依法平等使用生产要素、公平参与市场 竞争、同等受到法律保护。 A. 鼓励、支持、引导 B.鼓励，支援，引导 C.扶持、鼓励、引导 D.鼓励、支持、帮助",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1308",
+    "question": "坚持和落实“两个毫不动摇\"。毫不动摇巩固和发展公有制经济，毫不动摇( ) 非公有制经济发展，保证各种所有制经济依法平等使用生产要素、公平参与市场 竞争、同等受到法律保护。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "法治法规"
     ],
@@ -73096,17 +73778,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "鼓励、支持、引导",
+      "B": "鼓励，支援，引导",
+      "C": "扶持、鼓励、引导",
+      "D": "鼓励、支持、帮助"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "A"
+    ]
   },
   {
-    "id": "MOCK-FJ-0386",
-    "question": "蒸汽机时代要求工人具有初等教育水平，电气生产时代要求工人具有中等教育 水平，自动化时代要求工人具有高中和专科教育以上水平。这说明影响人才培养 规格的因素是（ ） A.生产力 B.生产关系 C.上层建筑 D.政治经济制度",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1309",
+    "question": "蒸汽机时代要求工人具有初等教育水平，电气生产时代要求工人具有中等教育 水平，自动化时代要求工人具有高中和专科教育以上水平。这说明影响人才培养 规格的因素是（ ）",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "综合知识"
     ],
@@ -73117,17 +73803,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "生产力",
+      "B": "生产关系",
+      "C": "上层建筑",
+      "D": "政治经济制度"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "A"
+    ]
   },
   {
-    "id": "MOCK-FJ-0387",
-    "question": "下列选项中不属于学习策略定义的观点是（ ） A.学习策略是对一切学习活动的指导 B.学习策略是具体的学习方法与技能 C.学习策略是学习的调节与控制技能 D.学习策略是学习方法与学习的调节与控制的有机统一体",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1310",
+    "question": "下列选项中不属于学习策略定义的观点是（ ）",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "综合知识"
     ],
@@ -73138,19 +73828,23 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "学习策略是对一切学习活动的指导",
+      "B": "学习策略是具体的学习方法与技能",
+      "C": "学习策略是学习的调节与控制技能",
+      "D": "学习策略是学习方法与学习的调节与控制的有机统一体"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "A"
+    ]
   },
   {
-    "id": "MOCK-FJ-0388",
-    "question": "高等学校设置、调整学科专业的决定权归属于( )。 A.教育部 B.省、自治区、直辖市教育行政部门 C.学校主管部门 D.学校自己",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1311",
+    "question": "高等学校设置、调整学科专业的决定权归属于( )。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
-      "教育政策"
+      "综合知识"
     ],
     "reference_answer": "D",
     "source_file": "144.辅导员岗模拟题&模拟测试（一百四十四）.pdf",
@@ -73159,17 +73853,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "教育部",
+      "B": "省、自治区、直辖市教育行政部门",
+      "C": "学校主管部门",
+      "D": "学校自己"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "D"
+    ]
   },
   {
-    "id": "MOCK-FJ-0389",
-    "question": "根据《高等教育法》的规定，对我国高等教育的管理体制表述正确的是( )。 A.教育部统一领导和管理全国高等教育事业 B.省、自治区、直辖市人民政府统筹协调本行政区域内的高等教育事业 C.省教育厅管理主要为地方培养人才和国务院授权管理的高等学校 D.国务院其他有关部门不具有管理高等教育工作的职责",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1312",
+    "question": "根据《高等教育法》的规定，对我国高等教育的管理体制表述正确的是( )。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "教育政策",
       "法治法规"
@@ -73181,17 +73879,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "教育部统一领导和管理全国高等教育事业",
+      "B": "省、自治区、直辖市人民政府统筹协调本行政区域内的高等教育事业",
+      "C": "省教育厅管理主要为地方培养人才和国务院授权管理的高等学校",
+      "D": "国务院其他有关部门不具有管理高等教育工作的职责"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-FJ-0390",
-    "question": "在国家教育考试中作弊的，由（ ）宣布考试无效。 A. 学生所在学校 B. 当地教育局 C. 教育行政部门 D. 公安局",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1313",
+    "question": "在国家教育考试中作弊的，由（ ）宣布考试无效。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "综合知识"
     ],
@@ -73202,17 +73904,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "学生所在学校",
+      "B": "当地教育局",
+      "C": "教育行政部门",
+      "D": "公安局"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "C"
+    ]
   },
   {
-    "id": "MOCK-FJ-0391",
-    "question": "考生在国家教育考试中，携带或者使用考试作弊器材、资料，情节严重者， 由教育行政部门责令其停止参加相关国家教育考试( ) A. 1 年 B. 1 年以上 3 年以下 C. 3 年 D. 5 年",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1314",
+    "question": "考生在国家教育考试中，携带或者使用考试作弊器材、资料，情节严重者， 由教育行政部门责令其停止参加相关国家教育考试( )",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "综合知识"
     ],
@@ -73223,17 +73929,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "1 年",
+      "B": "1 年以上 3 年以下",
+      "C": "3 年",
+      "D": "5 年"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-FJ-0392",
-    "question": "某学生开朗热情，活泼好动，但稳定性和坚持性不足，他的气类型是（ ） A.多血质 B.胆汁质 C.粘液质 D.抑郁质",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1315",
+    "question": "某学生开朗热情，活泼好动，但稳定性和坚持性不足，他的气类型是（ ）",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "安全教育"
     ],
@@ -73244,19 +73954,22 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "多血质",
+      "B": "胆汁质",
+      "C": "粘液质",
+      "D": "抑郁质"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "A"
+    ]
   },
   {
-    "id": "MOCK-FJ-0393",
-    "question": "《关于加强新时代高校青年教师队伍建设的指导意见》指出，强化（ ）弘 扬践行，贯穿青年教师课堂教学、科学研究、社会实践等各环节，引导青年教师 潜心育人、锐意创新、服务人民。 A.社会主义核心价值观 B.习近平新时代中国特色社会主义思想 C.党史学习教育 D.教育家精神",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1316",
+    "question": "《关于加强新时代高校青年教师队伍建设的指导意见》指出，强化（ ）弘 扬践行，贯穿青年教师课堂教学、科学研究、社会实践等各环节，引导青年教师 潜心育人、锐意创新、服务人民。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
-      "党史国情",
       "教育政策",
       "教育学原理"
     ],
@@ -73267,19 +73980,22 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "社会主义核心价值观",
+      "B": "习近平新时代中国特色社会主义思想",
+      "C": "党史学习教育",
+      "D": "教育家精神"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "D"
+    ]
   },
   {
-    "id": "MOCK-FJ-0394",
-    "question": "关于“十五五”时期在我国社会主义现代化进程中的历史定位，下列哪项表 述最为准确？（ ） A.是初步探索中国式现代化道路并积累经验的重要阶段 B.是全面建成社会主义现代化强国的决定性冲刺阶段 C.是基本实现社会主义现代化夯实基础、全面发力的关键时期 D.是完成社会主义初级阶段任务并向更高阶段过渡的转折时期",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1317",
+    "question": "关于“十五五”时期在我国社会主义现代化进程中的历史定位，下列哪项表 述最为准确？（ ）",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
-      "党史国情",
       "文化科技常识"
     ],
     "reference_answer": "C",
@@ -73289,17 +74005,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "是初步探索中国式现代化道路并积累经验的重要阶段",
+      "B": "是全面建成社会主义现代化强国的决定性冲刺阶段",
+      "C": "是基本实现社会主义现代化夯实基础、全面发力的关键时期",
+      "D": "是完成社会主义初级阶段任务并向更高阶段过渡的转折时期"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "C"
+    ]
   },
   {
-    "id": "MOCK-FJ-0395",
-    "question": "“十五五”规划指出，到二〇三五年，人均国内生产总值要达到_______水平。 A.发达国家 B.中等发达国家 C.现代化国家 D.高收入国家",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1318",
+    "question": "“十五五”规划指出，到二〇三五年，人均国内生产总值要达到_______水平。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "综合知识"
     ],
@@ -73310,17 +74030,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "发达国家",
+      "B": "中等发达国家",
+      "C": "现代化国家",
+      "D": "高收入国家"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-FJ-0396",
-    "question": "对团员评议等次为______以上的团员，由基层团委在其团员证“团籍注册” 栏内填写注册时间、评议等次，并加盖注册印章。 A. 优秀 B. 合格 C. 基本合格 D. 不合格",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1319",
+    "question": "对团员评议等次为______以上的团员，由基层团委在其团员证“团籍注册” 栏内填写注册时间、评议等次，并加盖注册印章。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "团学工作"
     ],
@@ -73331,17 +74055,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "优秀",
+      "B": "合格",
+      "C": "基本合格",
+      "D": "不合格"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-FJ-0397",
-    "question": "据新华社 2025 年 10 月 23 日报道，“十四五”时期，我国建成规模____且高 质量的教育体系，高等教育累计向社会输送____万人才。 A.第二大 3500 B.最大 5500 C.最大 3500 D.第二大 5500",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1320",
+    "question": "据新华社 2025 年 10 月 23 日报道，“十四五”时期，我国建成规模____且高 质量的教育体系，高等教育累计向社会输送____万人才。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "教育政策"
     ],
@@ -73352,13 +74080,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "第二大 3500",
+      "B": "最大 5500",
+      "C": "最大 3500",
+      "D": "第二大 5500"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-CHOICE-1264",
+    "id": "MOCK-CHOICE-1321",
     "question": "以下哪几种情况，学生若因自身情况需要转专业的，学校应当优先考虑?（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -73385,7 +74117,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1265",
+    "id": "MOCK-CHOICE-1322",
     "question": "申请国家奖学金的基本条件有哪些?（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -73416,7 +74148,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1266",
+    "id": "MOCK-CHOICE-1323",
     "question": "国家奖学金的评审委员会由( )组成",
     "type": "多选题",
     "module": "模拟题",
@@ -73444,7 +74176,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1267",
+    "id": "MOCK-CHOICE-1324",
     "question": "勤工助学活动是指学生在学校的组织下利用课余时间，通过劳动取得合法报酬， 用于改善( )的实践活动。",
     "type": "多选题",
     "module": "模拟题",
@@ -73471,7 +74203,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1268",
+    "id": "MOCK-CHOICE-1325",
     "question": "勤工助学是学校学生资助工作的重要组成部分，是（ ）的有效途径。",
     "type": "多选题",
     "module": "模拟题",
@@ -73498,7 +74230,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1269",
+    "id": "MOCK-CHOICE-1326",
     "question": "坚持用改革精神和严的标准管党治党，完善党的自我革命制度规范体系，不断 推进党的( )，确保党始终成为中国特色社会主义事业的坚强领导核心。",
     "type": "多选题",
     "module": "模拟题",
@@ -73526,7 +74258,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1270",
+    "id": "MOCK-CHOICE-1327",
     "question": "坚持资助育人导向，在奖学金评选发放环节，全面 考察学生在( )等方面的 综合表现。",
     "type": "多选题",
     "module": "模拟题",
@@ -73556,7 +74288,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1271",
+    "id": "MOCK-CHOICE-1328",
     "question": "在国家助学金申请发放环节，深入开展( )和( )，培养学生爱党爱国爱社 会主义意识。",
     "type": "多选题",
     "module": "模拟题",
@@ -73584,7 +74316,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1272",
+    "id": "MOCK-CHOICE-1329",
     "question": "在国家助学贷款办理过程中，深入开展诚信教育和金融常识教育，培养学生 ( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -73613,7 +74345,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1273",
+    "id": "MOCK-CHOICE-1330",
     "question": "优化组织育人，要发挥各级党组织的育人保障功能，推动学校各级党组织自 觉担负起( )的主体责任。",
     "type": "多选题",
     "module": "模拟题",
@@ -73713,7 +74445,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1274",
+    "id": "MOCK-CHOICE-1331",
     "question": "2025 世界数字教育大会配套教育数字化成果展于 5 月 14 日-17 日在武汉国 模拟题&模拟测试（一百四十五） 此套试卷根据 25 年某专科院校笔试真题还原 际 博览中心举办,此次展览紧扣“（ ）”大会主题 。",
     "type": "单选题",
     "module": "模拟题",
@@ -73737,7 +74469,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1275",
+    "id": "MOCK-CHOICE-1332",
     "question": "5 月 14 日，2025 世界数字教育大会在武汉开幕。教育部部长怀进鹏作题为 “（ ）”的主旨演讲。",
     "type": "单选题",
     "module": "模拟题",
@@ -73761,7 +74493,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1276",
+    "id": "MOCK-CHOICE-1333",
     "question": "怀进鹏在 2025 世界数字教育大会作主旨演讲表示，“（ ）”是我们需要共同 回答的时代课题、世界课题。",
     "type": "单选题",
     "module": "模拟题",
@@ -73786,7 +74518,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1277",
+    "id": "MOCK-CHOICE-1334",
     "question": "“十五五”时期是我国（ ）的关键时期。",
     "type": "单选题",
     "module": "模拟题",
@@ -73811,7 +74543,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1278",
+    "id": "MOCK-CHOICE-1335",
     "question": "9 月 9 日，中豫航空集团所属中国飞龙通用航空有限公司（以下简称“中国飞 龙”）在郑州接收中国商飞交付的全国首架（ ）医疗机，这标志着国产商用 飞机系列化发展实现新拓展。该架飞机交付后，将投入紧急救援、远程医疗和重 症转运等任务。",
     "type": "单选题",
     "module": "模拟题",
@@ -73836,7 +74568,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1279",
+    "id": "MOCK-CHOICE-1336",
     "question": "（ ）军旗， 旗面上半部保持军旗基本样式，下面是一抹黄色，象征着神 剑升空的火焰。",
     "type": "单选题",
     "module": "模拟题",
@@ -73861,7 +74593,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1280",
+    "id": "MOCK-CHOICE-1337",
     "question": "习近平总书记在讲话中使用过名句“治国有常,而利民为本”,请问此句出自 ( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -73886,7 +74618,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1281",
+    "id": "MOCK-CHOICE-1338",
     "question": "2025 年是新疆维吾尔自治区成立____周年。",
     "type": "单选题",
     "module": "模拟题",
@@ -73911,7 +74643,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1282",
+    "id": "MOCK-CHOICE-1339",
     "question": "到 年，率先实现人工智能与 6 大重点领域广泛深度融合，新一代智能终 端、智能体等应用普及率超 。",
     "type": "单选题",
     "module": "模拟题",
@@ -73936,7 +74668,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1283",
+    "id": "MOCK-CHOICE-1340",
     "question": "到 年，我国人工智能全面赋能高质量发展，新一代智能终端、智能体 等应用普及率超 。",
     "type": "单选题",
     "module": "模拟题",
@@ -73961,7 +74693,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1284",
+    "id": "MOCK-CHOICE-1341",
     "question": "采用频繁反馈和根据每个学生的需要进行评价属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -73986,7 +74718,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1285",
+    "id": "MOCK-CHOICE-1342",
     "question": "教育科学研究属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -74012,7 +74744,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1286",
+    "id": "MOCK-CHOICE-1343",
     "question": "ILO 是指( )机构的英文缩写。",
     "type": "单选题",
     "module": "模拟题",
@@ -74037,7 +74769,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1287",
+    "id": "MOCK-CHOICE-1344",
     "question": "系统论述教育的经济功能的经济学者是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -74062,7 +74794,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1288",
+    "id": "MOCK-CHOICE-1345",
     "question": "根据我国《民法典》的规定,下列属于可撤销婚姻的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -74087,7 +74819,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1289",
+    "id": "MOCK-CHOICE-1346",
     "question": "教育心理学家们进行最早、最多的一项研究内容是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -74113,7 +74845,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1290",
+    "id": "MOCK-CHOICE-1347",
     "question": "根据学习的层次，比概念学习低一层的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -74138,7 +74870,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1291",
+    "id": "MOCK-CHOICE-1348",
     "question": "教学过程是一种特殊的认识过程,主要以传授（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -74163,7 +74895,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1292",
+    "id": "MOCK-CHOICE-1349",
     "question": "下列哪个选项不属于教育法律规范的构成要素?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -74188,7 +74920,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1293",
+    "id": "MOCK-CHOICE-1350",
     "question": "构建和谐社会的直接的辩证法依据是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -74214,7 +74946,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1294",
+    "id": "MOCK-CHOICE-1351",
     "question": "教育研究过程中,教师确定研究问题的计划和行动,属于( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -74239,7 +74971,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1295",
+    "id": "MOCK-CHOICE-1352",
     "question": "“形式教育论”认为,教育应发展人的能力。这个“能力”是指( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -74266,7 +74998,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1296",
+    "id": "MOCK-CHOICE-1353",
     "question": "设计和开展一次好的主题班会必须把握三个要素:主题、内容和( )",
     "type": "单选题",
     "module": "模拟题",
@@ -74291,7 +75023,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1297",
+    "id": "MOCK-CHOICE-1354",
     "question": "决议和决定的共同点不包括（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -74316,7 +75048,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1298",
+    "id": "MOCK-CHOICE-1355",
     "question": "在中国传统文化中，萱草、椿树常被用来比喻母亲、父亲。为祝贺文宇兄弟 二人的父母结婚二十周年，你准备奉上一副贺联，并拟出上联“椿萱并茂”，最 佳下联应是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -74341,7 +75073,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1299",
+    "id": "MOCK-CHOICE-1356",
     "question": "学生行为中经常表现出来的自觉、果断等特征,属于性格的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -74367,7 +75099,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1300",
+    "id": "MOCK-CHOICE-1357",
     "question": "对不敢真实表达自己意见与情感的学生，应采取的行为改变方式是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -74392,7 +75124,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1301",
+    "id": "MOCK-CHOICE-1358",
     "question": "我国面积最大的自然保护区是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -74417,7 +75149,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1302",
+    "id": "MOCK-CHOICE-1359",
     "question": "心理辅导的目标是（ ）和寻求发展。",
     "type": "单选题",
     "module": "模拟题",
@@ -74442,7 +75174,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1303",
+    "id": "MOCK-CHOICE-1360",
     "question": "学校教育实践中处理教育活动各种关系的行为准则是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -74467,7 +75199,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1304",
+    "id": "MOCK-CHOICE-1361",
     "question": "教师职业道德修养的基本原则有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -74494,7 +75226,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1305",
+    "id": "MOCK-CHOICE-1362",
     "question": "教育的文化功能主要体现在哪些方面？ ( )",
     "type": "多选题",
     "module": "模拟题",
@@ -74525,7 +75257,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1306",
+    "id": "MOCK-CHOICE-1363",
     "question": "班级管理的几种模式包括（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -74552,7 +75284,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1307",
+    "id": "MOCK-CHOICE-1364",
     "question": "教学组织形式的发展趋势为（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -74580,7 +75312,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1308",
+    "id": "MOCK-CHOICE-1365",
     "question": "楷书书法四大家是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -74609,7 +75341,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1309",
+    "id": "MOCK-CHOICE-1366",
     "question": "新民主主义革命的三大法宝是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -74636,7 +75368,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1310",
+    "id": "MOCK-CHOICE-1367",
     "question": "高校学科建设的核心内容包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -74664,7 +75396,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1311",
+    "id": "MOCK-CHOICE-1368",
     "question": "现代教育的特征主要有_____。",
     "type": "多选题",
     "module": "模拟题",
@@ -74691,7 +75423,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1312",
+    "id": "MOCK-CHOICE-1369",
     "question": "税收的基本特征包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -74718,7 +75450,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1313",
+    "id": "MOCK-CHOICE-1370",
     "question": "教师职业道德的范畴主要包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -74746,7 +75478,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0398",
+    "id": "MOCK-FJ-0365",
     "question": "教育法律救济是为弱势群体实施的一种专业性的法律帮助。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -74767,7 +75499,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0399",
+    "id": "MOCK-FJ-0366",
     "question": "教师专业发展是指教师个体成为优秀教师的过程。 （ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74788,7 +75520,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0400",
+    "id": "MOCK-FJ-0367",
     "question": "教育学是随着人类社会的产生而产生，并随其发展而发展的。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74809,7 +75541,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0401",
+    "id": "MOCK-FJ-0368",
     "question": "教师职业道德的最高层次是慎独。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74832,7 +75564,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0402",
+    "id": "MOCK-FJ-0369",
     "question": "高等教育法是我国教育制度最主要的法律渊源。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74854,7 +75586,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0403",
+    "id": "MOCK-FJ-0370",
     "question": "坚持四项基本原则的核心是坚持马克思主义。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74875,7 +75607,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0404",
+    "id": "MOCK-FJ-0371",
     "question": "国家制定统一的学位授予标准，国务院授权有关高等学校和科学研究机构行使 学位授予权。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74898,7 +75630,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0405",
+    "id": "MOCK-FJ-0372",
     "question": "学生既是教育的对象，又是自我教育和发展的主体。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74921,7 +75653,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0406",
+    "id": "MOCK-FJ-0373",
     "question": "染色体是遗传信息的唯一载体。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74942,7 +75674,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0407",
+    "id": "MOCK-FJ-0374",
     "question": "公告是公文之王。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -74981,7 +75713,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1314",
+    "id": "MOCK-CHOICE-1371",
     "question": "2025 年 9 月 3 日，纪念中国人民抗日战争暨世界反法西斯战争胜利 80 周年大 会在北京隆重举行。习近平总书记发表重要讲话时强调，隆重纪念中国人民抗日 战争暨世界反法西斯战争胜利 80 周年，目的是铭记历史，缅怀先烈、珍爱和平 开创未来。关于中国人民抗日战争，下列表述正确的有几项?( ) ①九一八事变是中华民族全面抗击日本侵略者的起点 ②中国人民抗日战争是开辟了世界反法西斯战争的东方主战场 ③中国人民抗日战争是近代以来中国反抗外敌入侵的第一次胜利 ④中国共产党的中流砥柱作用是中国人民抗战胜利的关键",
     "type": "单选题",
     "module": "模拟题",
@@ -75006,7 +75738,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1315",
+    "id": "MOCK-CHOICE-1372",
     "question": "2025 年 8 月 31 日至 9 月 1 日，上海合作组织成员国元首理事会第二十五次会 议在( )举行，国家主席习近平主持会议并发表题为《牢记初心使命 开创美 好未来》的重要讲话，",
     "type": "单选题",
     "module": "模拟题",
@@ -75031,7 +75763,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1316",
+    "id": "MOCK-CHOICE-1373",
     "question": "面对国际局势的急剧变化，我国坚持国家利益为重、国内政治优先，保持战略 定力，发扬斗争精神，展示不畏强权的坚定意志，在斗争中维护国家尊严和核心 利益，牢牢掌握了发展和安全主动权。这主要体现了( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -75056,7 +75788,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1317",
+    "id": "MOCK-CHOICE-1374",
     "question": "根据《中华人民共和国民法典》的规定，下列情形属于无效婚姻的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -75081,7 +75813,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1318",
+    "id": "MOCK-CHOICE-1375",
     "question": "习近平总书记在纪念乔石同志诞辰 100 周年座谈会上的讲话中指出，我们要始 终坚持全心全意为人民服务的根本宗旨，坚持( )的发展思想，切实维护人民 根本利益、努力为民造福，让现代化建设成果 更多更公平惠及全体人民。",
     "type": "单选题",
     "module": "模拟题",
@@ -75106,7 +75838,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1319",
+    "id": "MOCK-CHOICE-1376",
     "question": "2025 年是全面落实全国科技大会精神、加快建设科技强国的关键之年。2025 年我国将坚持( ),发挥新型举国体制优势，全面加强科技布局和攻关，全面 启动新一轮科技体制改革，着力提升体系化科技 创新能力，有力支撑高质量发 展、保障高水平安全。",
     "type": "单选题",
     "module": "模拟题",
@@ -75132,7 +75864,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1320",
+    "id": "MOCK-CHOICE-1377",
     "question": "党的二十大把“完善党的( )制度规范体系”作为制度建设的重 点突出出来， 就是要旗帜鲜明地把规矩立起来，形成坚持真理、修正错误，发现问题、纠正偏 差的机制，健全党统一领导、全面覆盖、权威高效的监督体系，以制度的力量保 证我们党始终勇立时代潮头、立于不 败之地。",
     "type": "单选题",
     "module": "模拟题",
@@ -75157,7 +75889,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1321",
+    "id": "MOCK-CHOICE-1378",
     "question": "在社会主义制度建立以后，毛泽东同志又领导全党和全国人民积极探索适合中 国国情的社会主义 建设道路，提出了一系列具有战略意义的正确思想和方针。 其中包括：在科学文化工作中实行“百花齐放、 百家争鸣”,在经济工作以及其 他各项工作中实行( )等一系列正确方针。",
     "type": "单选题",
     "module": "模拟题",
@@ -75183,7 +75915,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1322",
+    "id": "MOCK-CHOICE-1379",
     "question": "2025 年是中国人民抗日战争暨世界反法西斯战争胜利 80 周年。关于抗日战争， 下列搭配正确的是 ( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -75208,7 +75940,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1323",
+    "id": "MOCK-CHOICE-1380",
     "question": "2025 年 2 月 16 日出版的第 4 期《求是》杂志发表习近平的重要文章《健全 全面从严治党体系》。文章指出，新时代党的建设是以党的( )为统领、党的各 项建设同向发力综合发力的系统工程。",
     "type": "单选题",
     "module": "模拟题",
@@ -75233,7 +75965,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1324",
+    "id": "MOCK-CHOICE-1381",
     "question": "甲在企业中作为领导，尊重和关心下属，时刻以下属为本，时常解决下属日 常生活中的实际困难，使下属真正感受到温暖，其下属出于感激更加努力的工作。 这体现的管理学效应是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75258,7 +75990,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1325",
+    "id": "MOCK-CHOICE-1382",
     "question": "一百多年来，一代代中国共产党人坚持实事求是、求真务实，相继制定不同 历史时期奋斗纲领和目标，带领人民群众一起不懈奋斗，实现中华民族伟大复兴 进入了不可逆转的历史进程。关于党在不同历史时期制定纲领和目标，下列说法 错误的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75285,7 +76017,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1326",
+    "id": "MOCK-CHOICE-1383",
     "question": "毛泽东同志在《论十大关系》中首先提出的关系是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75310,7 +76042,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1327",
+    "id": "MOCK-CHOICE-1384",
     "question": "2025 年 1 月 7 日，《中共中央国务院关于深化养老服务改革发展的意见》发 布。《意见》总体要求的主要目标包括：到( ),养老服务网络基本建成，到( ), 养老服务网络更加健全，适合我国国情的养老服务体系成熟定型。",
     "type": "单选题",
     "module": "模拟题",
@@ -75335,7 +76067,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1328",
+    "id": "MOCK-CHOICE-1385",
     "question": "毛泽东同志提出“革命的中心任务和最高形式是武装夺取政权，是战争解决 问题”这一重要论断的著作是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75361,7 +76093,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1329",
+    "id": "MOCK-CHOICE-1386",
     "question": "下列别称与事物对应错误的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75386,7 +76118,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1330",
+    "id": "MOCK-CHOICE-1387",
     "question": "法律和其他非宪法议案的修改由全国人民代表大会以( )通过。",
     "type": "单选题",
     "module": "模拟题",
@@ -75411,7 +76143,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1331",
+    "id": "MOCK-CHOICE-1388",
     "question": "中国共产党发展历史上，一些地点具有重要意义。以下地点说法错误的是 ( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -75436,7 +76168,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1332",
+    "id": "MOCK-CHOICE-1389",
     "question": "习近平总书记强调：“要科学合理地使用干部，用当其时，用其所长。”习近 平总书记的这句话所反映的哲学依据是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -75461,7 +76193,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1333",
+    "id": "MOCK-CHOICE-1390",
     "question": "有效的激励会点燃员工的激情，促使他们的工作动机更加强烈，让他们产生 超越自我和他人的欲望，并将潜在的巨大的内驱力释放出来，为企业的远景目标 奉献自己的热情。下列管理学原理没有体现激励作用的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75486,7 +76218,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1334",
+    "id": "MOCK-CHOICE-1391",
     "question": "如无特殊说明，公文中文字的颜色均为黑色。一般每面排( ),每行排( ), 并撑满版心。特定情况可以作适当调整。",
     "type": "单选题",
     "module": "模拟题",
@@ -75511,7 +76243,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1335",
+    "id": "MOCK-CHOICE-1392",
     "question": "关于我国的国家机构，下列说法错误的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75536,7 +76268,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1336",
+    "id": "MOCK-CHOICE-1393",
     "question": "下列地区与其主要土地利用类型搭配正确的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -75561,7 +76293,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1337",
+    "id": "MOCK-CHOICE-1394",
     "question": "毛泽东同志在《新民主主义论》中指出：“中国资产阶级民主革命，却改变为 属于新的资产阶级民主主义革命的范畴，而在革命的阵线上说来，则属于世界无 产阶级社会主义革命的一部分了。”这一论断主要是基于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75587,7 +76319,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1338",
+    "id": "MOCK-CHOICE-1395",
     "question": "从 2035 年到本世纪中叶，我国要在基本实现现代化的基础上，再奋斗十五年， 把我国建成富强民主文明和谐美丽的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -75612,7 +76344,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1339",
+    "id": "MOCK-CHOICE-1396",
     "question": "2025 年 10 月 22 日，国务院批复同意自 2026 年起，将每年（ ）设立为“全 民阅读活动周”。",
     "type": "单选题",
     "module": "模拟题",
@@ -75637,7 +76369,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1340",
+    "id": "MOCK-CHOICE-1397",
     "question": "党的十八大以来，以习近平同志为核心的党中央坚持“两个结合”,不断推进 马克思主义民族理论中国化时代化，鲜明提出把( )作为新时代党的民族工作 的主线、民族地区各项工作的主线。",
     "type": "单选题",
     "module": "模拟题",
@@ -75662,7 +76394,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1341",
+    "id": "MOCK-CHOICE-1398",
     "question": "熊猫是我国的国宝，作为无价之宝，成为国家的骄傲和象征。下列国家和国 宝对应正确的是：（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75687,7 +76419,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1342",
+    "id": "MOCK-CHOICE-1399",
     "question": "“千门开锁万灯明，正月中旬动帝京。三百内人连袖舞，一时天上著词声。” 这首诗说的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -75712,7 +76444,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1343",
+    "id": "MOCK-CHOICE-1400",
     "question": "古人说“用人不疑”,这体现的管理学效应是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -75737,7 +76469,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1344",
+    "id": "MOCK-CHOICE-1401",
     "question": "习近平总书记强调，坚持以社会主义核心价值观为引领，不断构筑( ),发 展壮大主流价值、主流舆论、主流文化。",
     "type": "多选题",
     "module": "模拟题",
@@ -75764,7 +76496,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1345",
+    "id": "MOCK-CHOICE-1402",
     "question": "诗人往往根据故乡、住地、任职的地名等为自己取别号，下列别号与诗人对应 正确的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -75791,7 +76523,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1346",
+    "id": "MOCK-CHOICE-1403",
     "question": "新时代，统一战线面临的时和势、肩负的使命和任务发生了重大变化，但统一 战线仍然是重要法宝，我们要深刻理解发展壮大新时代爱国统一战线的重要意义。 统一战线( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -75818,7 +76550,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1347",
+    "id": "MOCK-CHOICE-1404",
     "question": "我国湖泊众多，下列为我国淡水湖的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -75844,7 +76576,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1348",
+    "id": "MOCK-CHOICE-1405",
     "question": "以下选项中，说法正确的是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -75871,7 +76603,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1349",
+    "id": "MOCK-CHOICE-1406",
     "question": "下列选项中体现意识能动反作用的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -75897,7 +76629,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1350",
+    "id": "MOCK-CHOICE-1407",
     "question": "中国历史上有四大美女的说法，这四位美女分别是浣纱的西施、拜月的貂蝉、 出塞的昭君、醉酒的杨贵妃。关于描写她们的诗句，下列对应正确的是：（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -75923,7 +76655,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1351",
+    "id": "MOCK-CHOICE-1408",
     "question": "下列选项中节日与习俗对应正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -75951,7 +76683,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1352",
+    "id": "MOCK-CHOICE-1409",
     "question": "下列各项中，属于老子提出的观点有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -75977,7 +76709,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1353",
+    "id": "MOCK-CHOICE-1410",
     "question": "下列古曲与创作者对应关系正确的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -76003,7 +76735,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1354",
+    "id": "MOCK-CHOICE-1411",
     "question": "党的二十大报告明确指出：“中国式现代化，是中国共产党领导的社会主义现 代化”。这是对中国式现代化定性的话，是管总、管根本的。党的( )决定了中 国式现代化是社会主义现代化，而不是别的什么现代化。",
     "type": "多选题",
     "module": "模拟题",
@@ -76032,7 +76764,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1355",
+    "id": "MOCK-CHOICE-1412",
     "question": "下列关于新文化运动的叙述，正确的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -76059,7 +76791,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1356",
+    "id": "MOCK-CHOICE-1413",
     "question": "《中华人民共和国学位法》自 2025 年 1 月 1 日起施行。依据《中华人民共和 国学位法》,下列可以获得学位的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -76087,7 +76819,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1357",
+    "id": "MOCK-CHOICE-1414",
     "question": "我国公民在法律面前人人平等指的是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -76114,7 +76846,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1358",
+    "id": "MOCK-CHOICE-1415",
     "question": "关于习近平生态文明思想，下列说法正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -76141,7 +76873,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1359",
+    "id": "MOCK-CHOICE-1416",
     "question": "北京故宫于明成祖永乐四年开始建设，以南京故宫为蓝本营建，到永乐十八 年建成，成为明清两朝二十四位皇帝的皇宫，是世界上现存规模最大、保存最为 完整的木质结构古建筑之一，其中三大殿包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -76168,7 +76900,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1360",
+    "id": "MOCK-CHOICE-1417",
     "question": "中国古代法家的代表人物有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -76194,7 +76926,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1361",
+    "id": "MOCK-CHOICE-1418",
     "question": "为了规范学位授予工作，保护学位申请人的合法权益，第十四届全国人民代 表大会常务委员会第九次会议审议通过了《中华人民共和国学位法》。关于《中 华人民共和国学位法》,下列说法正确的是：（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -76221,7 +76953,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1362",
+    "id": "MOCK-CHOICE-1419",
     "question": "坚持思想建党、理论强党，坚持加强马克思主义武装，使全党始终保持统一 的思想、坚定的意志、协凋的行动、强大的战斗力，是党的事业发展的重要法宝。 加强思想建设是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -76248,7 +76980,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1363",
+    "id": "MOCK-CHOICE-1420",
     "question": "下列关于公文常识的说法正确的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -76275,7 +77007,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1364",
+    "id": "MOCK-CHOICE-1421",
     "question": "培训高校辅导员的教师应具有相关专业（ ）以上职级，并具有较高的思想 政治教育及相关专业学术水平、理论修养和丰富的实践经验。",
     "type": "单选题",
     "module": "模拟题",
@@ -76302,7 +77034,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1365",
+    "id": "MOCK-CHOICE-1422",
     "question": "增强高等教育综合实力，打造战略引领力量，要做到( )推进高校改革发展。",
     "type": "单选题",
     "module": "模拟题",
@@ -76327,7 +77059,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1366",
+    "id": "MOCK-CHOICE-1423",
     "question": "原则上从入学第( )年开始不再具备本专科生国家奖学金申请资格",
     "type": "单选题",
     "module": "模拟题",
@@ -76353,7 +77085,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1367",
+    "id": "MOCK-CHOICE-1424",
     "question": "《中华人民共和国精神卫生法》规定，各级各类学校应当对学生进行( )教育， 配备或者聘请心理健康教育教师、辅导人员，并可以设立心理健康辅导室，对学 生进行心理健康教育。",
     "type": "单选题",
     "module": "模拟题",
@@ -76380,7 +77112,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1368",
+    "id": "MOCK-CHOICE-1425",
     "question": "《高等学校学生行为准则》第三条规定:勤奋学习,自强不息。积极实践,勇于 ( );珍惜时间,学业有成。",
     "type": "单选题",
     "module": "模拟题",
@@ -76405,7 +77137,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1369",
+    "id": "MOCK-CHOICE-1426",
     "question": "《关于进一步引导和鼓励高校毕业生到基层工作的意见》中指出,省级以上机 关录用公务员,除特殊职位外,按照有关规定一律从具有( )年以上基层工作经 历的人员中考录。",
     "type": "单选题",
     "module": "模拟题",
@@ -76432,7 +77164,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1370",
+    "id": "MOCK-CHOICE-1427",
     "question": "2018 年 5 月 2 日,习近平总书记在北京大学师生座谈会上的讲话时指出,下列 ( )是我们立党立国的根本指导思想,也是我国大学最鲜亮的底色。",
     "type": "单选题",
     "module": "模拟题",
@@ -76457,7 +77189,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1371",
+    "id": "MOCK-CHOICE-1428",
     "question": "《关于加强和改进新形势下高校思想政治工作的意见》指出，要发挥哲学社会 科学育人功能。强调要加强哲学社会科学学科体系建设，积极构建中国特色、( )、 中国气派的哲学社会科学学科体系，强化马克思主义理论学科的引领作用。",
     "type": "单选题",
     "module": "模拟题",
@@ -76484,7 +77216,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1372",
+    "id": "MOCK-CHOICE-1429",
     "question": "学校可以根据情况建立并实行灵活的学习制度。对休学创业的学生，可以单独 规定最长( )年限，并简化休学批准程序。",
     "type": "单选题",
     "module": "模拟题",
@@ -76511,7 +77243,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1373",
+    "id": "MOCK-CHOICE-1430",
     "question": "下列那些属于高校思政工作体系中的日常教育体系?( ) 第 3 页 共 13 页",
     "type": "单选题",
     "module": "模拟题",
@@ -76537,7 +77269,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1374",
+    "id": "MOCK-CHOICE-1431",
     "question": "《教育强国建设规划纲要(2024-2035 年)》:建设学习型社会，以教育数字化 开辟发展新赛道、塑造( )",
     "type": "单选题",
     "module": "模拟题",
@@ -76563,7 +77295,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1375",
+    "id": "MOCK-CHOICE-1432",
     "question": "习近平总书记强调，青少年阶段是人生的“( )”，最需要精心引导和栽培。",
     "type": "单选题",
     "module": "模拟题",
@@ -76588,7 +77320,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1376",
+    "id": "MOCK-CHOICE-1433",
     "question": "习近平总书记在 2018 年全国教育大会上强调，要在厚植爱国主义情怀上下功 夫，让爱国主义精神在学生心中牢牢扎根，教育引导学生热爱和拥护中国共产党， 立志听党话、跟党走，立志( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -76613,7 +77345,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1377",
+    "id": "MOCK-CHOICE-1434",
     "question": "当学生因考试失利出现自暴自弃、逃课厌学等行为时，辅导员首先应采取的 干预措施是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -76640,7 +77372,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1378",
+    "id": "MOCK-CHOICE-1435",
     "question": "当学生突发疾病需要紧急送医时，辅导员首先应采取的措施是（ ） 第 4 页 共 13 页",
     "type": "单选题",
     "module": "模拟题",
@@ -76666,7 +77398,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1379",
+    "id": "MOCK-CHOICE-1436",
     "question": "《关于进一步加强和改进新形势下高校宣传思想工作的意见》指出，做好高校 宣传思想工作，加强高校意识形态阵地建设，是一项( )，事关党对高校的领 导，事关全面贯彻党的教育方针，事关中国特色社会主义事业后继有人。",
     "type": "多选题",
     "module": "模拟题",
@@ -76694,7 +77426,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1380",
+    "id": "MOCK-CHOICE-1437",
     "question": "各地、各校要结合实际，通过( )等方式完善学生资助体系。",
     "type": "多选题",
     "module": "模拟题",
@@ -76723,7 +77455,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1381",
+    "id": "MOCK-CHOICE-1438",
     "question": "国家鼓励( )在各类学校设立奖学金、助学金。",
     "type": "多选题",
     "module": "模拟题",
@@ -76751,7 +77483,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1382",
+    "id": "MOCK-CHOICE-1439",
     "question": "全面推动党的创新理论研究成果转化为相应的学科方向和课程教材，将新时代 伟大变革成功案例及其蕴含的 ( )融入学校思想政治教育。",
     "type": "多选题",
     "module": "模拟题",
@@ -76780,11 +77512,11 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0408",
-    "question": "党的纪律主要包括( )、工作纪律、生活纪律。 A.政治纪律 B.组织纪律 C.廉洁纪律 D.群众纪律",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1440",
+    "question": "党的纪律主要包括( )、工作纪律、生活纪律。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "学生管理"
     ],
@@ -76795,17 +77527,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "政治纪律",
+      "B": "组织纪律",
+      "C": "廉洁纪律",
+      "D": "群众纪律"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "C"
+    ]
   },
   {
-    "id": "MOCK-FJ-0409",
-    "question": "以下哪几类人群可以被吸纳为高校思政课教师?（ ） A.学科教师 B.党政管理干部 C.辅导员 D.学科专家",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1441",
+    "question": "以下哪几类人群可以被吸纳为高校思政课教师?（ ）",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "党建思政",
       "教育政策",
@@ -76818,17 +77554,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "学科教师",
+      "B": "党政管理干部",
+      "C": "辅导员",
+      "D": "学科专家"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-FJ-0410",
-    "question": "专职辅导员专业技术职务(职称)评聘应更加注重考察( ) A.工作业绩 B.学生评价 C.育人实效 D.科研成果",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1442",
+    "question": "专职辅导员专业技术职务(职称)评聘应更加注重考察( )",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "辅导员队伍"
     ],
@@ -76839,17 +77579,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "工作业绩",
+      "B": "学生评价",
+      "C": "育人实效",
+      "D": "科研成果"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-FJ-0411",
-    "question": "学生的处理、处分决定以及处分告知书等，应当直接送达学生本人，特殊情况 下根据条件不同可采取( )等方式送达。 A.邮寄 B.电话告知 C.学校网站、新闻媒体等公告 D.留置",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1443",
+    "question": "学生的处理、处分决定以及处分告知书等，应当直接送达学生本人，特殊情况 下根据条件不同可采取( )等方式送达。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "学生管理"
     ],
@@ -76860,17 +77604,21 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "邮寄",
+      "B": "电话告知",
+      "C": "学校网站、新闻媒体等公告",
+      "D": "留置"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "B"
+    ]
   },
   {
-    "id": "MOCK-FJ-0412",
-    "question": "根据《普通高等学校学生党建工作标准》，学生党支部的设立有助于发挥（ ） 作用。 第 6 页 共 13 页 A.战斗堡垒作用 B.组织优化作用 C.党员先锋模范作用 D.党支部主体作用",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1444",
+    "question": "根据《普通高等学校学生党建工作标准》，学生党支部的设立有助于发挥（ ） 作用。 第 6 页 共 13 页",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
       "党建思政"
     ],
@@ -76881,10 +77629,14 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "战斗堡垒作用",
+      "B": "组织优化作用",
+      "C": "党员先锋模范作用",
+      "D": "党支部主体作用"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "D"
+    ]
   },
   {
     "id": "MOCK-SAQ-0099",
@@ -76992,7 +77744,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1383",
+    "id": "MOCK-CHOICE-1445",
     "question": "我国的兴国之要、强国之路、立国之本分别是 ( )",
     "type": "单选题",
     "module": "模拟题",
@@ -77015,7 +77767,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1384",
+    "id": "MOCK-CHOICE-1446",
     "question": "爱国主义教育应当把弘扬爱国主义精神与( )结合起来，坚持理性、包容、 开放，尊重各国历史特点和文化传统，借鉴吸收人类切优秀文明成果。",
     "type": "单选题",
     "module": "模拟题",
@@ -77038,7 +77790,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1385",
+    "id": "MOCK-CHOICE-1447",
     "question": "教育部门《关于进一步加强高校实践育人工作的若干意见》要求每个本科学生 在学期间参加社会实践活动的时间累积应不少于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -77061,7 +77813,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1386",
+    "id": "MOCK-CHOICE-1448",
     "question": "( )是思想政治教育的领导。",
     "type": "单选题",
     "module": "模拟题",
@@ -77084,7 +77836,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1387",
+    "id": "MOCK-CHOICE-1449",
     "question": "( )教育是思想政治教育的核心。",
     "type": "单选题",
     "module": "模拟题",
@@ -77107,7 +77859,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1388",
+    "id": "MOCK-CHOICE-1450",
     "question": "二十届三中全会强调，进一步全面深化改革要总结和运用改革开放以来特别是 新时代全面深化改革的宝贵经验，贯彻坚持党的全面领导、坚持以人民为中心、 坚持守正创新坚持以( )为主线、坚持全面依法治国、坚持系统观念等原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -77130,7 +77882,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1389",
+    "id": "MOCK-CHOICE-1451",
     "question": "学校是宣传、灌输、传播一定阶级的思想体系、道德规范、政策路线的有效阵 地，这表明教育对政治的（ ）作用。",
     "type": "单选题",
     "module": "模拟题",
@@ -77153,7 +77905,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1390",
+    "id": "MOCK-CHOICE-1452",
     "question": "“以善先人者谓之教。”我国教育向来以伦理为本，更是具有重视思想政治教 育的优良传统。首次明确“把立德树人作为教育的根本任务”的重大报告是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -77176,7 +77928,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1391",
+    "id": "MOCK-CHOICE-1453",
     "question": "澳门特别行政区政府 2025 年 12 月 20 日早上在金莲花广场举行升旗仪式，庆 祝澳门回归祖国（ ）。澳门特区政府主要官员、中央驻澳机构负责人、社会各 界人士等在现场观礼。",
     "type": "单选题",
     "module": "模拟题",
@@ -77199,7 +77951,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1392",
+    "id": "MOCK-CHOICE-1454",
     "question": "党员 5 年内参加各类集中学习培训累计不少于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -77222,7 +77974,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1393",
+    "id": "MOCK-CHOICE-1455",
     "question": "党的创新理论教育学时应占总学时的（ ）以上。",
     "type": "单选题",
     "module": "模拟题",
@@ -77245,7 +77997,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1394",
+    "id": "MOCK-CHOICE-1456",
     "question": "《普通高等学校辅导员队伍建设规定》明确指出，“辅导员培训应当纳入高等 学校师资队伍和（ ）培训整体规划。”",
     "type": "单选题",
     "module": "模拟题",
@@ -77269,7 +78021,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1395",
+    "id": "MOCK-CHOICE-1457",
     "question": "《关于进一步加强和改进大学生思想政治教育的意见》指出，加强和改进大 学生思想政治教育的重点是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -77292,7 +78044,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1396",
+    "id": "MOCK-CHOICE-1458",
     "question": "( )是我们立党立国、兴党兴国的根本指导思想。",
     "type": "单选题",
     "module": "模拟题",
@@ -77315,7 +78067,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1397",
+    "id": "MOCK-CHOICE-1459",
     "question": "“所谓大学者,非有大楼之谓也,而有大师之谓也”出自（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -77338,7 +78090,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1398",
+    "id": "MOCK-CHOICE-1460",
     "question": "2025 年 12 月 31 日，习近平总书记在 2026 年新年贺词中提到，“锐始者必图 其终，成功者先计于始”出自（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -77361,7 +78113,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1399",
+    "id": "MOCK-CHOICE-1461",
     "question": "第一次提出了新民主主义革命的科学概念、总路线和基本内容的著作是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -77384,7 +78136,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1400",
+    "id": "MOCK-CHOICE-1462",
     "question": "在某职业学校的校园里，随处可见文明用语牌，每间教室的门口都悬挂着印 有中华文化思想精髓语句的展览板，几乎所有的师生的行为也都能做到符合这些 挂牌，展览板所体现的内容，这已然成为了该学校（ ）的一部分。",
     "type": "单选题",
     "module": "模拟题",
@@ -77407,7 +78159,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1401",
+    "id": "MOCK-CHOICE-1463",
     "question": "一个国家教育经费投入的多少最终取决于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -77430,7 +78182,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1402",
+    "id": "MOCK-CHOICE-1464",
     "question": "以下各项著名景点中，都属于同一个省份的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -77453,7 +78205,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1403",
+    "id": "MOCK-CHOICE-1465",
     "question": "学生申诉处理委员会对学生提出的申诉进行复查，并在接到书面申诉之日起 （ ）内作出复查结论并告知申诉人。",
     "type": "单选题",
     "module": "模拟题",
@@ -77476,7 +78228,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1404",
+    "id": "MOCK-CHOICE-1466",
     "question": "近代中国社会最主要的矛盾是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -77499,7 +78251,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1405",
+    "id": "MOCK-CHOICE-1467",
     "question": "习近平在中国共产党第二十次全国代表大会上的报告指出，我们要建设具有 强大（ ）的社会主义意识形态。",
     "type": "单选题",
     "module": "模拟题",
@@ -77522,7 +78274,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1406",
+    "id": "MOCK-CHOICE-1468",
     "question": "在“四个意识”中，马克思主义政党发展的历史证明，没有（ ）就不能形 成统一的意志，就不会有战斗力、号召力、与凝聚力。",
     "type": "单选题",
     "module": "模拟题",
@@ -77546,7 +78298,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1407",
+    "id": "MOCK-CHOICE-1469",
     "question": "《关于进一步加强和改进新形势下高校宣传思想工作的意见》指出，加强和 改进新形势下高校宣传思想工作的重点是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -77569,7 +78321,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1408",
+    "id": "MOCK-CHOICE-1470",
     "question": "二十大报告中指出，大自然是人类赖以生存发展的基本条件。尊重自然、顺 应自然、保护自然，是全面建设社会主义现代化国家的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -77592,7 +78344,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1409",
+    "id": "MOCK-CHOICE-1471",
     "question": "我们常说“十年树木，百年树人”来形容我国的教育事业。这句话是谁说的 ( )",
     "type": "单选题",
     "module": "模拟题",
@@ -77615,7 +78367,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1410",
+    "id": "MOCK-CHOICE-1472",
     "question": "2025 年 12 月 1 日出版的第 23 期《求是》杂志发表了主席的重要文章《推进 党的自我革命要做到“五个进一步到位”》，文章指出，（ ）和（ ）是党和 人民的大敌，也是经济社会持续健康发展的大敌。",
     "type": "单选题",
     "module": "模拟题",
@@ -77638,7 +78390,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1411",
+    "id": "MOCK-CHOICE-1473",
     "question": "根据《加强新时代高校学生心理健康教育工作的实施办法》，对有严重心理危 机的学生要严格落实“五个一”干预机制，即（ ）的干预机制。",
     "type": "单选题",
     "module": "模拟题",
@@ -77663,7 +78415,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1412",
+    "id": "MOCK-CHOICE-1474",
     "question": "社会主义文化建设的根本任务是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -77686,7 +78438,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1413",
+    "id": "MOCK-CHOICE-1475",
     "question": "思想政治教育的主要任务包括( )",
     "type": "多选题",
     "module": "模拟题",
@@ -77709,7 +78461,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1414",
+    "id": "MOCK-CHOICE-1476",
     "question": "习近平在全国宣传思想工作会议上强调，完成新形势下宣传思想工作的使命任 务，要在基础性、战略性工作上下功夫，在关键处、要害处下功夫，推动宣传思 想工作不断强起来，促进全体人民在( )上紧紧团结在一起，为服务党和国家事 业全局作出更大贡献。",
     "type": "多选题",
     "module": "模拟题",
@@ -77732,7 +78484,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1415",
+    "id": "MOCK-CHOICE-1477",
     "question": "《关于进一步加强和改进新形势下高校宣传思想工作的意见》指出，加强和改 进新形势下高校宣传思想工作，要推动文化传承创新，建设( )的大学文化， 培育和弘扬大学精神，把高校建设成为精神文明建设示范区和辐射源。",
     "type": "多选题",
     "module": "模拟题",
@@ -77756,7 +78508,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1416",
+    "id": "MOCK-CHOICE-1478",
     "question": "（ ）是党领导下的大学生群众组织，是加强和改进大学生思想政治教育的重 要依靠力量，也是大学生自我教育的组织者。",
     "type": "多选题",
     "module": "模拟题",
@@ -77779,7 +78531,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1417",
+    "id": "MOCK-CHOICE-1479",
     "question": "《教育强国建设规划纲要（2024—2035 年）》中，加快建设现代职业教育体系， 培养大国工匠、能工巧匠、高技能人才的内容包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -77802,7 +78554,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1418",
+    "id": "MOCK-CHOICE-1480",
     "question": "高等学校应当制定辅导员管理岗位聘任办法，根据辅导员的（ ），确定相 应级别的管理岗位等级。",
     "type": "多选题",
     "module": "模拟题",
@@ -77826,7 +78578,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1419",
+    "id": "MOCK-CHOICE-1481",
     "question": "落实立德树人根本任务，必须将（ ）三者融为一体、不可割裂。",
     "type": "多选题",
     "module": "模拟题",
@@ -77849,7 +78601,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1420",
+    "id": "MOCK-CHOICE-1482",
     "question": "因下列情形之一造成的学生伤害事故，学校已行了相应责任，行为并无不当的， 无法律责任。（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -77872,7 +78624,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1421",
+    "id": "MOCK-CHOICE-1483",
     "question": "2025 年 12 月 31 日，习近平总书记在 2026 年新年贺词中提到，创新创造催生 了新质生产力，也让生活更加多姿多彩。对新年贺词中提及科技创新内容，以下 说法正确的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -77895,7 +78647,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1422",
+    "id": "MOCK-CHOICE-1484",
     "question": "下列情形中高等学校可对学生做出退学处理的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -77989,6 +78741,29 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
+    "id": "MOCK-CHOICE-1485",
+    "question": "景点都属于云南省，故本题选 D。",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "",
+    "source_file": "152.洛阳铁路信息工程学校模拟题&模拟测试（一百五十二）.pdf",
+    "policy_basis": [
+      "152.洛阳铁路信息工程学校模拟题&模拟测试（一百五十二）.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "D": "项各",
+      "A": "项五台山属于山西省，其余都属于陕西省；",
+      "B": "项太阳岛属于黑龙江省，",
+      "C": "项天一阁属于浙江省宁波市，其余都属于江苏省；"
+    },
+    "correct_answers": []
+  },
+  {
     "id": "MOCK-ANALYSIS-0311",
     "question": "[案例分析] 本案例中，张某的核心问题是学业压力引发的焦虑情绪障碍，伴随轻度抑郁倾向， 属于典型的大学生心理适应不良问题。",
     "type": "简答题",
@@ -78005,7 +78780,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1423",
+    "id": "MOCK-CHOICE-1486",
     "question": "2025 年政府工作报告指出：加强义务教育学校标准化建设，推动义务教育优 质均衡发展；扩大高中阶段教育学位供给，提升( )高中质量。",
     "type": "单选题",
     "module": "模拟题",
@@ -78020,15 +78795,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "镇域 B.县域",
-      "C": "市域 D.省域"
+      "A": "镇域",
+      "B": "县域",
+      "C": "市域",
+      "D": "省域"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1424",
+    "id": "MOCK-CHOICE-1487",
     "question": "2025 年全国教育工作会议中提到“坚持以人民为中心发展教育，持续提升教 育( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -78053,7 +78830,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1425",
+    "id": "MOCK-CHOICE-1488",
     "question": "关于基础教育拔尖创新人才，下列表述正确的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78079,8 +78856,8 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1426",
-    "question": "教育是生产劳动，揭示了教育者与受教育者之间在促进生产力发展方面有着本 质的客观联系。从教育本质的角度看，该观点属于( )",
+    "id": "MOCK-CHOICE-1489",
+    "question": "教育是生产劳动，揭示了教育者与受教育者之间在促进生产力发展方面有着本 质的客观联系。从教育本质的角度看，该观点属于( ) 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH",
     "type": "单选题",
     "module": "模拟题",
     "category": "选择题",
@@ -78094,15 +78871,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "上层建筑说 B.多质说",
-      "C": "双重属性说 D.生产力说 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH"
+      "A": "上层建筑说",
+      "B": "多质说",
+      "C": "双重属性说",
+      "D": "生产力说"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1427",
+    "id": "MOCK-CHOICE-1490",
     "question": "班主任王老师组织学生了解人大代表选举过程，这体现了教育的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -78117,15 +78896,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "社会功能 B.政治功能",
-      "C": "经济功能 D.文化功能"
+      "A": "社会功能",
+      "B": "政治功能",
+      "C": "经济功能",
+      "D": "文化功能"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1428",
+    "id": "MOCK-CHOICE-1491",
     "question": "未来教育发展的重要趋势影响教书育人的力度，促进教育智能化。这说明生产 力发展水平能够影响( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78140,15 +78921,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教学方法与手段 B.教育规模速度",
-      "C": "课程设置与内容 D.教育目的与性质"
+      "A": "教学方法与手段",
+      "B": "教育规模速度",
+      "C": "课程设置与内容",
+      "D": "教育目的与性质"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1429",
+    "id": "MOCK-CHOICE-1492",
     "question": "《晏子春秋》中，“橘生淮南则为橘，生于淮北则为枳”表达的主要意思是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78173,7 +78956,32 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1430",
+    "id": "MOCK-CHOICE-1493",
+    "question": "学生在春节期间参与家庭劳动，体会到“劳动是一切幸福的源泉”,“幸福是 奋斗出来的”内涵与意义。这属于劳动教育核心素养的( )",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "教育学原理"
+    ],
+    "reference_answer": "A 劳动观念：指个体对劳动的本质、价值、意义的认知与态度，是劳动教育 的思想基础。学生通过家庭劳动体会到 “劳动是幸福的源泉”“幸福是奋斗出来 的”，正是对劳动价值和意义形成了正确认知，属于劳动观念的范畴。劳动精神： 侧重于劳动过程中展现的敬业、奋斗、创新、奉献等精神品质，题干核心是对劳 动价值的认知，而非精神品质的体现。",
+    "source_file": "155.模拟题&模拟测试（一百五十五）2025年河南省事业单位联考教育类真题.pdf",
+    "policy_basis": [
+      "155.模拟题&模拟测试（一百五十五）2025年河南省事业单位联考教育类真题.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "劳动观念",
+      "B": "劳动习惯",
+      "C": "劳动精神",
+      "D": "劳动能力"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-1494",
     "question": "教育家精神中的“心有大我、至诚报国”的理想信念，教育工作者( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78198,7 +79006,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1431",
+    "id": "MOCK-CHOICE-1495",
     "question": "下列关于班集体建设的描述说法不正确的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78223,8 +79031,8 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1432",
-    "question": "教育目的在内容上体现了国家的意志，社会发展的利益。这一说法体现了教 育目的的( )特点。",
+    "id": "MOCK-CHOICE-1496",
+    "question": "教育目的在内容上体现了国家的意志，社会发展的利益。这一说法体现了教 育目的的( )特点。 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH",
     "type": "单选题",
     "module": "模拟题",
     "category": "选择题",
@@ -78238,15 +79046,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "预期性 B.时代性 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH",
-      "C": "宏观性 D.强制性"
+      "A": "预期性",
+      "B": "时代性",
+      "C": "宏观性",
+      "D": "强制性"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1433",
+    "id": "MOCK-CHOICE-1497",
     "question": "教师如同勇敢的探险家，审视教学，不断地发现问题、解决问题的过程，提 升自己的专业水平。从教师角色维度分析，这句话，教师是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78261,15 +79071,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学生进步的陪伴者 B.教学研究者",
-      "C": "学生学习的合作者 D.知识的传授者"
+      "A": "学生进步的陪伴者",
+      "B": "教学研究者",
+      "C": "学生学习的合作者",
+      "D": "知识的传授者"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1434",
+    "id": "MOCK-CHOICE-1498",
     "question": "不同层次和类型的高校培养不同类专业人才，服务于社会的发展，这属于学 校的( )职能。",
     "type": "单选题",
     "module": "模拟题",
@@ -78284,15 +79096,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "社会服务 B.培养人才",
-      "C": "科学研究 D.文化传承"
+      "A": "社会服务",
+      "B": "培养人才",
+      "C": "科学研究",
+      "D": "文化传承"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1435",
+    "id": "MOCK-CHOICE-1499",
     "question": "每当想起 2024 年巴黎奥运会上，在领奖台上一次次升起国歌，在赛场上一次 次奏响的画面，心中的民族自豪感便油然而生。这种由外界事物所引起的主观体 验是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78307,15 +79121,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "认知 B.情绪情感",
-      "C": "意志 D.联想回忆"
+      "A": "认知",
+      "B": "情绪情感",
+      "C": "意志",
+      "D": "联想回忆"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1436",
+    "id": "MOCK-CHOICE-1500",
     "question": "课堂上，教师在认真的讲，下课铃一响，学生就像离弦的箭一样飞奔出教室。 这一行为反应的神经结构是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78330,15 +79146,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "脊髓 B.延脑",
-      "C": "反射弧 D.小脑"
+      "A": "脊髓",
+      "B": "延脑",
+      "C": "反射弧",
+      "D": "小脑"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1437",
+    "id": "MOCK-CHOICE-1501",
     "question": "如图所示，当进行遮挡时，我们仍然根据经验将遮挡的部分进行“脑补”, 从而将其知觉为“浙江大学”“淅汀太觉”等完整信息。这反映出知觉具有( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78353,15 +79171,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "理解性 B.选择性",
-      "C": "整体性 D.恒常性"
+      "A": "理解性",
+      "B": "选择性",
+      "C": "整体性",
+      "D": "恒常性"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1438",
+    "id": "MOCK-CHOICE-1502",
     "question": "早上睡醒拉开窗帘，刚开始觉得光线刺眼，什么也看不清，过一会儿眼睛就 恢复正常。这种现象是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78376,15 +79196,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "感觉对比 B.明适应",
-      "C": "感觉后像 D.暗适应"
+      "A": "感觉对比",
+      "B": "明适应",
+      "C": "感觉后像",
+      "D": "暗适应"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1439",
+    "id": "MOCK-CHOICE-1503",
     "question": "小糖借助手指玉米粒、小麦粒来计算加法“15+16=?”,一旦脱离外在具体事 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 务，他的思维也就停止了。由此判断，小唐的思维属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78409,7 +79231,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1440",
+    "id": "MOCK-CHOICE-1504",
     "question": "人称鬼才之眼的王玉恒在最强大脑中展现出惊人的观察力和记忆力；被称为 国际特级记忆大师的张兴龙在一小时之内记住 2800 个事物。他们都展现出了超 长的记忆力，这反映了智力( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78434,7 +79256,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1441",
+    "id": "MOCK-CHOICE-1505",
     "question": "根据教育部《关于推进新时代普通高等学校学历继续教育改革的实施意见》 精神，自 2025 年秋季起，高等学历继续教育统一名称为( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78449,15 +79271,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "函授 B.非脱产",
-      "C": "业余 D.自学考试"
+      "A": "函授",
+      "B": "非脱产",
+      "C": "业余",
+      "D": "自学考试"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1442",
+    "id": "MOCK-CHOICE-1506",
     "question": "为了探究教师严惩学生的影响，张某对部分同学采取了过度惩戒，严重影响 了该部分同学的心理健康。这一做法违反了教育心理学研究的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78473,15 +79297,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "发展性原则 B.客观性原则",
-      "C": "系统性原则 D.教育性原则"
+      "A": "发展性原则",
+      "B": "客观性原则",
+      "C": "系统性原则",
+      "D": "教育性原则"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1443",
+    "id": "MOCK-CHOICE-1507",
     "question": "小张对妈妈说：“月亮跟着我走，它是想和我一起回家吗?”根据皮亚杰的认 知发展阶段理论，小张的认知发展是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78506,7 +79332,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1444",
+    "id": "MOCK-CHOICE-1508",
     "question": "教师对小张在幼儿园表现中的攻击行为不加理睬，而对其合作行为进行奖励。 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 很快就发现小张的攻击行为减少，合作行为增加则该教师采用的控制攻击行为的 方法是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78521,15 +79347,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "消退法 B.暂时隔离法",
-      "C": "示范法 D.角色扮演法"
+      "A": "消退法",
+      "B": "暂时隔离法",
+      "C": "示范法",
+      "D": "角色扮演法"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1445",
+    "id": "MOCK-CHOICE-1509",
     "question": "在斯金纳的白鸽实验中，实验者通过选择性强化塑造鸽子的行为：对向左转 圈圈的行为给予食物奖励，向右转圈圈没有食物奖励，最终鸽子二十分钟学会向 左转圈圈。下列选项中能解释这种行为理论的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78544,15 +79372,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "经典性条件作用理论 B.建构主义理论",
-      "C": "操作性条件作用理论 D.社会学习理论"
+      "A": "经典性条件作用理论",
+      "B": "建构主义理论",
+      "C": "操作性条件作用理论",
+      "D": "社会学习理论"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1446",
+    "id": "MOCK-CHOICE-1510",
     "question": "小强同学不喜欢学习，当考试成绩不理想时，常常自我安慰这门课根本不重 要，学好学坏无所谓。根据科温顿的动机四象限模型，小强属于什么动机类 型?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78567,15 +79397,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "低趋低避型 B.低趋高避型",
-      "C": "高趋高避型 D.高趋低避型"
+      "A": "低趋低避型",
+      "B": "低趋高避型",
+      "C": "高趋高避型",
+      "D": "高趋低避型"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1447",
+    "id": "MOCK-CHOICE-1511",
     "question": "小张在做英语阅读时会采取不同的符号，如三角形、五角星、波浪线等，对 重难点点做出标记，以获取关键信息。小张采取的学习策略属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78590,15 +79422,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "元认知策略 B.资源管理策略",
-      "C": "认知策略 D.学业求助策略"
+      "A": "元认知策略",
+      "B": "资源管理策略",
+      "C": "认知策略",
+      "D": "学业求助策略"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1448",
+    "id": "MOCK-CHOICE-1512",
     "question": "通过“先练后讲”来增强学生知识与技能去探索新问题的教学方法是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78613,15 +79447,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "尝试教学法 B.讲授教学法",
-      "C": "复习教学法 D.成功教学法"
+      "A": "尝试教学法",
+      "B": "讲授教学法",
+      "C": "复习教学法",
+      "D": "成功教学法"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1449",
+    "id": "MOCK-CHOICE-1513",
     "question": "蒋老师在实验课上一边示范操作，一边让学生自己动手实践。蒋老师遵循的 教学规律是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78636,15 +79472,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教师主导与学生主体相统一 B.掌握知识与发展能力相统一",
-      "C": "传授知识与思想教育相统一 D.间接经验与直接经验相统一"
+      "A": "教师主导与学生主体相统一",
+      "B": "掌握知识与发展能力相统一",
+      "C": "传授知识与思想教育相统一",
+      "D": "间接经验与直接经验相统一"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1450",
+    "id": "MOCK-CHOICE-1514",
     "question": "王老师在讲解三角形的面积时，题干缺失，找出解决问题的方案。根据赫尔 巴特的明了联想系统方法四阶段，以上属于( ) 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH",
     "type": "单选题",
     "module": "模拟题",
@@ -78659,13 +79497,15 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "明了 B.联想",
-      "C": "系统 D.方法"
+      "A": "明了",
+      "B": "联想",
+      "C": "系统",
+      "D": "方法"
     },
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1451",
+    "id": "MOCK-CHOICE-1515",
     "question": "引导学生深刻领会近代以来最伟大的梦想，不断强化为共产主义远大理想和 中国特色社会主义共同理想而奋斗的信念和信心。这属于对学生进行( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78690,7 +79530,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1452",
+    "id": "MOCK-CHOICE-1516",
     "question": "《义务教育课程方案和课程标准(2022 年版)》,包括义务教育课程方案和 ( )个课程标准。",
     "type": "单选题",
     "module": "模拟题",
@@ -78715,7 +79555,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1453",
+    "id": "MOCK-CHOICE-1517",
     "question": "关于教育制度，说法不科学的是()",
     "type": "单选题",
     "module": "模拟题",
@@ -78740,7 +79580,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1454",
+    "id": "MOCK-CHOICE-1518",
     "question": "十四届全国人民代表大会常务委员会第十二次会议表决通过《中华人民共和 国学前教育法》,于( )开始实行。",
     "type": "单选题",
     "module": "模拟题",
@@ -78765,7 +79605,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1455",
+    "id": "MOCK-CHOICE-1519",
     "question": "孙某采用编制调查问卷方式来研究不同学龄段青少年的社会排斥现状。这一 研究属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78790,7 +79630,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1456",
+    "id": "MOCK-CHOICE-1520",
     "question": "寒假来临，王老师既想吃美食，又想与朋友相聚，另一方面又担心天气寒冷 花费高等。这种目标冲突属于( )",
     "type": "单选题",
     "module": "模拟题",
@@ -78815,7 +79655,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1457",
+    "id": "MOCK-CHOICE-1521",
     "question": "下列属于夸美纽斯的教育思想的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -78830,8 +79670,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "泛智教育 B.直观性原则",
-      "C": "要素教育 D.班级授课制"
+      "A": "泛智教育",
+      "B": "直观性原则",
+      "C": "要素教育",
+      "D": "班级授课制"
     },
     "correct_answers": [
       "A",
@@ -78840,7 +79682,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1458",
+    "id": "MOCK-CHOICE-1522",
     "question": "“每个人在理论上都有比赛的机会，但比赛必须要有规则。”映射出该项比 赛的特点有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -78855,8 +79697,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "专业 B.神圣",
-      "C": "平等 D.理性"
+      "A": "专业",
+      "B": "神圣",
+      "C": "平等",
+      "D": "理性"
     },
     "correct_answers": [
       "C",
@@ -78864,7 +79708,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1459",
+    "id": "MOCK-CHOICE-1523",
     "question": "习近平文化思想深化了我们党对文化自信生成基础的认识，从理论、历史、 现实三个层面呈现了文化自信的生成基础。现代学校是传授文化知识的场所，主 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 领航GXLH 要传承( )",
     "type": "多选题",
     "module": "模拟题",
@@ -78891,7 +79735,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1460",
+    "id": "MOCK-CHOICE-1524",
     "question": "从十九世纪末到二十世纪二三十年代，各种心理学派如雨后春笋般涌现。在 心理学独立之初，心理学家们在建构理论体系时存在着尖锐的分歧。下列关于各 派别观点表述正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -78918,7 +79762,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1461",
+    "id": "MOCK-CHOICE-1525",
     "question": "每个领域都有自己的专家，相对于新手，专家解决问题的效率更高。导致专 家与新手问题解决效率不同的主要原因有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -79010,7 +79854,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1462",
+    "id": "MOCK-CHOICE-1526",
     "question": "蔡元培在《教育大辞书》美育条目中指出，美育者，应用美学理论于教育， 以陶养感情为目的者也。这句话概括了( )",
     "type": "多选题",
     "module": "模拟题",
@@ -79036,7 +79880,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1463",
+    "id": "MOCK-CHOICE-1527",
     "question": "《中共中央关于制定国民经济和社会发展第十五个五年规划的建议》强调，要 把解决好（ ）问题作为全党工作重中之重，促进城乡融合发展。",
     "type": "单选题",
     "module": "模拟题",
@@ -79061,7 +79905,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1464",
+    "id": "MOCK-CHOICE-1528",
     "question": "统筹发展科技农业、绿色农业、质量农业、品牌农业，把农业建成现代化大产 业，需做好耕地保护和（ ）两篇文章，以此确保中国人的饭碗端牢端稳。",
     "type": "单选题",
     "module": "模拟题",
@@ -79086,7 +79930,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1465",
+    "id": "MOCK-CHOICE-1529",
     "question": "12 月 31 日，新年前夕，国家主席通过中央广播电视总台和互联网，发表了二 〇二六年新年贺词。贺词指出，我们继续敞开胸怀拥抱世界。继“三大倡议”之 后，主席提出（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -79112,7 +79956,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1466",
+    "id": "MOCK-CHOICE-1530",
     "question": "履行社会责任，贡献聪明才智，树立正确义利观；不得假公济私，擅自利用学 校名义或校名、校徽、专利、场所等资源谋取个人利益，是属于新时代高校教师 职业行为十项准则的哪一条?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -79138,7 +79982,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1467",
+    "id": "MOCK-CHOICE-1531",
     "question": "以下哪位不是神舟二十号载人飞船航天员（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -79163,7 +80007,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1468",
+    "id": "MOCK-CHOICE-1532",
     "question": "统筹推进五位一体总体布局，协调推进\"四个全面\"战略布局。”五位一体中（ ） 是灵魂。",
     "type": "单选题",
     "module": "模拟题",
@@ -79188,7 +80032,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1469",
+    "id": "MOCK-CHOICE-1533",
     "question": "学生社团在校园文化建设中发挥着特殊的作用，更因其以学生为主体而在育人 体系中占据重要位置，关于学生社团的主要作用以下描述正确的是( )。 ①有利于提高学生综合素质②有利于繁荣校园文化③有利于规范学生日常行为 ④有利于社会主义政治文明建设",
     "type": "单选题",
     "module": "模拟题",
@@ -79214,7 +80058,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1470",
+    "id": "MOCK-CHOICE-1534",
     "question": "高校素质教育中，思想道德素质是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -79239,7 +80083,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1471",
+    "id": "MOCK-CHOICE-1535",
     "question": "马克思主义哲学区别于其他一切哲学的根本特征是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -79264,7 +80108,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1472",
+    "id": "MOCK-CHOICE-1536",
     "question": "马克思主义哲学认为,社会历史发展的根本动力是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -79290,7 +80134,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1473",
+    "id": "MOCK-CHOICE-1537",
     "question": "“关爱自然，爱护环境，珍惜资源”属于《高等学校学生行为准则》内容中 的哪一条准则?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -79316,7 +80160,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1474",
+    "id": "MOCK-CHOICE-1538",
     "question": "处理、处分决定以及处分告知书等，应直接送达学生本人，学生拒绝签收的， 可以以( )方式送达。",
     "type": "单选题",
     "module": "模拟题",
@@ -79341,7 +80185,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1475",
+    "id": "MOCK-CHOICE-1539",
     "question": "《新时代爱国主义教育实施纲要》总体要求：坚持( )、重在建设；坚持立 足中国又( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -79366,7 +80210,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1476",
+    "id": "MOCK-CHOICE-1540",
     "question": "根据《中华人民共和国教育法》的相关规定，某地打算设立一所新学校，下 面不属于学校设立必备条件之一的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -79391,7 +80235,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1477",
+    "id": "MOCK-CHOICE-1541",
     "question": "教育心理起源说是对教育生物起源说的批判，其代表人物是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -79416,7 +80260,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1478",
+    "id": "MOCK-CHOICE-1542",
     "question": "在学生自行上学、放学、返校、离校途中发生的人身损害事故，学校行为并 无不当的，不承担（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -79441,7 +80285,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1479",
+    "id": "MOCK-CHOICE-1543",
     "question": "教师职业道德是基于一定的社会条件在（ ）形成和发展起来的。",
     "type": "单选题",
     "module": "模拟题",
@@ -79466,7 +80310,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1480",
+    "id": "MOCK-CHOICE-1544",
     "question": "“中国共产党”这一称谓的最早提出者是 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -79491,7 +80335,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1481",
+    "id": "MOCK-CHOICE-1545",
     "question": "标志着中国共产党开始独立领导革命战争和创建人民军队的事件是 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -79516,7 +80360,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1482",
+    "id": "MOCK-CHOICE-1546",
     "question": "中央八项规定将____摆在首位。",
     "type": "单选题",
     "module": "模拟题",
@@ -79542,7 +80386,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1483",
+    "id": "MOCK-CHOICE-1547",
     "question": "《教育强国建设规划纲要（2024－2035 年）》提出的教育强国建设阶段性目 标中，表述正确的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -79570,7 +80414,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1484",
+    "id": "MOCK-CHOICE-1548",
     "question": "我国加快建设中国特色、世界一流的大学和优势学科，在学科建设方面提出的 具体要求有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -79598,7 +80442,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1485",
+    "id": "MOCK-CHOICE-1549",
     "question": "落实立德树人根本任务，必须将（ ）三者融为一体、不可割裂。",
     "type": "多选题",
     "module": "模拟题",
@@ -79625,7 +80469,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1486",
+    "id": "MOCK-CHOICE-1550",
     "question": "下列选项中，以日本学制为蓝本的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -79653,7 +80497,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1487",
+    "id": "MOCK-CHOICE-1551",
     "question": "《高等教育法》规定，高等学校教师取得教师职务应该具备下列基本条件( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -79683,7 +80527,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1488",
+    "id": "MOCK-CHOICE-1552",
     "question": "习近平在全国高校思想政治工作会议上的讲话中提到，我国有（ ），决定了 我国必须周自己的高等教育发展道路，扎实办好中国特色社会主义高校。",
     "type": "多选题",
     "module": "模拟题",
@@ -79712,7 +80556,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1489",
+    "id": "MOCK-CHOICE-1553",
     "question": "协助学校心理健康教育机构开展心理健康教育，对学生心理问题进行初步排查 和疏导，组织开展心理健康知识普及宣传活动，培育学生( )的健康心态。",
     "type": "多选题",
     "module": "模拟题",
@@ -79738,7 +80582,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1490",
+    "id": "MOCK-CHOICE-1554",
     "question": "推动思想政治理论课改革创新，要不断增强思政课的（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -79768,7 +80612,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1491",
+    "id": "MOCK-CHOICE-1555",
     "question": "下列关于性格和气质之间的关系的描述，正确的是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -79796,7 +80640,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1492",
+    "id": "MOCK-CHOICE-1556",
     "question": "《关于加强和改进新形势下高校思想政治工作的意见》指出,加强和改进高校 思想政治工作，是一项重大的政治任务和战略工程, 以下描述正确的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -79915,7 +80759,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1493",
+    "id": "MOCK-CHOICE-1557",
     "question": "最早提出“教学与科研相统一”原则的学者是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -79940,7 +80784,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1494",
+    "id": "MOCK-CHOICE-1558",
     "question": "个体在感知、记忆、思维等认知过程中表现出来的认知方式差异属于（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -79965,7 +80809,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1495",
+    "id": "MOCK-CHOICE-1559",
     "question": "学习动机中最现实、最活跃的成分是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -79990,7 +80834,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1496",
+    "id": "MOCK-CHOICE-1560",
     "question": "教师在教学过程中，通过表扬、奖励等方式强化学生的良好行为，这是运用 了（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -80015,7 +80859,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1497",
+    "id": "MOCK-CHOICE-1561",
     "question": "在高校中，科研与教学的关系应该是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80041,7 +80885,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1498",
+    "id": "MOCK-CHOICE-1562",
     "question": "教师开始关注学生的个别差异和不同需求，并考虑教学方法是否适合学生等问 题时，处于教师成长的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80066,7 +80910,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1499",
+    "id": "MOCK-CHOICE-1563",
     "question": "“清朝知县右学”这一说法中，“右学”指的是什么？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80091,7 +80935,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1500",
+    "id": "MOCK-CHOICE-1564",
     "question": "某高校推行“课程思政”改革，要求教师在《机械设计基础》课程中融入“工 匠精神”教育。这一改革的核心目标是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80118,7 +80962,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1501",
+    "id": "MOCK-CHOICE-1565",
     "question": "根据科尔伯格的道德发展阶段理论，大学生的道德判断通常处于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80143,7 +80987,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1502",
+    "id": "MOCK-CHOICE-1566",
     "question": "高校教师专业发展的核心内容是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80169,7 +81013,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1503",
+    "id": "MOCK-CHOICE-1567",
     "question": "《教师法》规定，教师对学校或其他教育机构侵犯其合法权益的，可向（ ） 提出申诉。",
     "type": "单选题",
     "module": "模拟题",
@@ -80196,7 +81040,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1504",
+    "id": "MOCK-CHOICE-1568",
     "question": "以下属于大学生学习动机中内部动机的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80221,7 +81065,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1505",
+    "id": "MOCK-CHOICE-1569",
     "question": "中国古代四大发明中，最早出现的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80246,7 +81090,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1506",
+    "id": "MOCK-CHOICE-1570",
     "question": "下列关于中国古代朝代与都城对应错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80271,7 +81115,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1507",
+    "id": "MOCK-CHOICE-1571",
     "question": "下列历史事件与相关帝王对应正确的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80296,7 +81140,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1508",
+    "id": "MOCK-CHOICE-1572",
     "question": "下列历史典故与相关人物对应错误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80321,7 +81165,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1509",
+    "id": "MOCK-CHOICE-1573",
     "question": "确立了 “思想建党、政治建军” 原则的重要会议是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80346,7 +81190,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1510",
+    "id": "MOCK-CHOICE-1574",
     "question": "1945 年召开的中共七大，最重要的历史贡献是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80373,7 +81217,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1511",
+    "id": "MOCK-CHOICE-1575",
     "question": "《教育强国建设规划纲要（2024—2035 年）》强调，开发一批基础教育科学 教材，打造一批职业教育优质教材，建设一批本科和研究生（ ），遴选引进 一批理工农医学科前沿优质教材。",
     "type": "单选题",
     "module": "模拟题",
@@ -80398,7 +81242,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1512",
+    "id": "MOCK-CHOICE-1576",
     "question": "《国务院关于深入实施“人工智能+”行动的意见》强调，到 2030 年，我国 人工智能全面赋能高质量发展，新一代智能终端、智能体等应用普及率超（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80523,7 +81367,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0413",
+    "id": "MOCK-FJ-0375",
     "question": "党的最高理想和最终目标是 。",
     "type": "填空题",
     "module": "模拟题",
@@ -80542,7 +81386,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0414",
+    "id": "MOCK-FJ-0376",
     "question": "坚持 ，是我们的强国之路。",
     "type": "填空题",
     "module": "模拟题",
@@ -80561,7 +81405,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0415",
+    "id": "MOCK-FJ-0377",
     "question": "党的思想路线是一切从实际出发，理论联系实际，实事求是，在实践中检验真 理和发展真理，其中 是核心。",
     "type": "填空题",
     "module": "模拟题",
@@ -80580,7 +81424,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0416",
+    "id": "MOCK-FJ-0378",
     "question": "辅导员是开展 的骨干力量，是高等学校学生日常思想政治 教育和管理工作的组织者、实施者、指导者。",
     "type": "填空题",
     "module": "模拟题",
@@ -80600,7 +81444,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0417",
+    "id": "MOCK-FJ-0379",
     "question": "掌握学生思想行为特点及思想政治状况，有针对性地帮助学生处理好思想认 识、 、学习生活、择业交友等方面的具体问题。",
     "type": "填空题",
     "module": "模拟题",
@@ -80619,7 +81463,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1513",
+    "id": "MOCK-CHOICE-1577",
     "question": "根据《普通高等学校辅导员队伍建设规定》，高校辅导员的首要工作职责是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80646,7 +81490,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1514",
+    "id": "MOCK-CHOICE-1578",
     "question": "学生申诉处理委员会对学生提出的申诉进行复查，并在接到书面申诉之日起 （ ）内作出复查结论并告知申诉人。",
     "type": "单选题",
     "module": "模拟题",
@@ -80671,7 +81515,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1515",
+    "id": "MOCK-CHOICE-1579",
     "question": "扎实推进实践育人,原则上哲学社会科学类专业实践教学不少于总学分(学时) 的（ ），理工农医类专业不少于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80696,7 +81540,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1516",
+    "id": "MOCK-CHOICE-1580",
     "question": "高校辅导员在开展资助工作时，应坚持的核心原则是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80723,7 +81567,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1517",
+    "id": "MOCK-CHOICE-1581",
     "question": "根据《普通高等学校学生管理规定》，辅导员在处理学生违纪行为时，应坚持 的首要原则是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80750,7 +81594,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1518",
+    "id": "MOCK-CHOICE-1582",
     "question": "高等学校应当按总体上师生比不低于 1:200 的比例设置专职辅导员岗位，按照 专兼结合、（ ）的原则，足额配备到位。",
     "type": "单选题",
     "module": "模拟题",
@@ -80775,7 +81619,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1519",
+    "id": "MOCK-CHOICE-1583",
     "question": "在进行家庭经济困难学生认定工作中可以采用家访、个别访谈、大数据分析、 信函索证、量化评估等方式提高家庭经济困难学生认定( )",
     "type": "单选题",
     "module": "模拟题",
@@ -80800,7 +81644,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1520",
+    "id": "MOCK-CHOICE-1584",
     "question": "高校辅导员在职业发展与履职过程中，需始终恪守 “较强的纪律观念和规矩 意识，遵纪守法，（ ），作风正派，廉洁自律” 的要求。",
     "type": "单选题",
     "module": "模拟题",
@@ -80827,7 +81671,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1521",
+    "id": "MOCK-CHOICE-1585",
     "question": "根据《普通高等学校辅导员队伍建设规定》，高校可从以下人员中选聘一定数 量兼职辅导员，不包含的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -80854,7 +81698,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1522",
+    "id": "MOCK-CHOICE-1586",
     "question": "思政课教师的首要岗位职责是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -81002,7 +81846,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1523",
+    "id": "MOCK-CHOICE-1587",
     "question": "《关于新时代加强和改进思想政治工作的意见》指出，巩固壮大主流思想舆论， 坚持正确（ ），把思想政治工作融入到主题宣传、形势宣传、政策宣传、成就 宣传、典型宣传中。",
     "type": "多选题",
     "module": "模拟题",
@@ -81029,7 +81873,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1524",
+    "id": "MOCK-CHOICE-1588",
     "question": "习近平在全国高校思想政治工作会议的讲话中指出，要用好课堂教学这个主渠 道，思想政治理论课要坚持在改进中加强提升思想政治教育（ ），满足学生成 长发展需求和期待。",
     "type": "多选题",
     "module": "模拟题",
@@ -81057,7 +81901,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1525",
+    "id": "MOCK-CHOICE-1589",
     "question": "习近平在全国高校思想政治工作会议的讲话中指出，要加快构建中国特色哲学 社会科学学科体系和教材体系，推出更高水平教材，创新学术话语体系，建立（ ） 的哲学社会科学成果评价体系。",
     "type": "多选题",
     "module": "模拟题",
@@ -81084,7 +81928,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1526",
+    "id": "MOCK-CHOICE-1590",
     "question": "以下关于心理危机的说法正确的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -81112,7 +81956,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1527",
+    "id": "MOCK-CHOICE-1591",
     "question": "大学生思想政治教育工作队伍主体是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -81139,7 +81983,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1528",
+    "id": "MOCK-CHOICE-1592",
     "question": "生源地信用助学贷款申请条件有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -81167,7 +82011,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1529",
+    "id": "MOCK-CHOICE-1593",
     "question": "心理健康的标志包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -81195,7 +82039,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1530",
+    "id": "MOCK-CHOICE-1594",
     "question": "共青团的基本职能是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -81224,7 +82068,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1531",
+    "id": "MOCK-CHOICE-1595",
     "question": "新生入学有以下哪几种情况，取消入学资格：（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -81252,7 +82096,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1532",
+    "id": "MOCK-CHOICE-1596",
     "question": "进一步学习贯彻《关于进一步加强和改进新形势下高校宣传思想工作的意见》， 高校教师必须守好( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -81380,7 +82224,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0418",
+    "id": "MOCK-FJ-0380",
     "question": "3 月 1 日 出 版 的 第 5 期 《 求 是 》 杂 志 发 表 主 席 习 近 平 的 重 要 文 章 《让 、 、 蔚然成风》。这是总书记 2012 年 12 月至",
     "type": "填空题",
     "module": "模拟题",
@@ -81467,7 +82311,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1533",
+    "id": "MOCK-CHOICE-1597",
     "question": "教育部思想政治工作司司长强调，坚持全员全过程全方位（ ）育人全面推 进新时代立德树人工程落地见效。",
     "type": "单选题",
     "module": "模拟题",
@@ -81483,15 +82327,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "全领域 B.全要素",
-      "C": "全环节 D.全场景"
+      "A": "全领域",
+      "B": "全要素",
+      "C": "全环节",
+      "D": "全场景"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1534",
+    "id": "MOCK-CHOICE-1598",
     "question": "支持高校探索建立职业等级晋升机制、建设辅导员发展中心，推动辅导员开展 不少于（ ）个月校外实践锻炼。",
     "type": "单选题",
     "module": "模拟题",
@@ -81507,15 +82353,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "1 B.2",
-      "C": "3 D.4"
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1535",
+    "id": "MOCK-CHOICE-1599",
     "question": "教育部《关于全面推进健康学校建设的指导意见》指出，到（ ），“健康第 一” 教育理念广泛深入普及，健康学校建设覆盖每所学校。",
     "type": "单选题",
     "module": "模拟题",
@@ -81530,15 +82378,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2027 年 B. 2030 年",
-      "C": "2035 年 D. 2040 年"
+      "A": "2027 年",
+      "B": "2030 年",
+      "C": "2035 年",
+      "D": "2040 年"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1536",
+    "id": "MOCK-CHOICE-1600",
     "question": "河南农业大学现有 个一级学科国家重点学科， 个河南省“双一流”创 建学科， 个河南省特色骨干学科（群）。",
     "type": "单选题",
     "module": "模拟题",
@@ -81553,15 +82403,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "1 2 3 B.1 2 4",
-      "C": "2 3 4 D.1 2 5"
+      "A": "1 2 3",
+      "B": "1 2 4",
+      "C": "2 3 4",
+      "D": "1 2 5"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1537",
+    "id": "MOCK-CHOICE-1601",
     "question": "河南农业大学的办学理念是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -81576,15 +82428,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "明德自强 B.求是力行",
-      "C": "厚生丰民 D.厚德质朴"
+      "A": "明德自强",
+      "B": "求是力行",
+      "C": "厚生丰民",
+      "D": "厚德质朴"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1538",
+    "id": "MOCK-CHOICE-1602",
     "question": "习近平总书记在学校思想政治理论课教师座谈会上强调，我们对( )的认识和 把握不断深入，开辟了中国特色社会主义理论和实践发展新境界，中国特色社会 主义取得举世瞩目的成就，中国特色社会主义道路自信、理论自信、制度自信、 文化自信不断增强，为思政课建设提供了有力支撑。",
     "type": "单选题",
     "module": "模拟题",
@@ -81611,7 +82465,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1539",
+    "id": "MOCK-CHOICE-1603",
     "question": "学生对复查决定有异议的，在接到学校复查决定书之日起( )内，可以向学校 所在地( )提出书面申诉。",
     "type": "单选题",
     "module": "模拟题",
@@ -81626,15 +82480,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "15 日，主管教育行政部门 B. 15 日，省级教育行政部门",
-      "C": "20 日，主管教育行政部门 D. 20 日，省级教育行政部门"
+      "A": "15 日，主管教育行政部门",
+      "B": "15 日，省级教育行政部门",
+      "C": "20 日，主管教育行政部门",
+      "D": "20 日，省级教育行政部门"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1540",
+    "id": "MOCK-CHOICE-1604",
     "question": "国家助学贷款最长还款期限：学制( ),最长不超过( );还本宽限期( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -81659,7 +82515,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1541",
+    "id": "MOCK-CHOICE-1605",
     "question": "国家助学金的平均资助标准为每生每年( )",
     "type": "单选题",
     "module": "模拟题",
@@ -81674,15 +82530,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2500 元 B.2800 元",
-      "C": "3300 元 D.3700 元"
+      "A": "2500 元",
+      "B": "2800 元",
+      "C": "3300 元",
+      "D": "3700 元"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1542",
+    "id": "MOCK-CHOICE-1606",
     "question": "学生在学校规定学习年限内，修完教育教学计划规定内容，但未达到学校毕 业要求的，学校可以( ),发给( )。对退学学生，学校应当发给( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -81708,7 +82566,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1543",
+    "id": "MOCK-CHOICE-1607",
     "question": "习近平出席全国教育大会并发表讲话中强调、( )是办好教育的根本保证。",
     "type": "单选题",
     "module": "模拟题",
@@ -81723,15 +82581,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "积极投身实施创新驱动发展战略 B. 推进产学研协同创新",
-      "C": "加快一流大学和一流学科建设 D. 加强党对教育工作的全面领导"
+      "A": "积极投身实施创新驱动发展战略",
+      "B": "推进产学研协同创新",
+      "C": "加快一流大学和一流学科建设",
+      "D": "加强党对教育工作的全面领导"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1544",
+    "id": "MOCK-CHOICE-1608",
     "question": "高等学校学生会、研究生会是党领导下的大学生( )，是加强和改进大学 生思想政治教育的重要依靠力量，也是大学生自我教育的组织者。",
     "type": "单选题",
     "module": "模拟题",
@@ -81747,15 +82607,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学生组织 B. 先进组织",
-      "C": "活动组织 D. 群众组织"
+      "A": "学生组织",
+      "B": "先进组织",
+      "C": "活动组织",
+      "D": "群众组织"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1545",
+    "id": "MOCK-CHOICE-1609",
     "question": "2025 年 1 月，中共中央、国务院印发了《教育强国建设规划纲要(2024-2035 年)》。《纲要》提出，要坚持党对教育事业的全面领导，突出( )，强化战略 引领、支撑发展，深化改革创新、协同融合，坚持自主自信、胸怀天下。",
     "type": "单选题",
     "module": "模拟题",
@@ -81770,15 +82632,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "促进公平、提高质量 B. 守正创新、稳中求进",
-      "C": "先立后破、系统集成 D. 效率优先、激发活力"
+      "A": "促进公平、提高质量",
+      "B": "守正创新、稳中求进",
+      "C": "先立后破、系统集成",
+      "D": "效率优先、激发活力"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1546",
+    "id": "MOCK-CHOICE-1610",
     "question": "心理健康教育课程的公共必修课程原则上应设置( )、( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -81794,15 +82658,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2 个学分，32-36 个学时 B. 2 个学分，28-32 个学时",
-      "C": "1 个学分，32-36 个学时 D. 1 个学分，28-32 个学时"
+      "A": "2 个学分，32-36 个学时",
+      "B": "2 个学分，28-32 个学时",
+      "C": "1 个学分，32-36 个学时",
+      "D": "1 个学分，28-32 个学时"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1547",
+    "id": "MOCK-CHOICE-1611",
     "question": "在行政诉讼中，因不可抗力或其他特殊情况耽误法定期限的，可在障碍消除 后( )内申请延长期限。",
     "type": "单选题",
     "module": "模拟题",
@@ -81817,15 +82683,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "5 日 B. 10 日",
-      "C": "15 日 D. 7 日"
+      "A": "5 日",
+      "B": "10 日",
+      "C": "15 日",
+      "D": "7 日"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1548",
+    "id": "MOCK-CHOICE-1612",
     "question": "中国近代史上第一个具有资本主义色彩的改革方案是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -81840,15 +82708,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "《海国图志》 B. 《救亡决论》",
-      "C": "《天朝田亩制度》 D. 《资政新篇》"
+      "A": "《海国图志》",
+      "B": "《救亡决论》",
+      "C": "《天朝田亩制度》",
+      "D": "《资政新篇》"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1549",
+    "id": "MOCK-CHOICE-1613",
     "question": "在西方教育史上，第一次提出\"教育心理学化\"的教育家是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -81864,15 +82734,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "苏格拉底 B. 皮亚杰",
-      "C": "赫尔巴特 D. 裴斯泰洛齐"
+      "A": "苏格拉底",
+      "B": "皮亚杰",
+      "C": "赫尔巴特",
+      "D": "裴斯泰洛齐"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1550",
+    "id": "MOCK-CHOICE-1614",
     "question": "教师承担着传播知识、传播思想、传播( )的历史使命，",
     "type": "单选题",
     "module": "模拟题",
@@ -81888,15 +82760,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "信息 B. 真理",
-      "C": "文化 D. 道理"
+      "A": "信息",
+      "B": "真理",
+      "C": "文化",
+      "D": "道理"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1551",
+    "id": "MOCK-CHOICE-1615",
     "question": "以下哪种方法对于提高大学生的挫折承受能力最为有效( )",
     "type": "单选题",
     "module": "模拟题",
@@ -81921,7 +82795,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1552",
+    "id": "MOCK-CHOICE-1616",
     "question": "近日，《低空经济标准体系建设指南(2025 年版)》发布，重点围绕低空航空 器、低空基础设施等五大核心领域，建立国内标准与国际规则融合等标准供给体 系，要求到( )年体系基本建立。",
     "type": "单选题",
     "module": "模拟题",
@@ -81936,15 +82810,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2026 B.2027",
-      "C": "2030 D.2035"
+      "A": "2026",
+      "B": "2027",
+      "C": "2030",
+      "D": "2035"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1553",
+    "id": "MOCK-CHOICE-1617",
     "question": "2025 年是西藏自治区成立 60 周年，习近平总书记率中央代表团出席西藏自治 区成立 60 周年庆祝活动并指出、要进一步铸牢中华民族共同体意识、推进中华 民族共同体建设。下列表述正确的是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -81973,7 +82849,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1554",
+    "id": "MOCK-CHOICE-1618",
     "question": "习近平总书记关于党的自我革命战略思想，继承发展马克思主义建党学说，深 刻总结党的历史经验特别是新时代治国理政实践经验，彰显了中国共产党人的初 心使命、政治担当和历史自觉。下列关于党的自我革命，表述正确的有( )",
     "type": "多选题",
     "module": "模拟题",
@@ -82002,7 +82878,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1555",
+    "id": "MOCK-CHOICE-1619",
     "question": "战争是人类生活中一种具有重要意义的生物法则，它是人类历史中不可或缺的 组成部分。下列关于战争与其对应的发生地点说法正确的是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -82029,7 +82905,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1556",
+    "id": "MOCK-CHOICE-1620",
     "question": "《学生伤害事故处理办法》指出,发生学生伤害事故后,以下哪些处理程序符合 规定( ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -82056,7 +82932,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1557",
+    "id": "MOCK-CHOICE-1621",
     "question": "红船精神的描述正确的是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -82083,7 +82959,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1558",
+    "id": "MOCK-CHOICE-1622",
     "question": "发扬斗争精神，增强斗争本领，贯彻党的基本理论、基本路线、基本方略，为 实现( )这三大历史任务，实现第二个百年奋斗目标、实现中华民族伟大复兴的 中国梦而奋斗。",
     "type": "多选题",
     "module": "模拟题",
@@ -82099,8 +82975,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "推进现代化建设 B. 完成祖国统一",
-      "C": "建设社会主义强国 D. 维护世界和平与促进共同发展"
+      "A": "推进现代化建设",
+      "B": "完成祖国统一",
+      "C": "建设社会主义强国",
+      "D": "维护世界和平与促进共同发展"
     },
     "correct_answers": [
       "A",
@@ -82109,7 +82987,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1559",
+    "id": "MOCK-CHOICE-1623",
     "question": "新时代党的建设总要求是( )",
     "type": "多选题",
     "module": "模拟题",
@@ -82139,7 +83017,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1560",
+    "id": "MOCK-CHOICE-1624",
     "question": "下列属于唯物史观观点的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -82154,8 +83032,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "英雄造时势 B. 历史是由人民群众创造的",
-      "C": "时势造英雄 D. 意识是人类历史的创造者和主体"
+      "A": "英雄造时势",
+      "B": "历史是由人民群众创造的",
+      "C": "时势造英雄",
+      "D": "意识是人类历史的创造者和主体"
     },
     "correct_answers": [
       "B",
@@ -82163,7 +83043,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1561",
+    "id": "MOCK-CHOICE-1625",
     "question": "《高等学校心理健康教育指导纲要》指出高学心理健康教育的主要任务是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -82178,8 +83058,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "推进知识教育 B. 开展宣传活动",
-      "C": "强化咨询服务 D. 加强预防干预"
+      "A": "推进知识教育",
+      "B": "开展宣传活动",
+      "C": "强化咨询服务",
+      "D": "加强预防干预"
     },
     "correct_answers": [
       "A",
@@ -82189,7 +83071,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1562",
+    "id": "MOCK-CHOICE-1626",
     "question": "大学生的品德教育就是要回归现实生活，要从现实出发，（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -82204,8 +83086,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "贴近现实 B. 贴近生活",
-      "C": "贴近课堂 D. 贴近大学生"
+      "A": "贴近现实",
+      "B": "贴近生活",
+      "C": "贴近课堂",
+      "D": "贴近大学生"
     },
     "correct_answers": [
       "A",
@@ -82284,7 +83168,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0419",
+    "id": "MOCK-FJ-0381",
     "question": "教育的生物起源说是教育学史上第一个正式提出的有关教育起源的学说，也是 较早地把教育的起源作为一个学术问题提出来的。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -82307,7 +83191,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0420",
+    "id": "MOCK-FJ-0382",
     "question": "推动人类教育起源的直接动因是劳动过程中人们传递生产经验和生活经验的 实际社会需要。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -82331,7 +83215,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0421",
+    "id": "MOCK-FJ-0383",
     "question": "教育心理学是一门基础理论学科。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -82353,7 +83237,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0422",
+    "id": "MOCK-FJ-0384",
     "question": "在个体心理发展的观点上，华生强调环境对人的发展的作用。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -82376,7 +83260,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0423",
+    "id": "MOCK-FJ-0385",
     "question": "行为主义学习理论和认知主义学习理论对学习进行的研究实质上是异曲同工 的。（ ）",
     "type": "判断题",
     "module": "模拟题",
@@ -82397,7 +83281,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0424",
+    "id": "MOCK-FJ-0386",
     "question": "社会主义的教育是没有阶级性的教育。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -82418,7 +83302,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0425",
+    "id": "MOCK-FJ-0387",
     "question": "教师的职责是传授文化知识。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -82440,7 +83324,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0426",
+    "id": "MOCK-FJ-0388",
     "question": "学校教育是人类社会发展到一定历史时期的产物。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -82463,7 +83347,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0427",
+    "id": "MOCK-FJ-0389",
     "question": "有什么样的政治经济制度，就有什么样的学制系统。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -82486,7 +83370,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0428",
+    "id": "MOCK-FJ-0390",
     "question": "陶行知明确提出“活教育”的目的在于“做人，做中国人，做现代中国人”。 ( )",
     "type": "判断题",
     "module": "模拟题",
@@ -82507,7 +83391,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1563",
+    "id": "MOCK-CHOICE-1627",
     "question": "下列不属于《中华人民共和国教育法》明确规定的学生享有的权利的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82534,7 +83418,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1564",
+    "id": "MOCK-CHOICE-1628",
     "question": "以下表述无误的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82559,7 +83443,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1565",
+    "id": "MOCK-CHOICE-1629",
     "question": "奠定了班级组织理论基础的著作是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82575,15 +83459,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "《论语》 B.《普通教育学》",
-      "C": "《大教学论》 D.《理想国》"
+      "A": "《论语》",
+      "B": "《普通教育学》",
+      "C": "《大教学论》",
+      "D": "《理想国》"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1566",
+    "id": "MOCK-CHOICE-1630",
     "question": "教学过程的中心环节是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82598,15 +83484,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "运用知识，形成技能技巧 B.感知教材，形成表象",
-      "C": "理解教材，形成概念 D.知识的巩固与保持"
+      "A": "运用知识，形成技能技巧",
+      "B": "感知教材，形成表象",
+      "C": "理解教材，形成概念",
+      "D": "知识的巩固与保持"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1567",
+    "id": "MOCK-CHOICE-1631",
     "question": "新课程理念下，教学方式、学习方式转变的基本精神是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82622,15 +83510,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "自主、合作、创新 B.平等、合作、探究",
-      "C": "合作、探究、互动 D.实践、创新、独立"
+      "A": "自主、合作、创新",
+      "B": "平等、合作、探究",
+      "C": "合作、探究、互动",
+      "D": "实践、创新、独立"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1568",
+    "id": "MOCK-CHOICE-1632",
     "question": "关于教师，下列表述错误的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82656,7 +83546,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1569",
+    "id": "MOCK-CHOICE-1633",
     "question": "关于教师职业素养，下列说法错误的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82683,7 +83573,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1570",
+    "id": "MOCK-CHOICE-1634",
     "question": "关于教师，下列观点表述错误的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82709,7 +83599,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1571",
+    "id": "MOCK-CHOICE-1635",
     "question": "“做一天和尚撞一天钟，不求有功，但求无过”是当前部分“佛系”老师的职 业理念。依据费斯勒教师生涯循环论的观点，他们应处于( )阶段。",
     "type": "单选题",
     "module": "模拟题",
@@ -82726,15 +83616,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "实验和歧变 B.生涯挫折",
-      "C": "稳定和停滞 D.生涯低落"
+      "A": "实验和歧变",
+      "B": "生涯挫折",
+      "C": "稳定和停滞",
+      "D": "生涯低落"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1572",
+    "id": "MOCK-CHOICE-1636",
     "question": "下列关于教师职业，表述不正确的观点是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -82905,7 +83797,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1573",
+    "id": "MOCK-CHOICE-1637",
     "question": "影响学生行为改变的方法有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -82920,8 +83812,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "强化法 B.示范法",
-      "C": "行为塑造法 D.自我控制法"
+      "A": "强化法",
+      "B": "示范法",
+      "C": "行为塑造法",
+      "D": "自我控制法"
     },
     "correct_answers": [
       "A",
@@ -82931,7 +83825,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1574",
+    "id": "MOCK-CHOICE-1638",
     "question": "问题解决具有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -82946,8 +83840,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "序列性 B.目的性",
-      "C": "开放性 D.认知性"
+      "A": "序列性",
+      "B": "目的性",
+      "C": "开放性",
+      "D": "认知性"
     },
     "correct_answers": [
       "A",
@@ -82956,7 +83852,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1575",
+    "id": "MOCK-CHOICE-1639",
     "question": "对下列内容的记忆，属于陈述性记忆的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -82971,8 +83867,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "端午节的日期 B.雨的成因",
-      "C": "骑车的技能 D.舞蹈表演"
+      "A": "端午节的日期",
+      "B": "雨的成因",
+      "C": "骑车的技能",
+      "D": "舞蹈表演"
     },
     "correct_answers": [
       "A",
@@ -82980,7 +83878,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1576",
+    "id": "MOCK-CHOICE-1640",
     "question": "《中华人民共和国教师法》规定的教师使命是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -82996,8 +83894,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "履行教育教学的职责的专业人员 B.教书育人",
-      "C": "培养社会主义事业建设者和接班人 D.提高民族素质"
+      "A": "履行教育教学的职责的专业人员",
+      "B": "教书育人",
+      "C": "培养社会主义事业建设者和接班人",
+      "D": "提高民族素质"
     },
     "correct_answers": [
       "B",
@@ -83006,7 +83906,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1577",
+    "id": "MOCK-CHOICE-1641",
     "question": "按照美国学者古德莱德的观点，课程可以分为五个层面，除理想的课程、正式 的课程、领悟的课程之外，还有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -83022,8 +83922,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "经验的课程 B.运作的课程",
-      "C": "隐性的课程 D.生活的课程"
+      "A": "经验的课程",
+      "B": "运作的课程",
+      "C": "隐性的课程",
+      "D": "生活的课程"
     },
     "correct_answers": [
       "A",
@@ -83031,7 +83933,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1578",
+    "id": "MOCK-CHOICE-1642",
     "question": "人的教育活动和动物教育活动的本质区别是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -83046,8 +83948,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "模仿性 B. 意识性",
-      "C": "规律性 D. 社会性"
+      "A": "模仿性",
+      "B": "意识性",
+      "C": "规律性",
+      "D": "社会性"
     },
     "correct_answers": [
       "B",
@@ -83055,7 +83959,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1579",
+    "id": "MOCK-CHOICE-1643",
     "question": "学校教育的基本途径有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -83070,8 +83974,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教学 B. 科研",
-      "C": "课外活动 D. 社会实践"
+      "A": "教学",
+      "B": "科研",
+      "C": "课外活动",
+      "D": "社会实践"
     },
     "correct_answers": [
       "A",
@@ -83080,7 +83986,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1580",
+    "id": "MOCK-CHOICE-1644",
     "question": "布卢姆的教学目标分类包括的内容有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -83095,8 +84001,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "认知领域的学习 B. 智力技能领域的学习",
-      "C": "动作技能领域的学习 D. 情感领域的学习"
+      "A": "认知领域的学习",
+      "B": "智力技能领域的学习",
+      "C": "动作技能领域的学习",
+      "D": "情感领域的学习"
     },
     "correct_answers": [
       "A",
@@ -83105,7 +84013,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1581",
+    "id": "MOCK-CHOICE-1645",
     "question": "组织策略是学习和记忆新信息的重要手段，下列活动中学生运用了组织策略的 有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -83180,7 +84088,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0429",
+    "id": "MOCK-FJ-0391",
     "question": "辅导员是开展 的骨干力量，是高等学校学生 和 的组织者、实施者、指导者。",
     "type": "填空题",
     "module": "模拟题",
@@ -83200,7 +84108,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0430",
+    "id": "MOCK-FJ-0392",
     "question": "围绕学生、关照学生、服务学生，把握学生成长规律，不断提高学生 、 、道德品质、文化素养。",
     "type": "填空题",
     "module": "模拟题",
@@ -83219,7 +84127,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0431",
+    "id": "MOCK-FJ-0393",
     "question": "“十五五”时期在 进程中具有承前启后的重要地位， 是 的关键时期，必须不懈努力、接续奋斗，推动事关中 国式现代化全局的战略任务取得重大突破，为基本实现社会主义现代化奠定更 加坚实的基础。",
     "type": "填空题",
     "module": "模拟题",
@@ -83239,7 +84147,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0432",
+    "id": "MOCK-FJ-0394",
     "question": "专职辅导员是指在院（系）专职从事大学生日常思想政治教育工作的人员，包 括院（系）党委（党总支）副书记、学工组长、团委（团总支）书记等专职工 作人员，具有 和 双重身份。",
     "type": "填空题",
     "module": "模拟题",
@@ -83260,7 +84168,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0433",
+    "id": "MOCK-FJ-0395",
     "question": "高校辅导员是履行高等学校学生工作职责的 ，要经过系统的培养与 培训，具有良好的职业道德，掌握系统的专业知识和专业技能。",
     "type": "填空题",
     "module": "模拟题",
@@ -83280,7 +84188,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1582",
+    "id": "MOCK-CHOICE-1646",
     "question": "“十五五”时期，全社会研发经费投入年均增长（ ）以上，教育科技人才 一体发展格局基本形成。",
     "type": "单选题",
     "module": "模拟题",
@@ -83295,15 +84203,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "5% B. 6%",
-      "C": "7% D. 8%"
+      "A": "5%",
+      "B": "6%",
+      "C": "7%",
+      "D": "8%"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1583",
+    "id": "MOCK-CHOICE-1647",
     "question": "（ ）是教育强国建设的“一号工程”，",
     "type": "单选题",
     "module": "模拟题",
@@ -83319,15 +84229,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "基础教育提质扩容工程 B.高等教育创新提升工程",
-      "C": "教师队伍建设提质工程 D.新时代立德树人工程"
+      "A": "基础教育提质扩容工程",
+      "B": "高等教育创新提升工程",
+      "C": "教师队伍建设提质工程",
+      "D": "新时代立德树人工程"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1584",
+    "id": "MOCK-CHOICE-1648",
     "question": "对转学情况应当及时进行公示，并在转学完成后( )由转入学校报所在地省 级教育行政部门备案。",
     "type": "单选题",
     "module": "模拟题",
@@ -83343,15 +84255,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "两周内 B.1 个月内",
-      "C": "2 个月内 D.3 个月内"
+      "A": "两周内",
+      "B": "1 个月内",
+      "C": "2 个月内",
+      "D": "3 个月内"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1585",
+    "id": "MOCK-CHOICE-1649",
     "question": "新质生产力特点是（ ）、关键在( )、本质是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -83376,7 +84290,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1586",
+    "id": "MOCK-CHOICE-1650",
     "question": "中共中央、国务院印发的《深化新时代教育评价改革总体方案》指出:到( ) 年，基本形成富有时代特征彰显中国特色、体现世界水平的教育评价体系。",
     "type": "单选题",
     "module": "模拟题",
@@ -83391,15 +84305,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2025 年 B.2030 年",
-      "C": "2035 年 D.2050 年"
+      "A": "2025 年",
+      "B": "2030 年",
+      "C": "2035 年",
+      "D": "2050 年"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1587",
+    "id": "MOCK-CHOICE-1651",
     "question": "全面加强教师队伍思想政治工作，增进对中国特色社会主义的( )",
     "type": "单选题",
     "module": "模拟题",
@@ -83425,7 +84341,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1588",
+    "id": "MOCK-CHOICE-1652",
     "question": "改革是一个破旧立新的过程，( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -83450,7 +84366,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1589",
+    "id": "MOCK-CHOICE-1653",
     "question": "下列关于我国二十四节气的先后排序，有误的一项是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -83475,7 +84391,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1590",
+    "id": "MOCK-CHOICE-1654",
     "question": "我国近海各海区的面积最大的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -83490,15 +84406,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "南海 B.东海",
-      "C": "黄海 D.渤海"
+      "A": "南海",
+      "B": "东海",
+      "C": "黄海",
+      "D": "渤海"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1591",
+    "id": "MOCK-CHOICE-1655",
     "question": "我国气象部门为做好暴雨分析和服务，一般规定 24 小时降水量达到（ ）称 为暴雨。",
     "type": "单选题",
     "module": "模拟题",
@@ -83513,15 +84431,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "50 毫米或以上 B.100 毫米或以上",
-      "C": "150 毫米或以上 D.200 毫米或以上"
+      "A": "50 毫米或以上",
+      "B": "100 毫米或以上",
+      "C": "150 毫米或以上",
+      "D": "200 毫米或以上"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1592",
+    "id": "MOCK-CHOICE-1656",
     "question": "遵义会议是我们党历史上一次伟大的转折点。关于遵义会议，下列说法错误 的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -83548,7 +84468,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1593",
+    "id": "MOCK-CHOICE-1657",
     "question": "党的( )决定党的建设方向和效果。",
     "type": "单选题",
     "module": "模拟题",
@@ -83563,15 +84483,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "思想建设 B.作风建设",
-      "C": "政治建设 D.组织建设"
+      "A": "思想建设",
+      "B": "作风建设",
+      "C": "政治建设",
+      "D": "组织建设"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1594",
+    "id": "MOCK-CHOICE-1658",
     "question": "实现伟大梦想，必须进行伟大斗争，建设伟大工程，推进伟大事业，并深刻 指出四者“紧密联系、相互贯通、相互作用”,统一于新时代坚持和发展中国特 色社会主义伟大实践。其中，起决定性作用的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -83586,15 +84508,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "伟大梦想 B.伟大斗争",
-      "C": "伟大工程 D.伟大事业"
+      "A": "伟大梦想",
+      "B": "伟大斗争",
+      "C": "伟大工程",
+      "D": "伟大事业"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1595",
+    "id": "MOCK-CHOICE-1659",
     "question": "国务院和地方各级人民政府根据( )的原则，领导和管理教育工作。",
     "type": "单选题",
     "module": "模拟题",
@@ -83609,15 +84533,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "分级管理 B. 分工负责",
-      "C": "分级管理、分工负责 D. 分级负责、分工管理"
+      "A": "分级管理",
+      "B": "分工负责",
+      "C": "分级管理、分工负责",
+      "D": "分级负责、分工管理"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1596",
+    "id": "MOCK-CHOICE-1660",
     "question": "在学生自行上学、放学、返校、离校途中发生的人身损害事故，学校行为并 无不当的，不承担（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -83632,15 +84558,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "法律责任 B.事故责任",
-      "C": "行政责任 D.民事责任"
+      "A": "法律责任",
+      "B": "事故责任",
+      "C": "行政责任",
+      "D": "民事责任"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1597",
+    "id": "MOCK-CHOICE-1661",
     "question": "根据《国防教育法》，下列说法正确的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -83667,7 +84595,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1598",
+    "id": "MOCK-CHOICE-1662",
     "question": "以下有关“人工智能”的说法，不正确的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -83695,7 +84623,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1599",
+    "id": "MOCK-CHOICE-1663",
     "question": "根据《普通高等学校学生管理规定》,学生有下列情形之一( ),学校可予退学 处理。",
     "type": "多选题",
     "module": "模拟题",
@@ -83726,7 +84654,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1600",
+    "id": "MOCK-CHOICE-1664",
     "question": "学校对学生做出处分,应当出具处分决定书。处分决定书应当包括下列( )内 容。",
     "type": "多选题",
     "module": "模拟题",
@@ -83741,8 +84669,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学生的基本信息 B. 做出处分的事实和证据",
-      "C": "处分的种类、依据、期限 D. 解除处分的基本条件",
+      "A": "学生的基本信息",
+      "B": "做出处分的事实和证据",
+      "C": "处分的种类、依据、期限",
+      "D": "解除处分的基本条件",
       "E": "申诉的途径和期限"
     },
     "correct_answers": [
@@ -83753,7 +84683,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1601",
+    "id": "MOCK-CHOICE-1665",
     "question": "国家开发银行生源地信用助学贷款主要用于支付学生在校期间的( )",
     "type": "多选题",
     "module": "模拟题",
@@ -83768,8 +84698,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学费 B. 住宿费",
-      "C": "书本费 D. 其它杂费"
+      "A": "学费",
+      "B": "住宿费",
+      "C": "书本费",
+      "D": "其它杂费"
     },
     "correct_answers": [
       "A",
@@ -83777,7 +84709,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1602",
+    "id": "MOCK-CHOICE-1666",
     "question": "下列选项中，哪一个属于毕业生应征入伍服义务兵役享受哪些优惠政策?（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -83804,7 +84736,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1603",
+    "id": "MOCK-CHOICE-1667",
     "question": "教育部等八部门印发《关于加快构建高校思想政治工作体系的意见》,强调要 加快构建理论武装体系，具体内容包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -83820,8 +84752,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "加强政治引领 B. 厚植爱国情怀",
-      "C": "坚定理想信念 D. 强化价值引导"
+      "A": "加强政治引领",
+      "B": "厚植爱国情怀",
+      "C": "坚定理想信念",
+      "D": "强化价值引导"
     },
     "correct_answers": [
       "A",
@@ -83830,7 +84764,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1604",
+    "id": "MOCK-CHOICE-1668",
     "question": "当代中国，爱国主义的本质就是坚持( )高度统一。",
     "type": "多选题",
     "module": "模拟题",
@@ -83845,8 +84779,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "爱国 B. 爱党",
-      "C": "爱人民 D. 爱社会主义"
+      "A": "爱国",
+      "B": "爱党",
+      "C": "爱人民",
+      "D": "爱社会主义"
     },
     "correct_answers": [
       "A",
@@ -83855,7 +84791,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1605",
+    "id": "MOCK-CHOICE-1669",
     "question": "高等学校应当制定辅导员管理岗位聘任办法，根据辅导员的（ ），确定相 应级别的管理岗位等级。",
     "type": "多选题",
     "module": "模拟题",
@@ -83871,8 +84807,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "任职年限 B.工作能力",
-      "C": "实际工作表现 D.科研水平"
+      "A": "任职年限",
+      "B": "工作能力",
+      "C": "实际工作表现",
+      "D": "科研水平"
     },
     "correct_answers": [
       "A",
@@ -83880,7 +84818,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1606",
+    "id": "MOCK-CHOICE-1670",
     "question": "落实立德树人根本任务，必须将（ ）三者融为一体、不可割裂。",
     "type": "多选题",
     "module": "模拟题",
@@ -83895,8 +84833,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "价值塑造 B.知识传授",
-      "C": "能力培养 D.道德建设"
+      "A": "价值塑造",
+      "B": "知识传授",
+      "C": "能力培养",
+      "D": "道德建设"
     },
     "correct_answers": [
       "A",
@@ -84007,7 +84947,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-FJ-0434",
+    "id": "MOCK-FJ-0396",
     "question": "在中国共产党的历史上,这次会议确立了“思想建党、政治建军”的建党建军 原则,确立了军队政治工作的方针、原则和制度。这次会议是 。",
     "type": "填空题",
     "module": "模拟题",
@@ -84027,7 +84967,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0435",
+    "id": "MOCK-FJ-0397",
     "question": "辅导员的职业名称是 。",
     "type": "填空题",
     "module": "模拟题",
@@ -84046,7 +84986,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0436",
+    "id": "MOCK-FJ-0398",
     "question": "辅导员职业守则中敬业爱生要求，热爱党的教育事业，树立崇高职业理想， 以 、 和 为己任。",
     "type": "填空题",
     "module": "模拟题",
@@ -84065,7 +85005,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0437",
+    "id": "MOCK-FJ-0399",
     "question": "教师“承载着传播知识、传播思想、 ，塑造灵魂、塑造生命、 的时代重任”。",
     "type": "填空题",
     "module": "模拟题",
@@ -84084,7 +85024,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0438",
+    "id": "MOCK-FJ-0400",
     "question": "中级辅导员理论和实践研究要求以第一作者身份在相关领域期刊发表 篇 学术论文。",
     "type": "填空题",
     "module": "模拟题",
@@ -84103,7 +85043,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0439",
+    "id": "MOCK-FJ-0401",
     "question": "加强和改进大学生思想政治教育，以理想信念教育为核心，以爱国主义教育为 重点，以 为基础，以 为目标。",
     "type": "填空题",
     "module": "模拟题",
@@ -84122,7 +85062,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1607",
+    "id": "MOCK-CHOICE-1671",
     "question": "2025 年 10 月，党的二十届四中全会在京召开。全会指出，实现社会主义现代 化是一个( )递进、不断发展进步的历史过程，需要不懈努力、接续奋斗",
     "type": "单选题",
     "module": "模拟题",
@@ -84137,15 +85077,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "互动式 B.螺旋式",
-      "C": "阶梯式 D.渗透式"
+      "A": "互动式",
+      "B": "螺旋式",
+      "C": "阶梯式",
+      "D": "渗透式"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1608",
+    "id": "MOCK-CHOICE-1672",
     "question": "2025 年 10 月，党的二十届四中全会在京召开。全会指出，十五五时期，全党 要以( )克难关、战风险、迎挑战，集中力量办好自己的事，续写经济快速发 展和社会长期稳定两大奇迹新篇章，奋力开创中国式现代化建设新局面。",
     "type": "单选题",
     "module": "模拟题",
@@ -84162,15 +85104,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "奋斗精神 B.历史主动精神",
-      "C": "自我革命精神 D.斗争精神"
+      "A": "奋斗精神",
+      "B": "历史主动精神",
+      "C": "自我革命精神",
+      "D": "斗争精神"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1609",
+    "id": "MOCK-CHOICE-1673",
     "question": "学生团体邀请校外组织、人员到校举办讲座等活动，需经（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -84185,15 +85129,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学院批准 B.学校批准",
-      "C": "审批预约 D.当地政府批准"
+      "A": "学院批准",
+      "B": "学校批准",
+      "C": "审批预约",
+      "D": "当地政府批准"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1610",
+    "id": "MOCK-CHOICE-1674",
     "question": "中华人民共和国民法调整( )的公民之间、法人之间、公民与法人之间的财 产关系和人身关系。",
     "type": "单选题",
     "module": "模拟题",
@@ -84208,15 +85154,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "平等主体 B.社会主体",
-      "C": "民事主体 D.法律主体"
+      "A": "平等主体",
+      "B": "社会主体",
+      "C": "民事主体",
+      "D": "法律主体"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1611",
+    "id": "MOCK-CHOICE-1675",
     "question": "意识形态工作是党的一项极端重要的工作，牢牢掌握意识形态工作（ ）， 是新的历史条件下做好意识形态工作的重大要求。",
     "type": "单选题",
     "module": "模拟题",
@@ -84241,7 +85189,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1612",
+    "id": "MOCK-CHOICE-1676",
     "question": "建设高水平人才培养体系，必须将思想政治工作体系贯通其中，必须抓好课 程思政建设，解决好（ ）“两张皮”问题。",
     "type": "单选题",
     "module": "模拟题",
@@ -84266,7 +85214,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1613",
+    "id": "MOCK-CHOICE-1677",
     "question": "高等学校毕业生学费和国家助学贷款代偿政策是指高校毕业生到中西部地 区和艰苦边远地区基层单位就业、服务期在 以上(含 )的，其学费或 在校学习期间获得国家助学贷款由国家实行代偿。",
     "type": "单选题",
     "module": "模拟题",
@@ -84283,15 +85231,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2 年 B.3 年",
-      "C": "5 年 D.6 年"
+      "A": "2 年",
+      "B": "3 年",
+      "C": "5 年",
+      "D": "6 年"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1614",
+    "id": "MOCK-CHOICE-1678",
     "question": "大学生思维发展的主要特点是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -84316,7 +85266,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1615",
+    "id": "MOCK-CHOICE-1679",
     "question": "要坚持把（ ）作为各级各类教育的生命线，加快建设高质量教育体系。",
     "type": "单选题",
     "module": "模拟题",
@@ -84331,15 +85281,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "立德树人 B.高质量发展",
-      "C": "改革创新 D.内涵建设"
+      "A": "立德树人",
+      "B": "高质量发展",
+      "C": "改革创新",
+      "D": "内涵建设"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1616",
+    "id": "MOCK-CHOICE-1680",
     "question": "我国历史上被誉为“中国科学史上的里程碑”的书籍是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -84354,15 +85306,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "《天工开物》 B.《梦溪笔谈》",
-      "C": "《农政全书》 D.《水经注》"
+      "A": "《天工开物》",
+      "B": "《梦溪笔谈》",
+      "C": "《农政全书》",
+      "D": "《水经注》"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1617",
+    "id": "MOCK-CHOICE-1681",
     "question": "二十四节气是我国历法的独到之处，最早出现于( )代。",
     "type": "单选题",
     "module": "模拟题",
@@ -84377,15 +85331,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "汉 B.夏",
-      "C": "唐 D.商"
+      "A": "汉",
+      "B": "夏",
+      "C": "唐",
+      "D": "商"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1618",
+    "id": "MOCK-CHOICE-1682",
     "question": "目前发现的最早的印刷本《百家姓》是在( )朝出版的。",
     "type": "单选题",
     "module": "模拟题",
@@ -84400,15 +85356,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "宋 B.元",
-      "C": "明 D.清"
+      "A": "宋",
+      "B": "元",
+      "C": "明",
+      "D": "清"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1619",
+    "id": "MOCK-CHOICE-1683",
     "question": "中国式现代化是（ ）的最新重大成果。",
     "type": "单选题",
     "module": "模拟题",
@@ -84434,7 +85392,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1620",
+    "id": "MOCK-CHOICE-1684",
     "question": "教育行政部门收到调解申请，认为必要的，可以指定专门人员进行调解，并 应当在受理申请之日起（ ）内完成调解。",
     "type": "单选题",
     "module": "模拟题",
@@ -84449,15 +85407,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "30 日 B.15 日",
-      "C": "60 日 D.90 日"
+      "A": "30 日",
+      "B": "15 日",
+      "C": "60 日",
+      "D": "90 日"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1621",
+    "id": "MOCK-CHOICE-1685",
     "question": "每个本科生在学期间参加社会实践活动的时间累计应不少于 周，研究生、 高职高专学生不少于 周。",
     "type": "单选题",
     "module": "模拟题",
@@ -84472,15 +85432,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2 1 B.4 2",
-      "C": "2 4 D.4 3"
+      "A": "2 1",
+      "B": "4 2",
+      "C": "2 4",
+      "D": "4 3"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1622",
+    "id": "MOCK-CHOICE-1686",
     "question": "学校、省（区、市）和国家有关部门应当对在德、智、体、美等方面全面发展 或者在思想品德、（ ）、志愿服务及社会实践等方面表现突出的学生，给予 表彰和奖励。",
     "type": "多选题",
     "module": "模拟题",
@@ -84496,8 +85458,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学业成绩 B.科技创造",
-      "C": "体育竞赛 D.文艺活动"
+      "A": "学业成绩",
+      "B": "科技创造",
+      "C": "体育竞赛",
+      "D": "文艺活动"
     },
     "correct_answers": [
       "A",
@@ -84507,7 +85471,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1623",
+    "id": "MOCK-CHOICE-1687",
     "question": "《关于进一步加强和改进大学生思想政治教育的意见》指出，深入开展中华民 族优良传统和中国革命传统教育，开展各民族平等团结教育，培养团结统一、爱 好和平、勤劳勇敢、自强不息的精神，树立民族（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -84522,8 +85486,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "自尊心 B.自信心",
-      "C": "自强心 D.自豪感"
+      "A": "自尊心",
+      "B": "自信心",
+      "C": "自强心",
+      "D": "自豪感"
     },
     "correct_answers": [
       "A",
@@ -84532,7 +85498,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1624",
+    "id": "MOCK-CHOICE-1688",
     "question": "《教育部关于全面实施学校美育浸润行动的通知》指出，以美育浸润学生，全 面提升学生（ ）等核心素养，丰富学生的精神文化生活，让学生身心更加愉 悦，活力更加彰显，人格更加健全。",
     "type": "多选题",
     "module": "模拟题",
@@ -84549,8 +85515,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "文化理解 B.审美感知",
-      "C": "艺术表现 D.创意实践"
+      "A": "文化理解",
+      "B": "审美感知",
+      "C": "艺术表现",
+      "D": "创意实践"
     },
     "correct_answers": [
       "A",
@@ -84560,7 +85528,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1625",
+    "id": "MOCK-CHOICE-1689",
     "question": "《关于加强和改进新形势下高校思想政治工作的意见》指出，要发挥哲学社会 科学育人功能。强调要加强哲学社会科学学科体系建设，积极构建（ ）的哲 学社会科学学科体系。",
     "type": "多选题",
     "module": "模拟题",
@@ -84576,8 +85544,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "中国特色 B.中国风格",
-      "C": "中国立场 D.中国气派"
+      "A": "中国特色",
+      "B": "中国风格",
+      "C": "中国立场",
+      "D": "中国气派"
     },
     "correct_answers": [
       "A",
@@ -84586,7 +85556,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1626",
+    "id": "MOCK-CHOICE-1690",
     "question": "学生思想品德的考核、鉴定，采取（ ）等形式进行。",
     "type": "多选题",
     "module": "模拟题",
@@ -84601,8 +85571,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "个人小结 B.师生民主评议",
-      "C": "学院总结 D.党委审核"
+      "A": "个人小结",
+      "B": "师生民主评议",
+      "C": "学院总结",
+      "D": "党委审核"
     },
     "correct_answers": [
       "A",
@@ -84610,7 +85582,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1627",
+    "id": "MOCK-CHOICE-1691",
     "question": "习近平总书记强调：“要更加注重（ ），不断丰富人民精神世界，促进人 的全面发展。”",
     "type": "多选题",
     "module": "模拟题",
@@ -84625,8 +85597,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "文化人 B.以文育人",
-      "C": "以文立心 D.以文铸魂"
+      "A": "文化人",
+      "B": "以文育人",
+      "C": "以文立心",
+      "D": "以文铸魂"
     },
     "correct_answers": [
       "A",
@@ -84634,7 +85608,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1628",
+    "id": "MOCK-CHOICE-1692",
     "question": "《新时代爱国主义教育实施纲要》指出，要坚守正道、弘扬大道，反对文化虚 无主义，引导人们树立和坚持正确的（ ），不断增强中华民族的归属感、认 同感、尊严感、荣誉感。",
     "type": "多选题",
     "module": "模拟题",
@@ -84649,8 +85623,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "历史观 B.民族观",
-      "C": "国家观 D.文化观"
+      "A": "历史观",
+      "B": "民族观",
+      "C": "国家观",
+      "D": "文化观"
     },
     "correct_answers": [
       "A",
@@ -84660,7 +85636,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1629",
+    "id": "MOCK-CHOICE-1693",
     "question": "大力加强大学生心理健康教育队伍建设，要坚持（ ）的原则，配备一定数 量专职从事大学生心理健康教育的教师。",
     "type": "多选题",
     "module": "模拟题",
@@ -84676,8 +85652,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "专兼结合 B.以专为主",
-      "C": "少量 D.精干"
+      "A": "专兼结合",
+      "B": "以专为主",
+      "C": "少量",
+      "D": "精干"
     },
     "correct_answers": [
       "C",
@@ -84685,7 +85663,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1630",
+    "id": "MOCK-CHOICE-1694",
     "question": "《高等学校学生心理健康教育指导纲要》指出，充分发挥（ ）等育人主体 的主导作用，强化家校育人合力。",
     "type": "多选题",
     "module": "模拟题",
@@ -84702,8 +85680,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "心理健康教育教师 B.心理咨询师",
-      "C": "辅导员 D.班主任"
+      "A": "心理健康教育教师",
+      "B": "心理咨询师",
+      "C": "辅导员",
+      "D": "班主任"
     },
     "correct_answers": [
       "A",
@@ -84713,7 +85693,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1631",
+    "id": "MOCK-CHOICE-1695",
     "question": "“十五五”规划纲要指出，深化教育科技人才一体改革，强化（ ）促进 科技自主创新和人才自主培养良性互动。",
     "type": "多选题",
     "module": "模拟题",
@@ -84728,8 +85708,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "规划衔接 B.政策协同",
-      "C": "资源统筹 D.评价联动"
+      "A": "规划衔接",
+      "B": "政策协同",
+      "C": "资源统筹",
+      "D": "评价联动"
     },
     "correct_answers": [
       "A",
@@ -84840,7 +85822,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1632",
+    "id": "MOCK-CHOICE-1696",
     "question": "2026 年 4 月第 8 期《求是》杂志发表习近平总书记重要文章《 》。",
     "type": "单选题",
     "module": "模拟题",
@@ -84865,7 +85847,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1633",
+    "id": "MOCK-CHOICE-1697",
     "question": "做好民族工作的根本保证是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -84880,15 +85862,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "坚持党的领导 B.坚持中国特色社会主义道路",
-      "C": "坚持维护祖国统一 D.坚持各民族一律平等"
+      "A": "坚持党的领导",
+      "B": "坚持中国特色社会主义道路",
+      "C": "坚持维护祖国统一",
+      "D": "坚持各民族一律平等"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1634",
+    "id": "MOCK-CHOICE-1698",
     "question": "到 2030 年，智慧教育新形态的发展目标是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -84903,15 +85887,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "初步构建 B.基本形成",
-      "C": "全面建成 D.持续完善"
+      "A": "初步构建",
+      "B": "基本形成",
+      "C": "全面建成",
+      "D": "持续完善"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1635",
+    "id": "MOCK-CHOICE-1699",
     "question": "（ ）是教育强国建设的“一号工程”，",
     "type": "单选题",
     "module": "模拟题",
@@ -84927,15 +85913,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "基础教育提质扩容工程 B.高等教育创新提升工程",
-      "C": "教师队伍建设提质工程 D.新时代立德树人工程"
+      "A": "基础教育提质扩容工程",
+      "B": "高等教育创新提升工程",
+      "C": "教师队伍建设提质工程",
+      "D": "新时代立德树人工程"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1636",
+    "id": "MOCK-CHOICE-1700",
     "question": "高校党委常委会每学期至少召开 1 次会议专题研究思政课建设，高校党委书记、 校长每学期至少给学生讲授（ ）个课时思政课，高校领导班子其他成员每学期 至少给学生讲授（ ）个课时思政课，可重点讲授“形势与政策”课。",
     "type": "单选题",
     "module": "模拟题",
@@ -84951,15 +85939,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "4 2 B.2 2",
-      "C": "2 1 D.2 4"
+      "A": "4 2",
+      "B": "2 2",
+      "C": "2 1",
+      "D": "2 4"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1637",
+    "id": "MOCK-CHOICE-1701",
     "question": "接受非学历高等教育的学生，成绩合格，由所在高等学校或者其他高等教育机 构发给相应的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -84974,15 +85964,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "结业证书 B.学习证明",
-      "C": "肄业证书 D.毕业证书"
+      "A": "结业证书",
+      "B": "学习证明",
+      "C": "肄业证书",
+      "D": "毕业证书"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1638",
+    "id": "MOCK-CHOICE-1702",
     "question": "《新时代爱国主义教育实施纲要》指出，坚持把（ ）作为鲜明主题。",
     "type": "单选题",
     "module": "模拟题",
@@ -85007,7 +85999,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1639",
+    "id": "MOCK-CHOICE-1703",
     "question": "《教育部关于全面推进健康学校建设的指导意见》指出，到（ ），“健康 第一” 教育理念广泛深入普及，健康学校建设覆盖每所学校。",
     "type": "单选题",
     "module": "模拟题",
@@ -85022,15 +86014,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2027 年 B. 2030 年",
-      "C": "2035 年 D. 2040 年"
+      "A": "2027 年",
+      "B": "2030 年",
+      "C": "2035 年",
+      "D": "2040 年"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1640",
+    "id": "MOCK-CHOICE-1704",
     "question": "（ ）是习近平新时代中国特色社会主义思想的主体内容，集中体现了这一思 想体系的主要观点和基本精神，构成了这一思想体系的四梁八柱,发挥着统摄作 用。",
     "type": "单选题",
     "module": "模拟题",
@@ -85045,15 +86039,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "“十个明确” B.“十四个坚持”",
-      "C": "“十三个方面” D.“六个必须坚持”"
+      "A": "“十个明确”",
+      "B": "“十四个坚持”",
+      "C": "“十三个方面”",
+      "D": "“六个必须坚持”"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1641",
+    "id": "MOCK-CHOICE-1705",
     "question": "打开“十五五”规划纲要，“____”位居“十五五”时期七大主要目标之首。",
     "type": "单选题",
     "module": "模拟题",
@@ -85069,15 +86065,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "高质量发展取得显著成效 B.科技自立自强水平大幅提高",
-      "C": "进一步全面深化改革取得新突破 D.社会文明程度明显提升"
+      "A": "高质量发展取得显著成效",
+      "B": "科技自立自强水平大幅提高",
+      "C": "进一步全面深化改革取得新突破",
+      "D": "社会文明程度明显提升"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1642",
+    "id": "MOCK-CHOICE-1706",
     "question": "2026 年 3 月 20 日，中办印发《关于加强党建带团建工作的意见》。《意见》 指出，各级党组织要加强团干部正确（ ）教育，指导团组织建立团干部为青 年办实事工作机制，引导广大团干部不尚虚谈、多务实功，多为青年计、少为自 己谋。",
     "type": "单选题",
     "module": "模拟题",
@@ -85092,15 +86090,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "价值观、政绩观 B.权力观、地位观",
-      "C": "人生观、价值观 D.事业观、成长观"
+      "A": "价值观、政绩观",
+      "B": "权力观、地位观",
+      "C": "人生观、价值观",
+      "D": "事业观、成长观"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1643",
+    "id": "MOCK-CHOICE-1707",
     "question": "2026 年 3 月 5 日，李强总理向十四届全国人大四次会议作政府工作报告。报 告总结了 2025 年经济运行情况，下列表述不正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -85125,7 +86125,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1644",
+    "id": "MOCK-CHOICE-1708",
     "question": "2025 年，配备专（兼）职心理健康教育教师的学校比例达到（ ），开展心 理健康教育的家庭教育指导服务站点比例达到（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -85141,15 +86141,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "100% 90% B.90% 90%",
-      "C": "95% 60% D.80% 60%"
+      "A": "100% 90%",
+      "B": "90% 90%",
+      "C": "95% 60%",
+      "D": "80% 60%"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1645",
+    "id": "MOCK-CHOICE-1709",
     "question": "《高等学校辅导员职业能力标准(暂行)》中尊重学生独立人格和个人隐私, 保护学生自尊心、自信心和进取心,促进学生全面发展,努力培养社会主义合格建 设者和可靠接班人是辅导员职业守则的( )条。",
     "type": "单选题",
     "module": "模拟题",
@@ -85165,15 +86167,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "爱国守法 B.敬业爱生",
-      "C": "育人为本 D.终身学习"
+      "A": "爱国守法",
+      "B": "敬业爱生",
+      "C": "育人为本",
+      "D": "终身学习"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1646",
+    "id": "MOCK-CHOICE-1710",
     "question": "《高等学校辅导员职业能力标准（暂行）》中，对辅导员职业能力特征的要 求：具备较强的组织管理能力和语言、文字表达能力，及教育引导能力、（ ） 能力等。",
     "type": "单选题",
     "module": "模拟题",
@@ -85188,15 +86192,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "谈心谈话 B.沟通交流",
-      "C": "调查研究 D.宿舍走访"
+      "A": "谈心谈话",
+      "B": "沟通交流",
+      "C": "调查研究",
+      "D": "宿舍走访"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1647",
+    "id": "MOCK-CHOICE-1711",
     "question": "2026 年新年贺词中提到，2025 年是“十四五”收官之年。我国（ ）跃上 新台阶。",
     "type": "多选题",
     "module": "模拟题",
@@ -85211,8 +86217,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "经济实力 B.科技实力",
-      "C": "国防实力 D.综合国力"
+      "A": "经济实力",
+      "B": "科技实力",
+      "C": "国防实力",
+      "D": "综合国力"
     },
     "correct_answers": [
       "A",
@@ -85222,7 +86230,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1648",
+    "id": "MOCK-CHOICE-1712",
     "question": "因下列情形之一造成的学生伤害事故，学校已行了相应责任，行为并无不当的， 无法律责任。（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -85249,7 +86257,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1649",
+    "id": "MOCK-CHOICE-1713",
     "question": "四风包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -85264,8 +86272,11 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "形式主义 B.享乐主义",
-      "C": "教条主义 D.官僚主义 E.奢靡之风"
+      "A": "形式主义",
+      "B": "享乐主义",
+      "C": "教条主义",
+      "D": "官僚主义",
+      "E": "奢靡之风"
     },
     "correct_answers": [
       "A",
@@ -85275,7 +86286,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1650",
+    "id": "MOCK-CHOICE-1714",
     "question": "《普通高等学校学生管理规定》第 41 号)，学生有权在校内组织、参加学生团 体，以适当方式参与学校管理,对学校与学生权益相关事务享有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -85291,8 +86302,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "知情权 B.表达权",
-      "C": "参与权 D.监督权"
+      "A": "知情权",
+      "B": "表达权",
+      "C": "参与权",
+      "D": "监督权"
     },
     "correct_answers": [
       "A",
@@ -85302,7 +86315,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1651",
+    "id": "MOCK-CHOICE-1715",
     "question": "《高校思想政治工作质量提升工程实施纲要》中指出,构建心理育人质量提升 体系，坚持( )与( )相结合,加强人文关怀和心理疏导。",
     "type": "多选题",
     "module": "模拟题",
@@ -85319,8 +86332,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "育人 B.育心",
-      "C": "育德 D.育才"
+      "A": "育人",
+      "B": "育心",
+      "C": "育德",
+      "D": "育才"
     },
     "correct_answers": [
       "B",
@@ -85428,7 +86443,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1652",
+    "id": "MOCK-CHOICE-1716",
     "question": "教育心理学研究表明，新的学习需要可以通过两条途径来形成，利用( )主 要应考虑的就是如何使学生原有学习需要得到满足。",
     "type": "单选题",
     "module": "模拟题",
@@ -85445,15 +86460,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "直接发生途径 B.直接转化途径",
-      "C": "间接发生途径 D.间接转化途径"
+      "A": "直接发生途径",
+      "B": "直接转化途径",
+      "C": "间接发生途径",
+      "D": "间接转化途径"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1653",
+    "id": "MOCK-CHOICE-1717",
     "question": "被尊称为“现代课程理论圣经”的著作是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85468,15 +86485,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "斯腾豪斯的《课程研究与开发导论》 B.布鲁纳的《教育过程》",
-      "C": "泰勒的《课程与教学的基本原理》 D.博比特的《课程》"
+      "A": "斯腾豪斯的《课程研究与开发导论》",
+      "B": "布鲁纳的《教育过程》",
+      "C": "泰勒的《课程与教学的基本原理》",
+      "D": "博比特的《课程》"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1654",
+    "id": "MOCK-CHOICE-1718",
     "question": "当孩子看到鲜艳的紫红色烟台大樱桃时，下列所说的话中最能直接体现“知觉” 活动的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85491,15 +86510,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "“我要吃” B.“真甜!”",
-      "C": "“颜色好漂亮” D.“哇，大樱桃”"
+      "A": "“我要吃”",
+      "B": "“真甜!”",
+      "C": "“颜色好漂亮”",
+      "D": "“哇，大樱桃”"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1655",
+    "id": "MOCK-CHOICE-1719",
     "question": "“从我的门下出去，我承认，它既不是文官，也不是武人，也不是僧侣;他首 先是人，一个人应该怎样做人，他就知道怎样做人，他在紧急关头，而且不论对 谁，都能尽到做人的本分。”这段话出自( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85515,15 +86536,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "赫尔巴特 B.卢梭",
-      "C": "洛克 D.夸美纽斯"
+      "A": "赫尔巴特",
+      "B": "卢梭",
+      "C": "洛克",
+      "D": "夸美纽斯"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1656",
+    "id": "MOCK-CHOICE-1720",
     "question": "主张“在立足点上求平等，于出头处谋自由”的教育家是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85538,15 +86561,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "黄炎培 B.陶行知",
-      "C": "章炳麟 D.张伯苓"
+      "A": "黄炎培",
+      "B": "陶行知",
+      "C": "章炳麟",
+      "D": "张伯苓"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1657",
+    "id": "MOCK-CHOICE-1721",
     "question": "在阶级社会中，统治阶级总是利用它的政权力量来颁布教育方针、政策、制定 教育目的和政策，按照他们的思想政治要求去教育受教育者，这说明，政治决定 教育的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85563,15 +86588,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "受教育者的权利 B.领导权",
-      "C": "目的和性质 D.思想品德教育"
+      "A": "受教育者的权利",
+      "B": "领导权",
+      "C": "目的和性质",
+      "D": "思想品德教育"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1658",
+    "id": "MOCK-CHOICE-1722",
     "question": "在我国，最早把“道”和“德”连在一起的人是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85586,15 +86613,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "老子 B.孟子",
-      "C": "许慎 D.荀子"
+      "A": "老子",
+      "B": "孟子",
+      "C": "许慎",
+      "D": "荀子"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1659",
+    "id": "MOCK-CHOICE-1723",
     "question": "教育在发展中与政治经济的发展存在不同步，这说明教育具有( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85609,15 +86638,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "可控性 B.超前性",
-      "C": "相对独立性 D.滞后性"
+      "A": "可控性",
+      "B": "超前性",
+      "C": "相对独立性",
+      "D": "滞后性"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1660",
+    "id": "MOCK-CHOICE-1724",
     "question": "法国社会学家利托尔诺认为动物界已存在教育，也有教师与学生，并把动物对 其幼子的爱护、照看当成教育，这种理论是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85632,15 +86663,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教育的心理起源论 B.教育的社会起源论",
-      "C": "教育的实践起源论 D.教育的生物起源论"
+      "A": "教育的心理起源论",
+      "B": "教育的社会起源论",
+      "C": "教育的实践起源论",
+      "D": "教育的生物起源论"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1661",
+    "id": "MOCK-CHOICE-1725",
     "question": "首位认可游戏的教育价值并将其列入教学过程的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85655,15 +86688,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "柏拉图 B.福禄培尔",
-      "C": "蒙台梭利 D.维果茨基"
+      "A": "柏拉图",
+      "B": "福禄培尔",
+      "C": "蒙台梭利",
+      "D": "维果茨基"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1662",
+    "id": "MOCK-CHOICE-1726",
     "question": "一辈子做教师，一辈子学做教师是名师( )的名言。",
     "type": "单选题",
     "module": "模拟题",
@@ -85678,15 +86713,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "魏书生 B.于漪",
-      "C": "李开复 D.李吉林"
+      "A": "魏书生",
+      "B": "于漪",
+      "C": "李开复",
+      "D": "李吉林"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1663",
+    "id": "MOCK-CHOICE-1727",
     "question": "2025 年 12 月 31 日，习近平总书记在 2026 年新年贺词中提到，“锐始者必 图其终，成功者先计于始”出自（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -85701,15 +86738,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "苏轼 B.张居正",
-      "C": "宋濂 D.顾炎武"
+      "A": "苏轼",
+      "B": "张居正",
+      "C": "宋濂",
+      "D": "顾炎武"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1664",
+    "id": "MOCK-CHOICE-1728",
     "question": "12 月 31 日，新年前夕，国家主席通过中央广播电视总台和互联网，发表了 二〇二六年新年贺词。贺词指出，我们继续敞开胸怀拥抱世界。继“三大倡议” 之后，主席提出（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -85725,15 +86764,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "全球文明倡议 B.全球安全倡议",
-      "C": "全球发展倡议 D.全球治理倡议"
+      "A": "全球文明倡议",
+      "B": "全球安全倡议",
+      "C": "全球发展倡议",
+      "D": "全球治理倡议"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1665",
+    "id": "MOCK-CHOICE-1729",
     "question": "《关于实施学生体质强健计划的意见》明确提出“确保中小学生每天综合体 育活动时间不低于（ ）小时”",
     "type": "单选题",
     "module": "模拟题",
@@ -85748,15 +86789,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "1 B.2",
-      "C": "3 D.4"
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1666",
+    "id": "MOCK-CHOICE-1730",
     "question": "“十五五”时期是基本实现社会主义现代化夯实基础、全面发力的（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -85771,15 +86814,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "重要时期 B.关键时期",
-      "C": "决胜时期 D.开局时期"
+      "A": "重要时期",
+      "B": "关键时期",
+      "C": "决胜时期",
+      "D": "开局时期"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1667",
+    "id": "MOCK-CHOICE-1731",
     "question": "2026 年全国教育工作会议强调，培养造就高水平教师队伍，深入实施（ ）， 加快优化教师资源配置，全面深化教师教育改革，夯实教育强国建设根基。",
     "type": "单选题",
     "module": "模拟题",
@@ -85805,7 +86850,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1668",
+    "id": "MOCK-CHOICE-1732",
     "question": "当一个人遇到一件愉快的事情时手舞足蹈, 欢快的向别人诉说内心的体验, 我们称这个人( )",
     "type": "单选题",
     "module": "模拟题",
@@ -85820,15 +86865,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "心理活动内在一致性 B.人格相对稳定性",
-      "C": "心理活动主观世界和客观世界的统一 D.心理活动协调性"
+      "A": "心理活动内在一致性",
+      "B": "人格相对稳定性",
+      "C": "心理活动主观世界和客观世界的统一",
+      "D": "心理活动协调性"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1669",
+    "id": "MOCK-CHOICE-1733",
     "question": "“我们敢说日常所见的人中，他们之所以或好或坏，或有用或无用，十分之 九都是他们的教育所决定的”这一观点出自( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85843,15 +86890,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教育漫话 B.普通教育学",
-      "C": "大教学论 D.我的教育信条"
+      "A": "教育漫话",
+      "B": "普通教育学",
+      "C": "大教学论",
+      "D": "我的教育信条"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1670",
+    "id": "MOCK-CHOICE-1734",
     "question": "学校美育的基本任务是培养学生的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85866,15 +86915,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "鉴赏美 B.创造美",
-      "C": "表现美 D.感受美"
+      "A": "鉴赏美",
+      "B": "创造美",
+      "C": "表现美",
+      "D": "感受美"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1671",
+    "id": "MOCK-CHOICE-1735",
     "question": "形成学生( )的能力是美育的最高层次的任务。",
     "type": "单选题",
     "module": "模拟题",
@@ -85889,15 +86940,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "感受美 B.鉴赏美",
-      "C": "领悟美 D.创造美"
+      "A": "感受美",
+      "B": "鉴赏美",
+      "C": "领悟美",
+      "D": "创造美"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1672",
+    "id": "MOCK-CHOICE-1736",
     "question": "说课稿和教案的根本区别在于前者还必须写出( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85912,15 +86965,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "为什么要这样教 B.该怎么去教",
-      "C": "教到什么程度 D.教些什么"
+      "A": "为什么要这样教",
+      "B": "该怎么去教",
+      "C": "教到什么程度",
+      "D": "教些什么"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1673",
+    "id": "MOCK-CHOICE-1737",
     "question": "我国教师职业道德基本原则是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85935,15 +86990,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "热爱学生 B.爱岗敬业",
-      "C": "依法执教 D.忠于人民的教育事业"
+      "A": "热爱学生",
+      "B": "爱岗敬业",
+      "C": "依法执教",
+      "D": "忠于人民的教育事业"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1674",
+    "id": "MOCK-CHOICE-1738",
     "question": "学生的控制点主要通过影响学生的( )而影响学习的。",
     "type": "单选题",
     "module": "模拟题",
@@ -85959,15 +87016,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学习方法 B.情商",
-      "C": "智商 D.成就的动机"
+      "A": "学习方法",
+      "B": "情商",
+      "C": "智商",
+      "D": "成就的动机"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1675",
+    "id": "MOCK-CHOICE-1739",
     "question": "奥苏贝尔认为，对新知识学习的首要变量是对新知识起固定作用的知识的 ( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -85982,15 +87041,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "可识别性 B.巩固程度",
-      "C": "可利用性 D.活跃程度"
+      "A": "可识别性",
+      "B": "巩固程度",
+      "C": "可利用性",
+      "D": "活跃程度"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1676",
+    "id": "MOCK-CHOICE-1740",
     "question": "现代教育的公共性就是现代教育的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86005,15 +87066,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "普及性 B.广泛性",
-      "C": "大众性 D.终身性"
+      "A": "普及性",
+      "B": "广泛性",
+      "C": "大众性",
+      "D": "终身性"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1677",
+    "id": "MOCK-CHOICE-1741",
     "question": "有些学生在平常学习教室中考试就能考好成绩，但是在其他教室考试成绩就 不好，这是一种( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86028,15 +87091,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "情境依存效应 B.状态依存性效应",
-      "C": "刻板效应 D.首因效应"
+      "A": "情境依存效应",
+      "B": "状态依存性效应",
+      "C": "刻板效应",
+      "D": "首因效应"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1678",
+    "id": "MOCK-CHOICE-1742",
     "question": "按照布鲁姆的认知教育目标分类,代表着最高水平的认知学习目标是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -86051,15 +87116,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "领会 B.综合",
-      "C": "评价 D.应用"
+      "A": "领会",
+      "B": "综合",
+      "C": "评价",
+      "D": "应用"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1679",
+    "id": "MOCK-CHOICE-1743",
     "question": "学生掌握知识的速度和质量依赖于学生原有的( )的高低。",
     "type": "单选题",
     "module": "模拟题",
@@ -86075,15 +87142,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "接受能力 B.智力水平",
-      "C": "理解能力 D.应变能力"
+      "A": "接受能力",
+      "B": "智力水平",
+      "C": "理解能力",
+      "D": "应变能力"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1680",
+    "id": "MOCK-CHOICE-1744",
     "question": "严谨治学要求教师具有( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86099,15 +87168,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "精深的专业知识 B.谦虚谨慎的态度",
-      "C": "锐意创新的品质 D.刻苦钻研，精益求精的精神"
+      "A": "精深的专业知识",
+      "B": "谦虚谨慎的态度",
+      "C": "锐意创新的品质",
+      "D": "刻苦钻研，精益求精的精神"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1681",
+    "id": "MOCK-CHOICE-1745",
     "question": "下列哪种类型的学生，教师适于使用指导性，定向任务的正规教学方式?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -86123,15 +87194,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "场独立型 B.场依存型",
-      "C": "冲动型 D.沉思型"
+      "A": "场独立型",
+      "B": "场依存型",
+      "C": "冲动型",
+      "D": "沉思型"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1682",
+    "id": "MOCK-CHOICE-1746",
     "question": "桑代克的教育心理学体系的组成不包括( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86147,15 +87220,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "人类的本性 B.学习心理",
-      "C": "学习过程 D.工作与疲劳以及个别差异"
+      "A": "人类的本性",
+      "B": "学习心理",
+      "C": "学习过程",
+      "D": "工作与疲劳以及个别差异"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1683",
+    "id": "MOCK-CHOICE-1747",
     "question": "美国进步教育运动时期，提出废除课堂教学、课程表以及年级制，代之以“公 约”或合同式的学习的教学改革实验是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86171,15 +87246,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "葛雷制 B.文纳特卡制",
-      "C": "道尔顿制 D.昆西教学法"
+      "A": "葛雷制",
+      "B": "文纳特卡制",
+      "C": "道尔顿制",
+      "D": "昆西教学法"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1684",
+    "id": "MOCK-CHOICE-1748",
     "question": "班级是学习工作中最基层的单位，学校的教育教学主要通过班级进行，班级 管理的核心是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86195,15 +87272,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教学策略管理 B.教学模式管理",
-      "C": "教学效率管理 D.教学质量管理"
+      "A": "教学策略管理",
+      "B": "教学模式管理",
+      "C": "教学效率管理",
+      "D": "教学质量管理"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1685",
+    "id": "MOCK-CHOICE-1749",
     "question": "关于班主任工作，不正确的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86228,7 +87307,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1686",
+    "id": "MOCK-CHOICE-1750",
     "question": "小圆在经过教师的教育，产生改过自新的意向后，在课堂上，不睡觉、开小 差，是属于学生不良品德的转化中的( )阶段",
     "type": "单选题",
     "module": "模拟题",
@@ -86243,15 +87322,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "醒悟 B.转变",
-      "C": "改过 D.自新"
+      "A": "醒悟",
+      "B": "转变",
+      "C": "改过",
+      "D": "自新"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1687",
+    "id": "MOCK-CHOICE-1751",
     "question": "班主任为了出色地完成教学任务，必须精通( )知识，这是教师知识结构的 核心，也是教师用以向学生传授知识的必备基础。",
     "type": "单选题",
     "module": "模拟题",
@@ -86268,15 +87349,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教育理论 B.学科专业",
-      "C": "文化素养 D.班级管理"
+      "A": "教育理论",
+      "B": "学科专业",
+      "C": "文化素养",
+      "D": "班级管理"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1688",
+    "id": "MOCK-CHOICE-1752",
     "question": "下列关于处理教师与家长关系的叙述，不正确的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86302,7 +87385,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1689",
+    "id": "MOCK-CHOICE-1753",
     "question": "高考是一次全国性的人才选拔考试，首要目的是为了选拔优秀人才。它属于 ( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86317,15 +87400,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "形成性评价 B.目标本位评价",
-      "C": "总结性评价 D.诊断性评价"
+      "A": "形成性评价",
+      "B": "目标本位评价",
+      "C": "总结性评价",
+      "D": "诊断性评价"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1690",
+    "id": "MOCK-CHOICE-1754",
     "question": "第斯多惠指出“教师本人是学校里最重要的师表，是最直观的最有效益的模 范，是学生活生生的榜样”。这段话体现的教师劳动的特点是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86340,15 +87425,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "复杂性 B.示范性",
-      "C": "长期性 D.创造性"
+      "A": "复杂性",
+      "B": "示范性",
+      "C": "长期性",
+      "D": "创造性"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1691",
+    "id": "MOCK-CHOICE-1755",
     "question": "教师要想教好学生，首先必须要掌握学生的年龄特征，充分了解处在这一年 龄段的学生的心理特点，从而采取适合的手段和方法，这样才能达到较好的教育 效果。这要求教师必须具备( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86375,7 +87462,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1692",
+    "id": "MOCK-CHOICE-1756",
     "question": "教师胜任教学工作的基础性要求是必须具有( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86391,15 +87478,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学科专业素养 B.教育专业素养",
-      "C": "品德专业素养 D.职业道德素养"
+      "A": "学科专业素养",
+      "B": "教育专业素养",
+      "C": "品德专业素养",
+      "D": "职业道德素养"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1693",
+    "id": "MOCK-CHOICE-1757",
     "question": ".教师在处理与学生的关系时，应坚持“可逆原则”，即教师用一种态度和行 为方式对待学生，也应允许学生用同样的态度和行为对待自己。这体现了教师对 待学生的( )原则。",
     "type": "单选题",
     "module": "模拟题",
@@ -86414,15 +87503,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "公开 B.公正",
-      "C": "民主 D.平等"
+      "A": "公开",
+      "B": "公正",
+      "C": "民主",
+      "D": "平等"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1694",
+    "id": "MOCK-CHOICE-1758",
     "question": "“非学无以裕教，非教无以验学”，体现了师生关系的哪一特征?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -86438,15 +87529,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "尊师爱生 B.民主平等",
-      "C": "教学相长 D.心理相容"
+      "A": "尊师爱生",
+      "B": "民主平等",
+      "C": "教学相长",
+      "D": "心理相容"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1695",
+    "id": "MOCK-CHOICE-1759",
     "question": "学生的姓名权、名誉权、隐私权应受到充分的尊重和保障，指的是学生应享 有( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86463,15 +87556,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "名誉权 B.安全保障权",
-      "C": "隐私权 D.受尊重权"
+      "A": "名誉权",
+      "B": "安全保障权",
+      "C": "隐私权",
+      "D": "受尊重权"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1696",
+    "id": "MOCK-CHOICE-1760",
     "question": "目标管理是由美国管理学家( )提出的，后来应用到班级管理中。",
     "type": "单选题",
     "module": "模拟题",
@@ -86486,15 +87581,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "布鲁斯 B.布鲁姆",
-      "C": "德鲁克 D.杜威"
+      "A": "布鲁斯",
+      "B": "布鲁姆",
+      "C": "德鲁克",
+      "D": "杜威"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1697",
+    "id": "MOCK-CHOICE-1761",
     "question": "分析问题找出主要矛盾的过程属于解决问题的( )阶段。",
     "type": "单选题",
     "module": "模拟题",
@@ -86509,15 +87606,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "提出问题 B.明确问题",
-      "C": "提出假设 D.验证假设"
+      "A": "提出问题",
+      "B": "明确问题",
+      "C": "提出假设",
+      "D": "验证假设"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1698",
+    "id": "MOCK-CHOICE-1762",
     "question": "人们往往容易看到物体的通常用途却看不到其新用途，这一现象称为( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86532,15 +87631,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "思维定势 B.迁移",
-      "C": "前摄抑制 D.功能固着"
+      "A": "思维定势",
+      "B": "迁移",
+      "C": "前摄抑制",
+      "D": "功能固着"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1699",
+    "id": "MOCK-CHOICE-1763",
     "question": "一张纸可以设想有多重用途，这是属于( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86565,7 +87666,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1700",
+    "id": "MOCK-CHOICE-1764",
     "question": "与依从相比，认同更深一层，它不受外界压力控制行为，具有一定的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86580,15 +87681,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "自觉性、主动性和稳定性 B.积极性",
-      "C": "适应性和社会性 D.内化性和独创性"
+      "A": "自觉性、主动性和稳定性",
+      "B": "积极性",
+      "C": "适应性和社会性",
+      "D": "内化性和独创性"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1701",
+    "id": "MOCK-CHOICE-1765",
     "question": "根据技能的性质和表现形式，通常把技能分为操作技能和( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -86603,15 +87706,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "活动技能 B.学习技能",
-      "C": "特殊技能 D.认知技能"
+      "A": "活动技能",
+      "B": "学习技能",
+      "C": "特殊技能",
+      "D": "认知技能"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1702",
+    "id": "MOCK-CHOICE-1766",
     "question": "“教育工作的主体部分和教育的基本途径是教学”，这句话的依据( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86626,8 +87731,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教学所占时间最多 B.教学对学生发展的影响最全面",
-      "C": "其他工作都是围绕教学进行的 D.教学对学校教育质量影响最大"
+      "A": "教学所占时间最多",
+      "B": "教学对学生发展的影响最全面",
+      "C": "其他工作都是围绕教学进行的",
+      "D": "教学对学校教育质量影响最大"
     },
     "correct_answers": [
       "A",
@@ -86637,7 +87744,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1703",
+    "id": "MOCK-CHOICE-1767",
     "question": "教师劳动的特点包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86652,8 +87759,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "复杂性 B.创造性",
-      "C": "长期性 D.示范性"
+      "A": "复杂性",
+      "B": "创造性",
+      "C": "长期性",
+      "D": "示范性"
     },
     "correct_answers": [
       "A",
@@ -86663,7 +87772,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1704",
+    "id": "MOCK-CHOICE-1768",
     "question": "教师的专业发展主要包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86678,8 +87787,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "专业精神 B.专业知识",
-      "C": "专业能力 D.专业选择"
+      "A": "专业精神",
+      "B": "专业知识",
+      "C": "专业能力",
+      "D": "专业选择"
     },
     "correct_answers": [
       "A",
@@ -86688,7 +87799,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1705",
+    "id": "MOCK-CHOICE-1769",
     "question": "关于班级说法正确的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86715,7 +87826,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1706",
+    "id": "MOCK-CHOICE-1770",
     "question": "教师对待“后进生”需要从( )方面去努力。",
     "type": "多选题",
     "module": "模拟题",
@@ -86741,7 +87852,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1707",
+    "id": "MOCK-CHOICE-1771",
     "question": "动作技能与智力技能的区别是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86756,8 +87867,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "活动对象不同 B.活动结构不同",
-      "C": "活动要求不同 D.活动方法不同"
+      "A": "活动对象不同",
+      "B": "活动结构不同",
+      "C": "活动要求不同",
+      "D": "活动方法不同"
     },
     "correct_answers": [
       "A",
@@ -86766,7 +87879,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1708",
+    "id": "MOCK-CHOICE-1772",
     "question": "品德的心理结构有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86783,8 +87896,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "道德认识 B.道德行为",
-      "C": "道德素质 D.道德情感"
+      "A": "道德认识",
+      "B": "道德行为",
+      "C": "道德素质",
+      "D": "道德情感"
     },
     "correct_answers": [
       "A",
@@ -86793,7 +87908,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1709",
+    "id": "MOCK-CHOICE-1773",
     "question": "布鲁纳认为学习所包括的几乎同时发生的过程为( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86808,8 +87923,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "获得 B.组织",
-      "C": "转换 D.评价"
+      "A": "获得",
+      "B": "组织",
+      "C": "转换",
+      "D": "评价"
     },
     "correct_answers": [
       "A",
@@ -86818,7 +87935,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1710",
+    "id": "MOCK-CHOICE-1774",
     "question": "以有意义学习和认知同化的观点为基础，奥苏贝尔提出了组织学习的基本原则 与策略，主要包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86833,8 +87950,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "逐渐分化原则 B.整合协调原则",
-      "C": "及时反馈原则 D.先行组织者策略"
+      "A": "逐渐分化原则",
+      "B": "整合协调原则",
+      "C": "及时反馈原则",
+      "D": "先行组织者策略"
     },
     "correct_answers": [
       "A",
@@ -86843,7 +87962,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1711",
+    "id": "MOCK-CHOICE-1775",
     "question": "加涅认为学习是人的倾向或能力的变化，这种变化能够保持而不能单纯归因 于生长过程。按不同划分标准，学习可分为不同类型，下列学习类型按照学习的 结果划分的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86858,15 +87977,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "规则学习 B.言语信息的学习",
-      "C": "认知策略的学习 D.态度的学习"
+      "A": "规则学习",
+      "B": "言语信息的学习",
+      "C": "认知策略的学习",
+      "D": "态度的学习"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1712",
+    "id": "MOCK-CHOICE-1776",
     "question": "我国心理学家一般将学习分为( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86881,15 +88002,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "知识学习 B.经验学习",
-      "C": "技能学习 D.行为规范学习"
+      "A": "知识学习",
+      "B": "经验学习",
+      "C": "技能学习",
+      "D": "行为规范学习"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1713",
+    "id": "MOCK-CHOICE-1777",
     "question": "国家实行学位制度。学位分为学士、硕士、博士,包括（ ）等类型，按照 学科门类、专业学位类别等授予。",
     "type": "多选题",
     "module": "模拟题",
@@ -86904,15 +88027,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学科学位 B.学术学位",
-      "C": "专业学位 D.综合学位"
+      "A": "学科学位",
+      "B": "学术学位",
+      "C": "专业学位",
+      "D": "综合学位"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1714",
+    "id": "MOCK-CHOICE-1778",
     "question": "外部动机是指那些不是由活动本身引起的，而是由与活动没有内在联系的外 部刺激或原因诱发出来的动机。下列属于外部动机的有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -86927,15 +88052,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "认知内驱力 B.生理内驱力",
-      "C": "自我提高内驱力 D.附属内驱力"
+      "A": "认知内驱力",
+      "B": "生理内驱力",
+      "C": "自我提高内驱力",
+      "D": "附属内驱力"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1715",
+    "id": "MOCK-CHOICE-1779",
     "question": "《关于加强和改进新时代师德师风建设的意见》强调，加强警示教育，引导 广大教师时刻（ ），坚守师德底线。",
     "type": "多选题",
     "module": "模拟题",
@@ -86950,15 +88077,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "自重 B.自省",
-      "C": "自警 D.自励"
+      "A": "自重",
+      "B": "自省",
+      "C": "自警",
+      "D": "自励"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1716",
+    "id": "MOCK-CHOICE-1780",
     "question": "新课程倡导的新的学习方式主要有（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -86973,15 +88102,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "自主学习 B.讨论学习",
-      "C": "探究学习 D.合作学习"
+      "A": "自主学习",
+      "B": "讨论学习",
+      "C": "探究学习",
+      "D": "合作学习"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1717",
+    "id": "MOCK-CHOICE-1781",
     "question": "发现教学法的优势有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -86996,15 +88127,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "有利于激发智慧 B.有利于培养内部动机",
-      "C": "有利于学习发现的技能 D 有利于知识的保持"
+      "A": "有利于激发智慧",
+      "B": "有利于培养内部动机",
+      "C": "有利于学习发现的技能",
+      "D": "有利于知识的保持"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1718",
+    "id": "MOCK-CHOICE-1782",
     "question": "班杜拉认为，行为的结果因素就是平常所说的强化，并把强化分为( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -87019,15 +88152,18 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "效果强化 B.直接强化",
-      "C": "间接强化 D.替代强化 E.自我强化"
+      "A": "效果强化",
+      "B": "直接强化",
+      "C": "间接强化",
+      "D": "替代强化",
+      "E": "自我强化"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1719",
+    "id": "MOCK-CHOICE-1783",
     "question": "对下列内容的记忆，属于陈述性记忆的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -87042,15 +88178,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "端午节的日期 B.雨的成因",
-      "C": "骑车的技能 D.舞蹈表演"
+      "A": "端午节的日期",
+      "B": "雨的成因",
+      "C": "骑车的技能",
+      "D": "舞蹈表演"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1720",
+    "id": "MOCK-CHOICE-1784",
     "question": "下列关于罗杰斯以自由为基础的学习原则，说法正确的有( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -87075,7 +88213,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1721",
+    "id": "MOCK-CHOICE-1785",
     "question": "以下属于二级强化物的是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -87090,15 +88228,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "美食 B.金钱",
-      "C": "考试成绩 D.手机游戏"
+      "A": "美食",
+      "B": "金钱",
+      "C": "考试成绩",
+      "D": "手机游戏"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-FJ-0440",
+    "id": "MOCK-FJ-0402",
     "question": "教师职业倦怠最突出的特征是情绪衰竭。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87122,7 +88262,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0441",
+    "id": "MOCK-FJ-0403",
     "question": "在教育中，尊重人的个性是智慧的开端。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87145,7 +88285,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0442",
+    "id": "MOCK-FJ-0404",
     "question": "被撤销教师资格的，自撤销之日起，3 年内不得重新申请认定教师资格。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87167,7 +88307,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0443",
+    "id": "MOCK-FJ-0405",
     "question": "对于取得教师资格的公民而言，可以在本级及其以下等级的各类学校和其他教 育机构担任教师：高级中学教师资格与中等职业学校教师资格相互通用。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87191,7 +88331,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0444",
+    "id": "MOCK-FJ-0406",
     "question": "正强化增加行为反应的概率，负强化减少行为发生的概率。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87212,7 +88352,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0445",
+    "id": "MOCK-FJ-0407",
     "question": "表扬和奖励对学习总有促进作用。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87233,7 +88373,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0446",
+    "id": "MOCK-FJ-0408",
     "question": "程序教学指教材被分成若干小步子，学生按自定学习步调，让学生对所学内容 做出积极反应，并给予及时强化和反馈，使错误率降低。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87257,7 +88397,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0447",
+    "id": "MOCK-FJ-0409",
     "question": "教师职业的最大特点在于其职业的系统化。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87278,7 +88418,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0448",
+    "id": "MOCK-FJ-0410",
     "question": "学生是教育的对象，所以必须无条件地服从教师的指挥。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87299,7 +88439,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0449",
+    "id": "MOCK-FJ-0411",
     "question": "教师是学校教育工作的主要实施者，根本任务是传道授业。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87320,7 +88460,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0450",
+    "id": "MOCK-FJ-0412",
     "question": "在教育实践中，“言教”要重于“身教”。“言教”会让学生更能理解老师 的教育目的，更具有说服力和感染力。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87341,7 +88481,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0451",
+    "id": "MOCK-FJ-0413",
     "question": "教师的个性、情绪、健康以及处理人际关系的品质等统称为教师的人格特征。 ( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87365,7 +88505,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0452",
+    "id": "MOCK-FJ-0414",
     "question": "师生关系是影响教学质量的重要因素。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87388,7 +88528,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0453",
+    "id": "MOCK-FJ-0415",
     "question": "学生既是教育的对象，又是自我教育和发展的主体。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87411,7 +88551,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0454",
+    "id": "MOCK-FJ-0416",
     "question": "只要学好专业知识，就可以当好教师、搞好教学工作。( )",
     "type": "判断题",
     "module": "模拟题",
@@ -87433,7 +88573,7 @@ window.__QUESTION_BANK__ = [
     "correct_answers": []
   },
   {
-    "id": "MOCK-FJ-0455",
+    "id": "MOCK-FJ-0417",
     "question": "在“五一”国际劳动节到来之际，习近平向全国广大劳动群众致以节日祝贺和 诚挚慰问，希望广大劳动群众大力弘扬 、 、 ， 苦干实干、敬业奉献，在推动经济社会高质量发展中发挥主力军作用、展现主人 翁风采。",
     "type": "填空题",
     "module": "模拟题",
@@ -87452,7 +88592,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0456",
+    "id": "MOCK-FJ-0418",
     "question": "教育部《关于全面推进健康学校建设的指导意见》提出，实施劳动习惯养成计 划，要将劳动教育与 紧密结合。",
     "type": "填空题",
     "module": "模拟题",
@@ -87472,7 +88612,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0457",
+    "id": "MOCK-FJ-0419",
     "question": "中共中央办公厅印发《关于在全党开展树立和践行 学习教育的通知》， 于 2026 年春节假期后启动、7 月底基本结束。",
     "type": "填空题",
     "module": "模拟题",
@@ -87491,7 +88631,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0458",
+    "id": "MOCK-FJ-0420",
     "question": "《“人工智能+教育”行动计划》提出，到 年，人工智能与教育深度融 合格局基本形成。",
     "type": "填空题",
     "module": "模拟题",
@@ -87510,7 +88650,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0459",
+    "id": "MOCK-FJ-0421",
     "question": "围 绕 学 生 、 关 照 学 生 、 服 务 学 生 ， 把 握 学 生 成 长 规 律 ， 不 断 提 高 学 生 、 、 、 。",
     "type": "填空题",
     "module": "模拟题",
@@ -87529,7 +88669,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1722",
+    "id": "MOCK-CHOICE-1786",
     "question": "第三届全国大学生职业规划大赛全国总决赛、同期活动及颁奖展示活动在（ ） 举行。",
     "type": "单选题",
     "module": "模拟题",
@@ -87544,15 +88684,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "北京 B.天津",
-      "C": "重庆 D.上海"
+      "A": "北京",
+      "B": "天津",
+      "C": "重庆",
+      "D": "上海"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1723",
+    "id": "MOCK-CHOICE-1787",
     "question": "习近平在加强基础研究座谈会上强调,以更大力度更实举措加强基础研究 进 一步打牢（ ）建设根基。",
     "type": "单选题",
     "module": "模拟题",
@@ -87567,15 +88709,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教育强国 B.科技强国",
-      "C": "人才强国 D.原始创新"
+      "A": "教育强国",
+      "B": "科技强国",
+      "C": "人才强国",
+      "D": "原始创新"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1724",
+    "id": "MOCK-CHOICE-1788",
     "question": "2026 中国自动化与人工智能科普大会的主题是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -87600,7 +88744,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1725",
+    "id": "MOCK-CHOICE-1789",
     "question": "《习近平关于树立和践行正确政绩观论述摘编》指出，党员干部要努力创造经 得起哪些方面检验的实绩？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -87617,15 +88761,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "实践、人民、历史 B.历史、文化、社会",
-      "C": "时代、群众、实践 D.社会、人民、时代"
+      "A": "实践、人民、历史",
+      "B": "历史、文化、社会",
+      "C": "时代、群众、实践",
+      "D": "社会、人民、时代"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1726",
+    "id": "MOCK-CHOICE-1790",
     "question": "教育部 2 月 25 日召开的深入落实“健康第一”工作部署会强调，推进学生身 心健康工作要以什么为引领？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -87640,15 +88786,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "思政课程建设 B.校园文化建设",
-      "C": "教师队伍建设 D.健康学校建设"
+      "A": "思政课程建设",
+      "B": "校园文化建设",
+      "C": "教师队伍建设",
+      "D": "健康学校建设"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1727",
+    "id": "MOCK-CHOICE-1791",
     "question": "高等教育大众化是指高等教育毛入学率达到( )",
     "type": "单选题",
     "module": "模拟题",
@@ -87663,15 +88811,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "15%-30% B.15%-50%",
-      "C": "15%-60% D.20%-60%"
+      "A": "15%-30%",
+      "B": "15%-50%",
+      "C": "15%-60%",
+      "D": "20%-60%"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1728",
+    "id": "MOCK-CHOICE-1792",
     "question": "新时代大学阶段的思想政治理论课课程目标体系中，应重在增强学生的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -87687,15 +88837,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "道德情操 B.使命担当",
-      "C": "思想基础 D.政治素养"
+      "A": "道德情操",
+      "B": "使命担当",
+      "C": "思想基础",
+      "D": "政治素养"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1729",
+    "id": "MOCK-CHOICE-1793",
     "question": "《党章》规定，党员的党龄，从( )之日算起。",
     "type": "单选题",
     "module": "模拟题",
@@ -87711,15 +88863,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "递交入党申请书 B.递交入党志愿书",
-      "C": "支部大会通过其为预备党员 D.预备期满转为正式党员"
+      "A": "递交入党申请书",
+      "B": "递交入党志愿书",
+      "C": "支部大会通过其为预备党员",
+      "D": "预备期满转为正式党员"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1730",
+    "id": "MOCK-CHOICE-1794",
     "question": "毛泽东思想的活的灵魂是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -87744,7 +88898,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1731",
+    "id": "MOCK-CHOICE-1795",
     "question": "习近平总书记在全国宣传思想文化工作会议上作出重要指示强调，要坚持以 新时代中国特色社会主义思想为指导，全面贯彻党的二十大精神，聚焦( )这个 首要政治任务，不断提升国家文化软实力和中华文化影响力。",
     "type": "单选题",
     "module": "模拟题",
@@ -87769,7 +88923,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1732",
+    "id": "MOCK-CHOICE-1796",
     "question": "以下不属于新民主主义革命三大法宝的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -87784,15 +88938,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "党的建设 B.实事求是",
-      "C": "统一战线 D.武装斗争"
+      "A": "党的建设",
+      "B": "实事求是",
+      "C": "统一战线",
+      "D": "武装斗争"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1733",
+    "id": "MOCK-CHOICE-1797",
     "question": "《关于深化新时代学校思想政治理论课改革创新的若干意见》指出，在统筹 推进思政课课程内容建设过程中，要遵循学生认知规律设计课程内容，体现不同 学段特点，研究生阶段重在开展探究性学习，本专科阶段重在开展( )，高中 阶段重在开展常识性学习，初中阶段重在开展体验性学习，小学阶段重在开展启 蒙性学习。",
     "type": "单选题",
     "module": "模拟题",
@@ -87808,15 +88964,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "集中式学习 B.经常性学习",
-      "C": "理论性学习 D.互动式学习"
+      "A": "集中式学习",
+      "B": "经常性学习",
+      "C": "理论性学习",
+      "D": "互动式学习"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1734",
+    "id": "MOCK-CHOICE-1798",
     "question": "《普通高等学校学生党建工作标准》要求，对发展对象应进行短期集中培训， 时间一般不少于( )学时。",
     "type": "单选题",
     "module": "模拟题",
@@ -87833,15 +88991,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "16 B.24",
-      "C": "32 D.38"
+      "A": "16",
+      "B": "24",
+      "C": "32",
+      "D": "38"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1735",
+    "id": "MOCK-CHOICE-1799",
     "question": "“大学之道，在明明德，在亲民，在止于至善”出自哪部典著?（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -87856,15 +89016,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "《大学》 B.《中庸》",
-      "C": "《论语》 D.《孟子》"
+      "A": "《大学》",
+      "B": "《中庸》",
+      "C": "《论语》",
+      "D": "《孟子》"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1736",
+    "id": "MOCK-CHOICE-1800",
     "question": "教师常用表扬、称赞等方式，激励学生学习进步，其针对的学习动机理论是 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -87879,15 +89041,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "自我效能感理论 B.成就动机理论",
-      "C": "强化理论 D.动机归因论"
+      "A": "自我效能感理论",
+      "B": "成就动机理论",
+      "C": "强化理论",
+      "D": "动机归因论"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1737",
+    "id": "MOCK-CHOICE-1801",
     "question": "智龄(智力年龄)是( )首先提出的。",
     "type": "单选题",
     "module": "模拟题",
@@ -87902,15 +89066,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "比纳 B.西蒙",
-      "C": "推孟 D.梅里尔"
+      "A": "比纳",
+      "B": "西蒙",
+      "C": "推孟",
+      "D": "梅里尔"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1738",
+    "id": "MOCK-CHOICE-1802",
     "question": "在我国最早把“教”和“育”合成一个词来运用的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -87925,15 +89091,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "孔子 B.孟子",
-      "C": "许慎 D.韩愈"
+      "A": "孔子",
+      "B": "孟子",
+      "C": "许慎",
+      "D": "韩愈"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1739",
+    "id": "MOCK-CHOICE-1803",
     "question": "红色暴雨预警信号是指？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -87958,7 +89126,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1740",
+    "id": "MOCK-CHOICE-1804",
     "question": "在中国举起十月革命旗帜的第一人是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -87973,15 +89141,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "李大钊 B.陈独秀",
-      "C": "毛泽东 D.胡适"
+      "A": "李大钊",
+      "B": "陈独秀",
+      "C": "毛泽东",
+      "D": "胡适"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1741",
+    "id": "MOCK-CHOICE-1805",
     "question": "“北方吹来十月的风，惊醒我们苦兄弟。”这句歌词直接反映的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -87996,15 +89166,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "辛亥革命 B.五四运动",
-      "C": "马克思主义在中国的传播 D.毛泽东思想诞生"
+      "A": "辛亥革命",
+      "B": "五四运动",
+      "C": "马克思主义在中国的传播",
+      "D": "毛泽东思想诞生"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1742",
+    "id": "MOCK-CHOICE-1806",
     "question": "习近平总书记在全国教育大会上鲜明地提出了教育的工作目标，即教育要（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -88021,8 +89193,11 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "凝聚人心 B.完善人格 C.开发人力",
-      "D": "培育人才 E.造福人民"
+      "A": "凝聚人心",
+      "B": "完善人格",
+      "C": "开发人力",
+      "D": "培育人才",
+      "E": "造福人民"
     },
     "correct_answers": [
       "A",
@@ -88033,7 +89208,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1743",
+    "id": "MOCK-CHOICE-1807",
     "question": "我国高等教育发展方向要同我国发展的现实目标和未来方向紧密联系在一起， 为( )服务。",
     "type": "多选题",
     "module": "模拟题",
@@ -88048,8 +89223,11 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "人民 B.经济建设 C.科教兴国战略、人才强国战略",
-      "D": "中国共产党治国理政 E.巩固和发展中国特色社会主义制度",
+      "A": "人民",
+      "B": "经济建设",
+      "C": "科教兴国战略、人才强国战略",
+      "D": "中国共产党治国理政",
+      "E": "巩固和发展中国特色社会主义制度",
       "F": "改革开放和社会主义现代化建设"
     },
     "correct_answers": [
@@ -88060,7 +89238,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1744",
+    "id": "MOCK-CHOICE-1808",
     "question": "下面哪些属于《高等学校学生行为准则》的内容( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -88075,8 +89253,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "志存高远，坚定信念 B.热爱祖国，服务人民",
-      "C": "自尊自爱，注重仪表 D.遵纪守法，弘扬正气"
+      "A": "志存高远，坚定信念",
+      "B": "热爱祖国，服务人民",
+      "C": "自尊自爱，注重仪表",
+      "D": "遵纪守法，弘扬正气"
     },
     "correct_answers": [
       "A",
@@ -88085,7 +89265,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1745",
+    "id": "MOCK-CHOICE-1809",
     "question": "学生志愿服务要遵循( )原则。",
     "type": "多选题",
     "module": "模拟题",
@@ -88102,8 +89282,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "自愿 B.奉献",
-      "C": "互助 D.公益"
+      "A": "自愿",
+      "B": "奉献",
+      "C": "互助",
+      "D": "公益"
     },
     "correct_answers": [
       "A",
@@ -88111,7 +89293,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1746",
+    "id": "MOCK-CHOICE-1810",
     "question": "《关于加强和改进新形势下高校思想政治工作的意见》指出，加强和改进高校 思想政治工作必须坚持（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -88127,8 +89309,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教育规律 B.舆论宣传规律",
-      "C": "思想政治工作规律 D.学生成长规律"
+      "A": "教育规律",
+      "B": "舆论宣传规律",
+      "C": "思想政治工作规律",
+      "D": "学生成长规律"
     },
     "correct_answers": [
       "A",
@@ -88209,7 +89393,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1747",
+    "id": "MOCK-CHOICE-1811",
     "question": "2026 年政府工作报告指出，推动教育公平与质量提升，实施新时代立德树人 工程，促进思政课堂和（ ）有效融合。",
     "type": "单选题",
     "module": "模拟题",
@@ -88224,15 +89408,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "实践课堂 B.社会课堂",
-      "C": "网络课堂 D.校本课堂"
+      "A": "实践课堂",
+      "B": "社会课堂",
+      "C": "网络课堂",
+      "D": "校本课堂"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1748",
+    "id": "MOCK-CHOICE-1812",
     "question": "2026 年 4 月，教育部发布《普通高等学校本科专业目录（2026 年）》，文件 编制的核心牵引是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -88248,15 +89434,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "高校办学规模与招生人数 B.地方经济发展与就业需求",
-      "C": "学科排名与院校竞争需要 D.科技创新、产业发展和国家战略需求"
+      "A": "高校办学规模与招生人数",
+      "B": "地方经济发展与就业需求",
+      "C": "学科排名与院校竞争需要",
+      "D": "科技创新、产业发展和国家战略需求"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1749",
+    "id": "MOCK-CHOICE-1813",
     "question": "教育部部长怀进鹏在十四届全国人大四次会议民生主题记者会上提出，实施新 一轮学生心理健康促进行动，构建（ ）工作格局。",
     "type": "单选题",
     "module": "模拟题",
@@ -88272,15 +89460,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "全程育心 B.全员育心",
-      "C": "全面育心 D.全方位育心"
+      "A": "全程育心",
+      "B": "全员育心",
+      "C": "全面育心",
+      "D": "全方位育心"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1750",
+    "id": "MOCK-CHOICE-1814",
     "question": "《习近平关于树立和践行正确政绩观论述摘编》指出，党员干部要努力创造经 得起哪些方面检验的实绩?( )",
     "type": "单选题",
     "module": "模拟题",
@@ -88297,15 +89487,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "实践、人民、历史 B.历史、文化、社会",
-      "C": "时代、群众、实践 D.社会、人民、时代"
+      "A": "实践、人民、历史",
+      "B": "历史、文化、社会",
+      "C": "时代、群众、实践",
+      "D": "社会、人民、时代"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1751",
+    "id": "MOCK-CHOICE-1815",
     "question": "教育部 2 月 25 日召开的深入落实“健康第一”工作部署会强调，推进学生身 心健康工作要以什么为引领？（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -88320,15 +89512,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "思政课程建设 B.校园文化建设",
-      "C": "教师队伍建设 D.健康学校建设"
+      "A": "思政课程建设",
+      "B": "校园文化建设",
+      "C": "教师队伍建设",
+      "D": "健康学校建设"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1752",
+    "id": "MOCK-CHOICE-1816",
     "question": "习近平总书记在 2026 年新年贺词中，指出“十四五”期间我国发展成就的表 述，正确的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -88353,7 +89547,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1753",
+    "id": "MOCK-CHOICE-1817",
     "question": "2026 年全国教育工作会议提出，要以（ ）奋力推进新一年各项重大任务， 确保“十五五”高质量开局。",
     "type": "单选题",
     "module": "模拟题",
@@ -88368,15 +89562,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "斗争精神 B.奉献精神",
-      "C": "攻坚精神 D.工匠精神"
+      "A": "斗争精神",
+      "B": "奉献精神",
+      "C": "攻坚精神",
+      "D": "工匠精神"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1754",
+    "id": "MOCK-CHOICE-1818",
     "question": "中国共产党领导的第一次工人运动是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -88391,15 +89587,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "京汉铁路工人大罢工 B.五卅运动",
-      "C": "五四运动 D.香港海员罢工"
+      "A": "京汉铁路工人大罢工",
+      "B": "五卅运动",
+      "C": "五四运动",
+      "D": "香港海员罢工"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1755",
+    "id": "MOCK-CHOICE-1819",
     "question": "省级教育行政部门应当在接到学生书面申诉之日起（ ），对申诉人的问题给 予处理并作出决定。",
     "type": "单选题",
     "module": "模拟题",
@@ -88414,15 +89612,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "15 个工作日内 B.30 个工作日内",
-      "C": "15 个日内 D.30 个日内"
+      "A": "15 个工作日内",
+      "B": "30 个工作日内",
+      "C": "15 个日内",
+      "D": "30 个日内"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1756",
+    "id": "MOCK-CHOICE-1820",
     "question": "( )“四位一体”学生心理健康工作体系更加健全，学校、家庭、社会和相 关部门协同联动的学生心理健康工作格局更加完善。",
     "type": "单选题",
     "module": "模拟题",
@@ -88447,7 +89647,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1757",
+    "id": "MOCK-CHOICE-1821",
     "question": "《全面加强和改进新时代学生心理健康工作专项行动计划(2023-2025 年)》 提出 2025 年，开展心理健康教育的家庭教育指导服务站点比例达到( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88463,15 +89663,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "60% B.65%",
-      "C": "90% D.95%"
+      "A": "60%",
+      "B": "65%",
+      "C": "90%",
+      "D": "95%"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1758",
+    "id": "MOCK-CHOICE-1822",
     "question": "辅导员的职业名称( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88486,15 +89688,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "高等高校专业辅导员 B.高校职业辅导员",
-      "C": "高等学校辅导员 D.普通高等学校辅导员"
+      "A": "高等高校专业辅导员",
+      "B": "高校职业辅导员",
+      "C": "高等学校辅导员",
+      "D": "普通高等学校辅导员"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1759",
+    "id": "MOCK-CHOICE-1823",
     "question": "《教育部等八部门关于加快构建高校思想政治工作体系的意见》,完善高校专 职辅导员职业发展体系，建立( )“双线”晋升办法，学校应当结合实际情况为 专职辅导员专设一定比例的正高级专业技术岗位。",
     "type": "单选题",
     "module": "模拟题",
@@ -88511,15 +89715,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "职级、职业 B.职级、职称",
-      "C": "职务、职称 D.职务、职级"
+      "A": "职级、职业",
+      "B": "职级、职称",
+      "C": "职务、职称",
+      "D": "职务、职级"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1760",
+    "id": "MOCK-CHOICE-1824",
     "question": "建强马克思主义理论学科，需构建学科体系、（ ）、话语体系，这是提升 学科支撑力与影响力的核心路径。",
     "type": "单选题",
     "module": "模拟题",
@@ -88536,15 +89742,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教学体系 B.学术体系",
-      "C": "教材体系 D.管理体系"
+      "A": "教学体系",
+      "B": "学术体系",
+      "C": "教材体系",
+      "D": "管理体系"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1761",
+    "id": "MOCK-CHOICE-1825",
     "question": "《中国共产党发展党员工作细则》，第二章第十一条规定，党支部每（ ） 对入党积极分子进行一次考察。",
     "type": "单选题",
     "module": "模拟题",
@@ -88560,15 +89768,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "3 个月 B.4 个月",
-      "C": "半年 D.年"
+      "A": "3 个月",
+      "B": "4 个月",
+      "C": "半年",
+      "D": "年"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1762",
+    "id": "MOCK-CHOICE-1826",
     "question": "构建资助育人质量提升体系，把“扶困”与“扶智”，“扶困”与“扶志” 结合起来，建立“四位一体”的发展型资助体系，构建物质帮助、道德浸润、（ ）、 精神激励有效融合的资助育人长效机制。",
     "type": "单选题",
     "module": "模拟题",
@@ -88585,15 +89795,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学业帮扶 B.素养提升",
-      "C": "潜能开发 D.能力拓展"
+      "A": "学业帮扶",
+      "B": "素养提升",
+      "C": "潜能开发",
+      "D": "能力拓展"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1763",
+    "id": "MOCK-CHOICE-1827",
     "question": "新时期辅导员在工作中应坚持的工作理念是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -88608,15 +89820,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "管理为主，教育为辅 B.为学生服务理念",
-      "C": "教育为主，管理为辅 D.学生自主发展"
+      "A": "管理为主，教育为辅",
+      "B": "为学生服务理念",
+      "C": "教育为主，管理为辅",
+      "D": "学生自主发展"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1764",
+    "id": "MOCK-CHOICE-1828",
     "question": "在高校学生资助体系中，家庭经济困难学生一般可通过以下哪项解决生活费 问题？ （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -88642,7 +89856,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1765",
+    "id": "MOCK-CHOICE-1829",
     "question": "必须把教育摆在优先发展的战略地位思想的提出始自党的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88657,15 +89871,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "十二大 B.十三大",
-      "C": "十四大 D.十五大"
+      "A": "十二大",
+      "B": "十三大",
+      "C": "十四大",
+      "D": "十五大"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1766",
+    "id": "MOCK-CHOICE-1830",
     "question": "学习迁移的实质是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88680,15 +89896,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "新旧经验的整合过程 B.新旧知识的同化",
-      "C": "新旧知识的顺应 D.新旧经验重组"
+      "A": "新旧经验的整合过程",
+      "B": "新旧知识的同化",
+      "C": "新旧知识的顺应",
+      "D": "新旧经验重组"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1767",
+    "id": "MOCK-CHOICE-1831",
     "question": "党的二十届三中全会指出，进一步全面深化改革的总目标是 ,推进国家 治理体系和治理能力现代化。 ( )",
     "type": "单选题",
     "module": "模拟题",
@@ -88713,7 +89931,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1768",
+    "id": "MOCK-CHOICE-1832",
     "question": "心理学的“第一大势力”是指( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88728,15 +89946,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "精神分析 B.行为主义",
-      "C": "认知学派 D.人本主义"
+      "A": "精神分析",
+      "B": "行为主义",
+      "C": "认知学派",
+      "D": "人本主义"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1769",
+    "id": "MOCK-CHOICE-1833",
     "question": "党员的党龄，从（ ）之日算起？",
     "type": "单选题",
     "module": "模拟题",
@@ -88751,15 +89971,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "递交入党申请书之日 B.成为入党积极分子之日",
-      "C": "成为预备党员之日 D.预备期满转为正式党员之日"
+      "A": "递交入党申请书之日",
+      "B": "成为入党积极分子之日",
+      "C": "成为预备党员之日",
+      "D": "预备期满转为正式党员之日"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1770",
+    "id": "MOCK-CHOICE-1834",
     "question": "辅导员开展工作时要注重运用各种新的工作载体，特别是网络等现代科学技 术和手段，努力拓展工作途径，（ ）、（ ）、（ ），提高工作的针对性和 实效性，增强工作的吸引力和感染力。( )",
     "type": "单选题",
     "module": "模拟题",
@@ -88775,15 +89997,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "贴近学生、贴近学习、贴近生活 B.贴近实际、贴近生活、贴近学生",
-      "C": "贴近学生、贴近学习、贴近社会 D.贴近实际、贴近生活、贴近社会"
+      "A": "贴近学生、贴近学习、贴近生活",
+      "B": "贴近实际、贴近生活、贴近学生",
+      "C": "贴近学生、贴近学习、贴近社会",
+      "D": "贴近实际、贴近生活、贴近社会"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1771",
+    "id": "MOCK-CHOICE-1835",
     "question": "孔子曰：“求也退，故进之；由也兼人，故退之”。这句话体现的教学原则 是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -88798,15 +90022,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "循序渐进原则 B.量力性原则",
-      "C": "巩固性原则 D.因材施教原则"
+      "A": "循序渐进原则",
+      "B": "量力性原则",
+      "C": "巩固性原则",
+      "D": "因材施教原则"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1772",
+    "id": "MOCK-CHOICE-1836",
     "question": "中国式现代化是( )的最新重大成果。",
     "type": "单选题",
     "module": "模拟题",
@@ -88832,7 +90058,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1773",
+    "id": "MOCK-CHOICE-1837",
     "question": "毛泽东在( )中提出处理中国共产党和民主党派关系的方针是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88857,7 +90083,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1774",
+    "id": "MOCK-CHOICE-1838",
     "question": "中国西藏和平解放的时间是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -88872,15 +90098,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "1948 年 B.1949 年",
-      "C": "1950 年 D.1951 年"
+      "A": "1948 年",
+      "B": "1949 年",
+      "C": "1950 年",
+      "D": "1951 年"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1775",
+    "id": "MOCK-CHOICE-1839",
     "question": "新中国开始实行发展国民经济的第一个五年计划是在（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -88895,15 +90123,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "1950 年 B.1951 年",
-      "C": "1952 年 D.1953 年"
+      "A": "1950 年",
+      "B": "1951 年",
+      "C": "1952 年",
+      "D": "1953 年"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1776",
+    "id": "MOCK-CHOICE-1840",
     "question": "思想政治教育最主要、最基本的方法是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -88918,15 +90148,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "理论教育法 B.实践锻炼法",
-      "C": "榜样教育法 D.自我教育法"
+      "A": "理论教育法",
+      "B": "实践锻炼法",
+      "C": "榜样教育法",
+      "D": "自我教育法"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1777",
+    "id": "MOCK-CHOICE-1841",
     "question": "我们党要团结带领人民有效应对重大挑战、抵御重大风险、克服重大阻力、 解决重大矛盾，必须进行具有许多新的历史特点的( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88941,15 +90173,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "伟大工程 B.伟大斗争",
-      "C": "伟大事业 D.伟大梦想"
+      "A": "伟大工程",
+      "B": "伟大斗争",
+      "C": "伟大事业",
+      "D": "伟大梦想"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1778",
+    "id": "MOCK-CHOICE-1842",
     "question": "要构建共同推进思想政治工作的大格局，打造专兼结合的工作队伍，配齐配 强思想政治工作骨干队伍，充实优化兼职工作队伍，不断壮大( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -88975,7 +90209,32 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1779",
+    "id": "MOCK-CHOICE-1843",
+    "question": "“____”作为全国统一心理援助热线电话号码，近期有望投入运行。到 2025 年 5 月 1 日 0 时前，各地现有心理援助热线将与其连接，实现一个号码接通心理 援助热线。（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "心理健康"
+    ],
+    "reference_answer": "C “12356”作为全国统一心理援助热线电话号码，近期有望投入运行。到 2025 年 5 月 1 日 0 时前，各地现有心理援助热线将与“12356”连接，实现一个 号码接通心理援助热线。注：“12345”为政务服务便民热线；“12333”为人力 资源社会保障部门咨询电话；“12338”为妇女维权服务热线。",
+    "source_file": "173.蚌埠学院辅导员岗模拟题&模拟测试（一百七十三）(2).pdf",
+    "policy_basis": [
+      "173.蚌埠学院辅导员岗模拟题&模拟测试（一百七十三）(2).pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "12345",
+      "B": "12333",
+      "C": "12356",
+      "D": "12338"
+    },
+    "correct_answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-1844",
     "question": "要把加强（ ）作为教育事业发展最重要的基础工作来抓，提升教师素质， 改善教师待遇。",
     "type": "单选题",
     "module": "模拟题",
@@ -88990,15 +90249,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "师德师风建设 B.教材建设",
-      "C": "教师队伍建设 D.思想政治教育工作"
+      "A": "师德师风建设",
+      "B": "教材建设",
+      "C": "教师队伍建设",
+      "D": "思想政治教育工作"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1780",
+    "id": "MOCK-CHOICE-1845",
     "question": "必须牢牢掌握党对教育工作的领导权，始终坚持马克思主义指导地位，把 （ ）贯穿学校教育管理全过程，使教育领域成为坚持党的领导的坚强阵地。",
     "type": "单选题",
     "module": "模拟题",
@@ -89013,15 +90274,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "党的领导 B.马克思主义",
-      "C": "社会主义核心价值观 D.思想政治工作"
+      "A": "党的领导",
+      "B": "马克思主义",
+      "C": "社会主义核心价值观",
+      "D": "思想政治工作"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1781",
+    "id": "MOCK-CHOICE-1846",
     "question": "中国共产党三大优良作风是指（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -89046,7 +90309,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1782",
+    "id": "MOCK-CHOICE-1847",
     "question": "《将铸牢中华民族共同体意识融入办学治校、教书育人全过程》指出，要讲 好中国共产党和中国特色社会主义的故事，讲好新时代以中国式现代化全面推进 强国建设、民族复兴伟业的故事，讲好中华民族共同体和( )的故事，把中华 民族共同体意识从小就植入孩子们的心灵。",
     "type": "单选题",
     "module": "模拟题",
@@ -89062,15 +90325,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "民族团结进步 B.民族大融合",
-      "C": "各民族统一战线 D.民族交融"
+      "A": "民族团结进步",
+      "B": "民族大融合",
+      "C": "各民族统一战线",
+      "D": "民族交融"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1783",
+    "id": "MOCK-CHOICE-1848",
     "question": "在“四个意识”中，马克思主义政党发展的历史证明，没有（ ）就不能形 成统一的意志，就不会有战斗力、号召力、与凝聚力。",
     "type": "单选题",
     "module": "模拟题",
@@ -89086,15 +90351,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "核心意识 B.看齐意识",
-      "C": "大局意识 D.政治意识"
+      "A": "核心意识",
+      "B": "看齐意识",
+      "C": "大局意识",
+      "D": "政治意识"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1784",
+    "id": "MOCK-CHOICE-1849",
     "question": "在实际工作中，辅导员不可能对某些理论问题有深入的研究，为解答学生的 困惑，辅导员可以借助专家的力量来满足学生的需求。辅导员在此扮演的是( ) 角色。",
     "type": "单选题",
     "module": "模拟题",
@@ -89109,15 +90376,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "解惑者 B.管理者",
-      "C": "中介 D.组织者"
+      "A": "解惑者",
+      "B": "管理者",
+      "C": "中介",
+      "D": "组织者"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1785",
+    "id": "MOCK-CHOICE-1850",
     "question": "二十大报告指出，必须坚持（ ）是第一生产力、（ ）是第一资源、（ ）是 第一动力",
     "type": "单选题",
     "module": "模拟题",
@@ -89142,7 +90411,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1786",
+    "id": "MOCK-CHOICE-1851",
     "question": "高校党委常委会每学期至少召开 1 次会议专题研究思政课建设，高校党委书 记、校长每学期至少给学生讲授（ ）个课时思政课，高校领导班子其他成员每 学期至少给学生讲授（ ）个课时思政课，可重点讲授“形势与政策”课。",
     "type": "单选题",
     "module": "模拟题",
@@ -89158,15 +90427,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2 4 B.4 2",
-      "C": "2 1 D.1 2"
+      "A": "2 4",
+      "B": "4 2",
+      "C": "2 1",
+      "D": "1 2"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1787",
+    "id": "MOCK-CHOICE-1852",
     "question": "主管教育部门和高等学校应当建立健全思政课教师专业发展体系，定期组织 开展教学研讨，保证思政课专职教师每（ ）年至少接受一次专业培训。",
     "type": "单选题",
     "module": "模拟题",
@@ -89183,15 +90454,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "2 B.3",
-      "C": "4 D.5"
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1788",
+    "id": "MOCK-CHOICE-1853",
     "question": "依据《中华人民共和国教师法》，我国教师的职责是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -89207,15 +90480,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "教书育人 B.教育教学",
-      "C": "培养社会主义事业建设者和接班人 D.提高民族素质"
+      "A": "教书育人",
+      "B": "教育教学",
+      "C": "培养社会主义事业建设者和接班人",
+      "D": "提高民族素质"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1789",
+    "id": "MOCK-CHOICE-1854",
     "question": "《关于全面加强新时代大中小学劳动教育的意见》，为构建德智体美劳全面 培养的教育体系需要遵循的基本原则包括：（ ）；遵循教育规律；体现时代 特征；强化综合实施；坚持因地制宜。",
     "type": "单选题",
     "module": "模拟题",
@@ -89230,15 +90505,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "把握育人导向 B.注重育人实效",
-      "C": "突出育人价值 D.深化育人理念"
+      "A": "把握育人导向",
+      "B": "注重育人实效",
+      "C": "突出育人价值",
+      "D": "深化育人理念"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1790",
+    "id": "MOCK-CHOICE-1855",
     "question": "中国精神是以____为核心的民族精神，以____为核心的时代精神。",
     "type": "单选题",
     "module": "模拟题",
@@ -89253,15 +90530,44 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "改革创新 爱国主义 B.爱国主义 改革创新",
-      "C": "艰苦奋斗 集体主义 D.集体主义 艰苦奋斗"
+      "A": "改革创新 爱国主义",
+      "B": "爱国主义 改革创新",
+      "C": "艰苦奋斗 集体主义",
+      "D": "集体主义 艰苦奋斗"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1791",
+    "id": "MOCK-CHOICE-1856",
+    "question": "高校应当将党务工作和思想政治工作队伍建设纳入学校人才队伍建设总体规 划，专职党务工作人员和思想政治工作人员应当在编制内配足，总数不低于全校 师生人数的（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "党建思政",
+      "教育政策",
+      "法治法规"
+    ],
+    "reference_answer": "A 参考文件:《中国共产党普通高等学校基层组织工作条例》",
+    "source_file": "173.蚌埠学院辅导员岗模拟题&模拟测试（一百七十三）(2).pdf",
+    "policy_basis": [
+      "173.蚌埠学院辅导员岗模拟题&模拟测试（一百七十三）(2).pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "0.01",
+      "B": "0.02",
+      "C": "0.03",
+      "D": "0.05"
+    },
+    "correct_answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-1857",
     "question": "在影响人的发展的诸多因素中，起决定性作用的是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -89276,13 +90582,15 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "遗传 B.人的主观能动性",
-      "C": "教育 D.环境"
+      "A": "遗传",
+      "B": "人的主观能动性",
+      "C": "教育",
+      "D": "环境"
     },
     "correct_answers": []
   },
   {
-    "id": "MOCK-CHOICE-1792",
+    "id": "MOCK-CHOICE-1858",
     "question": "健全落实发展对象谈心谈话和政治审查制度。对发展对象应进行短期集中培 训，时间一般不少于（ ）个学时，培训突出思想入党和政治引领，并结合社会 实践和志愿服务等进行党情国情教育。",
     "type": "单选题",
     "module": "模拟题",
@@ -89299,15 +90607,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "24 B.40",
-      "C": "48 D.128"
+      "A": "24",
+      "B": "40",
+      "C": "48",
+      "D": "128"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1793",
+    "id": "MOCK-CHOICE-1859",
     "question": "加大心理健康教育培训力度，对新入职的辅导员、研究生导师开展心理健康 教育基本知识和技能全覆盖培训，对所有辅导员每（ ）年至少开展（ ）次心理 健康教育专题培训。",
     "type": "单选题",
     "module": "模拟题",
@@ -89323,15 +90633,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "3 1 B.5 1",
-      "C": "5 2 D.3 2"
+      "A": "3 1",
+      "B": "5 1",
+      "C": "5 2",
+      "D": "3 2"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1794",
+    "id": "MOCK-CHOICE-1860",
     "question": "上课记笔记属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89346,8 +90658,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "精加工策略 B.元认知策略",
-      "C": "复述策略 D.资源管理策略"
+      "A": "精加工策略",
+      "B": "元认知策略",
+      "C": "复述策略",
+      "D": "资源管理策略"
     },
     "correct_answers": [
       "A"
@@ -89372,7 +90686,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1795",
+    "id": "MOCK-CHOICE-1861",
     "question": "教育是新生一代成长与社会生活延续和发展不可缺少的手段，为一切人和一切 社会所必须，并与人类社会共始终。这表明教育具有（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89387,15 +90701,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "永恒性 B.历史性",
-      "C": "阶段性 D.生产性"
+      "A": "永恒性",
+      "B": "历史性",
+      "C": "阶段性",
+      "D": "生产性"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1796",
+    "id": "MOCK-CHOICE-1862",
     "question": "从课程类型来说，教室里的图画、标语及黑板报属于（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89412,15 +90728,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学科课程 B.活动课程",
-      "C": "显性课程 D.隐性课程"
+      "A": "学科课程",
+      "B": "活动课程",
+      "C": "显性课程",
+      "D": "隐性课程"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1797",
+    "id": "MOCK-CHOICE-1863",
     "question": "根据成就动机理论，一般来说，力求成功者会选择成功概率为（ ）的任务。",
     "type": "单选题",
     "module": "模拟题",
@@ -89435,15 +90753,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "10% B.90%",
-      "C": "100% D.50%"
+      "A": "10%",
+      "B": "90%",
+      "C": "100%",
+      "D": "50%"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1798",
+    "id": "MOCK-CHOICE-1864",
     "question": "当前，我国学校教学的基本形式是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -89459,15 +90779,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "班级授课制 B.个别教学",
-      "C": "复式教学 D.现场教学"
+      "A": "班级授课制",
+      "B": "个别教学",
+      "C": "复式教学",
+      "D": "现场教学"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1799",
+    "id": "MOCK-CHOICE-1865",
     "question": "发生学生伤害事故，学校与受伤害学生或者学生家长可以通过（ ）方式解 决；双方自愿，可以书面请求主管教育行政部门进行（ ）。成年学生或者未 成年学生的监护人也可以依法直接提起（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -89492,7 +90814,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1800",
+    "id": "MOCK-CHOICE-1866",
     "question": "思维可以逆转，但还不具备补偿性。这是（ ）的特点。",
     "type": "单选题",
     "module": "模拟题",
@@ -89507,15 +90829,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "感知运动阶段 B.具体运算阶段",
-      "C": "前运算阶段 D.形式运算阶段"
+      "A": "感知运动阶段",
+      "B": "具体运算阶段",
+      "C": "前运算阶段",
+      "D": "形式运算阶段"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1801",
+    "id": "MOCK-CHOICE-1867",
     "question": "研究表明，创造力与智力的关系并非简单的线性关系，以下关于创造力与智力 的关系，说法错误的是（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -89540,7 +90864,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1802",
+    "id": "MOCK-CHOICE-1868",
     "question": "因 1918 年出版《课程》一书而被称为“现代课程理论开拓者”的学者是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89555,15 +90879,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "杜威 B.博比特",
-      "C": "查斯特 D.泰勒"
+      "A": "杜威",
+      "B": "博比特",
+      "C": "查斯特",
+      "D": "泰勒"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1803",
+    "id": "MOCK-CHOICE-1869",
     "question": "（ ）的基本形式是在教师指导下学生运用书本知识解决实际问题。",
     "type": "单选题",
     "module": "模拟题",
@@ -89578,15 +90904,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "练习法 B.实验法",
-      "C": "实习作业法 D.参观法"
+      "A": "练习法",
+      "B": "实验法",
+      "C": "实习作业法",
+      "D": "参观法"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1804",
+    "id": "MOCK-CHOICE-1870",
     "question": "“教师让学生学会认知、学会生活、学会生存、学会做人、学会在实践中不 断地充实和完善自己”体现出（ ）的发展观。",
     "type": "单选题",
     "module": "模拟题",
@@ -89601,15 +90929,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "注重学生的可持续发展 B.注重学生的全面发展",
-      "C": "注重学生的非智力因素的发展 D.注重学生的智力因素的发展"
+      "A": "注重学生的可持续发展",
+      "B": "注重学生的全面发展",
+      "C": "注重学生的非智力因素的发展",
+      "D": "注重学生的智力因素的发展"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1805",
+    "id": "MOCK-CHOICE-1871",
     "question": "“蓬生麻中，不扶自直；白沙在涅，与之俱黑。”这句话反映了（ ）对人 的身心发展的影响。",
     "type": "单选题",
     "module": "模拟题",
@@ -89624,15 +90954,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "遗传素质 B.环境",
-      "C": "学校教育 D.个体主观能动性"
+      "A": "遗传素质",
+      "B": "环境",
+      "C": "学校教育",
+      "D": "个体主观能动性"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1806",
+    "id": "MOCK-CHOICE-1872",
     "question": "教师以他人的高尚思想、模范行为和卓越成就来影响学生品德的方法是 （ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -89647,15 +90979,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "说服法 B.榜样法",
-      "C": "陶冶法 D.锻炼法"
+      "A": "说服法",
+      "B": "榜样法",
+      "C": "陶冶法",
+      "D": "锻炼法"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1807",
+    "id": "MOCK-CHOICE-1873",
     "question": "（ ）被认为是最权威的智力测量量表。",
     "type": "单选题",
     "module": "模拟题",
@@ -89670,15 +91004,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "比纳-西蒙量表 B.斯坦福-比纳量表",
-      "C": "韦克斯勒智力量表 D.李克特量表"
+      "A": "比纳-西蒙量表",
+      "B": "斯坦福-比纳量表",
+      "C": "韦克斯勒智力量表",
+      "D": "李克特量表"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1808",
+    "id": "MOCK-CHOICE-1874",
     "question": "一些事例显示，对“兽孩”进行的教育都很不成功，这表明人的发展具有（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -89693,15 +91029,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "顺序性 B.可逆性",
-      "C": "模仿性 D.关键期"
+      "A": "顺序性",
+      "B": "可逆性",
+      "C": "模仿性",
+      "D": "关键期"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1809",
+    "id": "MOCK-CHOICE-1875",
     "question": "西方中世纪重视培养“教徒”和“传教士”，这决定了宗教神学在教育内容 中的基础性地位。这体现了教育目的的（ ）。",
     "type": "单选题",
     "module": "模拟题",
@@ -89716,15 +91054,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "导向功能 B.选择功能",
-      "C": "激励功能 D.评价功能"
+      "A": "导向功能",
+      "B": "选择功能",
+      "C": "激励功能",
+      "D": "评价功能"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1810",
+    "id": "MOCK-CHOICE-1876",
     "question": "《学生伤害事故处理办法》第十九条规定：“教育行政部门收到调解申请， 认为必要的，可以指定专门人员进行调解，并应当在受理申请之日起（ ）内 完成调解。”",
     "type": "单选题",
     "module": "模拟题",
@@ -89739,15 +91079,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "30 日 B.60 日",
-      "C": "90 日 D.一年"
+      "A": "30 日",
+      "B": "60 日",
+      "C": "90 日",
+      "D": "一年"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1811",
+    "id": "MOCK-CHOICE-1877",
     "question": "某教师在给学生讲述改革开放成就的同时，还鼓励学生通过“我和爸爸比童 年”活动，直观的了解改革开放以来社会的发展变化，该教师运用的德育原则是 （ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89762,15 +91104,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "正面疏导 B.因材施教",
-      "C": "长善救失 D.知行统一"
+      "A": "正面疏导",
+      "B": "因材施教",
+      "C": "长善救失",
+      "D": "知行统一"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1812",
+    "id": "MOCK-CHOICE-1878",
     "question": "下列不属于设立该学校必备的条件是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89787,15 +91131,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "有组织机构和章程 B.有充足的生源",
-      "C": "有合格的教师 D.有稳定的经费来源"
+      "A": "有组织机构和章程",
+      "B": "有充足的生源",
+      "C": "有合格的教师",
+      "D": "有稳定的经费来源"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1813",
+    "id": "MOCK-CHOICE-1879",
     "question": "决定教育领导权和受教育权的主要因素是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89810,15 +91156,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "社会生产力和科技发展水平 B.社会人口数量和质量",
-      "C": "社会文化传统 D.社会政治经济制度"
+      "A": "社会生产力和科技发展水平",
+      "B": "社会人口数量和质量",
+      "C": "社会文化传统",
+      "D": "社会政治经济制度"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1814",
+    "id": "MOCK-CHOICE-1880",
     "question": "下列对有关作品的说明，有误的是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -89844,7 +91192,33 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1815",
+    "id": "MOCK-CHOICE-1881",
+    "question": "罗杰斯认为“完人”是（ ）融为一体的人。",
+    "type": "多选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "综合知识"
+    ],
+    "reference_answer": "AB 罗杰斯认为“完人”是知情融为一体的人。",
+    "source_file": "174.安阳幼儿师范高等专科学校模拟题&模拟测试（一百七十四）.pdf",
+    "policy_basis": [
+      "174.安阳幼儿师范高等专科学校模拟题&模拟测试（一百七十四）.pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "知",
+      "B": "情",
+      "C": "意",
+      "D": "行"
+    },
+    "correct_answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-1882",
     "question": "关于教育学的独立及开始发展阶段，下列说法错误的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -89870,7 +91244,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1816",
+    "id": "MOCK-CHOICE-1883",
     "question": "以下人物赞成“教育万能论”观点的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -89885,8 +91259,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "洛克 B.爱尔维修",
-      "C": "欧文 D.高尔顿"
+      "A": "洛克",
+      "B": "爱尔维修",
+      "C": "欧文",
+      "D": "高尔顿"
     },
     "correct_answers": [
       "A",
@@ -89895,7 +91271,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1817",
+    "id": "MOCK-CHOICE-1884",
     "question": "罗杰斯认为促进学生学习的关键在于营造特定的心理气氛因素，包括（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -89910,8 +91286,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "真诚一致 B.无条件积极关注",
-      "C": "同理心 D.同情心"
+      "A": "真诚一致",
+      "B": "无条件积极关注",
+      "C": "同理心",
+      "D": "同情心"
     },
     "correct_answers": [
       "A",
@@ -89920,7 +91298,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1818",
+    "id": "MOCK-CHOICE-1885",
     "question": "在教学过程中，贯彻直观性原则的基本要求是（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -89947,7 +91325,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1819",
+    "id": "MOCK-CHOICE-1886",
     "question": "关于教育学的产生和发展，下列说法正确的是（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -89974,7 +91352,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1820",
+    "id": "MOCK-CHOICE-1887",
     "question": "下列属于迁移的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -89989,8 +91367,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "上行下效 B.闻一知十",
-      "C": "触类旁通 D.老马识途"
+      "A": "上行下效",
+      "B": "闻一知十",
+      "C": "触类旁通",
+      "D": "老马识途"
     },
     "correct_answers": [
       "B",
@@ -89998,7 +91378,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1821",
+    "id": "MOCK-CHOICE-1888",
     "question": "关于德育中的说服法，以下表述正确的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -90025,7 +91405,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1822",
+    "id": "MOCK-CHOICE-1889",
     "question": "以下关于道德认识转化为道德信念的条件说法正确的有（ ）。",
     "type": "多选题",
     "module": "模拟题",
@@ -90050,13 +91430,13 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0460",
-    "question": "关于教育学的产生和发展，下列说法正确的是（ ）。 A.苏格拉底认为女子应当和男子受同样的教育，从事同样的职业 B.老子是道家学派的创始人，主张“弃圣绝智”“弃仁绝义” C.《学记》是世界上最早专门论述教育的论著 D.赫尔巴特提出了“四阶段教学”理论，即明了、联想、系统、方法",
-    "type": "判断题",
+    "id": "MOCK-CHOICE-1890",
+    "question": "关于教育学的产生和发展，下列说法正确的是（ ）。",
+    "type": "单选题",
     "module": "模拟题",
-    "category": "填空/判断题",
+    "category": "选择题",
     "tags": [
-      "教育学原理"
+      "综合知识"
     ],
     "reference_answer": "A",
     "source_file": "174.安阳幼儿师范高等专科学校模拟题&模拟测试（一百七十四）.pdf",
@@ -90065,10 +91445,14 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "正确": "正确",
-      "错误": "错误"
+      "A": "苏格拉底认为女子应当和男子受同样的教育，从事同样的职业",
+      "B": "老子是道家学派的创始人，主张“弃圣绝智”“弃仁绝义”",
+      "C": "《学记》是世界上最早专门论述教育的论著",
+      "D": "赫尔巴特提出了“四阶段教学”理论，即明了、联想、系统、方法"
     },
-    "correct_answers": []
+    "correct_answers": [
+      "A"
+    ]
   },
   {
     "id": "MOCK-WRITE-0048",
@@ -90333,7 +91717,7 @@ window.__QUESTION_BANK__ = [
     "review_status": "PDF自动导入"
   },
   {
-    "id": "MOCK-CHOICE-1823",
+    "id": "MOCK-CHOICE-1891",
     "question": "2026 年 5 月，教育部部署开展第 3 个全国学生心理健康宣传教育月活动，本 次活动的主题是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -90360,7 +91744,81 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1824",
+    "id": "MOCK-CHOICE-1892",
+    "question": "首届人工智能高质量发展大会已于 2026 年 6 月 6 日在（ ）正式启幕。",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "党建思政",
+      "文化科技常识"
+    ],
+    "reference_answer": "D 首届人工智能高质量发展大会已于 2026 年 6 月 6 日在浙江省杭州市余 杭区正式启幕。 A 经基层党委预审合格的发展对象应当在一个月内提交党支部党员大会讨论。 次代表大会决议案》（即古田会议决议），确",
+    "source_file": "176.安徽理工大学辅导员岗模拟题&模拟测试（一百七十六）(2).pdf",
+    "policy_basis": [
+      "176.安徽理工大学辅导员岗模拟题&模拟测试（一百七十六）(2).pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "北京",
+      "B": "深圳",
+      "C": "广州",
+      "D": "杭州"
+    },
+    "correct_answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-1893",
+    "question": "经基层党委预审合格的发展对象，应当在（ ）内提交党支部党员大会讨论。",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "党建思政"
+    ],
+    "reference_answer": "以大学生全面发展为目标。",
+    "source_file": "176.安徽理工大学辅导员岗模拟题&模拟测试（一百七十六）(2).pdf",
+    "policy_basis": [
+      "176.安徽理工大学辅导员岗模拟题&模拟测试（一百七十六）(2).pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "一个月",
+      "B": "两个月",
+      "C": "三个月",
+      "D": "六个月"
+    },
+    "correct_answers": []
+  },
+  {
+    "id": "MOCK-CHOICE-1894",
+    "question": "下列哪次会议的决议案确立了党对军队的绝对领导原则？（ ）",
+    "type": "单选题",
+    "module": "模拟题",
+    "category": "选择题",
+    "tags": [
+      "文化科技常识"
+    ],
+    "reference_answer": "B A 项八七会议主要总结了大革命失败的经验教训，确定了土地革命和武装 反抗国民党反动派的总方针；B 项古田会议通过了《中国共产党红军第四军第九 立了党对军队的绝对领导原则，是 建设无产阶级性质人民军队的重要开端；C 项遵义会议集中解决了当时具有决定 意义的军事和组织问题，挽救了党、挽救了红军、挽救了中国革命，是中国共产 党历史上一个生死攸关的转折点；D 项瓦窑堡会议确立了建立抗日民族统一战线 的方针。 其核心是爱国主义精神。爱国主义是我们民族精神的核心，是中华民族团结奋斗、 自强不息的精神纽带",
+    "source_file": "176.安徽理工大学辅导员岗模拟题&模拟测试（一百七十六）(2).pdf",
+    "policy_basis": [
+      "176.安徽理工大学辅导员岗模拟题&模拟测试（一百七十六）(2).pdf"
+    ],
+    "review_status": "PDF自动导入",
+    "options": {
+      "A": "八七会议",
+      "B": "古田会议",
+      "C": "遵义会议",
+      "D": "瓦窑堡会议"
+    },
+    "correct_answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "MOCK-CHOICE-1895",
     "question": "五四运动孕育了以爱国、进步、民主、科学为主要内容的伟大五四精神，其核 心是（ ）精神。",
     "type": "单选题",
     "module": "模拟题",
@@ -90376,15 +91834,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "科学与民主 B.进步精神",
-      "C": "爱国主义 D.自强不息"
+      "A": "科学与民主",
+      "B": "进步精神",
+      "C": "爱国主义",
+      "D": "自强不息"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1825",
+    "id": "MOCK-CHOICE-1896",
     "question": "马克思主义最鲜明的政治立场是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -90410,7 +91870,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1826",
+    "id": "MOCK-CHOICE-1897",
     "question": "中国共产党的思想路线的核心内容是( )",
     "type": "单选题",
     "module": "模拟题",
@@ -90425,15 +91885,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "从群众中来，到群众中去 B.坚持马列主义、毛泽东思想",
-      "C": "解放思想、实事求是 D.坚持实践的观点"
+      "A": "从群众中来，到群众中去",
+      "B": "坚持马列主义、毛泽东思想",
+      "C": "解放思想、实事求是",
+      "D": "坚持实践的观点"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1827",
+    "id": "MOCK-CHOICE-1898",
     "question": "大学生自我教育、自我管理、自我服务的主要组织载体是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -90448,15 +91910,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "年级 B.班级",
-      "C": "党团支部 D.社团"
+      "A": "年级",
+      "B": "班级",
+      "C": "党团支部",
+      "D": "社团"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1828",
+    "id": "MOCK-CHOICE-1899",
     "question": "复查中发现学生身心状况不适宜在校学习，经学校指定的 以上医院诊断，需 要在家休养的，可以按照《普通高等学校学生管理规定》第十条的规定保留入学 资格。( )",
     "type": "单选题",
     "module": "模拟题",
@@ -90472,15 +91936,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "三级甲等 B.二级甲等",
-      "C": "三级乙等 D.二级乙等"
+      "A": "三级甲等",
+      "B": "二级甲等",
+      "C": "三级乙等",
+      "D": "二级乙等"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1829",
+    "id": "MOCK-CHOICE-1900",
     "question": "心理咨询最基本的原则( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -90495,15 +91961,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "保密原则 B.尊重原则",
-      "C": "人文关怀 D.心理疏导"
+      "A": "保密原则",
+      "B": "尊重原则",
+      "C": "人文关怀",
+      "D": "心理疏导"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1830",
+    "id": "MOCK-CHOICE-1901",
     "question": "《普通高等学校辅导员队伍建设规定》明确指出，“辅导员培训应当纳入高 等学校师资队伍和( )培训整体规划”",
     "type": "单选题",
     "module": "模拟题",
@@ -90519,15 +91987,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "管理队伍 B.专业人员队伍",
-      "C": "教师队伍 D.干部队伍"
+      "A": "管理队伍",
+      "B": "专业人员队伍",
+      "C": "教师队伍",
+      "D": "干部队伍"
     },
     "correct_answers": [
       "D"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1831",
+    "id": "MOCK-CHOICE-1902",
     "question": "二十大报告指出，人心是最大的政治，( )是凝聚人心、汇聚力量的强大 法宝。",
     "type": "单选题",
     "module": "模拟题",
@@ -90542,15 +92012,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "党的建设 B.武装斗争",
-      "C": "统一战线 D.党的领导"
+      "A": "党的建设",
+      "B": "武装斗争",
+      "C": "统一战线",
+      "D": "党的领导"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1832",
+    "id": "MOCK-CHOICE-1903",
     "question": "《关于进一步加强和改进大学生思想政治教育的意见》指出，加强和改进大 学生思想政治教育的重点是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -90566,15 +92038,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "爱国主义教育 B.理想信念教育",
-      "C": "思想道德建设 D.大学生全面发展"
+      "A": "爱国主义教育",
+      "B": "理想信念教育",
+      "C": "思想道德建设",
+      "D": "大学生全面发展"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1833",
+    "id": "MOCK-CHOICE-1904",
     "question": "“十个明确”是习近平新时代中国特色社会主义思想的核心内容，每一个“明 确”都是具有原创性的思想观点，集中反映着我们党对（ ）在当今时代的理论 思考和理论贡献。",
     "type": "单选题",
     "module": "模拟题",
@@ -90589,15 +92063,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "科学社会主义 B.共产主义",
-      "C": "马克思主义哲学 D.中国特色社会主义"
+      "A": "科学社会主义",
+      "B": "共产主义",
+      "C": "马克思主义哲学",
+      "D": "中国特色社会主义"
     },
     "correct_answers": [
       "A"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1834",
+    "id": "MOCK-CHOICE-1905",
     "question": "公文中涉密等级分为绝密、机密、秘密三个等级。下列关于涉密公文管理的 说法，错误的是( )。",
     "type": "单选题",
     "module": "模拟题",
@@ -90622,7 +92098,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1835",
+    "id": "MOCK-CHOICE-1906",
     "question": "《关于加强和改进新形势下高校思想政治工作的意见》中指出加强和改进高 校思想政治工作，事关（ ）的根本问题，事关党对高校的领导，事关中国特 色社会主义事业后继有人，是一项重大的政治任务和战略工程。",
     "type": "单选题",
     "module": "模拟题",
@@ -90648,7 +92124,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1836",
+    "id": "MOCK-CHOICE-1907",
     "question": "中国共产主义青年团贯彻（ ）原则，充分发挥党联系青年桥梁和纽带作用， 为党做好青年群众工作。",
     "type": "单选题",
     "module": "模拟题",
@@ -90663,15 +92139,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "党管团员 B.党管干部",
-      "C": "党管青年 D.党管学生"
+      "A": "党管团员",
+      "B": "党管干部",
+      "C": "党管青年",
+      "D": "党管学生"
     },
     "correct_answers": [
       "C"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1837",
+    "id": "MOCK-CHOICE-1908",
     "question": "辅导员开展工作时要注重运用各种新的工作载体，特别是网络等现代科学技 术和手段，努力拓展工作途径，（ ）、（ ）、（ ），提高工作的针对性和 实效性，增强工作的吸引力和感染力。( )",
     "type": "单选题",
     "module": "模拟题",
@@ -90687,15 +92165,17 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "贴近学生、贴近学习、贴近生活 B.贴近实际、贴近生活、贴近学生",
-      "C": "贴近学生、贴近学习、贴近社会 D.贴近实际、贴近生活、贴近社会"
+      "A": "贴近学生、贴近学习、贴近生活",
+      "B": "贴近实际、贴近生活、贴近学生",
+      "C": "贴近学生、贴近学习、贴近社会",
+      "D": "贴近实际、贴近生活、贴近社会"
     },
     "correct_answers": [
       "B"
     ]
   },
   {
-    "id": "MOCK-CHOICE-1838",
+    "id": "MOCK-CHOICE-1909",
     "question": "高等学校学生行为准则主要内容为:志存高远，坚定信念；热爱祖国，服务人 民；勤奋学习，自强不息；遵纪守法，弘扬正气；（ ）；明礼修身，团结友 爱；勤俭节约，艰苦奋斗；强健体魄，热爱生活。",
     "type": "单选题",
     "module": "模拟题",
@@ -90720,7 +92200,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1839",
+    "id": "MOCK-CHOICE-1910",
     "question": "《普通高等学校辅导员队伍建设规定》的施行时间是（ ）",
     "type": "单选题",
     "module": "模拟题",
@@ -90746,7 +92226,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1840",
+    "id": "MOCK-CHOICE-1911",
     "question": "统筹推进思政课课程内容建设，坚持用习近平新时代中国特色社会主义思想铸 魂育人，以（ ）为重点，系统开展马克思主义理论教育。",
     "type": "多选题",
     "module": "模拟题",
@@ -90763,8 +92243,11 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "政治认同 B.家国情怀 C.道德修养",
-      "D": "法治意识 E.文化素养"
+      "A": "政治认同",
+      "B": "家国情怀",
+      "C": "道德修养",
+      "D": "法治意识",
+      "E": "文化素养"
     },
     "correct_answers": [
       "A",
@@ -90775,7 +92258,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1841",
+    "id": "MOCK-CHOICE-1912",
     "question": "公文格式中，眉首部分包括( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -90790,8 +92273,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "发文机关标志 B.发文字号",
-      "C": "签发人 D.版记中的抄送机关"
+      "A": "发文机关标志",
+      "B": "发文字号",
+      "C": "签发人",
+      "D": "版记中的抄送机关"
     },
     "correct_answers": [
       "A",
@@ -90800,7 +92285,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1842",
+    "id": "MOCK-CHOICE-1913",
     "question": "《普通高等学校辅导员队伍建设规定》在修订中提到，辅导员要及时了解网络 舆情信息，密切关注学生的网络动态，敏锐把握一些（ ）问题。",
     "type": "多选题",
     "module": "模拟题",
@@ -90817,8 +92302,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "苗头性 B.倾向性",
-      "C": "普遍性 D.群体性"
+      "A": "苗头性",
+      "B": "倾向性",
+      "C": "普遍性",
+      "D": "群体性"
     },
     "correct_answers": [
       "A",
@@ -90827,7 +92314,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1843",
+    "id": "MOCK-CHOICE-1914",
     "question": "省级教育部门应当根据区域内现有高等学校辅导员规模数量设立辅导员培训 专项经费，建立辅导员培训和研修基地，承担所在区域内高等学校辅导员的（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -90843,8 +92330,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "岗前培训 B.专项培训",
-      "C": "日常培训 D.骨干培训"
+      "A": "岗前培训",
+      "B": "专项培训",
+      "C": "日常培训",
+      "D": "骨干培训"
     },
     "correct_answers": [
       "A",
@@ -90853,7 +92342,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1844",
+    "id": "MOCK-CHOICE-1915",
     "question": "坚持资助育人导向，在奖学金评选发放环节，全面考察学生的( )等方面的综 合表现，培养学生奋斗精神和感恩意识。",
     "type": "多选题",
     "module": "模拟题",
@@ -90870,8 +92359,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "学习成绩 B.创新发展",
-      "C": "社会实践 D.道德品质",
+      "A": "学习成绩",
+      "B": "创新发展",
+      "C": "社会实践",
+      "D": "道德品质",
       "E": "文化素养"
     },
     "correct_answers": [
@@ -90882,7 +92373,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1845",
+    "id": "MOCK-CHOICE-1916",
     "question": "四风包括（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -90897,8 +92388,11 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "形式主义 B.享乐主义",
-      "C": "教条主义 D.官僚主义 E.奢靡之风"
+      "A": "形式主义",
+      "B": "享乐主义",
+      "C": "教条主义",
+      "D": "官僚主义",
+      "E": "奢靡之风"
     },
     "correct_answers": [
       "A",
@@ -90908,7 +92402,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1846",
+    "id": "MOCK-CHOICE-1917",
     "question": "《普通高等学校学生管理规定》指出，培育和践行社会主义核心价值观，弘扬 中华优秀传统文化和革命文化、社会主义先进文化，培养学生的（ ）",
     "type": "多选题",
     "module": "模拟题",
@@ -90925,8 +92419,11 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "社会责任感 B.爱国主义思想",
-      "C": "创新精神 D.实践能力 E.法治观念"
+      "A": "社会责任感",
+      "B": "爱国主义思想",
+      "C": "创新精神",
+      "D": "实践能力",
+      "E": "法治观念"
     },
     "correct_answers": [
       "A",
@@ -90935,7 +92432,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1847",
+    "id": "MOCK-CHOICE-1918",
     "question": "《教育部等八部门关于加快构建高校思想政治工作体系的意见》中提出健全立 德树人体制机制，把立德树人融入( )各环节.",
     "type": "多选题",
     "module": "模拟题",
@@ -90951,8 +92448,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "思想道德 B.文化知识",
-      "C": "社会实践教育 D.劳动教育"
+      "A": "思想道德",
+      "B": "文化知识",
+      "C": "社会实践教育",
+      "D": "劳动教育"
     },
     "correct_answers": [
       "A",
@@ -90961,7 +92460,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1848",
+    "id": "MOCK-CHOICE-1919",
     "question": "办好中国特色社会主义高校的根本保证是( )。",
     "type": "多选题",
     "module": "模拟题",
@@ -90977,8 +92476,10 @@ window.__QUESTION_BANK__ = [
     ],
     "review_status": "PDF自动导入",
     "options": {
-      "A": "坚持党对高校的领导 B.加强和改进高校党的建设",
-      "C": "建立现代大学制度 D.依法治校"
+      "A": "坚持党对高校的领导",
+      "B": "加强和改进高校党的建设",
+      "C": "建立现代大学制度",
+      "D": "依法治校"
     },
     "correct_answers": [
       "A",
@@ -90986,7 +92487,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-CHOICE-1849",
+    "id": "MOCK-CHOICE-1920",
     "question": "《普通高等学校辅导员队伍建设规定》(教育部令第 43 号)中规定，辅导员的 主要工作职责之一是思想理论教育和价值引领，其中包括( )",
     "type": "多选题",
     "module": "模拟题",
@@ -91017,7 +92518,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0461",
+    "id": "MOCK-FJ-0422",
     "question": "全国人大常委会通过决定，将 设立为台湾光复纪念日。",
     "type": "填空题",
     "module": "模拟题",
@@ -91036,7 +92537,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0462",
+    "id": "MOCK-FJ-0423",
     "question": "负责学位授予资格审批的单位应当自受理申请之日起九十日内作出决议，并向 社会公示。公示期不少于 。",
     "type": "填空题",
     "module": "模拟题",
@@ -91055,7 +92556,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0463",
+    "id": "MOCK-FJ-0424",
     "question": "辅导员思想理论教育和价值引领工作职责中，掌握学生思想行为特点及思想政 治状况，有针对性地帮助学生处理好思想认识、 、 、 择业交友等方面的具体问题。",
     "type": "填空题",
     "module": "模拟题",
@@ -91074,7 +92575,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0464",
+    "id": "MOCK-FJ-0425",
     "question": "高等学校应当按总体上师生比不低于 1:200 的比例设置专职辅导员岗位，按 照 、 的原则，足额配备到位。",
     "type": "填空题",
     "module": "模拟题",
@@ -91093,7 +92594,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0465",
+    "id": "MOCK-FJ-0426",
     "question": "新时代大学阶段的思想政治理论课课程目标体系中，应重在增强学生的 。",
     "type": "填空题",
     "module": "模拟题",
@@ -91113,7 +92614,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0466",
+    "id": "MOCK-FJ-0427",
     "question": "《党章》规定，党员的党龄，从 之日算起。",
     "type": "填空题",
     "module": "模拟题",
@@ -91133,7 +92634,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0467",
+    "id": "MOCK-FJ-0428",
     "question": "党的二十大报告指出，实现中华民族伟大复兴的必由之路是 。",
     "type": "填空题",
     "module": "模拟题",
@@ -91152,7 +92653,7 @@ window.__QUESTION_BANK__ = [
     ]
   },
   {
-    "id": "MOCK-FJ-0468",
+    "id": "MOCK-FJ-0429",
     "question": "教育部门《关于进一步加强高校实践育人工作的若干意见》要求每个本科学生 在学期间参加社会实践活动的时间累积应不少于 。",
     "type": "填空题",
     "module": "模拟题",
