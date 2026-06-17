@@ -232,7 +232,9 @@ function renderModuleNav() {
   const icon = { 简答题: "答", 选择题: "选", 填空题: "填", 模拟题: "模", 每日一练: "练" };
   els.moduleNav.innerHTML = state.modules
     .map((module) => {
-      const questions = module.name === state.activeModule ? state.filtered : questionsForModule(module.name);
+      const questions = module.name === state.activeModule
+        ? navigationQuestionsForModule(module.name)
+        : questionsForModule(module.name);
       const open = state.openModules.has(module.name);
       const active = module.name === state.activeModule ? "active" : "";
       const tree = !open
@@ -330,6 +332,31 @@ function renderQuestionTree(moduleName, questions) {
     .join("");
 
   return `<div class="question-tree mock-tree" data-tree="${escapeHtml(moduleName)}">${groups}</div>`;
+}
+
+function navigationQuestionsForModule(moduleName) {
+  if (moduleName !== "模拟题") return state.filtered;
+  const searchText = state.search.toLowerCase();
+  return questionsForModule(moduleName).filter((question) => {
+    const tagMatch = state.selectedTag === ALL || (question.tags || []).includes(state.selectedTag);
+    const progressMatch =
+      state.progressFilter === "all" ||
+      (state.progressFilter === "mastered" && state.mastered.has(question.id)) ||
+      (state.progressFilter === "unmastered" && !state.mastered.has(question.id)) ||
+      (state.progressFilter === "wrong" && state.wrong.has(question.id));
+    const haystack = [
+      question.question,
+      question.reference_answer,
+      ...(question.memory_outline || []),
+      ...(question.policy_basis || []),
+      question.source_file || "",
+      ...Object.values(question.options || {}),
+      ...(question.blanks || []),
+    ]
+      .join(" ")
+      .toLowerCase();
+    return progressMatch && tagMatch && (!searchText || haystack.includes(searchText));
+  });
 }
 
 function renderDailyPracticeTree(moduleName, questions) {
@@ -513,7 +540,12 @@ function renderMockQuestion(question, index, submitted) {
   const answerHtml = renderMockAnswerInput(question, answer, submitted);
   const analysisHtml = submitted
     ? `<div class="mock-analysis">
-        <div class="${resultClass}">${escapeHtml(mockResultText(question, result))}</div>
+        <div class="mock-analysis-head">
+          <div class="${resultClass}">${escapeHtml(mockResultText(question, result))}</div>
+          <button class="danger-button mock-wrong-button" type="button" data-mock-wrong="${escapeHtml(question.id)}">
+            ${state.wrong.has(question.id) ? "移出错题" : "标记错题"}
+          </button>
+        </div>
         <div><strong>参考答案：</strong>${escapeHtml(question.reference_answer || "暂无参考答案")}</div>
       </div>`
     : "";
@@ -583,6 +615,22 @@ function bindMockPaperInputs() {
       if (question) setMockAnswer(question, input.value);
     });
   });
+  els.objectiveInputs.querySelectorAll("[data-mock-wrong]").forEach((button) => {
+    button.addEventListener("click", () => toggleMockWrong(button.dataset.mockWrong));
+  });
+}
+
+function toggleMockWrong(questionId) {
+  if (!questionId) return;
+  if (state.wrong.has(questionId)) {
+    state.wrong.delete(questionId);
+  } else {
+    state.wrong.add(questionId);
+  }
+  persistProgress();
+  renderModuleNav();
+  renderActiveQuestion();
+  renderProgress();
 }
 
 function submitMockPaper() {

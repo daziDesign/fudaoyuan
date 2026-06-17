@@ -580,6 +580,17 @@ h1 {
   line-height: 1.7;
 }
 
+.mock-analysis-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.mock-wrong-button {
+  flex: 0 0 auto;
+}
+
 .choice-list,
 .fill-list {
   display: grid;
@@ -912,5 +923,9 @@ li {
 
   .mock-question-card {
     padding: 14px;
+  }
+
+  .mock-analysis-head {
+    flex-direction: column;
   }
 }
