@@ -227,6 +227,35 @@ textarea:focus {
   transform: rotate(-90deg);
 }
 
+.mock-paper-button {
+  display: grid;
+  gap: 4px;
+  width: 100%;
+  margin-bottom: 6px;
+  padding: 9px 10px;
+  border-radius: 10px;
+  background: transparent;
+  color: #5f6770;
+  text-align: left;
+  line-height: 1.45;
+}
+
+.mock-paper-button span {
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.mock-paper-button small {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.mock-paper-button.active {
+  background: #fff;
+  color: var(--text);
+  box-shadow: 0 8px 24px rgba(20, 24, 33, 0.08);
+}
+
 .progress-card {
   margin-top: auto;
   padding: 14px;
@@ -476,6 +505,79 @@ h1 {
 .objective-answer-box {
   max-width: 760px;
   margin: 0 auto;
+}
+
+.mock-paper {
+  display: grid;
+  gap: 16px;
+}
+
+.mock-paper-summary {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 16px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #f7f9ff;
+}
+
+.mock-paper-summary div {
+  display: grid;
+  gap: 4px;
+}
+
+.mock-paper-summary strong {
+  font-size: 18px;
+}
+
+.mock-paper-summary span,
+.mock-paper-summary small {
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.mock-question-card {
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 14px 42px rgba(20, 24, 33, 0.06);
+}
+
+.mock-question-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 10px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.mock-question-card h3 {
+  margin: 0 0 14px;
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+.mock-text-answer {
+  min-height: 120px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+
+.mock-analysis {
+  display: grid;
+  gap: 8px;
+  margin-top: 14px;
+  padding: 14px;
+  border-radius: 12px;
+  background: #fbfbfc;
+  color: #3f4652;
+  line-height: 1.7;
 }
 
 .choice-list,
@@ -802,5 +904,13 @@ li {
 
   #questionTitle {
     font-size: 23px;
+  }
+
+  .mock-paper-summary {
+    flex-direction: column;
+  }
+
+  .mock-question-card {
+    padding: 14px;
   }
 }

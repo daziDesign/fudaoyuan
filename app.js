@@ -32,7 +32,9 @@ const state = {
   analysisVisible: false,
   outlineOpen: false,
   openModules: new Set(["简答题"]),
-  openMockCategories: new Set(["选择题", "填空/判断题", "简答题", "分析论述题", "写作题"]),
+  activeMockPaper: "",
+  mockAnswers: JSON.parse(localStorage.getItem("counselor-mock-answers") || "{}"),
+  submittedMockPapers: new Set(JSON.parse(localStorage.getItem("counselor-mock-submitted") || "[]")),
   openDailyCategories: new Set(["单选题", "多选题", "判断题", "填空题", "主观题"]),
   recognizing: false,
   recognition: null,
@@ -177,7 +179,8 @@ function renderTagFilters() {
 
 function applyFilters() {
   const searchText = state.search.toLowerCase();
-  state.filtered = questionsForActiveModule().filter((question) => {
+  const moduleQuestions = questionsForActiveModule();
+  const matchingQuestions = moduleQuestions.filter((question) => {
     const tagMatch = state.selectedTag === ALL || (question.tags || []).includes(state.selectedTag);
     const progressMatch =
       state.progressFilter === "all" ||
@@ -197,11 +200,26 @@ function applyFilters() {
     return progressMatch && tagMatch && (!searchText || haystack.includes(searchText));
   });
 
+  if (state.activeModule === "模拟题") {
+    const papers = mockPaperGroups(matchingQuestions);
+    if (!papers.some((paper) => paper.source === state.activeMockPaper)) {
+      state.activeMockPaper = papers[0]?.source || "";
+    }
+    state.filtered = state.activeMockPaper
+      ? matchingQuestions.filter((question) => mockQuestionSource(question) === state.activeMockPaper)
+      : matchingQuestions;
+  } else {
+    state.filtered = matchingQuestions;
+  }
+
   if (state.activeIndex >= state.filtered.length) {
     state.activeIndex = Math.max(0, state.filtered.length - 1);
   }
 
   state.showAnswer = false;
+  if (state.activeModule !== "模拟题") {
+    state.activeMockPaper = "";
+  }
   clearAnalysis();
   renderTagFilters();
   renderModuleNav();
@@ -250,13 +268,15 @@ function renderModuleNav() {
     });
   });
 
-  els.moduleNav.querySelectorAll("button[data-mock-category-toggle]").forEach((button) => {
+  els.moduleNav.querySelectorAll("button[data-mock-paper]").forEach((button) => {
     button.addEventListener("click", (event) => {
       event.stopPropagation();
-      const category = button.dataset.mockCategoryToggle;
-      if (state.openMockCategories.has(category)) state.openMockCategories.delete(category);
-      else state.openMockCategories.add(category);
-      renderModuleNav();
+      state.activeModule = button.dataset.module;
+      state.activeMockPaper = button.dataset.mockPaper;
+      state.activeIndex = 0;
+      state.showAnswer = false;
+      resetQuestionInput();
+      applyFilters();
     });
   });
 
@@ -297,24 +317,15 @@ function renderQuestionTree(moduleName, questions) {
     }</div>`;
   }
 
-  const categories = ["选择题", "填空/判断题", "简答题", "分析论述题", "写作题"];
-  const groups = categories
-    .map((category) => {
-      const items = questions
-        .map((question, index) => ({ question, index }))
-        .filter((item) => item.question.category === category);
-      if (!items.length) return "";
-      const open = state.openMockCategories.has(category);
-      return `<div class="mock-category">
-        <button class="mock-category-title ${open ? "" : "collapsed"}" type="button" data-mock-category-toggle="${escapeHtml(category)}">
-          <span>${escapeHtml(category)}</span>
-          <small>${items.length}</small>
-          <span class="mock-category-caret" aria-hidden="true">⌄</span>
-        </button>
-        <div class="mock-category-questions" ${open ? "" : "hidden"}>
-          ${items.map((item) => renderQuestionTreeButton(moduleName, item.question, item.index)).join("")}
-        </div>
-      </div>`;
+  const groups = mockPaperGroups(questions)
+    .map((paper) => {
+      const selected = paper.source === state.activeMockPaper ? "active" : "";
+      const submitted = state.submittedMockPapers.has(paper.source);
+      const score = submitted ? calculateMockPaperScore(paper.questions) : null;
+      return `<button class="mock-paper-button ${selected}" type="button" data-module="${escapeHtml(moduleName)}" data-mock-paper="${escapeHtml(paper.source)}">
+        <span>${escapeHtml(mockPaperTitle(paper.source))}</span>
+        <small>${paper.questions.length} 道${score ? ` · ${score.scoreText}` : ""}</small>
+      </button>`;
     })
     .join("");
 
@@ -344,6 +355,36 @@ function renderDailyPracticeTree(moduleName, questions) {
     .join("");
 
   return `<div class="question-tree daily-tree" data-tree="${escapeHtml(moduleName)}">${groups}</div>`;
+}
+
+function mockQuestionSource(question) {
+  return question.source_file || (question.policy_basis || [])[0] || "未分套模拟题";
+}
+
+function mockPaperGroups(questions) {
+  const groups = new Map();
+  questions.forEach((question) => {
+    const source = mockQuestionSource(question);
+    if (!groups.has(source)) groups.set(source, []);
+    groups.get(source).push(question);
+  });
+  return [...groups.entries()]
+    .map(([source, paperQuestions]) => ({ source, questions: paperQuestions }))
+    .sort((a, b) => mockPaperNumber(a.source) - mockPaperNumber(b.source) || a.source.localeCompare(b.source, "zh-CN"));
+}
+
+function mockPaperNumber(source) {
+  const match = String(source || "").match(/^(\d+)/);
+  return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
+}
+
+function mockPaperTitle(source) {
+  const name = String(source || "未分套模拟题").replace(/\.pdf$/i, "");
+  const number = mockPaperNumber(name);
+  if (Number.isFinite(number) && number !== Number.MAX_SAFE_INTEGER) {
+    return `第 ${number} 套 · ${name.replace(/^\d+[.．、]?\s*/, "")}`;
+  }
+  return name;
 }
 
 function renderQuestionTreeButton(moduleName, question, index) {
@@ -378,6 +419,18 @@ function renderActiveQuestion() {
     return;
   }
 
+  if (state.activeModule === "模拟题") {
+    renderMockPaper();
+    return;
+  }
+
+  els.prevButton.hidden = false;
+  els.nextButton.hidden = false;
+  els.randomButton.hidden = false;
+  els.toggleAnswerButton.hidden = false;
+  els.masterButton.hidden = false;
+  els.wrongButton.hidden = false;
+  els.submitAnswerButton.textContent = "提交";
   els.questionIndex.textContent = `第 ${state.activeIndex + 1} / ${state.filtered.length} 题`;
   els.questionStatus.textContent = statusText(question);
   els.questionTitle.textContent = question.question;
@@ -407,6 +460,212 @@ function renderActiveQuestion() {
   if (!shortAnswer && els.objectiveInputs.dataset.questionId !== question.id) {
     renderObjectiveInputs(question);
   }
+}
+
+function renderMockPaper() {
+  const questions = state.filtered;
+  const paperSource = state.activeMockPaper || mockQuestionSource(questions[0]);
+  const submitted = state.submittedMockPapers.has(paperSource);
+  const score = calculateMockPaperScore(questions);
+
+  els.prevButton.hidden = true;
+  els.nextButton.hidden = true;
+  els.randomButton.hidden = true;
+  els.toggleAnswerButton.hidden = true;
+  els.masterButton.hidden = true;
+  els.wrongButton.hidden = true;
+  els.submitAnswerButton.hidden = !questions.length;
+  els.submitAnswerButton.textContent = submitted ? "重新答题" : "提交试卷";
+  els.questionIndex.textContent = `${questions.length} 道题`;
+  els.questionStatus.textContent = submitted ? `已交卷 · ${score.scoreText}` : "答题中";
+  els.questionTitle.textContent = mockPaperTitle(paperSource);
+  els.multiChoiceBadge.textContent = "套卷";
+  els.multiChoiceBadge.hidden = false;
+  els.activeTags.innerHTML = `<span class="active-tag">${escapeHtml(paperSource)}</span>`;
+  els.shortAnswerBox.hidden = true;
+  els.objectiveAnswerBox.hidden = false;
+  els.outlineButton.hidden = true;
+  els.answerPanel.hidden = true;
+  els.analysisPanel.hidden = true;
+  els.policyBasisSection.hidden = true;
+  els.breadcrumb.textContent = "Overview / 模拟题";
+  els.practiceTitle.textContent = "模拟题套卷";
+  renderList(els.memoryOutline, []);
+
+  els.objectiveInputs.dataset.questionId = `mock-paper:${paperSource}`;
+  els.objectiveInputs.innerHTML = `<div class="mock-paper">
+    <div class="mock-paper-summary">
+      <div>
+        <strong>${submitted ? score.scoreText : "整套作答"}</strong>
+        <span>${submitted ? score.detailText : "提交试卷后统一显示答案解析和最终分数。"}</span>
+      </div>
+      <small>客观题自动计分，主观题提交后展示参考答案。</small>
+    </div>
+    ${questions.map((question, index) => renderMockQuestion(question, index, submitted)).join("")}
+  </div>`;
+  bindMockPaperInputs();
+}
+
+function renderMockQuestion(question, index, submitted) {
+  const answer = getMockAnswer(question);
+  const result = submitted ? scoreMockQuestion(question) : null;
+  const resultClass = result?.gradable ? (result.score >= 1 ? "correct-text" : "incorrect-text") : "muted-text";
+  const answerHtml = renderMockAnswerInput(question, answer, submitted);
+  const analysisHtml = submitted
+    ? `<div class="mock-analysis">
+        <div class="${resultClass}">${escapeHtml(mockResultText(question, result))}</div>
+        <div><strong>参考答案：</strong>${escapeHtml(question.reference_answer || "暂无参考答案")}</div>
+      </div>`
+    : "";
+  return `<article class="mock-question-card">
+    <div class="mock-question-head">
+      <span>第 ${index + 1} 题</span>
+      <small>${escapeHtml(question.type || question.category || "题目")}</small>
+    </div>
+    <h3>${escapeHtml(question.question)}</h3>
+    ${answerHtml}
+    ${analysisHtml}
+  </article>`;
+}
+
+function renderMockAnswerInput(question, answer, submitted) {
+  if (question.options) {
+    const inputType = question.type === "多选题" ? "checkbox" : "radio";
+    const selected = new Set(Array.isArray(answer) ? answer : answer ? [answer] : []);
+    const correct = new Set(question.correct_answers || []);
+    return `<div class="choice-list">
+      ${Object.entries(question.options || {}).map(([key, value]) => {
+        const checked = selected.has(key) ? "checked" : "";
+        const disabled = submitted ? "disabled" : "";
+        const stateClass = submitted
+          ? correct.has(key)
+            ? "correct"
+            : selected.has(key)
+              ? "incorrect"
+              : ""
+          : "";
+        return `<label class="choice-option ${stateClass}" data-option="${escapeHtml(key)}">
+          <input type="${inputType}" name="mock-${escapeHtml(question.id)}" value="${escapeHtml(key)}" data-mock-choice="${escapeHtml(question.id)}" ${checked} ${disabled} />
+          <strong>${escapeHtml(key)}</strong>
+          <span>${escapeHtml(value)}</span>
+        </label>`;
+      }).join("")}
+    </div>`;
+  }
+
+  if (question.blanks) {
+    return `<div class="fill-list">
+      <label class="fill-item">
+        <span>填写答案</span>
+        <input type="text" data-mock-fill="${escapeHtml(question.id)}" value="${escapeHtml(answer || "")}" ${submitted ? "disabled" : ""} autocomplete="off" placeholder="多个答案请按顺序用、或，隔开" />
+      </label>
+    </div>`;
+  }
+
+  return `<textarea class="mock-text-answer" data-mock-text="${escapeHtml(question.id)}" ${submitted ? "disabled" : ""} placeholder="在这里作答">${escapeHtml(answer || "")}</textarea>`;
+}
+
+function bindMockPaperInputs() {
+  els.objectiveInputs.querySelectorAll("[data-mock-choice]").forEach((input) => {
+    input.addEventListener("change", () => {
+      const question = questionById(input.dataset.mockChoice);
+      if (!question) return;
+      if (input.type === "checkbox") {
+        setMockAnswer(question, [...els.objectiveInputs.querySelectorAll(`input[data-mock-choice="${cssEscape(question.id)}"]:checked`)].map((item) => item.value));
+      } else {
+        setMockAnswer(question, input.value);
+      }
+    });
+  });
+  els.objectiveInputs.querySelectorAll("[data-mock-fill], [data-mock-text]").forEach((input) => {
+    input.addEventListener("input", () => {
+      const question = questionById(input.dataset.mockFill || input.dataset.mockText);
+      if (question) setMockAnswer(question, input.value);
+    });
+  });
+}
+
+function submitMockPaper() {
+  const paper = state.activeMockPaper;
+  if (!paper) return;
+  if (state.submittedMockPapers.has(paper)) {
+    state.submittedMockPapers.delete(paper);
+  } else {
+    state.submittedMockPapers.add(paper);
+  }
+  persistMockState();
+  renderModuleNav();
+  renderActiveQuestion();
+}
+
+function mockAnswerKey(question) {
+  return `${mockQuestionSource(question)}::${question.id}`;
+}
+
+function getMockAnswer(question) {
+  return state.mockAnswers[mockAnswerKey(question)];
+}
+
+function setMockAnswer(question, value) {
+  state.mockAnswers[mockAnswerKey(question)] = value;
+  persistMockState();
+}
+
+function persistMockState() {
+  localStorage.setItem("counselor-mock-answers", JSON.stringify(state.mockAnswers));
+  localStorage.setItem("counselor-mock-submitted", JSON.stringify([...state.submittedMockPapers]));
+}
+
+function questionById(id) {
+  return state.questions.find((question) => question.id === id);
+}
+
+function calculateMockPaperScore(questions) {
+  const results = questions.map(scoreMockQuestion).filter((result) => result.gradable);
+  const total = results.length;
+  const points = results.reduce((sum, result) => sum + result.score, 0);
+  const percent = total ? Math.round((points / total) * 100) : 0;
+  const scoreText = total ? `${percent} 分` : "暂无自动分数";
+  const detailText = total
+    ? `自动判分 ${formatScoreNumber(points)} / ${total} 题，另有 ${questions.length - total} 道主观题需自评。`
+    : "本套题均为主观题，请根据参考答案自评。";
+  return { total, points, percent, scoreText, detailText };
+}
+
+function scoreMockQuestion(question) {
+  const answer = getMockAnswer(question);
+  if (question.options) {
+    const selected = Array.isArray(answer) ? answer : answer ? [answer] : [];
+    const correct = question.correct_answers || [];
+    const correctSet = new Set(correct);
+    const exact = selected.length === correct.length && selected.every((item) => correctSet.has(item));
+    return { gradable: true, score: exact ? 1 : 0, selected, correct };
+  }
+  if (question.blanks) {
+    const expected = question.blanks || [];
+    const actual = splitFillAnswer(answer || "");
+    if (!expected.length) return { gradable: false, score: 0 };
+    const correctCount = expected.filter((item, index) => normalizeObjectiveAnswer(actual[index]) === normalizeObjectiveAnswer(item)).length;
+    return { gradable: true, score: correctCount / expected.length, selected: actual, correct: expected };
+  }
+  return { gradable: false, score: 0 };
+}
+
+function mockResultText(question, result) {
+  if (!result?.gradable) return "主观题：请对照参考答案自评。";
+  if (question.options) {
+    const selected = result.selected.length ? result.selected.join("、") : "未作答";
+    return `你的答案：${selected}；正确答案：${result.correct.join("、") || "暂无"}`;
+  }
+  return `填空得分：${formatScoreNumber(result.score)} / 1`;
+}
+
+function formatScoreNumber(value) {
+  return Number.isInteger(value) ? String(value) : value.toFixed(1);
+}
+
+function cssEscape(value) {
+  return String(value).replace(/\\/g, "\\\\").replace(/"/g, "\\\"");
 }
 
 function renderProgress() {
@@ -475,6 +734,11 @@ function toggleAnswer() {
 }
 
 function submitAnswer() {
+  if (state.activeModule === "模拟题") {
+    submitMockPaper();
+    return;
+  }
+
   const question = activeQuestion();
   if (!question) return;
 
